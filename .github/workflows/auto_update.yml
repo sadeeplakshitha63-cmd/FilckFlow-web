@@ -1,0 +1,39 @@
+name: FlickFlow Auto Movie Updater 🤖
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Every 1 hour
+  workflow_dispatch:
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Scrapers
+        run: |
+          node backend/flickflow_scraper.mjs
+          node backend/kisskh_scraper.mjs
+          node backend/netflix_scraper.mjs
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/movies.json
+          git commit -m "Auto-update movies.json [skip ci]" || echo "No changes to commit"
+          git push
