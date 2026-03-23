@@ -765,7 +765,7 @@
     "release_date": "2025-05-12",
     "poster_path": "/eJLFeRmxssjQgV1wmtgdKwzYLEC.jpg",
     "backdrop_path": "/xMgfvjhKwuFTyoXNpa8UVV74rek.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.437,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2078,6 +2078,23 @@
     "is_local": true
   },
   {
+    "id": "272512",
+    "title": "Our Youth",
+    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
+    "release_date": "2024-11-05",
+    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
+    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "233833",
     "title": "In Your Radiant Season",
     "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
@@ -2091,23 +2108,6 @@
       9648,
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "272512",
-    "title": "Our Youth",
-    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
-    "release_date": "2024-11-05",
-    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
-    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2632,7 +2632,7 @@
     "release_date": "2019-12-14",
     "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
     "backdrop_path": "/o3Htmlg6BfNs8Ew7yjsRzVnYSEs.jpg",
-    "vote_average": 8.537,
+    "vote_average": 8.534,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3241,6 +3241,24 @@
     "is_local": true
   },
   {
+    "id": "240901",
+    "title": "Safe Skies, Archer",
+    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+    "release_date": "2023-11-20",
+    "poster_path": "/5aQgnEYN0bAhbUI0w0rOLLufrOA.jpg",
+    "backdrop_path": "/3osYBadMX2dMwWjddDe6NPrTs4R.jpg",
+    "vote_average": 9.8,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278146",
     "title": "Dare You to Death",
     "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
@@ -3253,24 +3271,6 @@
     "genre_ids": [
       9648,
       80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240901",
-    "title": "Safe Skies, Archer",
-    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
-    "release_date": "2023-11-20",
-    "poster_path": "/5aQgnEYN0bAhbUI0w0rOLLufrOA.jpg",
-    "backdrop_path": "/3osYBadMX2dMwWjddDe6NPrTs4R.jpg",
-    "vote_average": 9.8,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -3355,7 +3355,7 @@
     "release_date": "2025-07-05",
     "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
     "backdrop_path": "/8MsIBCK1kGSoLWPGey79tZwCPRN.jpg",
-    "vote_average": 7.682,
+    "vote_average": 7.632,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
