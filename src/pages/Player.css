@@ -1,0 +1,140 @@
+.player-page {
+  padding-top: 40px;
+  max-width: 1200px;
+}
+
+.player-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.player-header h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.back-link {
+  color: var(--text-muted);
+  font-weight: 500;
+  transition: color 0.3s;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.back-link:hover {
+  color: var(--primary);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.player-container {
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 30px 60px rgba(0,0,0,0.6), 0 0 30px rgba(138,43,226,0.1);
+  margin-bottom: 32px;
+  background-color: #000;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.video-player {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.ai-subtitles-panel {
+  padding: 32px;
+  margin-bottom: 40px;
+  background: linear-gradient(145deg, rgba(15,12,27,0.8), rgba(20,15,35,0.8));
+}
+
+.ai-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 12px;
+}
+
+.ai-header h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  background: linear-gradient(to right, #fff, var(--primary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.ai-desc {
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
+
+.ai-controls {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.lang-selector {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: rgba(0,0,0,0.4);
+  padding: 12px 20px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.select-dropdown {
+  background: transparent;
+  border: none;
+  color: white;
+  font-family: inherit;
+  font-size: 1rem;
+  outline: none;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.select-dropdown option {
+  background: var(--bg-dark);
+  color: white;
+}
+
+.spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  100% { transform: rotate(360deg); }
+}
+
+button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  transform: none;
+}
+
+@media (max-width: 768px) {
+  .player-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .player-header h2 {
+    font-size: 1.5rem;
+    flex-wrap: wrap;
+  }
+  .ai-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

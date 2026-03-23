@@ -1,0 +1,123 @@
+.details-hero {
+  min-height: 85vh;
+  margin-top: -80px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.details-content {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+  position: relative;
+  z-index: 10;
+}
+
+.details-poster {
+  width: 350px;
+  flex-shrink: 0;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+}
+
+.details-poster img {
+  width: 100%;
+  display: block;
+}
+
+.details-info {
+  flex: 1;
+  color: white;
+}
+
+.details-title {
+  font-size: 3.5rem;
+  font-weight: 800;
+  margin-bottom: 8px;
+  text-shadow: 0 4px 10px rgba(0,0,0,0.8);
+}
+
+.details-tagline {
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-bottom: 24px;
+}
+
+.details-meta {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.meta-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 500;
+}
+
+.genres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 32px;
+}
+
+.genre-pill {
+  background: rgba(138, 43, 226, 0.2);
+  border: 1px solid rgba(138, 43, 226, 0.5);
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.overview-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 12px;
+}
+
+.overview-section p {
+  line-height: 1.7;
+  color: #ddd;
+  font-size: 1.1rem;
+  max-width: 800px;
+}
+
+.ai-feature-highlight {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  background: linear-gradient(90deg, rgba(255,0,127,0.1), rgba(138,43,226,0.1));
+  padding: 12px 24px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.1);
+  margin-top: 24px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.details-play-btn {
+  margin-top: 32px;
+  font-size: 1.1rem;
+  padding: 12px 32px;
+}
+
+@media (max-width: 900px) {
+  .details-content {
+    flex-direction: column;
+    align-items: center;
+  }
+  .details-poster {
+    width: 250px;
+  }
+  .details-title {
+    font-size: 2.5rem;
+  }
+}

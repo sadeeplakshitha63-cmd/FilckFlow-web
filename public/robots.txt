@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /api/
+Allow: /movies.json
+
+# Tell Google to aggressively index all media resources
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.svg
+
+# Block admin panel from public search engine caching
+Disallow: /admin
+Disallow: /admin/
+Disallow: /*?search=
+
+Sitemap: https://soft-torte-1b9519.netlify.app/sitemap.xml
