@@ -54,26 +54,6 @@
     "is_local": true
   },
   {
-    "id": "215072",
-    "title": "A Shop for Killers",
-    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-    "release_date": "2024-01-17",
-    "poster_path": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-    "backdrop_path": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-    "vote_average": 8.162,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10759,
-      9648,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "240442",
     "title": "Sword and Beloved",
     "overview": "The drama series revolves around Wangquan Fugui, who is trained as the ultimate demon-slayer of the Yiqi Alliance since childhood, meeting Qing Tong, a spider demon who infiltrates Wangquan Manor as a spy. Qing Tong’s presence allows Fugui to broaden his horizon and change his view on demons. Yearning for freedom, Fugui’s fervor for attaining world peace is gradually ignited. After experiencing extreme agony, he leaves Wangquan Manor with Qing Tong, embarking on a journey of self-enlightenment.",
@@ -102,6 +82,26 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "215072",
+    "title": "A Shop for Killers",
+    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+    "release_date": "2024-01-17",
+    "poster_path": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+    "backdrop_path": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+    "vote_average": 8.162,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10759,
+      9648,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2028,7 +2028,7 @@
     "release_date": "2011-02-16",
     "poster_path": "/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
     "backdrop_path": "/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
-    "vote_average": 6.687,
+    "vote_average": 6.688,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -2060,6 +2060,24 @@
     "is_local": true
   },
   {
+    "id": "477706",
+    "title": "The Sign",
+    "overview": "The Sign explores intersections of science and religion to uncover the truth behind prophecies of the apocalypse.",
+    "release_date": "2017-09-23",
+    "poster_path": "/2T2PnqgZOXr5PuOrDn4CyysdXYQ.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      10770,
+      99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "233833",
     "title": "In Your Radiant Season",
     "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
@@ -2073,24 +2091,6 @@
       9648,
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "477706",
-    "title": "The Sign",
-    "overview": "The Sign explores intersections of science and religion to uncover the truth behind prophecies of the apocalypse.",
-    "release_date": "2017-09-23",
-    "poster_path": "/2T2PnqgZOXr5PuOrDn4CyysdXYQ.jpg",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      10770,
-      99
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2668,7 +2668,7 @@
     "release_date": "2025-08-02",
     "poster_path": "/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
     "backdrop_path": "/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
-    "vote_average": 8.179,
+    "vote_average": 8.175,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
