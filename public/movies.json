@@ -1,5 +1,59 @@
 [
   {
+    "id": 78173,
+    "title": "Dragons: Race to the Edge",
+    "poster_path": "/y5sNfaTvWR3ObILyf9uV6deAcKT.jpg",
+    "overview": "Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.",
+    "vote_average": 8.375,
+    "release_date": "2015-06-26",
+    "genre_ids": [
+      10751,
+      16,
+      10759,
+      10765
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 70573,
+    "title": "GLOW",
+    "poster_path": "/aqQlgRgUwVTfbdxe33vfDEMiCa2.jpg",
+    "overview": "In 1980s LA, a crew of misfits reinvent themselves as the Gorgeous Ladies of Wrestling.",
+    "vote_average": 7.277,
+    "release_date": "2017-06-23",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 75208,
+    "title": "Devilman Crybaby",
+    "poster_path": "/2pQ9xfgDa3L3QpoXfkNhISby2R4.jpg",
+    "overview": "Akira Fudo learns from his best friend Ryo Asuka that demons will revive and reclaim the world from humans. With humans hopeless against this threat, Ryo suggests combining with a demon. With this, Akira becomes Devilman, a being with the power of demon but with a human heart.",
+    "vote_average": 7.7,
+    "release_date": "2018-01-05",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "original_language": "ja",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "232616",
     "title": "The Atypical Family",
     "overview": "Once blessed with unique superpowers, a family loses their abilities due to modern day problems — until a mysterious woman changes everything.",
@@ -990,23 +1044,6 @@
     "is_local": true
   },
   {
-    "id": "278927",
-    "title": "The Unclouded Soul",
-    "overview": "For centuries, humans and demons have battled over the legendary Yuli Spring, a symbol of desire. Free-spirited Xiao Yao unexpectedly enters Ten Thousand Demons Valley, disrupting the demon world. There, she meets the powerful Demon King Hong Ye, who grows to admire her pure heart. Together, they face mysterious cases and formidable enemies, uncovering hidden truths along the way.",
-    "release_date": "2025-12-27",
-    "poster_path": "/n1JHWxQdYWApgB9CYKV6h2kO3MM.jpg",
-    "backdrop_path": "/d4rqmgI01cIUQ3e1qqZgNsFfeGB.jpg",
-    "vote_average": 7.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "234534",
     "title": "Back to Seventeen",
     "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
@@ -1019,6 +1056,23 @@
     "genre_ids": [
       35,
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278927",
+    "title": "The Unclouded Soul",
+    "overview": "For centuries, humans and demons have battled over the legendary Yuli Spring, a symbol of desire. Free-spirited Xiao Yao unexpectedly enters Ten Thousand Demons Valley, disrupting the demon world. There, she meets the powerful Demon King Hong Ye, who grows to admire her pure heart. Together, they face mysterious cases and formidable enemies, uncovering hidden truths along the way.",
+    "release_date": "2025-12-27",
+    "poster_path": "/n1JHWxQdYWApgB9CYKV6h2kO3MM.jpg",
+    "backdrop_path": "/d4rqmgI01cIUQ3e1qqZgNsFfeGB.jpg",
+    "vote_average": 7.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1167,6 +1221,23 @@
     "is_local": true
   },
   {
+    "id": "208591",
+    "title": "Ai Long Nhai",
+    "overview": "Expelled from school abroad, Ai starts fresh and falls for Nhai, a carefree student who doesn’t like him back—yet.",
+    "release_date": "2022-09-26",
+    "poster_path": "/2U1TfKVvSSLn8U6WJWgDYZpzKya.jpg",
+    "backdrop_path": "/niW5SQiXc88WhUGFN0JOqwvB6C7.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "146393",
     "title": "Back From the Brink",
     "overview": "Tian Yao is a dragon spirit who was betrayed by his lover and stripped of his dragon bones. He meets Yan Hui, a free-spirited young maiden who holds the key to help him regain his powers and his faith in love. Mysteries will abound as Yan Hui come to learn of her true origin.",
@@ -1179,23 +1250,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "208591",
-    "title": "Ai Long Nhai",
-    "overview": "Expelled from school abroad, Ai starts fresh and falls for Nhai, a carefree student who doesn’t like him back—yet.",
-    "release_date": "2022-09-26",
-    "poster_path": "/2U1TfKVvSSLn8U6WJWgDYZpzKya.jpg",
-    "backdrop_path": "/niW5SQiXc88WhUGFN0JOqwvB6C7.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4764,7 +4818,7 @@
     "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
     "release_date": "2026-03-06",
     "poster_path": "/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg",
-    "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
+    "backdrop_path": "/m3pSdwqmMaRziGBsD5q3pbXY8Ni.jpg",
     "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
