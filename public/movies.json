@@ -37,13 +37,13 @@
     "is_local": true
   },
   {
-    "id": "255369",
-    "title": "City of Romance",
-    "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
-    "release_date": "2025-02-14",
-    "poster_path": "/jRuly9cc1nky1UVBNH4gzMd03z5.jpg",
-    "backdrop_path": "/1iN8W3R5E0PgKuNMb2JrxOtDYTC.jpg",
-    "vote_average": 7,
+    "id": "240442",
+    "title": "Sword and Beloved",
+    "overview": "The drama series revolves around Wangquan Fugui, who is trained as the ultimate demon-slayer of the Yiqi Alliance since childhood, meeting Qing Tong, a spider demon who infiltrates Wangquan Manor as a spy. Qing Tong’s presence allows Fugui to broaden his horizon and change his view on demons. Yearning for freedom, Fugui’s fervor for attaining world peace is gradually ignited. After experiencing extreme agony, he leaves Wangquan Manor with Qing Tong, embarking on a journey of self-enlightenment.",
+    "release_date": "2025-10-25",
+    "poster_path": "/vW0BW5OiQufPnCyWhi4czVL3nhf.jpg",
+    "backdrop_path": "/kSx7TUpI5uJUqgPMtu5R7Q3VZRe.jpg",
+    "vote_average": 6.722,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -54,13 +54,13 @@
     "is_local": true
   },
   {
-    "id": "240442",
-    "title": "Sword and Beloved",
-    "overview": "The drama series revolves around Wangquan Fugui, who is trained as the ultimate demon-slayer of the Yiqi Alliance since childhood, meeting Qing Tong, a spider demon who infiltrates Wangquan Manor as a spy. Qing Tong’s presence allows Fugui to broaden his horizon and change his view on demons. Yearning for freedom, Fugui’s fervor for attaining world peace is gradually ignited. After experiencing extreme agony, he leaves Wangquan Manor with Qing Tong, embarking on a journey of self-enlightenment.",
-    "release_date": "2025-10-25",
-    "poster_path": "/vW0BW5OiQufPnCyWhi4czVL3nhf.jpg",
-    "backdrop_path": "/kSx7TUpI5uJUqgPMtu5R7Q3VZRe.jpg",
-    "vote_average": 6.722,
+    "id": "255369",
+    "title": "City of Romance",
+    "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
+    "release_date": "2025-02-14",
+    "poster_path": "/jRuly9cc1nky1UVBNH4gzMd03z5.jpg",
+    "backdrop_path": "/1iN8W3R5E0PgKuNMb2JrxOtDYTC.jpg",
+    "vote_average": 7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -902,24 +902,6 @@
     "is_local": true
   },
   {
-    "id": "273174",
-    "title": "The Bangkok Boy",
-    "overview": "Sun's quest for vengeance in Bangkok takes a turn when he meets Peace, pulling him into a dangerous mix of love and bloodshed.",
-    "release_date": "2025-04-26",
-    "poster_path": "/od2LObXYa5JpDaSMSuol2HcteBo.jpg",
-    "backdrop_path": "/dopCLva8PYynC4OVQKtHyL608Yw.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "298281",
     "title": "My Bias is Showing?!",
     "overview": "A flustered teacher scrambles to hide his fanboy side when his idol films at school—but being cast as his co-mentor makes secrets hard to keep.",
@@ -932,6 +914,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "273174",
+    "title": "The Bangkok Boy",
+    "overview": "Sun's quest for vengeance in Bangkok takes a turn when he meets Peace, pulling him into a dangerous mix of love and bloodshed.",
+    "release_date": "2025-04-26",
+    "poster_path": "/od2LObXYa5JpDaSMSuol2HcteBo.jpg",
+    "backdrop_path": "/dopCLva8PYynC4OVQKtHyL608Yw.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1044,20 +1044,6 @@
     "is_local": true
   },
   {
-    "id": "393224",
-    "title": "Derailment",
-    "overview": "A woman gets onto a train, experiences a daydream with a fellow passenger, and gets of the train.",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "283543",
     "title": "My Safe Zone",
     "overview": "Alin leaves her best friend Jane to study abroad. Years later, a broken engagement brings her home, where they face feelings long unspoken.",
@@ -1070,6 +1056,20 @@
     "genre_ids": [
       18
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "393224",
+    "title": "Derailment",
+    "overview": "A woman gets onto a train, experiences a daydream with a fellow passenger, and gets of the train.",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1455,23 +1455,6 @@
     "is_local": true
   },
   {
-    "id": "252640",
-    "title": "Legend of Zang Hai",
-    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
-    "release_date": "2025-05-18",
-    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 5.867,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "275593",
     "title": "Ms. Incognito",
     "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
@@ -1483,6 +1466,23 @@
     "original_language": "ko",
     "genre_ids": [
       80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "252640",
+    "title": "Legend of Zang Hai",
+    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+    "release_date": "2025-05-18",
+    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+    "vote_average": 5.867,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2557,6 +2557,21 @@
     "is_local": true
   },
   {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "280946",
     "title": "Typhoon Family",
     "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
@@ -2569,21 +2584,6 @@
     "genre_ids": [
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2949,6 +2949,23 @@
     "is_local": true
   },
   {
+    "id": "291753",
+    "title": "Boys II Planet",
+    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
+    "release_date": "2025-07-17",
+    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
+    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "312172",
     "title": "Hell University",
     "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
@@ -2961,23 +2978,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "291753",
-    "title": "Boys II Planet",
-    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
-    "release_date": "2025-07-17",
-    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
-    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4799,7 +4799,7 @@
     "release_date": "2026-02-04",
     "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
     "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.047,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
