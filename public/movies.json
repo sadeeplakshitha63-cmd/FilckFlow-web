@@ -855,7 +855,7 @@
     "release_date": "2025-05-21",
     "poster_path": "/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
     "backdrop_path": "/d7DAeOUNJuKjoXVMmUS2hRhvnzE.jpg",
-    "vote_average": 7.836,
+    "vote_average": 7.852,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1531,7 +1531,7 @@
     "release_date": "2016-11-16",
     "poster_path": "/oARcy8kubYekRqii04obOlvw442.jpg",
     "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.509,
+    "vote_average": 8.505,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1722,23 +1722,6 @@
     "is_local": true
   },
   {
-    "id": "215356",
-    "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.063,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "232948",
     "title": "Best Choice Ever",
     "overview": "Mai Chenghuan, a post-95 girl born into an ordinary family in Shanghai, agrees to marry her boyfriend, Xin Jialiang, under her mother’s urging. However, the economic gap between them creates an imbalance in their relationship, ultimately leading to its end. Mai Chenghuan then gains her grandmother's approval and is entrusted with the heavy responsibility of managing a hotel. Through cooperation, Mai Chenghuan and the professional hotel manager Yao Zhiming become working partners and go hand in hand. Mai Chenghuan transitions from being under her family's control to achieving self-fulfillment, forging her own path.",
@@ -1751,6 +1734,23 @@
     "genre_ids": [
       18,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "215356",
+    "title": "Never Let Me Go",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.063,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2557,6 +2557,21 @@
     "is_local": true
   },
   {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "280946",
     "title": "Typhoon Family",
     "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
@@ -2574,28 +2589,13 @@
     "is_local": true
   },
   {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "31910",
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
     "release_date": "2007-02-15",
     "poster_path": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.531,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3135,7 +3135,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
     "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "vote_average": 7.65,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3302,7 +3302,7 @@
     "release_date": "2025-05-24",
     "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
     "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.438,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4619,7 +4619,7 @@
     "release_date": "2025-10-08",
     "poster_path": "/alXAb26apN2tbRM91QjeZ0KzHlj.jpg",
     "backdrop_path": "/7bcyEgm7f0RjuiE9m6Uy33OmOeq.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.594,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5123,7 +5123,7 @@
     "release_date": "2023-06-13",
     "poster_path": "/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
     "backdrop_path": "/lszTdpvocgGlOo6DBmqBO50qd1h.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.755,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5285,7 +5285,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.683,
+    "vote_average": 8.676,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
