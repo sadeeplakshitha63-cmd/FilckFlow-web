@@ -77,7 +77,7 @@
     "release_date": "2024-01-17",
     "poster_path": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
     "backdrop_path": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-    "vote_average": 8.162,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -257,7 +257,7 @@
     "release_date": "2009-04-24",
     "poster_path": "/96ma6Hn8aW3FbHoaDzHiRflCHls.jpg",
     "backdrop_path": "/keMfCmqrkSfnjyqCEvhc7mGzWX6.jpg",
-    "vote_average": 5.992,
+    "vote_average": 6,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -496,7 +496,7 @@
     "release_date": "2025-04-20",
     "poster_path": "/fNQTlxzGq6iwenWKK89qBENFrzi.jpg",
     "backdrop_path": "/2nAwb97mGbeo7COCV619YFmJXyj.jpg",
-    "vote_average": 8.625,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -672,7 +672,7 @@
     "release_date": "2025-09-13",
     "poster_path": "/iGHE2Wk0dhRRGnZghMorr07FTHt.jpg",
     "backdrop_path": "/ne9RkIKaPtpv8OuFQI7YS4o6QBD.jpg",
-    "vote_average": 8.421,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -836,7 +836,7 @@
     "release_date": "2022-06-22",
     "poster_path": "/qg6Hmw0OzZr72qwz5TfDAowqLbG.jpg",
     "backdrop_path": "/dVKchZNQG0HpBIMonEkUDyfRFYP.jpg",
-    "vote_average": 6.375,
+    "vote_average": 6.4,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1163,6 +1163,24 @@
     "is_local": true
   },
   {
+    "id": "146393",
+    "title": "Back From the Brink",
+    "overview": "Tian Yao is a dragon spirit who was betrayed by his lover and stripped of his dragon bones. He meets Yan Hui, a free-spirited young maiden who holds the key to help him regain his powers and his faith in love. Mysteries will abound as Yan Hui come to learn of her true origin.",
+    "release_date": "2023-05-09",
+    "poster_path": "/g5Zkg5k0qNWhkSD8kOKlEAV6bep.jpg",
+    "backdrop_path": "/63ETmXVN4qhoyiKBaUYrs8mgyKd.jpg",
+    "vote_average": 7.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "237882",
     "title": "Are You The One",
     "overview": "The clever and decisive Liu Miantang, as the first lord of Mount Yang, led the people of Mount Yang to punish the wicked, promote goodness, and uphold justice. However, she suffered serious injuries under the attack of various evil forces and was rescued by Cui Xingzhou, the Prince of Huai Yang. When Liu Miantang woke up, she had no memory of Mount Yang, mistaking Cui Xingzhou for her husband, Cui Jiu. However, if their identities were exposed, can they face it honestly while enduring hardships?",
@@ -1174,24 +1192,6 @@
     "original_language": "zh",
     "genre_ids": [
       10759,
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "146393",
-    "title": "Back From the Brink",
-    "overview": "Tian Yao is a dragon spirit who was betrayed by his lover and stripped of his dragon bones. He meets Yan Hui, a free-spirited young maiden who holds the key to help him regain his powers and his faith in love. Mysteries will abound as Yan Hui come to learn of her true origin.",
-    "release_date": "2023-05-09",
-    "poster_path": "/g5Zkg5k0qNWhkSD8kOKlEAV6bep.jpg",
-    "backdrop_path": "/63ETmXVN4qhoyiKBaUYrs8mgyKd.jpg",
-    "vote_average": 7.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18,
       10765
     ],
@@ -1453,6 +1453,23 @@
     "is_local": true
   },
   {
+    "id": "252640",
+    "title": "Legend of Zang Hai",
+    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+    "release_date": "2025-05-18",
+    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+    "vote_average": 5.867,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "275593",
     "title": "Ms. Incognito",
     "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
@@ -1464,23 +1481,6 @@
     "original_language": "ko",
     "genre_ids": [
       80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252640",
-    "title": "Legend of Zang Hai",
-    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
-    "release_date": "2025-05-18",
-    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 5.867,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1529,7 +1529,7 @@
     "release_date": "2016-11-16",
     "poster_path": "/oARcy8kubYekRqii04obOlvw442.jpg",
     "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.505,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1630,19 +1630,17 @@
     "is_local": true
   },
   {
-    "id": "90761",
+    "id": "901100",
     "title": "The Untamed",
-    "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
-    "release_date": "2019-06-27",
-    "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
-    "backdrop_path": "/ampkwvfwO7o5YMwYAVPKx1PLDaB.jpg",
-    "vote_average": 8.539,
-    "media_type": "tv",
-    "original_language": "zh",
+    "overview": "A cowpuncher by the name of Whistling Dan is adopted by a rancher, Joe Cumberland (James O. Barrows). His daughter, Kate  is immediately attracted to Dan, but Cumberland discourages the union since he thinks the young man is too wild for her.",
+    "release_date": "1920-08-29",
+    "poster_path": "/hEJvz2qOLWMpfVy6V9m3tqtGbNI.jpg",
+    "backdrop_path": "/grU0SbayEL6g4zQasKrwCXQM2DH.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      10759,
-      18,
-      9648
+      37
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1938,7 +1936,7 @@
     "release_date": "2021-08-28",
     "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
     "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
-    "vote_average": 8.167,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2020,19 +2018,18 @@
     "is_local": true
   },
   {
-    "id": "48138",
+    "id": "222371",
     "title": "Unknown",
-    "overview": "A man awakens from a coma, only to discover that someone has taken on his identity and that no one, (not even his wife), believes him. With the help of a young woman, he sets out to prove who he is.",
-    "release_date": "2011-02-16",
-    "poster_path": "/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
-    "backdrop_path": "/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
-    "vote_average": 6.688,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "Yamihara Kokoro and Asada Toramatsu live in a town that is quite peaceful, until a serial murder case happened where the bodies all had their blood drained out. Five years have passed but the case remains unsolved. Meanwhile, Kokoro and Toramatsu have been in a relationship for a year, but are unable to get married as they are keeping a serious secret from each other. Kokoro is actually a vampire. However, she does not attack humans and live modestly. Toramatsu is a popular resident in the town and is trusted by many. After getting a divorce, Toramatsu got drunk and went back to his old house, where he met Kokoro, the current occupant. As the two continue to keep their secrets hidden, a horrific murder occurs once again in the town.",
+    "release_date": "2023-04-18",
+    "poster_path": "/cRLMyXexifZ0hNtXMWXAnV1H1BI.jpg",
+    "backdrop_path": "/rILBXokPDoO1ht8mNrUEu3c5shN.jpg",
+    "vote_average": 6,
+    "media_type": "tv",
+    "original_language": "ja",
     "genre_ids": [
-      28,
-      9648,
-      53
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2324,6 +2321,24 @@
     "is_local": true
   },
   {
+    "id": "122009",
+    "title": "Bad Buddy",
+    "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
+    "release_date": "2021-10-29",
+    "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
+    "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
+    "vote_average": 8.552,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "233833",
     "title": "In Your Radiant Season",
     "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
@@ -2337,24 +2352,6 @@
       9648,
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "122009",
-    "title": "Bad Buddy",
-    "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
-    "release_date": "2021-10-29",
-    "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
-    "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
-    "vote_average": 8.552,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2384,7 +2381,7 @@
     "release_date": "2025-02-07",
     "poster_path": "/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
     "backdrop_path": "/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
-    "vote_average": 7.918,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2786,6 +2783,23 @@
     "is_local": true
   },
   {
+    "id": "240440",
+    "title": "The Story of Pearl Girl",
+    "overview": "After narrowly escaping an abusive pearl farm, a young woman with unmatched talent carves out her own fate as treachery meets the world of jewelry.",
+    "release_date": "2024-11-01",
+    "poster_path": "/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
+    "backdrop_path": "/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281016",
     "title": "Boyfriend on Demand",
     "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
@@ -2798,23 +2812,6 @@
     "genre_ids": [
       35,
       10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240440",
-    "title": "The Story of Pearl Girl",
-    "overview": "After narrowly escaping an abusive pearl farm, a young woman with unmatched talent carves out her own fate as treachery meets the world of jewelry.",
-    "release_date": "2024-11-01",
-    "poster_path": "/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
-    "backdrop_path": "/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3097,7 +3094,7 @@
     "release_date": "2023-12-09",
     "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
     "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
-    "vote_average": 8.889,
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3603,16 +3600,19 @@
     "is_local": true
   },
   {
-    "id": "1035399",
+    "id": "29739",
     "title": "Moving",
-    "overview": "A queer dramedy short about a gay couple—Sean and Max—navigating their open relationship in the middle of moving apartments. The story follows Sean, who is, as he says, “new to this whole open universe.” When Kai, Max’s “hot little dancer hook-up,” unexpectedly shows up at Sean’s door to help with the move, Sean finds himself going through feelings of intimidation, attraction, and skepticism toward Kai. As Sean moves through his conflicting desires, the film moves through different film genres—film-noir, ‘70s gay porn, and period melodramas—until we shift to Kai’s perspective at the end.",
-    "release_date": "2022-11-04",
-    "poster_path": "/bHa9I4ASrksghwmpXSKf5eB6t6T.jpg",
-    "backdrop_path": "",
-    "vote_average": 0,
+    "overview": "Arlo accepts what seems to him to be a dream promotion to Idaho. He soon discovers, however, that moving has its own share of problems.",
+    "release_date": "1988-03-04",
+    "poster_path": "/ld7XINaFmrnyDe5Ugl9tQX9UWxa.jpg",
+    "backdrop_path": "/2cOPAaUYnCpaze23WrXYQ6l0zg9.jpg",
+    "vote_average": 5.5,
     "media_type": "movie",
     "original_language": "en",
-    "genre_ids": [],
+    "genre_ids": [
+      35,
+      10751
+    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -3766,7 +3766,7 @@
     "release_date": "2024-02-02",
     "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
     "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
-    "vote_average": 8.093,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5211,7 +5211,7 @@
     "release_date": "2023-11-24",
     "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
     "backdrop_path": "/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
-    "vote_average": 8.458,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5246,7 +5246,7 @@
     "release_date": "2025-06-23",
     "poster_path": "/kL42DhVhqjO3NxlB0oNg2Z4TAWP.jpg",
     "backdrop_path": "/jpxN1QHRSG660Ql62EHZvZzeaCA.jpg",
-    "vote_average": 8.624,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5265,7 +5265,7 @@
     "release_date": "2020-07-08",
     "poster_path": "/bE71f9A3eztjcd5JT3MmHB8MbzA.jpg",
     "backdrop_path": "/9qq8LpOoBLYq8MxiMugn0gf9qJd.jpg",
-    "vote_average": 8.22,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "tr",
     "genre_ids": [
@@ -5497,6 +5497,59 @@
     "vote_average": 0,
     "media_type": "tv",
     "original_language": "ja",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "90761",
+    "title": "The Untamed",
+    "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
+    "release_date": "2019-06-27",
+    "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
+    "backdrop_path": "/ampkwvfwO7o5YMwYAVPKx1PLDaB.jpg",
+    "vote_average": 8.539,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "48138",
+    "title": "Unknown",
+    "overview": "A man awakens from a coma, only to discover that someone has taken on his identity and that no one, (not even his wife), believes him. With the help of a young woman, he sets out to prove who he is.",
+    "release_date": "2011-02-16",
+    "poster_path": "/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
+    "backdrop_path": "/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
+    "vote_average": 6.688,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      28,
+      9648,
+      53
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1035399",
+    "title": "Moving",
+    "overview": "A queer dramedy short about a gay couple—Sean and Max—navigating their open relationship in the middle of moving apartments. The story follows Sean, who is, as he says, “new to this whole open universe.” When Kai, Max’s “hot little dancer hook-up,” unexpectedly shows up at Sean’s door to help with the move, Sean finds himself going through feelings of intimidation, attraction, and skepticism toward Kai. As Sean moves through his conflicting desires, the film moves through different film genres—film-noir, ‘70s gay porn, and period melodramas—until we shift to Kai’s perspective at the end.",
+    "release_date": "2022-11-04",
+    "poster_path": "/bHa9I4ASrksghwmpXSKf5eB6t6T.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
