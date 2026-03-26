@@ -1,5 +1,111 @@
 [
   {
+    "id": 1234731,
+    "title": "Anaconda",
+    "poster_path": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
+    "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+    "vote_average": 5.881,
+    "release_date": "2025-12-24",
+    "genre_ids": [
+      12,
+      35,
+      27
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 63157,
+    "title": "Turbo FAST",
+    "poster_path": "/c3SFrFRYNS0VIH0Cmb4onGAz5dd.jpg",
+    "overview": "After Turbo the Snail's improbable win at the Indianapolis 500, the superfast racer finds his life forever changed after he returns from his victory tour. Namely, Tito, his human companion, has built Starlite City, a massive miniature city with an elaborate adjoining race track for Turbo and his fellow snails to live and race in. However, Turbo finds his new life no less hectic as he and his friends face new rivals of all varieties eager to take the champion on. Regardless of the danger, Turbo and his colleagues of the Fast Action Stunt Team are ready for the challenge.",
+    "vote_average": 7.7,
+    "release_date": "2013-12-24",
+    "genre_ids": [
+      16,
+      10751,
+      10762,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 61664,
+    "title": "Sense8",
+    "poster_path": "/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg",
+    "overview": "One gunshot, one death, one moment out of time that irrevocably links eight minds in disparate parts of the world, putting them in each other's lives, each other's secrets, and in terrible danger. Ordinary people suddenly reborn as \"Sensates.\"",
+    "vote_average": 7.7,
+    "release_date": "2015-06-05",
+    "genre_ids": [
+      10765,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 85922,
+    "title": "Space Force",
+    "poster_path": "/zgu3p4NvisS8CI68cUfBKbvAvu8.jpg",
+    "overview": "A four-star general begrudgingly teams up with an eccentric scientist to get the U.S. military's newest agency — Space Force — ready for lift-off.",
+    "vote_average": 6.5,
+    "release_date": "2020-05-29",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 111141,
+    "title": "Maid",
+    "poster_path": "/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+    "overview": "After fleeing an abusive relationship, a young mother finds a job cleaning houses as she fights to provide for her child and build them a better future.",
+    "vote_average": 7.956,
+    "release_date": "2021-09-30",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 61751,
+    "title": "All Hail King Julien",
+    "poster_path": "/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg",
+    "overview": "King Julien is back and shaking his booty harder than ever! Discover the wild world of Madagascar as the king takes on the jungle’s craziest adventures in this comedy series. With his loyal sidekicks Maurice and Mort, they meet a whole new cast of colorful animals, including ambitious head of security Clover and the villainous Foosa. No one can stop this king from ruling with an iron fist...in the air...wavin' like he just doesn't care.",
+    "vote_average": 6.8,
+    "release_date": "2014-12-19",
+    "genre_ids": [
+      10751,
+      16,
+      35,
+      10762
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "1422211",
     "title": "The Pursuit of Lust",
     "overview": "Sensual Mongolian actress E.Khandmaa stars in this romantic drama, which highlights a housewife’s longing for pleasure her passionless husband fails to provide. That is until her spouse’s business client eventually gives in to her desires.",
@@ -414,6 +520,24 @@
     "is_local": true
   },
   {
+    "id": "153496",
+    "title": "Reborn Rich",
+    "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
+    "release_date": "2022-11-18",
+    "poster_path": "/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg",
+    "backdrop_path": "/psb3BLQSdTUo47cDcfcdhd3BjWJ.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "302569",
     "title": "What Lies Beneath",
     "overview": "A fractured group of women reunites to fulfill a childhood dream and honor a lost friend, but a dark secret from their past threatens to tear them apart.",
@@ -429,24 +553,6 @@
       35,
       9648,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "153496",
-    "title": "Reborn Rich",
-    "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
-    "release_date": "2022-11-18",
-    "poster_path": "/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg",
-    "backdrop_path": "/psb3BLQSdTUo47cDcfcdhd3BjWJ.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -578,23 +684,6 @@
     "is_local": true
   },
   {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "128567",
     "title": "Don't Say No",
     "overview": "Best friends since childhood, Leo and Fiat must face the confusing line between friendship and something more.",
@@ -608,6 +697,23 @@
       35,
       18,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1452,6 +1558,23 @@
     "is_local": true
   },
   {
+    "id": "252640",
+    "title": "Legend of Zang Hai",
+    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+    "release_date": "2025-05-18",
+    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+    "vote_average": 5.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "275593",
     "title": "Ms. Incognito",
     "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
@@ -1463,23 +1586,6 @@
     "original_language": "ko",
     "genre_ids": [
       80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252640",
-    "title": "Legend of Zang Hai",
-    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
-    "release_date": "2025-05-18",
-    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 5.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2818,25 +2924,6 @@
     "is_local": true
   },
   {
-    "id": "281016",
-    "title": "Boyfriend on Demand",
-    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
-    "release_date": "2026-03-06",
-    "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
-    "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "232441",
     "title": "You Are Desire",
     "overview": "After her parents' divorce, Lin Yujing moves to a new city and becomes seatmates with Shen Juan, a withdrawn student repeating a year. As they grow closer, her presence begins to change his life. Just as things start to improve, she’s forced to return to her hometown. A year later, they reunite at university, where Lin Yujing helps Shen Juan confront his past and heal, while also discovering her own path in life.",
@@ -2866,6 +2953,25 @@
     "genre_ids": [
       10759,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "281016",
+    "title": "Boyfriend on Demand",
+    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
+    "release_date": "2026-03-06",
+    "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+    "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      10765,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3793,23 +3899,6 @@
     "is_local": true
   },
   {
-    "id": "261128",
-    "title": "Our Generation",
-    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
-    "release_date": "2025-07-14",
-    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
-    "backdrop_path": "/8yfPXapjvJhFnpSEXrGN8cqV1fD.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1603843",
     "title": "New Year's Eve Concert 2022 With the Berlin Philharmonic Orchestra",
     "overview": "Under the baton of Kirill Petrenko, the Berlin Philharmonic Orchestra's traditional New Year's Eve concert brings you an enchanting programme led by star tenor Jonas Kaufmann. A delightful medley of Verdi, Prokofiev, Nino Rota, Tchaikovsky and more.",
@@ -3821,6 +3910,23 @@
     "original_language": "en",
     "genre_ids": [
       10402
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261128",
+    "title": "Our Generation",
+    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
+    "release_date": "2025-07-14",
+    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
+    "backdrop_path": "/8yfPXapjvJhFnpSEXrGN8cqV1fD.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
