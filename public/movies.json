@@ -1,5 +1,22 @@
 [
   {
+    "id": 249597,
+    "title": "Detective Hole",
+    "poster_path": "/aZf7NJm0KjkTHbP8R6ieVpIm3V9.jpg",
+    "overview": "A brilliant but troubled detective, Harry Hole, hunts a serial killer while battling a corrupt adversary, Tom Waaler, as they navigate ethical gray areas, with Harry determined to bring the criminal to justice.",
+    "vote_average": 8.6,
+    "release_date": "2026-03-26",
+    "genre_ids": [
+      9648,
+      80
+    ],
+    "original_language": "no",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "1422211",
     "title": "The Pursuit of Lust",
     "overview": "Sensual Mongolian actress E.Khandmaa stars in this romantic drama, which highlights a housewife’s longing for pleasure her passionless husband fails to provide. That is until her spouse’s business client eventually gives in to her desires.",
@@ -11,23 +28,6 @@
     "original_language": "mn",
     "genre_ids": [
       10749,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "263043",
-    "title": "Si Jin",
-    "overview": "Jiang Si, the fourth lady of Dongping Bo Mansion, is reborn after dying at the hands of her lover, Yu Jin. Determined to rewrite her fate, she breaks off her engagement, outsmarts her cruel aunt, opens a perfumery, and investigates a series of mysterious crimes. She reunites with Yu Jin, and despite their unresolved past, they join forces to change tragic destinies—saving her siblings and clearing her father’s name. As they overcome hardships together, Jiang Si’s feelings for Yu Jin rekindle, and they work hand in hand to protect the peace of the Zhou dynasty, embracing a lifetime of prosperity.",
-    "release_date": "2025-03-01",
-    "poster_path": "/A3OOgq75rCyxdCOYuboXv2li1j9.jpg",
-    "backdrop_path": "/qpARG9aRGsD4SkzpK92xw7cGdTM.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -61,6 +61,23 @@
     "poster_path": "/vW0BW5OiQufPnCyWhi4czVL3nhf.jpg",
     "backdrop_path": "/kSx7TUpI5uJUqgPMtu5R7Q3VZRe.jpg",
     "vote_average": 6.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "263043",
+    "title": "Si Jin",
+    "overview": "Jiang Si, the fourth lady of Dongping Bo Mansion, is reborn after dying at the hands of her lover, Yu Jin. Determined to rewrite her fate, she breaks off her engagement, outsmarts her cruel aunt, opens a perfumery, and investigates a series of mysterious crimes. She reunites with Yu Jin, and despite their unresolved past, they join forces to change tragic destinies—saving her siblings and clearing her father’s name. As they overcome hardships together, Jiang Si’s feelings for Yu Jin rekindle, and they work hand in hand to protect the peace of the Zhou dynasty, embracing a lifetime of prosperity.",
+    "release_date": "2025-03-01",
+    "poster_path": "/A3OOgq75rCyxdCOYuboXv2li1j9.jpg",
+    "backdrop_path": "/qpARG9aRGsD4SkzpK92xw7cGdTM.jpg",
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -459,7 +476,7 @@
     "release_date": "2025-01-24",
     "poster_path": "/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
     "backdrop_path": "/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.511,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1911,13 +1928,13 @@
     "is_local": true
   },
   {
-    "id": "829560",
-    "title": "The Next 365 Days",
-    "overview": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
-    "release_date": "2022-08-18",
-    "poster_path": "/8AWm7iMcsCI3DdGz4YEJtiMDp8Z.jpg",
-    "backdrop_path": "/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
-    "vote_average": 6.4,
+    "id": "829557",
+    "title": "365 Days: This Day",
+    "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+    "release_date": "2022-04-26",
+    "poster_path": "/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
+    "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
+    "vote_average": 5.9,
     "media_type": "movie",
     "original_language": "pl",
     "genre_ids": [
@@ -2464,6 +2481,24 @@
     "is_local": true
   },
   {
+    "id": "139353",
+    "title": "Cutie Pie",
+    "overview": "Arranged to marry, a young tycoon and a free-spirited student face a test when one reveals that only duty, not love, keeps them together.",
+    "release_date": "2022-02-19",
+    "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
+    "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "233833",
     "title": "In Your Radiant Season",
     "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
@@ -2477,24 +2512,6 @@
       9648,
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "139353",
-    "title": "Cutie Pie",
-    "overview": "Arranged to marry, a young tycoon and a free-spirited student face a test when one reveals that only duty, not love, keeps them together.",
-    "release_date": "2022-02-19",
-    "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
-    "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5485,6 +5502,24 @@
     "is_local": true
   },
   {
+    "id": "829560",
+    "title": "The Next 365 Days",
+    "overview": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
+    "release_date": "2022-08-18",
+    "poster_path": "/8AWm7iMcsCI3DdGz4YEJtiMDp8Z.jpg",
+    "backdrop_path": "/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
+    "vote_average": 6.4,
+    "media_type": "movie",
+    "original_language": "pl",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1222445",
     "title": "TharnType 2 Special: The Wedding Day",
     "overview": "Set after the events of \"TharnType 2\" (7 Years of Love), this special features the proposal, wedding and honeymoon of Tharn and Type as they live happily ever after.",
@@ -5651,24 +5686,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "829557",
-    "title": "365 Days: This Day",
-    "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
-    "release_date": "2022-04-26",
-    "poster_path": "/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
-    "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
-    "vote_average": 5.9,
-    "media_type": "movie",
-    "original_language": "pl",
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 465109,
