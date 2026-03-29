@@ -1,5 +1,94 @@
 [
   {
+    "id": 10764,
+    "title": "Quantum of Solace",
+    "poster_path": "/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg",
+    "overview": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
+    "vote_average": 6.335,
+    "release_date": "2008-10-29",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1593,
+    "title": "Night at the Museum",
+    "poster_path": "/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
+    "overview": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.",
+    "vote_average": 6.597,
+    "release_date": "2006-12-20",
+    "genre_ids": [
+      14,
+      10751,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 646,
+    "title": "Dr. No",
+    "poster_path": "/f9HsemSsBEHN5eoMble1bj6fDxs.jpg",
+    "overview": "Agent 007 battles mysterious Dr. No, a scientific genius bent on destroying the U.S. space program. As the countdown to disaster begins, Bond must go to Jamaica, where he encounters beautiful Honey Ryder, to confront a megalomaniacal villain in his massive island headquarters.",
+    "vote_average": 6.987,
+    "release_date": "1962-10-07",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1339876,
+    "title": "Mardaani 3",
+    "poster_path": "/dHxLBtHw4InwsVumnthupZYz6NM.jpg",
+    "overview": "Officer Shivani Shivaji Roy returns to hunt down those behind the disappearance of young girls, risking everything to bring them back alive.",
+    "vote_average": 6.7,
+    "release_date": "2026-01-30",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "original_language": "hi",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 8358,
+    "title": "Cast Away",
+    "poster_path": "/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+    "overview": "Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
+    "vote_average": 7.66,
+    "release_date": "2000-12-22",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "240442",
     "title": "Sword and Beloved",
     "overview": "The drama series revolves around Wangquan Fugui, who is trained as the ultimate demon-slayer of the Yiqi Alliance since childhood, meeting Qing Tong, a spider demon who infiltrates Wangquan Manor as a spy. Qing Tong’s presence allows Fugui to broaden his horizon and change his view on demons. Yearning for freedom, Fugui’s fervor for attaining world peace is gradually ignited. After experiencing extreme agony, he leaves Wangquan Manor with Qing Tong, embarking on a journey of self-enlightenment.",
@@ -160,23 +249,6 @@
     "is_local": true
   },
   {
-    "id": "305105",
-    "title": "Peach Lover",
-    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
-    "release_date": "2026-01-20",
-    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
-    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "270432",
     "title": "Summit of Our Youth",
     "overview": "After failing her college entrance exam and struggling in her career, Gu Xuejiao is unexpectedly sent back to her high school years. Determined to change her fate, she shifts her focus from love to success, prioritizing academics and career ambitions. Along the way, she finds herself in a transformative romance where both partners inspire each other to grow.",
@@ -186,6 +258,23 @@
     "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "305105",
+    "title": "Peach Lover",
+    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
+    "release_date": "2026-01-20",
+    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
+    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -4404,7 +4493,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/zL3BlyLxr5rrbZYITeOBAW2K5xv.jpg",
-    "vote_average": 8.466,
+    "vote_average": 8.481,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
