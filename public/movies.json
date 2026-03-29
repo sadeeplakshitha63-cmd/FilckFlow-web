@@ -1,18 +1,39 @@
 [
   {
-    "id": "108121",
-    "title": "FUN (TV show)",
-    "overview": "Variety talk and music show.",
-    "release_date": "",
-    "poster_path": "/1VGMt16TMUNLV4QmNkwxLRaFBZb.jpg",
-    "backdrop_path": "/oDKkv2vKnvl5ZjrAJkLNUfVLUVh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [],
+    "id": 660,
+    "title": "Thunderball",
+    "poster_path": "/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg",
+    "overview": "A criminal organization has obtained two nuclear bombs and are asking for a 100 million pound ransom in the form of diamonds in seven days or they will use the weapons. The secret service sends James Bond to the Bahamas to once again save the world.",
+    "vote_average": 6.7,
+    "release_date": "1965-12-11",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
     "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
+    "subtitle_file": null
+  },
+  {
+    "id": 667,
+    "title": "You Only Live Twice",
+    "poster_path": "/fdRbvRcEXcf2rC4ghLFZzCWPSmB.jpg",
+    "overview": "A mysterious spacecraft captures Russian and American space capsules and brings the two superpowers to the brink of war. James Bond investigates the case in Japan and comes face to face with his archenemy Blofeld.",
+    "vote_average": 6.6,
+    "release_date": "1967-06-13",
+    "genre_ids": [
+      28,
+      53,
+      12
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "240442",
@@ -68,6 +89,26 @@
     "is_local": true
   },
   {
+    "id": "215072",
+    "title": "A Shop for Killers",
+    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+    "release_date": "2024-01-17",
+    "poster_path": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+    "backdrop_path": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+    "vote_average": 8.199,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10759,
+      9648,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "291914",
     "title": "NANA bnb with SEVENTEEN",
     "overview": "As SEVENTEEN is getting ready to celebrate their 10th anniversary, SEVENTEEN will be making some unforgettable memories with HOST NA!",
@@ -79,26 +120,6 @@
     "original_language": "ko",
     "genre_ids": [
       10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "215072",
-    "title": "A Shop for Killers",
-    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-    "release_date": "2024-01-17",
-    "poster_path": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-    "backdrop_path": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-    "vote_average": 8.187,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10759,
-      9648,
-      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2583,24 +2604,6 @@
     "is_local": true
   },
   {
-    "id": "243084",
-    "title": "Love Game in Eastern Fantasy",
-    "overview": "Pulled into the pages of a fantasy novel, a woman is shocked to find herself stuck in the role of a villain. Now, she must battle to rewrite her destiny.",
-    "release_date": "2024-11-01",
-    "poster_path": "/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
-    "backdrop_path": "/mfSqsEQtTGrewyCrhwcvpFcq5n7.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "110632",
     "title": "Love is Sweet",
     "overview": "Jiang Jun, a driven woman with a background in economics and psychology, leaves philanthropy to fulfill her late father’s wish by joining a top investment firm. There, she faces intense competition and reunites with her childhood friend-turned-rival, Yuan Shuai. With her intelligence and resilience, she navigates workplace challenges, uncovering hidden schemes while finding success in both her career and love.",
@@ -2613,6 +2616,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "243084",
+    "title": "Love Game in Eastern Fantasy",
+    "overview": "Pulled into the pages of a fantasy novel, a woman is shocked to find herself stuck in the role of a villain. Now, she must battle to rewrite her destiny.",
+    "release_date": "2024-11-01",
+    "poster_path": "/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
+    "backdrop_path": "/mfSqsEQtTGrewyCrhwcvpFcq5n7.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2943,7 +2964,7 @@
     "title": "Boyfriend on Demand",
     "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
     "release_date": "2026-03-06",
-    "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+    "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
     "vote_average": 8.4,
     "media_type": "tv",
@@ -3360,24 +3381,6 @@
     "is_local": true
   },
   {
-    "id": "312172",
-    "title": "Hell University",
-    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
-    "release_date": "2026-02-06",
-    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
-    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "274559",
     "title": "The Wicked Game",
     "overview": "An abandoned heir wages war to expose his ruthless father and seize control of the family empire, but treachery—and desire—threaten his plan.",
@@ -3390,6 +3393,24 @@
     "genre_ids": [
       18,
       10759,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "312172",
+    "title": "Hell University",
+    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
+    "release_date": "2026-02-06",
+    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
+    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
       9648
     ],
     "video_url": "",
@@ -3508,24 +3529,6 @@
     "is_local": true
   },
   {
-    "id": "136732",
-    "title": "Shooting Stars",
-    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
-    "release_date": "2022-04-22",
-    "poster_path": "/wH8ZDJLFEIPsDHanefBEbt8FS3A.jpg",
-    "backdrop_path": "/qkfoiujIUeRTGa5Vebty72INt7k.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "146015",
     "title": "The Double",
     "overview": "An awkward office drone becomes increasingly unhinged after a charismatic and confident look-alike takes a job at his workplace and seduces the woman he desires.",
@@ -3537,6 +3540,24 @@
     "original_language": "en",
     "genre_ids": [
       53,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "136732",
+    "title": "Shooting Stars",
+    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
+    "release_date": "2022-04-22",
+    "poster_path": "/wH8ZDJLFEIPsDHanefBEbt8FS3A.jpg",
+    "backdrop_path": "/qkfoiujIUeRTGa5Vebty72INt7k.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -4419,7 +4440,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/zL3BlyLxr5rrbZYITeOBAW2K5xv.jpg",
-    "vote_average": 8.48,
+    "vote_average": 8.466,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5479,6 +5500,21 @@
       35,
       18
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "108121",
+    "title": "FUN (TV show)",
+    "overview": "Variety talk and music show.",
+    "release_date": "",
+    "poster_path": "/1VGMt16TMUNLV4QmNkwxLRaFBZb.jpg",
+    "backdrop_path": "/oDKkv2vKnvl5ZjrAJkLNUfVLUVh.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
