@@ -1,21 +1,5 @@
 [
   {
-    "id": 87739,
-    "title": "The Queen's Gambit",
-    "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
-    "overview": "In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction.",
-    "vote_average": 8.439,
-    "release_date": "2020-10-23",
-    "genre_ids": [
-      18
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "263043",
     "title": "Si Jin",
     "overview": "Jiang Si, the fourth lady of Dongping Bo Mansion, is reborn after dying at the hands of her lover, Yu Jin. Determined to rewrite her fate, she breaks off her engagement, outsmarts her cruel aunt, opens a perfumery, and investigates a series of mysterious crimes. She reunites with Yu Jin, and despite their unresolved past, they join forces to change tragic destinies—saving her siblings and clearing her father’s name. As they overcome hardships together, Jiang Si’s feelings for Yu Jin rekindle, and they work hand in hand to protect the peace of the Zhou dynasty, embracing a lifetime of prosperity.",
@@ -724,7 +708,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/lNYympQM5O6QSInusbyG9eJDIe4.jpg",
-    "vote_average": 7.663,
+    "vote_average": 7.665,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -1474,7 +1458,7 @@
     "release_date": "2025-09-29",
     "poster_path": "/jG0hr4bvJM1iOEcScgav7zmMF5P.jpg",
     "backdrop_path": "/aAjm3w7Gnjw7HDe5UQ0BbTec7S2.jpg",
-    "vote_average": 7.4,
+    "vote_average": 7.389,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2514,6 +2498,21 @@
     "is_local": true
   },
   {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "107329",
     "title": "Go Ahead",
     "overview": "Three friends from troubled families form a unique, lasting bond — but their pasts soon cast a cloud over their lives.",
@@ -2528,21 +2527,6 @@
       10751,
       35
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -3398,24 +3382,6 @@
     "is_local": true
   },
   {
-    "id": "312172",
-    "title": "Hell University",
-    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
-    "release_date": "2026-02-06",
-    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
-    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "228429",
     "title": "Soul Land 2: The Peerless Tang Clan",
     "overview": "The Tang Sect in a turbulent world. There is nothing but martial spirit here. Ten thousand years after the founding of the Tang Sect, it is in relative decline. An extremely talented man was born. Can the new Shrek Seven Monsters revive the Tang Sect and bring it back to glory? A soul beast of over one million years old; Electrolux who can pick stars; The new soul utensil system that led to the decline of the Tang Sect... A lot of secrets are to be revealed. Can the secret weapons of the Tang Sect be sharp again? Can the Tang Sect regain its former glory?",
@@ -3430,6 +3396,24 @@
       10765,
       10759,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "312172",
+    "title": "Hell University",
+    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
+    "release_date": "2026-02-06",
+    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
+    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5498,6 +5482,22 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 87739,
+    "title": "The Queen's Gambit",
+    "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+    "overview": "In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction.",
+    "vote_average": 8.439,
+    "release_date": "2020-10-23",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 282846,
