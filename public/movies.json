@@ -1277,7 +1277,7 @@
     "release_date": "2025-06-20",
     "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
     "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-    "vote_average": 8.032,
+    "vote_average": 8.033,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -1735,23 +1735,6 @@
     "is_local": true
   },
   {
-    "id": "72167",
-    "title": "Never Let Me Go",
-    "overview": "30-year-old Kyoko has a \"job\". The story starts with her looking back 20 years to her boarding school of Yoko Gakuen in the mountains. Tomohiko, Miwa, and Kyoko are all in the same grade. Inspired by the educational philosophy of the principal - Emiko, teacher Tatsuko joins the boarding school staff, but soon finds the school rather strange...",
-    "release_date": "2016-01-15",
-    "poster_path": "/sGpqhD9kKiP3abxOrzYWRy05lV2.jpg",
-    "backdrop_path": "/lhLQWWtBtFhyOH2Iv9zSs9ohjiX.jpg",
-    "vote_average": 6.5,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "247207",
     "title": "Ski into Love",
     "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
@@ -1761,6 +1744,23 @@
     "vote_average": 6.7,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "72167",
+    "title": "Never Let Me Go",
+    "overview": "30-year-old Kyoko has a \"job\". The story starts with her looking back 20 years to her boarding school of Yoko Gakuen in the mountains. Tomohiko, Miwa, and Kyoko are all in the same grade. Inspired by the educational philosophy of the principal - Emiko, teacher Tatsuko joins the boarding school staff, but soon finds the school rather strange...",
+    "release_date": "2016-01-15",
+    "poster_path": "/sGpqhD9kKiP3abxOrzYWRy05lV2.jpg",
+    "backdrop_path": "/lhLQWWtBtFhyOH2Iv9zSs9ohjiX.jpg",
+    "vote_average": 6.5,
+    "media_type": "tv",
+    "original_language": "ja",
     "genre_ids": [
       18
     ],
@@ -2357,23 +2357,6 @@
     "is_local": true
   },
   {
-    "id": "282471",
-    "title": "ClaireBell",
-    "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
-    "release_date": "2025-10-27",
-    "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
-    "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "259486",
     "title": "The Haunted Palace",
     "overview": "In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption",
@@ -2385,6 +2368,23 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "282471",
+    "title": "ClaireBell",
+    "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
+    "release_date": "2025-10-27",
+    "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
+    "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
