@@ -53,23 +53,6 @@
     "is_local": true
   },
   {
-    "id": "291914",
-    "title": "NANA bnb with SEVENTEEN",
-    "overview": "As SEVENTEEN is getting ready to celebrate their 10th anniversary, SEVENTEEN will be making some unforgettable memories with HOST NA!",
-    "release_date": "2025-06-02",
-    "poster_path": "/qGzmcGUiH0NQTTy9gpYFp6QTpUo.jpg",
-    "backdrop_path": "/mPtkXCqvHu5mPyr8EeQhj2wivwa.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215072",
     "title": "A Shop for Killers",
     "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
@@ -84,6 +67,23 @@
       10759,
       9648,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "291914",
+    "title": "NANA bnb with SEVENTEEN",
+    "overview": "As SEVENTEEN is getting ready to celebrate their 10th anniversary, SEVENTEEN will be making some unforgettable memories with HOST NA!",
+    "release_date": "2025-06-02",
+    "poster_path": "/qGzmcGUiH0NQTTy9gpYFp6QTpUo.jpg",
+    "backdrop_path": "/mPtkXCqvHu5mPyr8EeQhj2wivwa.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2941,6 +2941,23 @@
     "is_local": true
   },
   {
+    "id": "278969",
+    "title": "Love in the Edge of Divorce",
+    "overview": "In a loveless arranged marriage, Fu Yancheng and Sheng Mian plan to divorce.  However, an unexpected intimate encounter leads to deeper misunderstandings when Fu Yancheng discovers that Sheng Mian is actually Penny. Regretting his actions, Fu Yancheng works to win her back",
+    "release_date": "2025-01-09",
+    "poster_path": "/ndArPPZTvqrpwvZHhC8o1xYRFgF.jpg",
+    "backdrop_path": "/8T5hiwuUvOmK32cL2a6KHDJHikd.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278331",
     "title": "The First Night with the Duke",
     "overview": "Reincarnated as a minor character in a novel, Cha Seon-taek unexpectedly spends a night with Prince Kyungsung, sparking an intense and unexpected romance.",
@@ -2953,23 +2970,6 @@
     "genre_ids": [
       10765,
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278969",
-    "title": "Love in the Edge of Divorce",
-    "overview": "In a loveless arranged marriage, Fu Yancheng and Sheng Mian plan to divorce.  However, an unexpected intimate encounter leads to deeper misunderstandings when Fu Yancheng discovers that Sheng Mian is actually Penny. Regretting his actions, Fu Yancheng works to win her back",
-    "release_date": "2025-01-09",
-    "poster_path": "/ndArPPZTvqrpwvZHhC8o1xYRFgF.jpg",
-    "backdrop_path": "/8T5hiwuUvOmK32cL2a6KHDJHikd.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3253,25 +3253,6 @@
     "is_local": true
   },
   {
-    "id": "233833",
-    "title": "In Your Radiant Season",
-    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
-    "release_date": "2026-02-20",
-    "poster_path": "/dc4YYEMeoiYLas0ao5UZugXeSSo.jpg",
-    "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "262932",
     "title": "Generation to Generation",
     "overview": "In the volatile world of martial arts, the cunning young master Mu Qingyan meets the easygoing heroine Cai Zhao, sparking an intense and complex romance. Together, they confront hidden truths and rivalries within the martial world, navigating twists, betrayals, and strategic battles. Their journey paints a vibrant portrait of loyalty, love, and the fierce spirit of heroism.",
@@ -3285,6 +3266,25 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233833",
+    "title": "In Your Radiant Season",
+    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
+    "release_date": "2026-02-20",
+    "poster_path": "/dc4YYEMeoiYLas0ao5UZugXeSSo.jpg",
+    "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5315,7 +5315,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.119,
+    "vote_average": 8.118,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
