@@ -53,23 +53,6 @@
     "is_local": true
   },
   {
-    "id": "291914",
-    "title": "NANA bnb with SEVENTEEN",
-    "overview": "As SEVENTEEN is getting ready to celebrate their 10th anniversary, SEVENTEEN will be making some unforgettable memories with HOST NA!",
-    "release_date": "2025-06-02",
-    "poster_path": "/qGzmcGUiH0NQTTy9gpYFp6QTpUo.jpg",
-    "backdrop_path": "/mPtkXCqvHu5mPyr8EeQhj2wivwa.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215072",
     "title": "A Shop for Killers",
     "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
@@ -84,6 +67,23 @@
       10759,
       9648,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "291914",
+    "title": "NANA bnb with SEVENTEEN",
+    "overview": "As SEVENTEEN is getting ready to celebrate their 10th anniversary, SEVENTEEN will be making some unforgettable memories with HOST NA!",
+    "release_date": "2025-06-02",
+    "poster_path": "/qGzmcGUiH0NQTTy9gpYFp6QTpUo.jpg",
+    "backdrop_path": "/mPtkXCqvHu5mPyr8EeQhj2wivwa.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4868,28 +4868,13 @@
     "is_local": true
   },
   {
-    "id": "108121",
-    "title": "FUN (TV show)",
-    "overview": "Variety talk and music show.",
-    "release_date": "",
-    "poster_path": "/1VGMt16TMUNLV4QmNkwxLRaFBZb.jpg",
-    "backdrop_path": "/oDKkv2vKnvl5ZjrAJkLNUfVLUVh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "219246",
     "title": "When Life Gives You Tangerines",
     "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.704,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5014,7 +4999,7 @@
     "release_date": "2025-08-06",
     "poster_path": "/r1EMXYnqFDk9tzkkoxFwFjxCEvC.jpg",
     "backdrop_path": "/mwiG510fVcOrzWUSDSV7B5tRMrb.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.276,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5085,7 +5070,7 @@
     "release_date": "2025-08-23",
     "poster_path": "/bzYSIw9FTzQXUcWsnDSwlcwok3C.jpg",
     "backdrop_path": "/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
-    "vote_average": 8.717,
+    "vote_average": 8.715,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5331,7 +5316,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.117,
+    "vote_average": 8.119,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5479,6 +5464,21 @@
       35,
       18
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "108121",
+    "title": "FUN (TV show)",
+    "overview": "Variety talk and music show.",
+    "release_date": "",
+    "poster_path": "/1VGMt16TMUNLV4QmNkwxLRaFBZb.jpg",
+    "backdrop_path": "/oDKkv2vKnvl5ZjrAJkLNUfVLUVh.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
