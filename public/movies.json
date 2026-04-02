@@ -1,22 +1,5 @@
 [
   {
-    "id": 250162,
-    "title": "The Decameron",
-    "poster_path": "/7jxX4EQLeGMQb8SA4YgiaUowz8n.jpg",
-    "overview": "As the bubonic plague spreads through Italy, a group of nobles and servants retreats to a villa, where their lavish getaway quickly spirals into chaos.",
-    "vote_average": 6,
-    "release_date": "2024-07-25",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "293608",
     "title": "Undercover Miss Hong",
     "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
@@ -323,6 +306,23 @@
     "is_local": true
   },
   {
+    "id": "227192",
+    "title": "Pyramid Game",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "release_date": "2024-02-29",
+    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "vote_average": 8.109,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -337,23 +337,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "227192",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "release_date": "2024-02-29",
-    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.109,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -613,6 +596,23 @@
     "is_local": true
   },
   {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -644,23 +644,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -727,7 +710,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/lNYympQM5O6QSInusbyG9eJDIe4.jpg",
-    "vote_average": 7.666,
+    "vote_average": 7.663,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -1296,7 +1279,7 @@
     "release_date": "2025-06-20",
     "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
     "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-    "vote_average": 8.032,
+    "vote_average": 8.03,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -3095,7 +3078,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
     "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "vote_average": 7.682,
+    "vote_average": 7.75,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4784,7 +4767,7 @@
     "release_date": "2026-02-04",
     "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
     "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 8,
+    "vote_average": 8.044,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5282,7 +5265,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.683,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5500,6 +5483,23 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 250162,
+    "title": "The Decameron",
+    "poster_path": "/7jxX4EQLeGMQb8SA4YgiaUowz8n.jpg",
+    "overview": "As the bubonic plague spreads through Italy, a group of nobles and servants retreats to a villa, where their lavish getaway quickly spirals into chaos.",
+    "vote_average": 6,
+    "release_date": "2024-07-25",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "263043",
