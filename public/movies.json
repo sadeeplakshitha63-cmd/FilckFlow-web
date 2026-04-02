@@ -1242,7 +1242,7 @@
     "release_date": "2023-12-02",
     "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
     "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.232,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1614,23 +1614,6 @@
     "is_local": true
   },
   {
-    "id": "901100",
-    "title": "The Untamed",
-    "overview": "A cowpuncher by the name of Whistling Dan is adopted by a rancher, Joe Cumberland (James O. Barrows). His daughter, Kate  is immediately attracted to Dan, but Cumberland discourages the union since he thinks the young man is too wild for her.",
-    "release_date": "1920-08-29",
-    "poster_path": "/hEJvz2qOLWMpfVy6V9m3tqtGbNI.jpg",
-    "backdrop_path": "/grU0SbayEL6g4zQasKrwCXQM2DH.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      37
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "226186",
     "title": "My Journey To You",
     "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
@@ -1642,6 +1625,23 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "901100",
+    "title": "The Untamed",
+    "overview": "A cowpuncher by the name of Whistling Dan is adopted by a rancher, Joe Cumberland (James O. Barrows). His daughter, Kate  is immediately attracted to Dan, but Cumberland discourages the union since he thinks the young man is too wild for her.",
+    "release_date": "1920-08-29",
+    "poster_path": "/hEJvz2qOLWMpfVy6V9m3tqtGbNI.jpg",
+    "backdrop_path": "/grU0SbayEL6g4zQasKrwCXQM2DH.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      37
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2235,7 +2235,7 @@
     "release_date": "2016-08-29",
     "poster_path": "/pjdPGHqUe60ZGQJR1TItVNaV4it.jpg",
     "backdrop_path": "/yMEHwomIKzfFEq0xaHVHtyEuKBM.jpg",
-    "vote_average": 8.513,
+    "vote_average": 8.509,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2842,7 +2842,7 @@
     "release_date": "2024-01-27",
     "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
     "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8.157,
+    "vote_average": 8.133,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3458,24 +3458,6 @@
     "is_local": true
   },
   {
-    "id": "312172",
-    "title": "Hell University",
-    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
-    "release_date": "2026-02-06",
-    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
-    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278137",
     "title": "Head 2 Head",
     "overview": "A rivalry turns upside down when Jerome’s strange new ability shows him a shocking future—one where his enemy becomes his soulmate.",
@@ -3488,6 +3470,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "312172",
+    "title": "Hell University",
+    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
+    "release_date": "2026-02-06",
+    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
+    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4767,7 +4767,7 @@
     "release_date": "2026-02-04",
     "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
     "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 8.044,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5370,7 +5370,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.25,
+    "vote_average": 8.249,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
