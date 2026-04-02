@@ -1,41 +1,5 @@
 [
   {
-    "id": 324786,
-    "title": "Hacksaw Ridge",
-    "poster_path": "/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg",
-    "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
-    "vote_average": 8.189,
-    "release_date": "2016-10-07",
-    "genre_ids": [
-      18,
-      36,
-      10752
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 1268127,
-    "title": "Humint",
-    "poster_path": "/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
-    "overview": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative — pulling both into peril and tangled secrets.",
-    "vote_average": 7.611,
-    "release_date": "2026-02-11",
-    "genre_ids": [
-      53,
-      28,
-      18
-    ],
-    "original_language": "ko",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "240442",
     "title": "Sword and Beloved",
     "overview": "The drama series revolves around Wangquan Fugui, who is trained as the ultimate demon-slayer of the Yiqi Alliance since childhood, meeting Qing Tong, a spider demon who infiltrates Wangquan Manor as a spy. Qing Tong’s presence allows Fugui to broaden his horizon and change his view on demons. Yearning for freedom, Fugui’s fervor for attaining world peace is gradually ignited. After experiencing extreme agony, he leaves Wangquan Manor with Qing Tong, embarking on a journey of self-enlightenment.",
@@ -532,7 +496,7 @@
     "release_date": "2025-10-05",
     "poster_path": "/bPMnZtxk3ablkxp6T63SIyQeSVs.jpg",
     "backdrop_path": "/cle9m5JqjnbYICVBy6Y0TVHasVr.jpg",
-    "vote_average": 5.9,
+    "vote_average": 6,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2053,24 +2017,6 @@
     "is_local": true
   },
   {
-    "id": "233219",
-    "title": "ONE: High School Heroes",
-    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
-    "release_date": "2025-05-30",
-    "poster_path": "/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
-    "backdrop_path": "/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "477706",
     "title": "The Sign",
     "overview": "The Sign explores intersections of science and religion to uncover the truth behind prophecies of the apocalypse.",
@@ -2083,6 +2029,24 @@
     "genre_ids": [
       10770,
       99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233219",
+    "title": "ONE: High School Heroes",
+    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
+    "release_date": "2025-05-30",
+    "poster_path": "/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
+    "backdrop_path": "/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2319,6 +2283,24 @@
     "is_local": true
   },
   {
+    "id": "262828",
+    "title": "Crushology 101",
+    "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
+    "release_date": "2025-04-11",
+    "poster_path": "/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+    "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "67915",
     "title": "Guardian: The Lonely and Great God",
     "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
@@ -2332,24 +2314,6 @@
       18,
       10765,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "262828",
-    "title": "Crushology 101",
-    "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
-    "release_date": "2025-04-11",
-    "poster_path": "/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
-    "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5474,7 +5438,7 @@
     "title": "Revenged Love",
     "overview": "After Wu Suo-wei's girlfriend dumps him, he decides to get revenge by seducing her new boyfriend, Chi Cheng! It started as a game, but falling in love was never part of the plan.",
     "release_date": "2025-06-16",
-    "poster_path": "/kJTSJ6X9zjL4nYM8Oje21sTuoOZ.jpg",
+    "poster_path": "/j5KWzpPAi4JC42GGrVWDFL6G2gY.jpg",
     "backdrop_path": "/aKvbFRFOzbaMB59575O5vUVaFyr.jpg",
     "vote_average": 8.3,
     "media_type": "tv",
@@ -5519,6 +5483,42 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 324786,
+    "title": "Hacksaw Ridge",
+    "poster_path": "/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg",
+    "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+    "vote_average": 8.189,
+    "release_date": "2016-10-07",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1268127,
+    "title": "Humint",
+    "poster_path": "/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
+    "overview": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative — pulling both into peril and tangled secrets.",
+    "vote_average": 7.611,
+    "release_date": "2026-02-11",
+    "genre_ids": [
+      53,
+      28,
+      18
+    ],
+    "original_language": "ko",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 240832,
