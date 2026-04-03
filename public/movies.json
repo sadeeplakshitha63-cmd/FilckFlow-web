@@ -1,5 +1,39 @@
 [
   {
+    "id": 1367575,
+    "title": "A Line of Fire",
+    "poster_path": "/jSG2mg1998DUAam6X9EA6SeJmqD.jpg",
+    "overview": "After working as a secret agent in the FBI for ten years, Jack 'Cash' Conry left it all behind after his wife passed in order to dedicate himself to his two daughters. Despite a fulfilling life at home, Cash misses the chance to make an impact and has been considering a return to the force. The decision is made for him when his old partner’s niece Jamie calls him for help, launching Cash right back into a world of danger, corruption and intrigue.",
+    "vote_average": 5.959,
+    "release_date": "2025-04-05",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 620,
+    "title": "Ghostbusters",
+    "poster_path": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+    "overview": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+    "vote_average": 7.494,
+    "release_date": "1984-06-08",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "293608",
     "title": "Undercover Miss Hong",
     "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
@@ -2827,7 +2861,7 @@
     "release_date": "2024-01-27",
     "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
     "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8.133,
+    "vote_average": 8.116,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3369,25 +3403,6 @@
     "is_local": true
   },
   {
-    "id": "233833",
-    "title": "In Your Radiant Season",
-    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
-    "release_date": "2026-02-20",
-    "poster_path": "/dc4YYEMeoiYLas0ao5UZugXeSSo.jpg",
-    "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "229915",
     "title": "Night Has Come",
     "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
@@ -3418,6 +3433,25 @@
     "genre_ids": [
       28,
       878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233833",
+    "title": "In Your Radiant Season",
+    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
+    "release_date": "2026-02-20",
+    "poster_path": "/dc4YYEMeoiYLas0ao5UZugXeSSo.jpg",
+    "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4583,24 +4617,6 @@
     "is_local": true
   },
   {
-    "id": "279136",
-    "title": "Love Between Lines",
-    "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
-    "release_date": "2026-01-09",
-    "poster_path": "/s7ibkDrQnDa72kL2FrchaTRC9MQ.jpg",
-    "backdrop_path": "/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "235577",
     "title": "The Judge from Hell",
     "overview": "A cruel and vicious judge, who wields power only for herself, meets a warm and cheerful detective who puts the victims first.",
@@ -4614,6 +4630,24 @@
       18,
       10765,
       80,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279136",
+    "title": "Love Between Lines",
+    "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
+    "release_date": "2026-01-09",
+    "poster_path": "/s7ibkDrQnDa72kL2FrchaTRC9MQ.jpg",
+    "backdrop_path": "/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
       9648
     ],
     "video_url": "",
@@ -4753,7 +4787,7 @@
     "release_date": "2026-02-04",
     "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
     "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 8,
+    "vote_average": 8.043,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4844,7 +4878,7 @@
     "release_date": "2025-05-13",
     "poster_path": "/mXbZ5aH4uhao6Dpd884USvATMfo.jpg",
     "backdrop_path": "/hew9LSQW4wk63aN1Z7cEBTISL9B.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.764,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5076,7 +5110,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/pQHum52XMS9Sw51x94vMLyRuTPL.jpg",
     "backdrop_path": "/3FxO84UUfvVhvcuyHmBRixxcKcJ.jpg",
-    "vote_average": 7.875,
+    "vote_average": 7.922,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
