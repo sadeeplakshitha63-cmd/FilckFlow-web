@@ -128,23 +128,6 @@
     "is_local": true
   },
   {
-    "id": "882178",
-    "title": "Not Me",
-    "overview": "Based on true events, a vulnerable 21 year old food runner (Ashton), finds himself trapped in a compromising situation due to his commitment to provide a rich hotel guest (Steve) with excellent service. Ashton remains dedicated and focused on doing the best job possible, in spite of Steve's attempts to lure him into something he does not want to do.",
-    "release_date": "2018-03-01",
-    "poster_path": "/wnlNs9rRpm5RFPtKLtKGF5dWHEi.jpg",
-    "backdrop_path": "",
-    "vote_average": 4.5,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "270432",
     "title": "Summit of Our Youth",
     "overview": "After failing her college entrance exam and struggling in her career, Gu Xuejiao is unexpectedly sent back to her high school years. Determined to change her fate, she shifts her focus from love to success, prioritizing academics and career ambitions. Along the way, she finds herself in a transformative romance where both partners inspire each other to grow.",
@@ -154,6 +137,23 @@
     "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "882178",
+    "title": "Not Me",
+    "overview": "Based on true events, a vulnerable 21 year old food runner (Ashton), finds himself trapped in a compromising situation due to his commitment to provide a rich hotel guest (Steve) with excellent service. Ashton remains dedicated and focused on doing the best job possible, in spite of Steve's attempts to lure him into something he does not want to do.",
+    "release_date": "2018-03-01",
+    "poster_path": "/wnlNs9rRpm5RFPtKLtKGF5dWHEi.jpg",
+    "backdrop_path": "",
+    "vote_average": 4.5,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
       18
     ],
@@ -236,23 +236,6 @@
     "is_local": true
   },
   {
-    "id": "305105",
-    "title": "Peach Lover",
-    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
-    "release_date": "2026-01-20",
-    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
-    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "313995",
     "title": "Single's Inferno Reunion",
     "overview": "\"Single's Inferno\" contestants reunite to reveal honest feelings and relationship updates — revisiting standout moments from their time on the island.",
@@ -264,6 +247,23 @@
     "original_language": "ko",
     "genre_ids": [
       10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "305105",
+    "title": "Peach Lover",
+    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
+    "release_date": "2026-01-20",
+    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
+    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1597,6 +1597,23 @@
     "is_local": true
   },
   {
+    "id": "223618",
+    "title": "Venus in the Sky",
+    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
+    "release_date": "2023-09-02",
+    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
+    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -1610,23 +1627,6 @@
       10759,
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "223618",
-    "title": "Venus in the Sky",
-    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
-    "release_date": "2023-09-02",
-    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
-    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4716,7 +4716,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.401,
+    "vote_average": 8.396,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4752,7 +4752,7 @@
     "release_date": "2026-02-04",
     "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
     "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 8.043,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
