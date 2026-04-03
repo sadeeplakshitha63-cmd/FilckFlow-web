@@ -631,25 +631,6 @@
     "is_local": true
   },
   {
-    "id": "67391",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "release_date": "2016-09-23",
-    "poster_path": "/2MvpJNxvJi6NZL32UB9RhEiEx4U.jpg",
-    "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
-    "vote_average": 7.685,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253296",
     "title": "Century of Love",
     "overview": "To reunite with his long-dead love, a man uses a mystical secret to lengthen his life until her rebirth — only to learn her reincarnation is a young man.",
@@ -663,6 +644,25 @@
       18,
       10765,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "67391",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "release_date": "2016-09-23",
+    "poster_path": "/2MvpJNxvJi6NZL32UB9RhEiEx4U.jpg",
+    "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
+    "vote_average": 7.685,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1057,6 +1057,24 @@
     "is_local": true
   },
   {
+    "id": "278299",
+    "title": "Me and Who",
+    "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
+    "release_date": "2025-10-17",
+    "poster_path": "/alXsCHfn0juldrKtLQD6M7BrBPU.jpg",
+    "backdrop_path": "/48tHN3lJhH4ev3f5xBxNEe6gWPt.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "240144",
     "title": "Revamp: The Undead Story",
     "overview": "After his blood frees a century-old vampire trapped in a painting, an antique dealer must help him regain his powers before deadly Hunters close in.",
@@ -1068,24 +1086,6 @@
     "original_language": "th",
     "genre_ids": [
       9648,
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278299",
-    "title": "Me and Who",
-    "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
-    "release_date": "2025-10-17",
-    "poster_path": "/alXsCHfn0juldrKtLQD6M7BrBPU.jpg",
-    "backdrop_path": "/48tHN3lJhH4ev3f5xBxNEe6gWPt.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18,
       10765
     ],
@@ -1279,7 +1279,7 @@
     "release_date": "2025-06-20",
     "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
     "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-    "vote_average": 8,
+    "vote_average": 8.031,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -2384,7 +2384,24 @@
     "release_date": "2025-10-27",
     "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
     "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-    "vote_average": 8.308,
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "284488",
+    "title": "Harmony Secret",
+    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
+    "release_date": "2025-07-26",
+    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
+    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
+    "vote_average": 7.733,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2404,23 +2421,6 @@
     "vote_average": 7.4,
     "media_type": "tv",
     "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "284488",
-    "title": "Harmony Secret",
-    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
-    "release_date": "2025-07-26",
-    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
-    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
-    "vote_average": 7.733,
-    "media_type": "tv",
-    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -3202,6 +3202,24 @@
     "is_local": true
   },
   {
+    "id": "237327",
+    "title": "My Golden Blood",
+    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
+    "release_date": "2025-03-12",
+    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
+    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278146",
     "title": "Dare You to Death",
     "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
@@ -3215,24 +3233,6 @@
       9648,
       80,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237327",
-    "title": "My Golden Blood",
-    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
-    "release_date": "2025-03-12",
-    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
-    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3552,24 +3552,6 @@
     "is_local": true
   },
   {
-    "id": "312172",
-    "title": "Hell University",
-    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
-    "release_date": "2026-02-06",
-    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
-    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "298567",
     "title": "Thundercloud Rainstorm",
     "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
@@ -3599,6 +3581,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "312172",
+    "title": "Hell University",
+    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
+    "release_date": "2026-02-06",
+    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
+    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4053,7 +4053,7 @@
     "release_date": "2023-07-31",
     "poster_path": "/msYlN0cIpuTKlWYnEStdoBuHmvX.jpg",
     "backdrop_path": "/wF7v6JeKOVdb5sERUvN4Z2hH2SV.jpg",
-    "vote_average": 7.6,
+    "vote_average": 7.583,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5091,8 +5091,8 @@
     "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
     "release_date": "2026-03-06",
     "poster_path": "/pQHum52XMS9Sw51x94vMLyRuTPL.jpg",
-    "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-    "vote_average": 7.9,
+    "backdrop_path": "/3FxO84UUfvVhvcuyHmBRixxcKcJ.jpg",
+    "vote_average": 7.875,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
