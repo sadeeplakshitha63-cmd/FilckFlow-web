@@ -1057,24 +1057,6 @@
     "is_local": true
   },
   {
-    "id": "278299",
-    "title": "Me and Who",
-    "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
-    "release_date": "2025-10-17",
-    "poster_path": "/alXsCHfn0juldrKtLQD6M7BrBPU.jpg",
-    "backdrop_path": "/48tHN3lJhH4ev3f5xBxNEe6gWPt.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "240144",
     "title": "Revamp: The Undead Story",
     "overview": "After his blood frees a century-old vampire trapped in a painting, an antique dealer must help him regain his powers before deadly Hunters close in.",
@@ -1086,6 +1068,24 @@
     "original_language": "th",
     "genre_ids": [
       9648,
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278299",
+    "title": "Me and Who",
+    "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
+    "release_date": "2025-10-17",
+    "poster_path": "/alXsCHfn0juldrKtLQD6M7BrBPU.jpg",
+    "backdrop_path": "/48tHN3lJhH4ev3f5xBxNEe6gWPt.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18,
       10765
     ],
@@ -2342,24 +2342,6 @@
     "is_local": true
   },
   {
-    "id": "122009",
-    "title": "Bad Buddy",
-    "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
-    "release_date": "2021-10-29",
-    "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
-    "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "259486",
     "title": "The Haunted Palace",
     "overview": "In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption",
@@ -2371,6 +2353,24 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "122009",
+    "title": "Bad Buddy",
+    "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
+    "release_date": "2021-10-29",
+    "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
+    "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -3043,7 +3043,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
-    "vote_average": 8.413,
+    "vote_average": 8.316,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3587,24 +3587,6 @@
     "is_local": true
   },
   {
-    "id": "312172",
-    "title": "Hell University",
-    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
-    "release_date": "2026-02-06",
-    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
-    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "29739",
     "title": "Moving",
     "overview": "Arlo accepts what seems to him to be a dream promotion to Idaho. He soon discovers, however, that moving has its own share of problems.",
@@ -3617,6 +3599,24 @@
     "genre_ids": [
       35,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "312172",
+    "title": "Hell University",
+    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
+    "release_date": "2026-02-06",
+    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
+    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
