@@ -1,40 +1,5 @@
 [
   {
-    "id": 1282440,
-    "title": "Happy Patel: Khatarnak Jasoos",
-    "poster_path": "/tZJBXGNyDanSne6a2TLRU45Uhwu.jpg",
-    "overview": "Chronically unsuccessful MI7 operative Happy Patel is finally assigned a mission in Goa, where he uncovers his Indian roots and must rescue a high-profile scientist from crime lord Mama. Unaware of his Indian heritage and armed with a comically British accent, Happy’s blunders trigger a string of chaotic mishaps that could lead him to expose a criminal network.",
-    "vote_average": 8.063,
-    "release_date": "2026-01-16",
-    "genre_ids": [
-      35,
-      28,
-      10749
-    ],
-    "original_language": "hi",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 1620551,
-    "title": "Feel My Voice",
-    "poster_path": "/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg",
-    "overview": "A teenager, the only hearing member of a deaf family, finds her voice and learns to believe in herself through her passion for singing.",
-    "vote_average": 5.9,
-    "release_date": "2026-04-03",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "original_language": "it",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "300208",
     "title": "My Secret Vampire",
     "overview": "A naïve student rents a cheap mansion in Seoul, only to learn his generous roommates are vampires—and his blood is the price of admission.",
@@ -765,7 +730,7 @@
     "release_date": "2025-05-12",
     "poster_path": "/eJLFeRmxssjQgV1wmtgdKwzYLEC.jpg",
     "backdrop_path": "/xMgfvjhKwuFTyoXNpa8UVV74rek.jpg",
-    "vote_average": 8.437,
+    "vote_average": 8.408,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1297,7 +1262,7 @@
     "release_date": "2025-06-20",
     "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
     "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-    "vote_average": 8.031,
+    "vote_average": 8.03,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -3079,7 +3044,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
-    "vote_average": 8.316,
+    "vote_average": 8.299,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5503,6 +5468,41 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1282440,
+    "title": "Happy Patel: Khatarnak Jasoos",
+    "poster_path": "/tZJBXGNyDanSne6a2TLRU45Uhwu.jpg",
+    "overview": "Chronically unsuccessful MI7 operative Happy Patel is finally assigned a mission in Goa, where he uncovers his Indian roots and must rescue a high-profile scientist from crime lord Mama. Unaware of his Indian heritage and armed with a comically British accent, Happy’s blunders trigger a string of chaotic mishaps that could lead him to expose a criminal network.",
+    "vote_average": 8.063,
+    "release_date": "2026-01-16",
+    "genre_ids": [
+      35,
+      28,
+      10749
+    ],
+    "original_language": "hi",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1620551,
+    "title": "Feel My Voice",
+    "poster_path": "/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg",
+    "overview": "A teenager, the only hearing member of a deaf family, finds her voice and learns to believe in herself through her passion for singing.",
+    "vote_average": 5.9,
+    "release_date": "2026-04-03",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "original_language": "it",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 1450257,
