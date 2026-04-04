@@ -1077,24 +1077,6 @@
     "is_local": true
   },
   {
-    "id": "278176",
-    "title": "MuTeLuv",
-    "overview": "This anthology tells seven stories of people who attempt to use supernatural forces to meet their goals, and their unique journeys to finding love along the way.",
-    "release_date": "2025-08-25",
-    "poster_path": "/mnod6OPewIavXr9pIBi2sJalhnh.jpg",
-    "backdrop_path": "/1CYB1Q9KCOPTkNORHr4yVmMJmAN.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "135349",
     "title": "Once We Get Married",
     "overview": "Fashion buyer Gu Xixi bought Alex's couture wedding dresses for her clients. During a private reception, she got acquainted with Yin Sichen, the black-bellied president who came to discuss business cooperation with Alex. An incident occured leading to the two people to temporarily maintain a contract cooperative relationship for a win-win situation pertaining to Alex. The two with opposite personalities gradually found love in this contract marriage. Adapted from novel \"Flash Marriage CEO's Contract Wife\" by Xiang Wang.",
@@ -1107,6 +1089,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278176",
+    "title": "MuTeLuv",
+    "overview": "This anthology tells seven stories of people who attempt to use supernatural forces to meet their goals, and their unique journeys to finding love along the way.",
+    "release_date": "2025-08-25",
+    "poster_path": "/mnod6OPewIavXr9pIBi2sJalhnh.jpg",
+    "backdrop_path": "/1CYB1Q9KCOPTkNORHr4yVmMJmAN.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1489,17 +1489,17 @@
     "is_local": true
   },
   {
-    "id": "47869",
+    "id": "52273",
     "title": "Hidden Agenda",
-    "overview": "In Ireland, American lawyer Ingrid Jessner and her activist partner, Paul Sullivan, struggle to uncover atrocities committed by the British government against the Northern Irish during the \"Troubles.\" But when Sullivan is assassinated in the streets, Jessner teams up with Peter Kerrigan, a British investigator acting against the will of his own government, and struggles to uncover a conspiracy that may even implicate one of Kerrigan's colleagues.",
-    "release_date": "1990-11-21",
-    "poster_path": "/ceaYwvuTMfgRu7XCrLHmeK1LDzN.jpg",
-    "backdrop_path": "/7K6al25y1WBolpXO1RYjvhwYNBz.jpg",
-    "vote_average": 6.962,
+    "overview": "Former government Jason Price makes people disappear for a living. But when a top lieutenant for a crime syndicate asks Price to help him drop out of sight, things take a grisly, unexpected turn. A mysterious hit man known as The Cleaner has infiltrated Price's tightly-controlled system, leaving a bloody trail behind. With the help of an enigmatic seductress posing as the mobster's chief assistant, Price methodically works through his network of associates to find out what went wrong, and is plunged headlong into a spiraling gauntlet of half-truths and full-blown lies where nobody is who they appear to be, and everyone has a deadly, hidden agenda",
+    "release_date": "2001-05-12",
+    "poster_path": "/pMHcp3SPTfkCJdajkdx91sm7vVk.jpg",
+    "backdrop_path": "/3Q8sK1dRQQ7YtpRJS6GynwE11Ev.jpg",
+    "vote_average": 4.3,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
-      18,
+      28,
       53
     ],
     "video_url": "",
@@ -1739,23 +1739,6 @@
     "is_local": true
   },
   {
-    "id": "72167",
-    "title": "Never Let Me Go",
-    "overview": "30-year-old Kyoko has a \"job\". The story starts with her looking back 20 years to her boarding school of Yoko Gakuen in the mountains. Tomohiko, Miwa, and Kyoko are all in the same grade. Inspired by the educational philosophy of the principal - Emiko, teacher Tatsuko joins the boarding school staff, but soon finds the school rather strange...",
-    "release_date": "2016-01-15",
-    "poster_path": "/sGpqhD9kKiP3abxOrzYWRy05lV2.jpg",
-    "backdrop_path": "/lhLQWWtBtFhyOH2Iv9zSs9ohjiX.jpg",
-    "vote_average": 6.5,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "243028",
     "title": "Love Song in Winter",
     "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
@@ -1768,6 +1751,23 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "72167",
+    "title": "Never Let Me Go",
+    "overview": "30-year-old Kyoko has a \"job\". The story starts with her looking back 20 years to her boarding school of Yoko Gakuen in the mountains. Tomohiko, Miwa, and Kyoko are all in the same grade. Inspired by the educational philosophy of the principal - Emiko, teacher Tatsuko joins the boarding school staff, but soon finds the school rather strange...",
+    "release_date": "2016-01-15",
+    "poster_path": "/sGpqhD9kKiP3abxOrzYWRy05lV2.jpg",
+    "backdrop_path": "/lhLQWWtBtFhyOH2Iv9zSs9ohjiX.jpg",
+    "vote_average": 6.5,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3442,6 +3442,24 @@
     "is_local": true
   },
   {
+    "id": "146015",
+    "title": "The Double",
+    "overview": "An awkward office drone becomes increasingly unhinged after a charismatic and confident look-alike takes a job at his workplace and seduces the woman he desires.",
+    "release_date": "2014-04-03",
+    "poster_path": "/7kNcpmP1Pe9fWLKEbEOX5GEWueC.jpg",
+    "backdrop_path": "/19B3vwsPwLzHvSAo9uxC70QEkqW.jpg",
+    "vote_average": 6.511,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "233833",
     "title": "In Your Radiant Season",
     "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
@@ -3455,24 +3473,6 @@
       9648,
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "146015",
-    "title": "The Double",
-    "overview": "An awkward office drone becomes increasingly unhinged after a charismatic and confident look-alike takes a job at his workplace and seduces the woman he desires.",
-    "release_date": "2014-04-03",
-    "poster_path": "/7kNcpmP1Pe9fWLKEbEOX5GEWueC.jpg",
-    "backdrop_path": "/19B3vwsPwLzHvSAo9uxC70QEkqW.jpg",
-    "vote_average": 6.511,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      53,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5466,6 +5466,24 @@
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "47869",
+    "title": "Hidden Agenda",
+    "overview": "In Ireland, American lawyer Ingrid Jessner and her activist partner, Paul Sullivan, struggle to uncover atrocities committed by the British government against the Northern Irish during the \"Troubles.\" But when Sullivan is assassinated in the streets, Jessner teams up with Peter Kerrigan, a British investigator acting against the will of his own government, and struggles to uncover a conspiracy that may even implicate one of Kerrigan's colleagues.",
+    "release_date": "1990-11-21",
+    "poster_path": "/ceaYwvuTMfgRu7XCrLHmeK1LDzN.jpg",
+    "backdrop_path": "/7K6al25y1WBolpXO1RYjvhwYNBz.jpg",
+    "vote_average": 6.962,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      53
+    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
