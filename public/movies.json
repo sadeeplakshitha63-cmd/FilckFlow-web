@@ -3044,7 +3044,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
-    "vote_average": 8.299,
+    "vote_average": 8.269,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3571,25 +3571,6 @@
     "is_local": true
   },
   {
-    "id": "233833",
-    "title": "In Your Radiant Season",
-    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
-    "release_date": "2026-02-20",
-    "poster_path": "/dc4YYEMeoiYLas0ao5UZugXeSSo.jpg",
-    "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-    "vote_average": 8.063,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "292318",
     "title": "Happiness",
     "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
@@ -3603,6 +3584,25 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233833",
+    "title": "In Your Radiant Season",
+    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
+    "release_date": "2026-02-20",
+    "poster_path": "/dc4YYEMeoiYLas0ao5UZugXeSSo.jpg",
+    "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
+    "vote_average": 8.063,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
