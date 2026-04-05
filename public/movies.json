@@ -1,5 +1,21 @@
 [
   {
+    "id": 318188,
+    "title": "Alkhallat+: The Series",
+    "poster_path": "/wKNXdTsvwTSIkMa92IB4taCL5O5.jpg",
+    "overview": "Spanning from the desert to the city, this offbeat comedy anthology tells unique tales of desire, ambition… and those tempted enough to seek them out.",
+    "vote_average": 10,
+    "release_date": "2026-04-02",
+    "genre_ids": [
+      35
+    ],
+    "original_language": "ar",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "300208",
     "title": "My Secret Vampire",
     "overview": "A naïve student rents a cheap mansion in Seoul, only to learn his generous roommates are vampires—and his blood is the price of admission.",
@@ -748,7 +764,7 @@
     "release_date": "2022-11-10",
     "poster_path": "/2LSRCKg68ktB5sBtFbOkXwDQTan.jpg",
     "backdrop_path": "/ytMqU90MI12y8YHS4tqtFGYIWMl.jpg",
-    "vote_average": 6.9,
+    "vote_average": 6.652,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1424,7 +1440,7 @@
     "release_date": "2023-10-11",
     "poster_path": "/5w68XVoHs3hetvBMhOvguLbvikf.jpg",
     "backdrop_path": "/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.308,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3596,7 +3612,7 @@
     "release_date": "2026-02-20",
     "poster_path": "/dc4YYEMeoiYLas0ao5UZugXeSSo.jpg",
     "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-    "vote_average": 8.063,
+    "vote_average": 8.118,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5125,23 +5141,6 @@
     "is_local": true
   },
   {
-    "id": "279388",
-    "title": "Pursuit of Jade",
-    "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
-    "release_date": "2026-03-06",
-    "poster_path": "/pQHum52XMS9Sw51x94vMLyRuTPL.jpg",
-    "backdrop_path": "/3FxO84UUfvVhvcuyHmBRixxcKcJ.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "153378",
     "title": "F4 Thailand: Boys Over Flowers",
     "overview": "Gorya, a girl from a poor family, is happy to enter an elite high school. However, things take a turn when she is bullied by a group of rich spoiled boys called F4.",
@@ -5153,6 +5152,23 @@
     "original_language": "th",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279388",
+    "title": "Pursuit of Jade",
+    "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
+    "release_date": "2026-03-06",
+    "poster_path": "/pQHum52XMS9Sw51x94vMLyRuTPL.jpg",
+    "backdrop_path": "/3FxO84UUfvVhvcuyHmBRixxcKcJ.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
