@@ -259,7 +259,7 @@
     "release_date": "2026-01-20",
     "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
     "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
-    "vote_average": 7.9,
+    "vote_average": 8.083,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -324,6 +324,24 @@
     "is_local": true
   },
   {
+    "id": "210191",
+    "title": "A Journey to Love",
+    "overview": "Two top assassins from rival agencies and their six-member team who with diverse backgrounds, and unique skills embark on a journey filled with challenges and crises.",
+    "release_date": "2023-11-28",
+    "poster_path": "/7DKpFBcZNZWsmApAtYhuQWo1LJD.jpg",
+    "backdrop_path": "/i19T9qxGLeRFkFZQazLOuSjtCDE.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -338,24 +356,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "210191",
-    "title": "A Journey to Love",
-    "overview": "Two top assassins from rival agencies and their six-member team who with diverse backgrounds, and unique skills embark on a journey filled with challenges and crises.",
-    "release_date": "2023-11-28",
-    "poster_path": "/7DKpFBcZNZWsmApAtYhuQWo1LJD.jpg",
-    "backdrop_path": "/i19T9qxGLeRFkFZQazLOuSjtCDE.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -833,23 +833,6 @@
     "is_local": true
   },
   {
-    "id": "156990",
-    "title": "Unforgotten Night",
-    "overview": "A night of lust turns into obsession when a mafia boss finds the one person who satisfies him—in every way.",
-    "release_date": "2022-06-22",
-    "poster_path": "/qg6Hmw0OzZr72qwz5TfDAowqLbG.jpg",
-    "backdrop_path": "/dVKchZNQG0HpBIMonEkUDyfRFYP.jpg",
-    "vote_average": 6.4,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "227191",
     "title": "Nine Puzzles",
     "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
@@ -862,6 +845,23 @@
     "genre_ids": [
       80,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "156990",
+    "title": "Unforgotten Night",
+    "overview": "A night of lust turns into obsession when a mafia boss finds the one person who satisfies him—in every way.",
+    "release_date": "2022-06-22",
+    "poster_path": "/qg6Hmw0OzZr72qwz5TfDAowqLbG.jpg",
+    "backdrop_path": "/dVKchZNQG0HpBIMonEkUDyfRFYP.jpg",
+    "vote_average": 6.4,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -891,7 +891,7 @@
     "release_date": "2025-04-26",
     "poster_path": "/od2LObXYa5JpDaSMSuol2HcteBo.jpg",
     "backdrop_path": "/dopCLva8PYynC4OVQKtHyL608Yw.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1388,7 +1388,7 @@
     "release_date": "2025-07-27",
     "poster_path": "/wJXLfURFsU1Ga67QLMQbk8TBmHv.jpg",
     "backdrop_path": "/b0nB5uwh7yjubFmXKVTxETzaR8K.jpg",
-    "vote_average": 9.2,
+    "vote_average": 9.25,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1513,7 +1513,7 @@
     "release_date": "2024-05-04",
     "poster_path": "/paqFs0PdOK2XLi289so8fuPLydE.jpg",
     "backdrop_path": "/owtvdducZVoRG3PnXvMyA0y46af.jpg",
-    "vote_average": 8.9,
+    "vote_average": 8.862,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1825,23 +1825,6 @@
     "is_local": true
   },
   {
-    "id": "217861",
-    "title": "Dangerous Romance",
-    "overview": "Sailom, a poor and studious student, has worked several odd jobs along with his elder brother in an effort to keep them afloat. One day, a misunderstanding causes him to hate school bully Kanghan. However, fate plays its hand when Sailom, offered a sum of money too great to refuse, takes on the role of Kanghan's private tutor. Despite their difference, the two develop an irrefutable connection.",
-    "release_date": "2023-08-18",
-    "poster_path": "/h6dbV84GgqOnWsTEJAqzPJ5sYql.jpg",
-    "backdrop_path": "/7e9AuNZ5N0JB5Chdqo9ETSRn05K.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "127493",
     "title": "You Are My Glory",
     "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
@@ -1853,6 +1836,23 @@
     "original_language": "zh",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217861",
+    "title": "Dangerous Romance",
+    "overview": "Sailom, a poor and studious student, has worked several odd jobs along with his elder brother in an effort to keep them afloat. One day, a misunderstanding causes him to hate school bully Kanghan. However, fate plays its hand when Sailom, offered a sum of money too great to refuse, takes on the role of Kanghan's private tutor. Despite their difference, the two develop an irrefutable connection.",
+    "release_date": "2023-08-18",
+    "poster_path": "/h6dbV84GgqOnWsTEJAqzPJ5sYql.jpg",
+    "backdrop_path": "/7e9AuNZ5N0JB5Chdqo9ETSRn05K.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1904,7 +1904,7 @@
     "release_date": "2019-10-07",
     "poster_path": "/ofK4Z2zGyLfjKqSTQyQhtdrU43O.jpg",
     "backdrop_path": "/cpPykwg5yE4vTIHHXiCRFdQDh1l.jpg",
-    "vote_average": 7.7,
+    "vote_average": 7.691,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2983,6 +2983,24 @@
     "is_local": true
   },
   {
+    "id": "117549",
+    "title": "Please Feel At Ease Mr. Ling",
+    "overview": "A story of how the 'rabbit' brings home a 'big bad wolf' follows a young woman named Gu An Xin who chances upon the hotshot executive Ling Yue after he encountered an accident. Gu An Xin picked up a man. At first, she thought he was stupid, but after a few days of interaction, he proves himself to be a genius. As it turns out, Ling Yue got into an accident after being caught in the ugly fight for succession of a powerful conglomerate.",
+    "release_date": "2021-05-20",
+    "poster_path": "/rYquBAJqfHuHdPQ1w2YhISXPb9E.jpg",
+    "backdrop_path": "/pdCKtMARtuwqj8zpCPLXLrg8Y2t.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "124003",
     "title": "Perfect World",
     "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
@@ -2996,24 +3014,6 @@
       10759,
       10765,
       16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "117549",
-    "title": "Please Feel At Ease Mr. Ling",
-    "overview": "A story of how the 'rabbit' brings home a 'big bad wolf' follows a young woman named Gu An Xin who chances upon the hotshot executive Ling Yue after he encountered an accident. Gu An Xin picked up a man. At first, she thought he was stupid, but after a few days of interaction, he proves himself to be a genius. As it turns out, Ling Yue got into an accident after being caught in the ugly fight for succession of a powerful conglomerate.",
-    "release_date": "2021-05-20",
-    "poster_path": "/rYquBAJqfHuHdPQ1w2YhISXPb9E.jpg",
-    "backdrop_path": "/pdCKtMARtuwqj8zpCPLXLrg8Y2t.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3191,7 +3191,7 @@
     "release_date": "2025-03-12",
     "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
     "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
-    "vote_average": 9.1,
+    "vote_average": 9.13,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3430,7 +3430,7 @@
     "release_date": "2025-10-26",
     "poster_path": "/lgY5E0Gc5LQMy4SD9vPk6EBOei1.jpg",
     "backdrop_path": "/5i7rjtU016yD1ooGLva8LYaoWF0.jpg",
-    "vote_average": 7.7,
+    "vote_average": 7.917,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3668,7 +3668,7 @@
     "release_date": "2024-12-13",
     "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
     "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
-    "vote_average": 9.1,
+    "vote_average": 9.138,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3893,7 +3893,7 @@
     "release_date": "2025-10-31",
     "poster_path": "/ymuCDUc3WdXFGW95lLemBty7mL2.jpg",
     "backdrop_path": "/ex8tr0HjFIsOWf968DuJwTKAZjg.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.375,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3948,7 +3948,7 @@
     "release_date": "2025-05-16",
     "poster_path": "/iDRm2U656Z91DyiD8FnKvQPcBCt.jpg",
     "backdrop_path": "/iLYLcW5G761ePELtkvxgse8hwRm.jpg",
-    "vote_average": 7.4,
+    "vote_average": 7.636,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4699,7 +4699,7 @@
     "release_date": "2024-08-17",
     "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
     "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "vote_average": 8.028,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5094,7 +5094,7 @@
     "release_date": "2025-07-12",
     "poster_path": "/fKmsS7HRGvhSNiLysVIj1zoBHnt.jpg",
     "backdrop_path": "/s2GQUEJApbOVZL3vASbm5FWGdYN.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.652,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5338,7 +5338,7 @@
     "release_date": "2023-09-25",
     "poster_path": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
     "backdrop_path": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
-    "vote_average": 8.871,
+    "vote_average": 8.878,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
