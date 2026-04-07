@@ -1,25 +1,5 @@
 [
   {
-    "id": 137106,
-    "title": "The Lego Movie",
-    "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
-    "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
-    "vote_average": 7.422,
-    "release_date": "2014-02-06",
-    "genre_ids": [
-      16,
-      10751,
-      12,
-      35,
-      14
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "263034",
     "title": "The Journey of Legend",
     "overview": "Xiao Mingming is a martial arts novel enthusiast who, as the novel's protagonist Xiao Qiushui, journeys through a fictional martial arts world and grows from a passionate youth into a noble hero.",
@@ -5487,6 +5467,26 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 137106,
+    "title": "The Lego Movie",
+    "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+    "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+    "vote_average": 7.422,
+    "release_date": "2014-02-06",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      35,
+      14
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 196857,
