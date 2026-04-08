@@ -1,40 +1,5 @@
 [
   {
-    "id": 710,
-    "title": "GoldenEye",
-    "poster_path": "/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg",
-    "overview": "When a powerful satellite system falls into the hands of Alec Trevelyan, AKA Agent 006, a former ally-turned-enemy, only James Bond can save the world from a dangerous space weapon that -- in one short pulse -- could destroy the earth! As Bond squares off against his former compatriot, he also battles Xenia Onatopp, an assassin who uses pleasure as her ultimate weapon.",
-    "vote_average": 6.9,
-    "release_date": "1995-11-16",
-    "genre_ids": [
-      12,
-      28,
-      53
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 1300116,
-    "title": "Fall for Me",
-    "poster_path": "/mduZ3YRKele4rHhrse7b7B3d44b.jpg",
-    "overview": "Lilli is suspicious of her sister's new fiance, but when an attractive stranger enters her life, she's suddenly distracted by the thralls of desire.",
-    "vote_average": 6.098,
-    "release_date": "2025-08-20",
-    "genre_ids": [
-      10749,
-      53
-    ],
-    "original_language": "de",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "259710",
     "title": "Confidence Queen",
     "overview": "Three con artists with different backgrounds, team up for a daring and adventurous scheme of revenge against the villains of this era.",
@@ -107,42 +72,6 @@
     "is_local": true
   },
   {
-    "id": "310800",
-    "title": "Siren's Kiss",
-    "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
-    "release_date": "2026-03-02",
-    "poster_path": "/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
-    "backdrop_path": "/kgnukvQ1YKotz734ACQxDTvDCGe.jpg",
-    "vote_average": 6.563,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      80,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "882178",
-    "title": "Not Me",
-    "overview": "Based on true events, a vulnerable 21 year old food runner (Ashton), finds himself trapped in a compromising situation due to his commitment to provide a rich hotel guest (Steve) with excellent service. Ashton remains dedicated and focused on doing the best job possible, in spite of Steve's attempts to lure him into something he does not want to do.",
-    "release_date": "2018-03-01",
-    "poster_path": "/wnlNs9rRpm5RFPtKLtKGF5dWHEi.jpg",
-    "backdrop_path": "",
-    "vote_average": 4.5,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215000",
     "title": "My Sweet Mobster",
     "overview": "Once a convict, Ji-hwan is now a successful, albeit overly cautious CEO, who has yet to experience any of life’s more enjoyable pleasures: namely falling in love. But all that changes when fate brings beloved children’s content creator Eun-ha into his life. The unlikely pair find love most unexpectedly but Eun-ha’s longtime fan, Prosecutor Hyun-woo isn’t ready to let her go without a fight.",
@@ -175,6 +104,42 @@
       10759,
       9648,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "882178",
+    "title": "Not Me",
+    "overview": "Based on true events, a vulnerable 21 year old food runner (Ashton), finds himself trapped in a compromising situation due to his commitment to provide a rich hotel guest (Steve) with excellent service. Ashton remains dedicated and focused on doing the best job possible, in spite of Steve's attempts to lure him into something he does not want to do.",
+    "release_date": "2018-03-01",
+    "poster_path": "/wnlNs9rRpm5RFPtKLtKGF5dWHEi.jpg",
+    "backdrop_path": "",
+    "vote_average": 4.5,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "310800",
+    "title": "Siren's Kiss",
+    "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
+    "release_date": "2026-03-02",
+    "poster_path": "/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "backdrop_path": "/kgnukvQ1YKotz734ACQxDTvDCGe.jpg",
+    "vote_average": 6.611,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      80,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -597,23 +562,6 @@
     "is_local": true
   },
   {
-    "id": "255628",
-    "title": "Liars in Love",
-    "overview": "It tells the story of a girl who, upon learning that the orphanage where she grew up as a child is to be demolished because of a company project, decides to enter the business world to get closer to the Chu family heir.",
-    "release_date": "2024-05-31",
-    "poster_path": "/dxUEO1it4R9GCOwVVLN1EQ64GOZ.jpg",
-    "backdrop_path": "/fTZL56DZvUF8Rm4yRPwLiRJj4su.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "45787",
     "title": "Jun to Ai",
     "overview": "Jun to Ai is a Japanese television drama series. It debuted on October 1, 2012 and was broadcast until March 30, 2013. It is about a girl named Jun Kanō, raised in Miyakojima, Okinawa, who moves to Osaka to work in a hotel. There she meets a man named Itoshi Machida, with whom she falls in love. It is the 87th NHK Asadora.",
@@ -632,15 +580,15 @@
     "is_local": true
   },
   {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.1,
+    "id": "255628",
+    "title": "Liars in Love",
+    "overview": "It tells the story of a girl who, upon learning that the orphanage where she grew up as a child is to be demolished because of a company project, decides to enter the business world to get closer to the Chu family heir.",
+    "release_date": "2024-05-31",
+    "poster_path": "/dxUEO1it4R9GCOwVVLN1EQ64GOZ.jpg",
+    "backdrop_path": "/fTZL56DZvUF8Rm4yRPwLiRJj4su.jpg",
+    "vote_average": 9,
     "media_type": "tv",
-    "original_language": "th",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -662,6 +610,23 @@
       18,
       10765,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1031,7 +996,7 @@
     "release_date": "2022-02-16",
     "poster_path": "/pe3w2PnXAdGyilHNuyLHNFVASnp.jpg",
     "backdrop_path": "/n9WXAeHkkQ1f3ZaXXpneVcXRX1j.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.476,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1061,6 +1026,20 @@
     "is_local": true
   },
   {
+    "id": "393224",
+    "title": "Derailment",
+    "overview": "A woman gets onto a train, experiences a daydream with a fellow passenger, and gets of the train.",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "234534",
     "title": "Back to Seventeen",
     "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
@@ -1075,20 +1054,6 @@
       10765,
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "393224",
-    "title": "Derailment",
-    "overview": "A woman gets onto a train, experiences a daydream with a fellow passenger, and gets of the train.",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1603,7 +1568,7 @@
     "release_date": "2025-10-14",
     "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
     "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
-    "vote_average": 7.6,
+    "vote_average": 7.444,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2384,7 +2349,7 @@
     "release_date": "2021-10-29",
     "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
     "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
-    "vote_average": 8.559,
+    "vote_average": 8.551,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3061,7 +3026,7 @@
     "release_date": "2023-12-09",
     "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
     "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
-    "vote_average": 8.9,
+    "vote_average": 8.737,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3799,6 +3764,23 @@
     "is_local": true
   },
   {
+    "id": "261128",
+    "title": "Our Generation",
+    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
+    "release_date": "2025-07-14",
+    "poster_path": "/hj0m5txbc6bNftNHPdU95KEQInL.jpg",
+    "backdrop_path": "/8yfPXapjvJhFnpSEXrGN8cqV1fD.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "312172",
     "title": "Hell University",
     "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
@@ -3811,23 +3793,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "261128",
-    "title": "Our Generation",
-    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
-    "release_date": "2025-07-14",
-    "poster_path": "/hj0m5txbc6bNftNHPdU95KEQInL.jpg",
-    "backdrop_path": "/8yfPXapjvJhFnpSEXrGN8cqV1fD.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4271,7 +4236,7 @@
     "release_date": "2024-04-03",
     "poster_path": "/gqVxKunQPQVOZjElkVD0kz19ld7.jpg",
     "backdrop_path": "/5PAupb5qisR4w1GznvbyTINB7jH.jpg",
-    "vote_average": 8.636,
+    "vote_average": 8.609,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -5504,6 +5469,41 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 710,
+    "title": "GoldenEye",
+    "poster_path": "/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg",
+    "overview": "When a powerful satellite system falls into the hands of Alec Trevelyan, AKA Agent 006, a former ally-turned-enemy, only James Bond can save the world from a dangerous space weapon that -- in one short pulse -- could destroy the earth! As Bond squares off against his former compatriot, he also battles Xenia Onatopp, an assassin who uses pleasure as her ultimate weapon.",
+    "vote_average": 6.9,
+    "release_date": "1995-11-16",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1300116,
+    "title": "Fall for Me",
+    "poster_path": "/mduZ3YRKele4rHhrse7b7B3d44b.jpg",
+    "overview": "Lilli is suspicious of her sister's new fiance, but when an attractive stranger enters her life, she's suddenly distracted by the thralls of desire.",
+    "vote_average": 6.098,
+    "release_date": "2025-08-20",
+    "genre_ids": [
+      10749,
+      53
+    ],
+    "original_language": "de",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 128013,
