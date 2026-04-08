@@ -458,7 +458,7 @@
     "release_date": "2024-07-05",
     "poster_path": "/8JWGotah8kRzwufFvXXvrkZzeYZ.jpg",
     "backdrop_path": "/qSoShinVzMUK0QhtMGoiOD7SJE1.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.818,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -597,6 +597,23 @@
     "is_local": true
   },
   {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "253296",
     "title": "Century of Love",
     "overview": "To reunite with his long-dead love, a man uses a mystical secret to lengthen his life until her rebirth — only to learn her reincarnation is a young man.",
@@ -610,23 +627,6 @@
       18,
       10765,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -944,7 +944,7 @@
     "release_date": "2015-11-06",
     "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
     "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.784,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1585,7 +1585,7 @@
     "release_date": "2016-11-16",
     "poster_path": "/oARcy8kubYekRqii04obOlvw442.jpg",
     "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.507,
+    "vote_average": 8.509,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2256,7 +2256,7 @@
     "release_date": "2021-12-06",
     "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
     "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
-    "vote_average": 8.404,
+    "vote_average": 8.414,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2715,23 +2715,6 @@
     "is_local": true
   },
   {
-    "id": "240440",
-    "title": "The Story of Pearl Girl",
-    "overview": "After narrowly escaping an abusive pearl farm, a young woman with unmatched talent carves out her own fate as treachery meets the world of jewelry.",
-    "release_date": "2024-11-01",
-    "poster_path": "/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
-    "backdrop_path": "/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "158258",
     "title": "Duty After School",
     "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
@@ -2745,6 +2728,23 @@
       18,
       10765,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240440",
+    "title": "The Story of Pearl Girl",
+    "overview": "After narrowly escaping an abusive pearl farm, a young woman with unmatched talent carves out her own fate as treachery meets the world of jewelry.",
+    "release_date": "2024-11-01",
+    "poster_path": "/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
+    "backdrop_path": "/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4409,7 +4409,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/zL3BlyLxr5rrbZYITeOBAW2K5xv.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.481,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5077,7 +5077,7 @@
     "release_date": "2023-06-13",
     "poster_path": "/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
     "backdrop_path": "/lszTdpvocgGlOo6DBmqBO50qd1h.jpg",
-    "vote_average": 8.781,
+    "vote_average": 8.793,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
