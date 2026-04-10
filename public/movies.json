@@ -198,6 +198,23 @@
     "is_local": true
   },
   {
+    "id": "313995",
+    "title": "Single's Inferno Reunion",
+    "overview": "\"Single's Inferno\" contestants reunite to reveal honest feelings and relationship updates — revisiting standout moments from their time on the island.",
+    "release_date": "2026-02-14",
+    "poster_path": "/xgM5WOEzr0Y7MUK0EnuozBw3CKZ.jpg",
+    "backdrop_path": "/4qceofXVeBtJqJun3CZtkPs4m4I.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "310800",
     "title": "Siren's Kiss",
     "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
@@ -211,23 +228,6 @@
       18,
       80,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "313995",
-    "title": "Single's Inferno Reunion",
-    "overview": "\"Single's Inferno\" contestants reunite to reveal honest feelings and relationship updates — revisiting standout moments from their time on the island.",
-    "release_date": "2026-02-14",
-    "poster_path": "/xgM5WOEzr0Y7MUK0EnuozBw3CKZ.jpg",
-    "backdrop_path": "/4qceofXVeBtJqJun3CZtkPs4m4I.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -343,24 +343,6 @@
     "is_local": true
   },
   {
-    "id": "258865",
-    "title": "Love Beyond the Grave",
-    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
-    "release_date": "2026-03-28",
-    "poster_path": "/wI89MinPHLm3v2d3gB3J9DwpdDu.jpg",
-    "backdrop_path": "/edaJUEDeRAsPrj2FXgJNPETpLlc.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "261663",
     "title": "Blood River",
     "overview": "Blood River is the realm's most feared assassin guild, jointly run by the Su, Mu, and Xie clans. They can strike royals in court and crush great sects in the wild. When the patriarch is poisoned on a mission, the three clans vie for the top seat. Su Muyu leads the Spider-Shadow unit and shields the dying leader on the road to a cure. He clashes with elder Su Zhe and old friend Su Changhe, and meets master healer Bai Hehuai. After brutal power struggles, Su Changhe becomes new patriarch and Su Muyu heads the Su clan. They launch the \"Other Shore Plan\" to drag Blood River out of the shadow and forge a new destiny, free from being anyone's blade.",
@@ -373,6 +355,24 @@
     "genre_ids": [
       18,
       10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "258865",
+    "title": "Love Beyond the Grave",
+    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
+    "release_date": "2026-03-28",
+    "poster_path": "/wI89MinPHLm3v2d3gB3J9DwpdDu.jpg",
+    "backdrop_path": "/edaJUEDeRAsPrj2FXgJNPETpLlc.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
       10765
     ],
     "video_url": "",
@@ -548,7 +548,7 @@
     "release_date": "2026-01-02",
     "poster_path": "/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
     "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
-    "vote_average": 7.765,
+    "vote_average": 7.667,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4331,23 +4331,6 @@
     "is_local": true
   },
   {
-    "id": "225178",
-    "title": "The Love You Give Me",
-    "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
-    "release_date": "2023-04-24",
-    "poster_path": "/qL282eKyVyYanby06A4dzNNWsxK.jpg",
-    "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "198004",
     "title": "King the Land",
     "overview": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile — which he cannot stand.",
@@ -4366,13 +4349,30 @@
     "is_local": true
   },
   {
+    "id": "225178",
+    "title": "The Love You Give Me",
+    "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
+    "release_date": "2023-04-24",
+    "poster_path": "/qL282eKyVyYanby06A4dzNNWsxK.jpg",
+    "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "200709",
     "title": "Weak Hero",
     "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
     "release_date": "2022-11-18",
     "poster_path": "/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg",
     "backdrop_path": "/oLwotnApTObF5bMRrNHCaqpaZce.jpg",
-    "vote_average": 8.654,
+    "vote_average": 8.65,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5337,7 +5337,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.116,
+    "vote_average": 8.115,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
