@@ -1,57 +1,5 @@
 [
   {
-    "id": 466282,
-    "title": "To All the Boys I've Loved Before",
-    "poster_path": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
-    "overview": "Lara Jean's love life goes from imaginary to out of control when her secret letters to every boy she's ever fallen for are mysteriously mailed out.",
-    "vote_average": 7.595,
-    "release_date": "2018-08-17",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 407436,
-    "title": "Mowgli: Legend of the Jungle",
-    "poster_path": "/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg",
-    "overview": "A human child raised by wolves, must face off against a menacing tiger named Shere Khan, as well as his own origins.",
-    "vote_average": 6.473,
-    "release_date": "2018-11-25",
-    "genre_ids": [
-      12,
-      18
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 139798,
-    "title": "Single's Inferno",
-    "poster_path": "/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
-    "overview": "On a deserted island, flirtatious singles look for love, because only as a couple can they leave the island for a romantic date in paradise.",
-    "vote_average": 7.7,
-    "release_date": "2021-12-18",
-    "genre_ids": [
-      10764,
-      35,
-      10767
-    ],
-    "original_language": "ko",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "215000",
     "title": "My Sweet Mobster",
     "overview": "Once a convict, Ji-hwan is now a successful, albeit overly cautious CEO, who has yet to experience any of life’s more enjoyable pleasures: namely falling in love. But all that changes when fate brings beloved children’s content creator Eun-ha into his life. The unlikely pair find love most unexpectedly but Eun-ha’s longtime fan, Prosecutor Hyun-woo isn’t ready to let her go without a fight.",
@@ -199,6 +147,23 @@
     "is_local": true
   },
   {
+    "id": "278157",
+    "title": "My Romance Scammer",
+    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
+    "release_date": "2026-02-01",
+    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
+    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "307624",
     "title": "Sammy's Children's Day",
     "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
@@ -212,23 +177,6 @@
       18,
       80,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278157",
-    "title": "My Romance Scammer",
-    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
-    "release_date": "2026-02-01",
-    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
-    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -287,6 +235,24 @@
     "is_local": true
   },
   {
+    "id": "210191",
+    "title": "A Journey to Love",
+    "overview": "Two top assassins from rival agencies and their six-member team who with diverse backgrounds, and unique skills embark on a journey filled with challenges and crises.",
+    "release_date": "2023-11-28",
+    "poster_path": "/7DKpFBcZNZWsmApAtYhuQWo1LJD.jpg",
+    "backdrop_path": "/i19T9qxGLeRFkFZQazLOuSjtCDE.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "310800",
     "title": "Siren's Kiss",
     "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
@@ -319,24 +285,6 @@
       35,
       10751,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "210191",
-    "title": "A Journey to Love",
-    "overview": "Two top assassins from rival agencies and their six-member team who with diverse backgrounds, and unique skills embark on a journey filled with challenges and crises.",
-    "release_date": "2023-11-28",
-    "poster_path": "/7DKpFBcZNZWsmApAtYhuQWo1LJD.jpg",
-    "backdrop_path": "/i19T9qxGLeRFkFZQazLOuSjtCDE.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -956,6 +904,23 @@
     "is_local": true
   },
   {
+    "id": "240892",
+    "title": "Monster Next Door",
+    "overview": "Introvert Diew cherishes his quiet life with his turtle until loud extrovert God moves in. Their balcony chats spark a friendship—without meeting face-to-face.",
+    "release_date": "2024-08-08",
+    "poster_path": "/gryQmz8EiGGQLfxnGZKEfS0VHB3.jpg",
+    "backdrop_path": "/9oali42CVTvN0kgTOIYsgKJMCnd.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "258865",
     "title": "Love Beyond the Grave",
     "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
@@ -968,23 +933,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240892",
-    "title": "Monster Next Door",
-    "overview": "Introvert Diew cherishes his quiet life with his turtle until loud extrovert God moves in. Their balcony chats spark a friendship—without meeting face-to-face.",
-    "release_date": "2024-08-08",
-    "poster_path": "/gryQmz8EiGGQLfxnGZKEfS0VHB3.jpg",
-    "backdrop_path": "/9oali42CVTvN0kgTOIYsgKJMCnd.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1043,23 +991,6 @@
     "is_local": true
   },
   {
-    "id": "157208",
-    "title": "Semantic Error",
-    "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
-    "release_date": "2022-02-16",
-    "poster_path": "/pe3w2PnXAdGyilHNuyLHNFVASnp.jpg",
-    "backdrop_path": "/n9WXAeHkkQ1f3ZaXXpneVcXRX1j.jpg",
-    "vote_average": 8.476,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "240144",
     "title": "Revamp: The Undead Story",
     "overview": "After his blood frees a century-old vampire trapped in a painting, an antique dealer must help him regain his powers before deadly Hunters close in.",
@@ -1073,6 +1004,23 @@
       9648,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "157208",
+    "title": "Semantic Error",
+    "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
+    "release_date": "2022-02-16",
+    "poster_path": "/pe3w2PnXAdGyilHNuyLHNFVASnp.jpg",
+    "backdrop_path": "/n9WXAeHkkQ1f3ZaXXpneVcXRX1j.jpg",
+    "vote_average": 8.476,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1435,23 +1383,6 @@
     "is_local": true
   },
   {
-    "id": "286445",
-    "title": "Marry Me Again",
-    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
-    "release_date": "2025-04-02",
-    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
-    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
-    "vote_average": 7.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
@@ -1484,6 +1415,23 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286445",
+    "title": "Marry Me Again",
+    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
+    "release_date": "2025-04-02",
+    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
+    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
+    "vote_average": 7.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2431,23 +2379,6 @@
     "is_local": true
   },
   {
-    "id": "282471",
-    "title": "ClaireBell",
-    "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
-    "release_date": "2025-10-27",
-    "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
-    "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-    "vote_average": 8.259,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "257010",
     "title": "The Princess's Gambit",
     "overview": "In a world divided into three kingdoms, Princess Jiang Taohua of Zhao escapes Empress Lv's control through a marriage alliance in Wei, a kingdom fraught with political intrigue. An unexpected encounter with Chancellor Shen Zaiye draws her into his world, where their complex relationship unfolds as they navigate personal ambitions and the turbulence of court politics.",
@@ -2457,6 +2388,23 @@
     "vote_average": 8,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "282471",
+    "title": "ClaireBell",
+    "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
+    "release_date": "2025-10-27",
+    "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
+    "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
+    "vote_average": 8.259,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -2892,6 +2840,24 @@
     "is_local": true
   },
   {
+    "id": "238618",
+    "title": "Love of the Divine Tree",
+    "overview": "Su Yishui, a talented young cultivator, had his destiny changed by his master Mu Qingge eighteen years ago. Mu Qingge, known as the \"female demon,\" was also branded with a bad reputation and presumed dead. Eighteen years later, Mu Qingge transforms into Xue Ranran, and Su Yishui, now the head of the West Mountain Sect, takes the critically ill Ranran as his disciple, vowing to protect her for life. Thus, the roles of master and disciple are swapped, and various amusing and unusual stories unfold between them.",
+    "release_date": "2025-02-07",
+    "poster_path": "/1XRiwCvZPlx8iWGy1BWOCHRgY0a.jpg",
+    "backdrop_path": "/h5Z7JutfjTOETDg86YMex28F2se.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "68814",
     "title": "Strong Woman Do Bong-Soon",
     "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
@@ -2905,24 +2871,6 @@
       35,
       10759,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "238618",
-    "title": "Love of the Divine Tree",
-    "overview": "Su Yishui, a talented young cultivator, had his destiny changed by his master Mu Qingge eighteen years ago. Mu Qingge, known as the \"female demon,\" was also branded with a bad reputation and presumed dead. Eighteen years later, Mu Qingge transforms into Xue Ranran, and Su Yishui, now the head of the West Mountain Sect, takes the critically ill Ranran as his disciple, vowing to protect her for life. Thus, the roles of master and disciple are swapped, and various amusing and unusual stories unfold between them.",
-    "release_date": "2025-02-07",
-    "poster_path": "/1XRiwCvZPlx8iWGy1BWOCHRgY0a.jpg",
-    "backdrop_path": "/h5Z7JutfjTOETDg86YMex28F2se.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3097,7 +3045,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
     "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.253,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3995,24 +3943,6 @@
     "is_local": true
   },
   {
-    "id": "312172",
-    "title": "Hell University",
-    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
-    "release_date": "2026-02-06",
-    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
-    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "128926",
     "title": "Unforgettable Love",
     "overview": "He Qiaoyan, the stoic CEO of Heshi Group, and Qin Yiyue, a warm and optimistic child psychologist, find their relationship evolving from professional acquaintance to love when Qin Yiyue begins working with He Qiaoyan's son.",
@@ -4026,6 +3956,24 @@
       18,
       35,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "312172",
+    "title": "Hell University",
+    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
+    "release_date": "2026-02-06",
+    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
+    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4644,7 +4592,7 @@
     "release_date": "2025-10-08",
     "poster_path": "/alXAb26apN2tbRM91QjeZ0KzHlj.jpg",
     "backdrop_path": "/740EohtgbVDXsiaEoDJPc1k0tVX.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.706,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4906,37 +4854,6 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
-  },
-  {
-    "id": "108121",
-    "title": "FUN (TV show)",
-    "overview": "Variety talk and music show.",
-    "release_date": "",
-    "poster_path": "/1VGMt16TMUNLV4QmNkwxLRaFBZb.jpg",
-    "backdrop_path": "/oDKkv2vKnvl5ZjrAJkLNUfVLUVh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": 269161,
-    "title": "Bandi",
-    "poster_path": "/bbU23S58nbHK3PkIpbbprRFTVGl.jpg",
-    "overview": "Following the death of their mother, their pillar of strength and their anchor, eleven siblings aged 7 to 23 try to stay united in the face of adversity. But for some of them, drug trafficking seems to be the only way to survive. A decision far from being unanimously accepted, and one that severely tests the strength of their family bonds.",
-    "vote_average": 3,
-    "release_date": "2026-04-09",
-    "genre_ids": [
-      18
-    ],
-    "original_language": "fr",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
   },
   {
     "id": "219246",
@@ -5538,6 +5455,89 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": "108121",
+    "title": "FUN (TV show)",
+    "overview": "Variety talk and music show.",
+    "release_date": "",
+    "poster_path": "/1VGMt16TMUNLV4QmNkwxLRaFBZb.jpg",
+    "backdrop_path": "/oDKkv2vKnvl5ZjrAJkLNUfVLUVh.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": 466282,
+    "title": "To All the Boys I've Loved Before",
+    "poster_path": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+    "overview": "Lara Jean's love life goes from imaginary to out of control when her secret letters to every boy she's ever fallen for are mysteriously mailed out.",
+    "vote_average": 7.595,
+    "release_date": "2018-08-17",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 407436,
+    "title": "Mowgli: Legend of the Jungle",
+    "poster_path": "/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg",
+    "overview": "A human child raised by wolves, must face off against a menacing tiger named Shere Khan, as well as his own origins.",
+    "vote_average": 6.473,
+    "release_date": "2018-11-25",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 139798,
+    "title": "Single's Inferno",
+    "poster_path": "/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
+    "overview": "On a deserted island, flirtatious singles look for love, because only as a couple can they leave the island for a romantic date in paradise.",
+    "vote_average": 7.7,
+    "release_date": "2021-12-18",
+    "genre_ids": [
+      10764,
+      35,
+      10767
+    ],
+    "original_language": "ko",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 269161,
+    "title": "Bandi",
+    "poster_path": "/bbU23S58nbHK3PkIpbbprRFTVGl.jpg",
+    "overview": "Following the death of their mother, their pillar of strength and their anchor, eleven siblings aged 7 to 23 try to stay united in the face of adversity. But for some of them, drug trafficking seems to be the only way to survive. A decision far from being unanimously accepted, and one that severely tests the strength of their family bonds.",
+    "vote_average": 3,
+    "release_date": "2026-04-09",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "fr",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 1290417,
