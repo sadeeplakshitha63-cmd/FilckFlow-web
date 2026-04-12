@@ -1,5 +1,39 @@
 [
   {
+    "id": 1391,
+    "title": "Y Tu Mamá También",
+    "poster_path": "/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+    "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+    "vote_average": 7.413,
+    "release_date": "2001-06-08",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "original_language": "es",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 316898,
+    "title": "Trust Me: The False Prophet",
+    "poster_path": "/19SbwVaGsqyfynQMTmB3nndmIQr.jpg",
+    "overview": "Chronicles the rise of Samuel Bateman, the self-proclaimed heir to Warren Jeffs’ Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS), through the eyes of one couple who infiltrated his inner circle.",
+    "vote_average": 7.917,
+    "release_date": "2026-04-08",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "291914",
     "title": "NANA bnb with SEVENTEEN",
     "overview": "As SEVENTEEN is getting ready to celebrate their 10th anniversary, SEVENTEEN will be making some unforgettable memories with HOST NA!",
@@ -34,23 +68,6 @@
     "is_local": true
   },
   {
-    "id": "255369",
-    "title": "City of Romance",
-    "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
-    "release_date": "2025-02-14",
-    "poster_path": "/jRuly9cc1nky1UVBNH4gzMd03z5.jpg",
-    "backdrop_path": "/1iN8W3R5E0PgKuNMb2JrxOtDYTC.jpg",
-    "vote_average": 7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "293608",
     "title": "Undercover Miss Hong",
     "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
@@ -63,6 +80,23 @@
     "genre_ids": [
       80,
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "255369",
+    "title": "City of Romance",
+    "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
+    "release_date": "2025-02-14",
+    "poster_path": "/jRuly9cc1nky1UVBNH4gzMd03z5.jpg",
+    "backdrop_path": "/1iN8W3R5E0PgKuNMb2JrxOtDYTC.jpg",
+    "vote_average": 7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -258,7 +292,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
     "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 9,
+    "vote_average": 9.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -472,23 +506,6 @@
     "is_local": true
   },
   {
-    "id": "305105",
-    "title": "Peach Lover",
-    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
-    "release_date": "2026-01-20",
-    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
-    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
-    "vote_average": 7.056,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "128567",
     "title": "Don't Say No",
     "overview": "Best friends since childhood, Leo and Fiat must face the confusing line between friendship and something more.",
@@ -508,18 +525,16 @@
     "is_local": true
   },
   {
-    "id": "282810",
-    "title": "The Judge Returns",
-    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
-    "release_date": "2026-01-02",
-    "poster_path": "/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
-    "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
-    "vote_average": 7.667,
+    "id": "305105",
+    "title": "Peach Lover",
+    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
+    "release_date": "2026-01-20",
+    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
+    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
+    "vote_average": 7.056,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "th",
     "genre_ids": [
-      80,
-      10765,
       18
     ],
     "video_url": "",
@@ -540,6 +555,25 @@
       18,
       10765,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "282810",
+    "title": "The Judge Returns",
+    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
+    "release_date": "2026-01-02",
+    "poster_path": "/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
+    "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
+    "vote_average": 7.667,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      10765,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -689,23 +723,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "230835",
     "title": "Mysterious Lotus Casebook",
     "overview": "Li Lian Hua is a countryside doctor who travels dragging around a lotus tower. He accidentally becomes \"famous\" and gets pulled into the pugilistic world that he no longer wants to have any connections with.",
@@ -718,6 +735,23 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1077,6 +1111,23 @@
     "is_local": true
   },
   {
+    "id": "283543",
+    "title": "My Safe Zone",
+    "overview": "Alin leaves her best friend Jane to study abroad. Years later, a broken engagement brings her home, where they face feelings long unspoken.",
+    "release_date": "2025-10-24",
+    "poster_path": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
+    "backdrop_path": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
+    "vote_average": 6.3,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "258865",
     "title": "Love Beyond the Grave",
     "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
@@ -1089,23 +1140,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "283543",
-    "title": "My Safe Zone",
-    "overview": "Alin leaves her best friend Jane to study abroad. Years later, a broken engagement brings her home, where they face feelings long unspoken.",
-    "release_date": "2025-10-24",
-    "poster_path": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
-    "backdrop_path": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
-    "vote_average": 6.3,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2464,6 +2498,21 @@
     "is_local": true
   },
   {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "223911",
     "title": "Renegade Immortal",
     "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
@@ -2479,21 +2528,6 @@
       18,
       10765
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -3996,24 +4030,6 @@
     "is_local": true
   },
   {
-    "id": "312172",
-    "title": "Hell University",
-    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
-    "release_date": "2026-02-06",
-    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
-    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "210781",
     "title": "My Lovely Liar",
     "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
@@ -4028,6 +4044,24 @@
       35,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "312172",
+    "title": "Hell University",
+    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
+    "release_date": "2026-02-06",
+    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
+    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4479,7 +4513,7 @@
     "release_date": "2025-11-15",
     "poster_path": "/vq13Nvh0mMUAWGVA9TB9JnvoO5M.jpg",
     "backdrop_path": "/cXCqkzOZ3vAgaskIBwDR2zTkH0M.jpg",
-    "vote_average": 8.867,
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
