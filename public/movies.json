@@ -34,23 +34,6 @@
     "is_local": true
   },
   {
-    "id": "255369",
-    "title": "City of Romance",
-    "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
-    "release_date": "2025-02-14",
-    "poster_path": "/jRuly9cc1nky1UVBNH4gzMd03z5.jpg",
-    "backdrop_path": "/1iN8W3R5E0PgKuNMb2JrxOtDYTC.jpg",
-    "vote_average": 7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "293608",
     "title": "Undercover Miss Hong",
     "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
@@ -84,6 +67,23 @@
       10759,
       9648,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "255369",
+    "title": "City of Romance",
+    "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
+    "release_date": "2025-02-14",
+    "poster_path": "/jRuly9cc1nky1UVBNH4gzMd03z5.jpg",
+    "backdrop_path": "/1iN8W3R5E0PgKuNMb2JrxOtDYTC.jpg",
+    "vote_average": 7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1027,20 +1027,6 @@
     "is_local": true
   },
   {
-    "id": "393224",
-    "title": "Derailment",
-    "overview": "A woman gets onto a train, experiences a daydream with a fellow passenger, and gets of the train.",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "157208",
     "title": "Semantic Error",
     "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
@@ -1053,6 +1039,20 @@
     "genre_ids": [
       18
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "393224",
+    "title": "Derailment",
+    "overview": "A woman gets onto a train, experiences a daydream with a fellow passenger, and gets of the train.",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1705,13 +1705,13 @@
     "is_local": true
   },
   {
-    "id": "247207",
-    "title": "Ski into Love",
-    "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
-    "release_date": "2025-03-11",
-    "poster_path": "/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
-    "backdrop_path": "/iZLtHdy8supE79NsAXERN5Vju1K.jpg",
-    "vote_average": 6.727,
+    "id": "226186",
+    "title": "My Journey To You",
+    "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
+    "release_date": "2023-09-02",
+    "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+    "backdrop_path": "/h58XZvo62zOmwV35N2LRon9JPcd.jpg",
+    "vote_average": 7.13,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1722,13 +1722,13 @@
     "is_local": true
   },
   {
-    "id": "226186",
-    "title": "My Journey To You",
-    "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
-    "release_date": "2023-09-02",
-    "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
-    "backdrop_path": "/h58XZvo62zOmwV35N2LRon9JPcd.jpg",
-    "vote_average": 7.13,
+    "id": "247207",
+    "title": "Ski into Love",
+    "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
+    "release_date": "2025-03-11",
+    "poster_path": "/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
+    "backdrop_path": "/iZLtHdy8supE79NsAXERN5Vju1K.jpg",
+    "vote_average": 6.727,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3026,7 +3026,7 @@
     "release_date": "2023-12-09",
     "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
     "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
-    "vote_average": 8.737,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4804,7 +4804,7 @@
   {
     "id": "233347",
     "title": "Study Group",
-    "overview": "struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
+    "overview": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
     "release_date": "2025-01-23",
     "poster_path": "/1x3xfnXQpxVfiRXUTqzX4CxU8yf.jpg",
     "backdrop_path": "/uYi9bmJPBGC5tI2b6K4mdsUJivK.jpg",
@@ -5339,7 +5339,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.247,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
