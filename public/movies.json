@@ -51,25 +51,6 @@
     "is_local": true
   },
   {
-    "id": "293608",
-    "title": "Undercover Miss Hong",
-    "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
-    "release_date": "2026-01-17",
-    "poster_path": "/dKIRkUyblxREM3k22JS5j64Bkox.jpg",
-    "backdrop_path": "/6yyKOxjQgb0C3I43T6qyXbieHni.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215072",
     "title": "A Shop for Killers",
     "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
@@ -84,6 +65,25 @@
       10759,
       9648,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "293608",
+    "title": "Undercover Miss Hong",
+    "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
+    "release_date": "2026-01-17",
+    "poster_path": "/dKIRkUyblxREM3k22JS5j64Bkox.jpg",
+    "backdrop_path": "/6yyKOxjQgb0C3I43T6qyXbieHni.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -419,6 +419,23 @@
     "is_local": true
   },
   {
+    "id": "271889",
+    "title": "A Hundred Memories",
+    "overview": "A heartbreaking first love story of a man who was destined to be the fate of two women who were bus guides in the 1980s, and a melodrama-comedy of shining youths who were destined to be brilliant.",
+    "release_date": "2025-09-13",
+    "poster_path": "/iGHE2Wk0dhRRGnZghMorr07FTHt.jpg",
+    "backdrop_path": "/ne9RkIKaPtpv8OuFQI7YS4o6QBD.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "307624",
     "title": "Sammy's Children's Day",
     "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
@@ -432,23 +449,6 @@
       18,
       80,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "271889",
-    "title": "A Hundred Memories",
-    "overview": "A heartbreaking first love story of a man who was destined to be the fate of two women who were bus guides in the 1980s, and a melodrama-comedy of shining youths who were destined to be brilliant.",
-    "release_date": "2025-09-13",
-    "poster_path": "/iGHE2Wk0dhRRGnZghMorr07FTHt.jpg",
-    "backdrop_path": "/ne9RkIKaPtpv8OuFQI7YS4o6QBD.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1026,6 +1026,20 @@
     "is_local": true
   },
   {
+    "id": "393224",
+    "title": "Derailment",
+    "overview": "A woman gets onto a train, experiences a daydream with a fellow passenger, and gets of the train.",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278299",
     "title": "Me and Who",
     "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
@@ -1039,20 +1053,6 @@
       18,
       10765
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "393224",
-    "title": "Derailment",
-    "overview": "A woman gets onto a train, experiences a daydream with a fellow passenger, and gets of the train.",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1336,7 +1336,7 @@
     "release_date": "2026-03-28",
     "poster_path": "/wI89MinPHLm3v2d3gB3J9DwpdDu.jpg",
     "backdrop_path": "/edaJUEDeRAsPrj2FXgJNPETpLlc.jpg",
-    "vote_average": 8.2,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3061,7 +3061,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
     "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.294,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3240,6 +3240,23 @@
     "is_local": true
   },
   {
+    "id": "273418",
+    "title": "Law and the City",
+    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+    "release_date": "2025-07-05",
+    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "backdrop_path": "/8MsIBCK1kGSoLWPGey79tZwCPRN.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "247453",
     "title": "Everyone Loves Me",
     "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
@@ -3251,23 +3268,6 @@
     "original_language": "zh",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "273418",
-    "title": "Law and the City",
-    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
-    "release_date": "2025-07-05",
-    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
-    "backdrop_path": "/8MsIBCK1kGSoLWPGey79tZwCPRN.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -5271,7 +5271,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.709,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
