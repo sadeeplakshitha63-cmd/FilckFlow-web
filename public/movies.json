@@ -311,6 +311,23 @@
     "is_local": true
   },
   {
+    "id": "249104",
+    "title": "This Love Doesn't Have Long Beans",
+    "overview": "Model Plawan, a pad kaprao enthusiast, is hired to train under stern Chef Oab, aiming to win his heart and become his successor.",
+    "release_date": "2024-07-05",
+    "poster_path": "/8JWGotah8kRzwufFvXXvrkZzeYZ.jpg",
+    "backdrop_path": "/qSoShinVzMUK0QhtMGoiOD7SJE1.jpg",
+    "vote_average": 7.818,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278573",
     "title": "Perfect Crown",
     "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
@@ -322,23 +339,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "249104",
-    "title": "This Love Doesn't Have Long Beans",
-    "overview": "Model Plawan, a pad kaprao enthusiast, is hired to train under stern Chef Oab, aiming to win his heart and become his successor.",
-    "release_date": "2024-07-05",
-    "poster_path": "/8JWGotah8kRzwufFvXXvrkZzeYZ.jpg",
-    "backdrop_path": "/qSoShinVzMUK0QhtMGoiOD7SJE1.jpg",
-    "vote_average": 7.818,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1230,7 +1230,7 @@
     "release_date": "2025-11-26",
     "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
     "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.091,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2768,24 +2768,6 @@
     "is_local": true
   },
   {
-    "id": "290054",
-    "title": "The Seven Relics of ill Omen",
-    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
-    "release_date": "2025-06-08",
-    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
-    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "96462",
     "title": "It's Okay to Not Be Okay",
     "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
@@ -2798,6 +2780,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "290054",
+    "title": "The Seven Relics of ill Omen",
+    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
+    "release_date": "2025-06-08",
+    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
+    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3858,7 +3858,7 @@
     "release_date": "2025-10-31",
     "poster_path": "/ymuCDUc3WdXFGW95lLemBty7mL2.jpg",
     "backdrop_path": "/ex8tr0HjFIsOWf968DuJwTKAZjg.jpg",
-    "vote_average": 8.294,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -5199,7 +5199,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
     "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-    "vote_average": 7.7,
+    "vote_average": 7.765,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
