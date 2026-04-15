@@ -1,5 +1,42 @@
 [
   {
+    "id": 69061,
+    "title": "The OA",
+    "poster_path": "/rueY4slMeKtTGitm0raFUJvgaa5.jpg",
+    "overview": "Seven years after vanishing from her home, a young woman returns with mysterious new abilities and recruits five strangers for a secret mission.",
+    "vote_average": 7.508,
+    "release_date": "2016-12-16",
+    "genre_ids": [
+      10765,
+      9648,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 82452,
+    "title": "Avatar the Last Airbender",
+    "poster_path": "/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+    "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+    "vote_average": 7.758,
+    "release_date": "2024-02-22",
+    "genre_ids": [
+      10759,
+      18,
+      10751,
+      10765
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "255369",
     "title": "City of Romance",
     "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
@@ -153,7 +190,7 @@
     "release_date": "2024-02-29",
     "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
     "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.086,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -402,6 +439,24 @@
     "is_local": true
   },
   {
+    "id": "260555",
+    "title": "Pump Up the Healthy Love",
+    "overview": "Do Hyeon-joong, a health-obsessed gym manager, helps his members transform their lives while balancing the struggles of self-employment, and forms a passionate connection with Lee Mi-ran, a travel agency manager who loves food.",
+    "release_date": "2025-04-30",
+    "poster_path": "/rzGKRiBSPVd5RsEhMB0GGWYd654.jpg",
+    "backdrop_path": "/b5M1ZUxYT3v5cRVKMpw6tKIYo89.jpg",
+    "vote_average": 7.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "253296",
     "title": "Century of Love",
     "overview": "To reunite with his long-dead love, a man uses a mystical secret to lengthen his life until her rebirth — only to learn her reincarnation is a young man.",
@@ -415,24 +470,6 @@
       18,
       10765,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "260555",
-    "title": "Pump Up the Healthy Love",
-    "overview": "Do Hyeon-joong, a health-obsessed gym manager, helps his members transform their lives while balancing the struggles of self-employment, and forms a passionate connection with Lee Mi-ran, a travel agency manager who loves food.",
-    "release_date": "2025-04-30",
-    "poster_path": "/rzGKRiBSPVd5RsEhMB0GGWYd654.jpg",
-    "backdrop_path": "/b5M1ZUxYT3v5cRVKMpw6tKIYo89.jpg",
-    "vote_average": 7.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -552,28 +589,11 @@
     "release_date": "2025-05-12",
     "poster_path": "/eJLFeRmxssjQgV1wmtgdKwzYLEC.jpg",
     "backdrop_path": "/xMgfvjhKwuFTyoXNpa8UVV74rek.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.351,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278157",
-    "title": "My Romance Scammer",
-    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
-    "release_date": "2026-02-01",
-    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
-    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -594,6 +614,23 @@
       16,
       28,
       14
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278157",
+    "title": "My Romance Scammer",
+    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
+    "release_date": "2026-02-01",
+    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
+    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -781,6 +818,23 @@
     "is_local": true
   },
   {
+    "id": "292614",
+    "title": "World of Street Woman Fighter",
+    "overview": "A global dance challenge that showcases the pride of strong women around the world.",
+    "release_date": "2025-05-27",
+    "poster_path": "/8m6G6Z9chiduch18lWKEyxttl7C.jpg",
+    "backdrop_path": "/chl67zBJ1G2hrgaSaxFvAZ9eBJh.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278573",
     "title": "Perfect Crown",
     "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
@@ -793,23 +847,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "292614",
-    "title": "World of Street Woman Fighter",
-    "overview": "A global dance challenge that showcases the pride of strong women around the world.",
-    "release_date": "2025-05-27",
-    "poster_path": "/8m6G6Z9chiduch18lWKEyxttl7C.jpg",
-    "backdrop_path": "/chl67zBJ1G2hrgaSaxFvAZ9eBJh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1687,18 +1724,18 @@
     "is_local": true
   },
   {
-    "id": "258865",
-    "title": "Love Beyond the Grave",
-    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
-    "release_date": "2026-03-28",
-    "poster_path": "/wI89MinPHLm3v2d3gB3J9DwpdDu.jpg",
-    "backdrop_path": "/edaJUEDeRAsPrj2FXgJNPETpLlc.jpg",
-    "vote_average": 7.5,
+    "id": "243028",
+    "title": "Love Song in Winter",
+    "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
+    "release_date": "2024-12-20",
+    "poster_path": "/73FWssGQ7eKrWIrPMJ0MBoQ0T45.jpg",
+    "backdrop_path": "/hEI6PtKQFR5ihOE9bwZfDqESW2.jpg",
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
       18,
-      10765
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1722,18 +1759,18 @@
     "is_local": true
   },
   {
-    "id": "243028",
-    "title": "Love Song in Winter",
-    "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
-    "release_date": "2024-12-20",
-    "poster_path": "/73FWssGQ7eKrWIrPMJ0MBoQ0T45.jpg",
-    "backdrop_path": "/hEI6PtKQFR5ihOE9bwZfDqESW2.jpg",
-    "vote_average": 8.4,
+    "id": "258865",
+    "title": "Love Beyond the Grave",
+    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
+    "release_date": "2026-03-28",
+    "poster_path": "/wI89MinPHLm3v2d3gB3J9DwpdDu.jpg",
+    "backdrop_path": "/edaJUEDeRAsPrj2FXgJNPETpLlc.jpg",
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
       18,
-      9648
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4067,24 +4104,6 @@
     "is_local": true
   },
   {
-    "id": "312172",
-    "title": "Hell University",
-    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
-    "release_date": "2026-02-06",
-    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
-    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223896",
     "title": "Spirit Fingers",
     "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
@@ -4097,6 +4116,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "312172",
+    "title": "Hell University",
+    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
+    "release_date": "2026-02-06",
+    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
+    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5199,7 +5236,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
     "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-    "vote_average": 7.765,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5303,7 +5340,7 @@
     "release_date": "2023-09-25",
     "poster_path": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
     "backdrop_path": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
-    "vote_average": 8.887,
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
