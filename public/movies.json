@@ -1,23 +1,5 @@
 [
   {
-    "id": 246799,
-    "title": "Crooks",
-    "poster_path": "/8KkAi8uaCKainPE0OeBp6zHRWTa.jpg",
-    "overview": "A priceless coin forces a retired safecracker and a two-bit gangster to work together, drawing them into daring heists and global criminal rivalries.",
-    "vote_average": 7.1,
-    "release_date": "2024-04-04",
-    "genre_ids": [
-      10759,
-      18,
-      80
-    ],
-    "original_language": "de",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "255369",
     "title": "City of Romance",
     "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
@@ -293,24 +275,6 @@
     "is_local": true
   },
   {
-    "id": "278166",
-    "title": "Boys In Love",
-    "overview": "This semester, studious Shane is tasked with tutoring feckless and flirtatious Kit. Meanwhile, just when Kim is ready to give up on love, new kid Mon arrives and it's love at first sight.",
-    "release_date": "2025-04-20",
-    "poster_path": "/fNQTlxzGq6iwenWKK89qBENFrzi.jpg",
-    "backdrop_path": "/2nAwb97mGbeo7COCV619YFmJXyj.jpg",
-    "vote_average": 8.7,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "217553",
     "title": "The Trauma Code: Heroes on Call",
     "overview": "To create a top-tier trauma center, a war-seasoned doctor arrives — bringing his blunt but skilled ways to transform his team into life-saving mavericks.",
@@ -323,6 +287,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278166",
+    "title": "Boys In Love",
+    "overview": "This semester, studious Shane is tasked with tutoring feckless and flirtatious Kit. Meanwhile, just when Kim is ready to give up on love, new kid Mon arrives and it's love at first sight.",
+    "release_date": "2025-04-20",
+    "poster_path": "/fNQTlxzGq6iwenWKK89qBENFrzi.jpg",
+    "backdrop_path": "/2nAwb97mGbeo7COCV619YFmJXyj.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -420,6 +402,25 @@
     "is_local": true
   },
   {
+    "id": "253296",
+    "title": "Century of Love",
+    "overview": "To reunite with his long-dead love, a man uses a mystical secret to lengthen his life until her rebirth — only to learn her reincarnation is a young man.",
+    "release_date": "2024-07-10",
+    "poster_path": "/5JAJR9J0b4Br4rql4XHgq7qt7SC.jpg",
+    "backdrop_path": "/rTpw6JjsS4WIRSQ7xJoaqjIxS4b.jpg",
+    "vote_average": 9.333,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "310800",
     "title": "Siren's Kiss",
     "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
@@ -457,25 +458,6 @@
     "is_local": true
   },
   {
-    "id": "253296",
-    "title": "Century of Love",
-    "overview": "To reunite with his long-dead love, a man uses a mystical secret to lengthen his life until her rebirth — only to learn her reincarnation is a young man.",
-    "release_date": "2024-07-10",
-    "poster_path": "/5JAJR9J0b4Br4rql4XHgq7qt7SC.jpg",
-    "backdrop_path": "/rTpw6JjsS4WIRSQ7xJoaqjIxS4b.jpg",
-    "vote_average": 9.333,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237338",
     "title": "High School Frenemy",
     "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
@@ -486,25 +468,6 @@
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "282810",
-    "title": "The Judge Returns",
-    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
-    "release_date": "2026-01-02",
-    "poster_path": "/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
-    "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
-    "vote_average": 7.667,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      10765,
       18
     ],
     "video_url": "",
@@ -524,6 +487,25 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "282810",
+    "title": "The Judge Returns",
+    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
+    "release_date": "2026-01-02",
+    "poster_path": "/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
+    "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
+    "vote_average": 7.667,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      10765,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -581,6 +563,24 @@
     "is_local": true
   },
   {
+    "id": "281006",
+    "title": "Tastefully Yours",
+    "overview": "Driven to claim top culinary honors, an arrogant heir meets a low-profile but stubborn chef whose recipes astonish him — sparking an unlikely romance.",
+    "release_date": "2025-05-12",
+    "poster_path": "/eJLFeRmxssjQgV1wmtgdKwzYLEC.jpg",
+    "backdrop_path": "/xMgfvjhKwuFTyoXNpa8UVV74rek.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1311031",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
@@ -594,24 +594,6 @@
       16,
       28,
       14
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "281006",
-    "title": "Tastefully Yours",
-    "overview": "Driven to claim top culinary honors, an arrogant heir meets a low-profile but stubborn chef whose recipes astonish him — sparking an unlikely romance.",
-    "release_date": "2025-05-12",
-    "poster_path": "/eJLFeRmxssjQgV1wmtgdKwzYLEC.jpg",
-    "backdrop_path": "/xMgfvjhKwuFTyoXNpa8UVV74rek.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -685,24 +667,6 @@
       18,
       80,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -794,6 +758,24 @@
     "genre_ids": [
       80,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1011,20 +993,6 @@
     "is_local": true
   },
   {
-    "id": "393224",
-    "title": "Derailment",
-    "overview": "A woman gets onto a train, experiences a daydream with a fellow passenger, and gets of the train.",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "157208",
     "title": "Semantic Error",
     "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
@@ -1055,6 +1023,20 @@
       18,
       10765
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "393224",
+    "title": "Derailment",
+    "overview": "A woman gets onto a train, experiences a daydream with a fellow passenger, and gets of the train.",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1248,7 +1230,7 @@
     "release_date": "2025-11-26",
     "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
     "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
-    "vote_average": 8.091,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1365,23 +1347,6 @@
     "is_local": true
   },
   {
-    "id": "286445",
-    "title": "Marry Me Again",
-    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
-    "release_date": "2025-04-02",
-    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
-    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
-    "vote_average": 7.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
@@ -1412,6 +1377,23 @@
     "original_language": "ko",
     "genre_ids": [
       80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286445",
+    "title": "Marry Me Again",
+    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
+    "release_date": "2025-04-02",
+    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
+    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
+    "vote_average": 7.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1633,24 +1615,6 @@
     "is_local": true
   },
   {
-    "id": "258865",
-    "title": "Love Beyond the Grave",
-    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
-    "release_date": "2026-03-28",
-    "poster_path": "/wI89MinPHLm3v2d3gB3J9DwpdDu.jpg",
-    "backdrop_path": "/edaJUEDeRAsPrj2FXgJNPETpLlc.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "214873",
     "title": "My School President",
     "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
@@ -1681,6 +1645,24 @@
       10759,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "258865",
+    "title": "Love Beyond the Grave",
+    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
+    "release_date": "2026-03-28",
+    "poster_path": "/wI89MinPHLm3v2d3gB3J9DwpdDu.jpg",
+    "backdrop_path": "/edaJUEDeRAsPrj2FXgJNPETpLlc.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1958,7 +1940,7 @@
     "release_date": "2021-10-16",
     "poster_path": "/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
     "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
-    "vote_average": 7.333,
+    "vote_average": 7.3,
     "media_type": "movie",
     "original_language": "nl",
     "genre_ids": [
@@ -2786,24 +2768,6 @@
     "is_local": true
   },
   {
-    "id": "290054",
-    "title": "The Seven Relics of ill Omen",
-    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
-    "release_date": "2025-06-08",
-    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
-    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "96462",
     "title": "It's Okay to Not Be Okay",
     "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
@@ -2816,6 +2780,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "290054",
+    "title": "The Seven Relics of ill Omen",
+    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
+    "release_date": "2025-06-08",
+    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
+    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3752,7 +3734,7 @@
     "release_date": "2026-02-20",
     "poster_path": "/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
     "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.217,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5272,7 +5254,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.716,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5470,6 +5452,24 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 246799,
+    "title": "Crooks",
+    "poster_path": "/8KkAi8uaCKainPE0OeBp6zHRWTa.jpg",
+    "overview": "A priceless coin forces a retired safecracker and a two-bit gangster to work together, drawing them into daring heists and global criminal rivalries.",
+    "vote_average": 7.1,
+    "release_date": "2024-04-04",
+    "genre_ids": [
+      10759,
+      18,
+      80
+    ],
+    "original_language": "de",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 1232546,
