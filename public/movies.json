@@ -1113,24 +1113,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "241613",
     "title": "The On1y One",
     "overview": "When their parents marry, two high school students become stepbrothers and navigate their relationship, turning from enemies into something more special.",
@@ -1143,6 +1125,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2022,13 +2022,13 @@
     "is_local": true
   },
   {
-    "id": "258865",
-    "title": "Love Beyond the Grave",
-    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
-    "release_date": "2026-03-28",
-    "poster_path": "/wI89MinPHLm3v2d3gB3J9DwpdDu.jpg",
-    "backdrop_path": "/edaJUEDeRAsPrj2FXgJNPETpLlc.jpg",
-    "vote_average": 7.5,
+    "id": "216264",
+    "title": "The Last Immortal",
+    "overview": "Yin, a hardworking Shuining Beast, and Gu Jin, the son of the true God whose magic has been sealed, meet by chance and embark on a quest to find Feng Yin's Immortal Essence. Alongside their companions, Hong Yi of the Fox Clan and Yan Shuang of the Eagle Clan, they face numerous challenges to collect the essence. Battling the villain Qing Lin and his followers, they overcome obstacles and, in the end, not only fulfill their mission to restore peace but also find love, friendship, and family.",
+    "release_date": "2023-12-11",
+    "poster_path": "/33zNWhfS3r0xWp7EaXtO9LDoB5Y.jpg",
+    "backdrop_path": "/xWb85qKubVjA39rVbBCXLOVl8Kg.jpg",
+    "vote_average": 7.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2040,13 +2040,13 @@
     "is_local": true
   },
   {
-    "id": "216264",
-    "title": "The Last Immortal",
-    "overview": "Yin, a hardworking Shuining Beast, and Gu Jin, the son of the true God whose magic has been sealed, meet by chance and embark on a quest to find Feng Yin's Immortal Essence. Alongside their companions, Hong Yi of the Fox Clan and Yan Shuang of the Eagle Clan, they face numerous challenges to collect the essence. Battling the villain Qing Lin and his followers, they overcome obstacles and, in the end, not only fulfill their mission to restore peace but also find love, friendship, and family.",
-    "release_date": "2023-12-11",
-    "poster_path": "/33zNWhfS3r0xWp7EaXtO9LDoB5Y.jpg",
-    "backdrop_path": "/xWb85qKubVjA39rVbBCXLOVl8Kg.jpg",
-    "vote_average": 7.2,
+    "id": "258865",
+    "title": "Love Beyond the Grave",
+    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
+    "release_date": "2026-03-28",
+    "poster_path": "/wI89MinPHLm3v2d3gB3J9DwpdDu.jpg",
+    "backdrop_path": "/edaJUEDeRAsPrj2FXgJNPETpLlc.jpg",
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3122,7 +3122,7 @@
     "release_date": "2025-05-24",
     "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
     "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.44,
+    "vote_average": 8.423,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3289,6 +3289,546 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "79434",
+    "title": "What's Wrong with Secretary Kim",
+    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
+    "release_date": "2018-06-06",
+    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "vote_average": 8.325,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "228429",
+    "title": "Soul Land 2: The Peerless Tang Clan",
+    "overview": "The Tang Sect in a turbulent world. There is nothing but martial spirit here. Ten thousand years after the founding of the Tang Sect, it is in relative decline. An extremely talented man was born. Can the new Shrek Seven Monsters revive the Tang Sect and bring it back to glory? A soul beast of over one million years old; Electrolux who can pick stars; The new soul utensil system that led to the decline of the Tang Sect... A lot of secrets are to be revealed. Can the secret weapons of the Tang Sect be sharp again? Can the Tang Sect regain its former glory?",
+    "release_date": "2023-06-24",
+    "poster_path": "/pzemNbETZKXRzjvBwc1hydqbEeK.jpg",
+    "backdrop_path": "/joTHGlHCzKi0ll7o9NTt0lAujIn.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      16,
+      10765,
+      10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "262932",
+    "title": "Generation to Generation",
+    "overview": "In the volatile world of martial arts, the cunning young master Mu Qingyan meets the easygoing heroine Cai Zhao, sparking an intense and complex romance. Together, they confront hidden truths and rivalries within the martial world, navigating twists, betrayals, and strategic battles. Their journey paints a vibrant portrait of loyalty, love, and the fierce spirit of heroism.",
+    "release_date": "2026-02-22",
+    "poster_path": "/gKaa3F5dvrkRTq0h94SipCLGK5m.jpg",
+    "backdrop_path": "/6640A10Z0aysTCroNQQPK8ZB4FH.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "457832",
+    "title": "Reset",
+    "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
+    "release_date": "2017-06-28",
+    "poster_path": "/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg",
+    "backdrop_path": "/f2fWG89GPSe31ymp6pqJANfjbit.jpg",
+    "vote_average": 6.928,
+    "media_type": "movie",
+    "original_language": "zh",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "229915",
+    "title": "Night Has Come",
+    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
+    "release_date": "2023-12-04",
+    "poster_path": "/qdolS77C0DXGZmchR6imcy4LiJf.jpg",
+    "backdrop_path": "/uUbmZ56qBy85zbt8VWKoTGpcoCA.jpg",
+    "vote_average": 7.811,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "4545",
+    "title": "Blossom",
+    "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
+    "release_date": "1990-07-05",
+    "poster_path": "/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg",
+    "backdrop_path": "/eDnrGNNMD8IyitmRojrRomY9vtW.jpg",
+    "vote_average": 6.1,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      35,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "73499",
+    "title": "The Double",
+    "overview": "The mysterious murder of a US senator bearing the distinctive trademark of the legendary Soviet assassin 'Cassius', forces retired CIA operative, Paul Shepherson to team with rookie FBI agent, Ben Geary  to solve the crime. Having spent his career chasing Cassius, Shepherdson is convinced his nemesis is long dead, but is pushed to take on the case by his former supervisor, Tom Highland. Geary, who wrote his Master's thesis on Shepherdson's pursuit of the Soviet killer, is certain that Cassius has resurfaced.",
+    "release_date": "2011-10-27",
+    "poster_path": "/t4W10sjJSDAWRUDn2Kb8DQKxiZv.jpg",
+    "backdrop_path": "/tY1z1IqNBTiH4bUXt4LLiYXLYpq.jpg",
+    "vote_average": 5.812,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      28,
+      18,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278137",
+    "title": "Head 2 Head",
+    "overview": "A rivalry turns upside down when Jerome’s strange new ability shows him a shocking future—one where his enemy becomes his soulmate.",
+    "release_date": "2025-10-26",
+    "poster_path": "/lgY5E0Gc5LQMy4SD9vPk6EBOei1.jpg",
+    "backdrop_path": "/5i7rjtU016yD1ooGLva8LYaoWF0.jpg",
+    "vote_average": 7.769,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "136732",
+    "title": "Shooting Stars",
+    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
+    "release_date": "2022-04-22",
+    "poster_path": "/wH8ZDJLFEIPsDHanefBEbt8FS3A.jpg",
+    "backdrop_path": "/qkfoiujIUeRTGa5Vebty72INt7k.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "254993",
+    "title": "Embrace in the Dark Night",
+    "overview": "Wen Xi is drawn into an underground fight club and becomes the prize for champion Xu Zheqing, who is secretly a security consultant tasked with saving her. Three years later, after her twin sister’s mysterious death, Wen Xi assumes her sister’s identity at a company, where she reunites with Xu. Now on opposite sides, can they reconcile their feelings and uncover the truth?",
+    "release_date": "2024-08-06",
+    "poster_path": "/dGBg7KKsNRNzeVeKePrgwfKw1m5.jpg",
+    "backdrop_path": "/bKLWC6ppultOZk0qPyYGWRqoQNm.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "130368",
+    "title": "Love Between Fairy and Devil",
+    "overview": "When a low-ranked fairy accidentally resurrects a powerful demon, their fates become cosmically entangled as the world is thrown into turmoil.",
+    "release_date": "2022-08-07",
+    "poster_path": "/9iigsYwHsBlU1As6ChDHHTJmVKd.jpg",
+    "backdrop_path": "/pECcUE53TjkrR2VsAgF7JICzH7k.jpg",
+    "vote_average": 8.19,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "298567",
+    "title": "Thundercloud Rainstorm",
+    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
+    "release_date": "2025-11-28",
+    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
+    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
+    "vote_average": 7.714,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "220542",
+    "title": "The Apothecary Diaries",
+    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+    "release_date": "2023-10-22",
+    "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+    "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "vote_average": 8.581,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "29739",
+    "title": "Moving",
+    "overview": "Arlo accepts what seems to him to be a dream promotion to Idaho. He soon discovers, however, that moving has its own share of problems.",
+    "release_date": "1988-03-04",
+    "poster_path": "/ld7XINaFmrnyDe5Ugl9tQX9UWxa.jpg",
+    "backdrop_path": "/2cOPAaUYnCpaze23WrXYQ6l0zg9.jpg",
+    "vote_average": 5.5,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "292318",
+    "title": "Happiness",
+    "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
+    "release_date": "2025-05-30",
+    "poster_path": "/srMI72cod1UetnSYzQk9ROt9Vkx.jpg",
+    "backdrop_path": "/hVOx3nfWoVgYUYcIp90eMZOdFeB.jpg",
+    "vote_average": 5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10759,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "8082",
+    "title": "Meteor Garden",
+    "overview": "Shan Cai, whose parents are far from wealthy, attends Ying De University, the private school established exclusively for rich students. Besides being looked down by rich classmates, she has angered the leader of F4, Dao Ming Si.",
+    "release_date": "2001-04-21",
+    "poster_path": "/88ucpY4QXb8E80Q1QoIlUoKE1Ct.jpg",
+    "backdrop_path": "/nhQx2xS2ng1Uo30uunqH9RK3bQs.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      35,
+      10766
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "256542",
+    "title": "Game of True Love",
+    "overview": "Xu Nuo, the heiress to the Yuanfei Group, returns from studying abroad to find her family in disarray. Her mother has lost everything, and her foster brother, Shen Jiahe, is poised to take control of the family business. To make matters worse, her father's fiancée is Bai Xia, her old rival. Determined to reclaim her place and expose Shen Jiahe's true intentions, Xu Nuo devises a bold plan, setting off a high-stakes game of love and betrayal.",
+    "release_date": "2025-03-21",
+    "poster_path": "/3lyC6hEeZSuJhtHOjEfac1pkfrA.jpg",
+    "backdrop_path": "/pNmd3afju8ATyGqFcE1LgWycyvT.jpg",
+    "vote_average": 6.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240445",
+    "title": "Coroner's Diary",
+    "overview": "Shen Wan, the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi to solve unsolved cases and find the real culprit in order to vindicate her father.",
+    "release_date": "2025-07-13",
+    "poster_path": "/unalYN9lT9h9b5UgTxGo1CoS7fj.jpg",
+    "backdrop_path": "/trAzKgcmDMkNBFXSr9ucZcfzxgm.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "252649",
+    "title": "ThamePo: Heart That Skips A Beat",
+    "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
+    "release_date": "2024-12-13",
+    "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
+    "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
+    "vote_average": 9.067,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "221112",
+    "title": "Amidst a Snowstorm of Love",
+    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
+    "release_date": "2024-02-02",
+    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
+    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253193",
+    "title": "A Dream Within a Dream",
+    "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
+    "release_date": "2025-06-26",
+    "poster_path": "/iGPTJ9RS5hnVhH3hs53x8qieBRV.jpg",
+    "backdrop_path": "/hznQvZZXABPjYz6aUWoonpLYhmx.jpg",
+    "vote_average": 8.227,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1603843",
+    "title": "New Year's Eve Concert 2022 With the Berlin Philharmonic Orchestra",
+    "overview": "Under the baton of Kirill Petrenko, the Berlin Philharmonic Orchestra's traditional New Year's Eve concert brings you an enchanting programme led by star tenor Jonas Kaufmann. A delightful medley of Verdi, Prokofiev, Nino Rota, Tchaikovsky and more.",
+    "release_date": "2022-12-31",
+    "poster_path": "/lynxTugE8YUHTqbQP5aQhQb7rf8.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      10402
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261600",
+    "title": "Always Home",
+    "overview": "Chen Huan’er, along with her friends Jing Xichi and Song Cong, navigates the journey from high school to adulthood. Together, they experience love, loss, family struggles, and personal growth. As life takes them in unexpected directions, their enduring friendship remains a constant through every challenge.",
+    "release_date": "2025-02-15",
+    "poster_path": "/geDp6b1qRXH5ZtetqRU1XLSqDv7.jpg",
+    "backdrop_path": "/n7geLpWf7ZbeiEv4XESL6aOJ78J.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217735",
+    "title": "Bed Friend",
+    "overview": "After an unexpected hook-up, two rival coworkers try to keep their fling purely physical, but growing feelings threaten their fragile arrangement.",
+    "release_date": "2023-02-17",
+    "poster_path": "/rrLKRmz0gnaKMi7O7qcVlzEHr9H.jpg",
+    "backdrop_path": "/jf2BNiZEHZuCm5jTn6OZ5WMcaFM.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "238680",
+    "title": "Moonlight Mystique",
+    "overview": "Bai Shuo, the youngest daughter of the General's Mansion, aspires to cultivate immortality in order to repay a favor. On her journey to seek immortality, she accidentally rescues the great demon god Fan Yue. As the saying goes, healthy fights strengthen relationships, and they go from mutual manipulation to mutual affection as they fall in love with each other, navigating a love affair intertwined with sweetness and cruelty. Even though they face countless difficulties, their love is strong enough to overcome all limitations, allowing them to truly embrace each other.",
+    "release_date": "2025-01-07",
+    "poster_path": "/4tqNdo1e3dwxPUGGidcuT9IMfJ1.jpg",
+    "backdrop_path": "/a6t5tRwdNh9MlYub0fr2HetALeh.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261128",
+    "title": "Our Generation",
+    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
+    "release_date": "2025-07-14",
+    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
+    "backdrop_path": "/8yfPXapjvJhFnpSEXrGN8cqV1fD.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233833",
+    "title": "In Your Radiant Season",
+    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
+    "release_date": "2026-02-20",
+    "poster_path": "/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
+    "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
+    "vote_average": 8.217,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "235355",
+    "title": "Resident Playbook",
+    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
+    "release_date": "2025-04-12",
+    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "45857",
+    "title": "REBORN!",
+    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
+    "release_date": "2006-10-07",
+    "poster_path": "/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+    "backdrop_path": "/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+    "vote_average": 8.155,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      35,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "137206",
+    "title": "Till The End of The Moon",
+    "overview": "In an era when the demons are in power, they are the masters of the despicable cultivators and mortals. The cultivator elders deem it necessary to send someone back in time to determine the origin of the demon lord and to prevent his awakening. Li Susu accepts the mission, becoming the mortal Ye Xiwu, General Ye's third daughter, who is married to Tantai Jin, the hostage prince and future demon lord. She is determined to destroy Tantai Jin, who, in the future, will massacre many. But as a witness to Tantai Jin's past life and rise to power, an unexpected tale emerges, one complicating her quest.",
+    "release_date": "2023-04-06",
+    "poster_path": "/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
+    "backdrop_path": "/5fhS6Bh4VnF0SOZyZnhNpc0XHDb.jpg",
+    "vote_average": 8.213,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4653,23 +5193,6 @@
     "is_local": true
   },
   {
-    "id": "279388",
-    "title": "Pursuit of Jade",
-    "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
-    "release_date": "2026-03-06",
-    "poster_path": "/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
-    "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "104877",
     "title": "Love Is in the Air",
     "overview": "Eda, who ties all her hopes to her education, confronts Serkan Bolat, who cuts off her international education scholarship and leaves her with high school diploma. Serkan Bolat offers Eda to give her scholarship back if she pretends to be his fiance for two months. Although Eda rejects the offer of this man as she hates him, she has to accept it when the conditions change. While pretending to be engaged, Serkan and Eda begin to experience a passionate, challenging relationship that will make them forget all they know right. Because love is difficult. And that's why it's amazing.",
@@ -4682,6 +5205,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279388",
+    "title": "Pursuit of Jade",
+    "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
+    "release_date": "2026-03-06",
+    "poster_path": "/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
+    "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4835,7 +5375,7 @@
     "release_date": "2025-12-12",
     "poster_path": "/tnN7OcVOfIhJATSquVzvMoxLPoR.jpg",
     "backdrop_path": "/bbSaCxOIew0PfkG2kie7h1Gf3gf.jpg",
-    "vote_average": 7.879,
+    "vote_average": 7.95,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4928,546 +5468,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "79434",
-    "title": "What's Wrong with Secretary Kim",
-    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
-    "release_date": "2018-06-06",
-    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
-    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
-    "vote_average": 8.325,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "228429",
-    "title": "Soul Land 2: The Peerless Tang Clan",
-    "overview": "The Tang Sect in a turbulent world. There is nothing but martial spirit here. Ten thousand years after the founding of the Tang Sect, it is in relative decline. An extremely talented man was born. Can the new Shrek Seven Monsters revive the Tang Sect and bring it back to glory? A soul beast of over one million years old; Electrolux who can pick stars; The new soul utensil system that led to the decline of the Tang Sect... A lot of secrets are to be revealed. Can the secret weapons of the Tang Sect be sharp again? Can the Tang Sect regain its former glory?",
-    "release_date": "2023-06-24",
-    "poster_path": "/pzemNbETZKXRzjvBwc1hydqbEeK.jpg",
-    "backdrop_path": "/joTHGlHCzKi0ll7o9NTt0lAujIn.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      16,
-      10765,
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "262932",
-    "title": "Generation to Generation",
-    "overview": "In the volatile world of martial arts, the cunning young master Mu Qingyan meets the easygoing heroine Cai Zhao, sparking an intense and complex romance. Together, they confront hidden truths and rivalries within the martial world, navigating twists, betrayals, and strategic battles. Their journey paints a vibrant portrait of loyalty, love, and the fierce spirit of heroism.",
-    "release_date": "2026-02-22",
-    "poster_path": "/gKaa3F5dvrkRTq0h94SipCLGK5m.jpg",
-    "backdrop_path": "/6640A10Z0aysTCroNQQPK8ZB4FH.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "457832",
-    "title": "Reset",
-    "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
-    "release_date": "2017-06-28",
-    "poster_path": "/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg",
-    "backdrop_path": "/f2fWG89GPSe31ymp6pqJANfjbit.jpg",
-    "vote_average": 6.928,
-    "media_type": "movie",
-    "original_language": "zh",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "229915",
-    "title": "Night Has Come",
-    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
-    "release_date": "2023-12-04",
-    "poster_path": "/qdolS77C0DXGZmchR6imcy4LiJf.jpg",
-    "backdrop_path": "/uUbmZ56qBy85zbt8VWKoTGpcoCA.jpg",
-    "vote_average": 7.811,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "4545",
-    "title": "Blossom",
-    "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
-    "release_date": "1990-07-05",
-    "poster_path": "/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg",
-    "backdrop_path": "/eDnrGNNMD8IyitmRojrRomY9vtW.jpg",
-    "vote_average": 6.1,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      18,
-      35,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "73499",
-    "title": "The Double",
-    "overview": "The mysterious murder of a US senator bearing the distinctive trademark of the legendary Soviet assassin 'Cassius', forces retired CIA operative, Paul Shepherson to team with rookie FBI agent, Ben Geary  to solve the crime. Having spent his career chasing Cassius, Shepherdson is convinced his nemesis is long dead, but is pushed to take on the case by his former supervisor, Tom Highland. Geary, who wrote his Master's thesis on Shepherdson's pursuit of the Soviet killer, is certain that Cassius has resurfaced.",
-    "release_date": "2011-10-27",
-    "poster_path": "/t4W10sjJSDAWRUDn2Kb8DQKxiZv.jpg",
-    "backdrop_path": "/tY1z1IqNBTiH4bUXt4LLiYXLYpq.jpg",
-    "vote_average": 5.812,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      28,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278137",
-    "title": "Head 2 Head",
-    "overview": "A rivalry turns upside down when Jerome’s strange new ability shows him a shocking future—one where his enemy becomes his soulmate.",
-    "release_date": "2025-10-26",
-    "poster_path": "/lgY5E0Gc5LQMy4SD9vPk6EBOei1.jpg",
-    "backdrop_path": "/5i7rjtU016yD1ooGLva8LYaoWF0.jpg",
-    "vote_average": 7.769,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "136732",
-    "title": "Shooting Stars",
-    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
-    "release_date": "2022-04-22",
-    "poster_path": "/wH8ZDJLFEIPsDHanefBEbt8FS3A.jpg",
-    "backdrop_path": "/qkfoiujIUeRTGa5Vebty72INt7k.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "254993",
-    "title": "Embrace in the Dark Night",
-    "overview": "Wen Xi is drawn into an underground fight club and becomes the prize for champion Xu Zheqing, who is secretly a security consultant tasked with saving her. Three years later, after her twin sister’s mysterious death, Wen Xi assumes her sister’s identity at a company, where she reunites with Xu. Now on opposite sides, can they reconcile their feelings and uncover the truth?",
-    "release_date": "2024-08-06",
-    "poster_path": "/dGBg7KKsNRNzeVeKePrgwfKw1m5.jpg",
-    "backdrop_path": "/bKLWC6ppultOZk0qPyYGWRqoQNm.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "130368",
-    "title": "Love Between Fairy and Devil",
-    "overview": "When a low-ranked fairy accidentally resurrects a powerful demon, their fates become cosmically entangled as the world is thrown into turmoil.",
-    "release_date": "2022-08-07",
-    "poster_path": "/9iigsYwHsBlU1As6ChDHHTJmVKd.jpg",
-    "backdrop_path": "/pECcUE53TjkrR2VsAgF7JICzH7k.jpg",
-    "vote_average": 8.19,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "298567",
-    "title": "Thundercloud Rainstorm",
-    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
-    "release_date": "2025-11-28",
-    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
-    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
-    "vote_average": 7.714,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "220542",
-    "title": "The Apothecary Diaries",
-    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "release_date": "2023-10-22",
-    "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
-    "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.581,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "29739",
-    "title": "Moving",
-    "overview": "Arlo accepts what seems to him to be a dream promotion to Idaho. He soon discovers, however, that moving has its own share of problems.",
-    "release_date": "1988-03-04",
-    "poster_path": "/ld7XINaFmrnyDe5Ugl9tQX9UWxa.jpg",
-    "backdrop_path": "/2cOPAaUYnCpaze23WrXYQ6l0zg9.jpg",
-    "vote_average": 5.5,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      35,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "292318",
-    "title": "Happiness",
-    "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
-    "release_date": "2025-05-30",
-    "poster_path": "/srMI72cod1UetnSYzQk9ROt9Vkx.jpg",
-    "backdrop_path": "/hVOx3nfWoVgYUYcIp90eMZOdFeB.jpg",
-    "vote_average": 5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10759,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "8082",
-    "title": "Meteor Garden",
-    "overview": "Shan Cai, whose parents are far from wealthy, attends Ying De University, the private school established exclusively for rich students. Besides being looked down by rich classmates, she has angered the leader of F4, Dao Ming Si.",
-    "release_date": "2001-04-21",
-    "poster_path": "/88ucpY4QXb8E80Q1QoIlUoKE1Ct.jpg",
-    "backdrop_path": "/nhQx2xS2ng1Uo30uunqH9RK3bQs.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35,
-      10766
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "256542",
-    "title": "Game of True Love",
-    "overview": "Xu Nuo, the heiress to the Yuanfei Group, returns from studying abroad to find her family in disarray. Her mother has lost everything, and her foster brother, Shen Jiahe, is poised to take control of the family business. To make matters worse, her father's fiancée is Bai Xia, her old rival. Determined to reclaim her place and expose Shen Jiahe's true intentions, Xu Nuo devises a bold plan, setting off a high-stakes game of love and betrayal.",
-    "release_date": "2025-03-21",
-    "poster_path": "/3lyC6hEeZSuJhtHOjEfac1pkfrA.jpg",
-    "backdrop_path": "/pNmd3afju8ATyGqFcE1LgWycyvT.jpg",
-    "vote_average": 6.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240445",
-    "title": "Coroner's Diary",
-    "overview": "Shen Wan, the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi to solve unsolved cases and find the real culprit in order to vindicate her father.",
-    "release_date": "2025-07-13",
-    "poster_path": "/unalYN9lT9h9b5UgTxGo1CoS7fj.jpg",
-    "backdrop_path": "/trAzKgcmDMkNBFXSr9ucZcfzxgm.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252649",
-    "title": "ThamePo: Heart That Skips A Beat",
-    "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
-    "release_date": "2024-12-13",
-    "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
-    "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
-    "vote_average": 9.067,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "221112",
-    "title": "Amidst a Snowstorm of Love",
-    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
-    "release_date": "2024-02-02",
-    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
-    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253193",
-    "title": "A Dream Within a Dream",
-    "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
-    "release_date": "2025-06-26",
-    "poster_path": "/iGPTJ9RS5hnVhH3hs53x8qieBRV.jpg",
-    "backdrop_path": "/hznQvZZXABPjYz6aUWoonpLYhmx.jpg",
-    "vote_average": 8.227,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1603843",
-    "title": "New Year's Eve Concert 2022 With the Berlin Philharmonic Orchestra",
-    "overview": "Under the baton of Kirill Petrenko, the Berlin Philharmonic Orchestra's traditional New Year's Eve concert brings you an enchanting programme led by star tenor Jonas Kaufmann. A delightful medley of Verdi, Prokofiev, Nino Rota, Tchaikovsky and more.",
-    "release_date": "2022-12-31",
-    "poster_path": "/lynxTugE8YUHTqbQP5aQhQb7rf8.jpg",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      10402
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "261600",
-    "title": "Always Home",
-    "overview": "Chen Huan’er, along with her friends Jing Xichi and Song Cong, navigates the journey from high school to adulthood. Together, they experience love, loss, family struggles, and personal growth. As life takes them in unexpected directions, their enduring friendship remains a constant through every challenge.",
-    "release_date": "2025-02-15",
-    "poster_path": "/geDp6b1qRXH5ZtetqRU1XLSqDv7.jpg",
-    "backdrop_path": "/n7geLpWf7ZbeiEv4XESL6aOJ78J.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "217735",
-    "title": "Bed Friend",
-    "overview": "After an unexpected hook-up, two rival coworkers try to keep their fling purely physical, but growing feelings threaten their fragile arrangement.",
-    "release_date": "2023-02-17",
-    "poster_path": "/rrLKRmz0gnaKMi7O7qcVlzEHr9H.jpg",
-    "backdrop_path": "/jf2BNiZEHZuCm5jTn6OZ5WMcaFM.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "238680",
-    "title": "Moonlight Mystique",
-    "overview": "Bai Shuo, the youngest daughter of the General's Mansion, aspires to cultivate immortality in order to repay a favor. On her journey to seek immortality, she accidentally rescues the great demon god Fan Yue. As the saying goes, healthy fights strengthen relationships, and they go from mutual manipulation to mutual affection as they fall in love with each other, navigating a love affair intertwined with sweetness and cruelty. Even though they face countless difficulties, their love is strong enough to overcome all limitations, allowing them to truly embrace each other.",
-    "release_date": "2025-01-07",
-    "poster_path": "/4tqNdo1e3dwxPUGGidcuT9IMfJ1.jpg",
-    "backdrop_path": "/a6t5tRwdNh9MlYub0fr2HetALeh.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "261128",
-    "title": "Our Generation",
-    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
-    "release_date": "2025-07-14",
-    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
-    "backdrop_path": "/8yfPXapjvJhFnpSEXrGN8cqV1fD.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "233833",
-    "title": "In Your Radiant Season",
-    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
-    "release_date": "2026-02-20",
-    "poster_path": "/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
-    "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-    "vote_average": 8.217,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "235355",
-    "title": "Resident Playbook",
-    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
-    "release_date": "2025-04-12",
-    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
-    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "45857",
-    "title": "REBORN!",
-    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
-    "release_date": "2006-10-07",
-    "poster_path": "/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
-    "backdrop_path": "/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-    "vote_average": 8.155,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "137206",
-    "title": "Till The End of The Moon",
-    "overview": "In an era when the demons are in power, they are the masters of the despicable cultivators and mortals. The cultivator elders deem it necessary to send someone back in time to determine the origin of the demon lord and to prevent his awakening. Li Susu accepts the mission, becoming the mortal Ye Xiwu, General Ye's third daughter, who is married to Tantai Jin, the hostage prince and future demon lord. She is determined to destroy Tantai Jin, who, in the future, will massacre many. But as a witness to Tantai Jin's past life and rise to power, an unexpected tale emerges, one complicating her quest.",
-    "release_date": "2023-04-06",
-    "poster_path": "/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
-    "backdrop_path": "/5fhS6Bh4VnF0SOZyZnhNpc0XHDb.jpg",
-    "vote_average": 8.213,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 218896,
