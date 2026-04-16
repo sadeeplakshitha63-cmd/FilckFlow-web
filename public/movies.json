@@ -1137,7 +1137,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.7,
+    "vote_average": 9.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2040,6 +2040,23 @@
     "is_local": true
   },
   {
+    "id": "272512",
+    "title": "Our Youth",
+    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
+    "release_date": "2024-11-05",
+    "poster_path": "/g16xZN4PMqGOLje9tgDBTRpL48S.jpg",
+    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "258865",
     "title": "Love Beyond the Grave",
     "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
@@ -2052,23 +2069,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "272512",
-    "title": "Our Youth",
-    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
-    "release_date": "2024-11-05",
-    "poster_path": "/g16xZN4PMqGOLje9tgDBTRpL48S.jpg",
-    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4247,23 +4247,6 @@
     "is_local": true
   },
   {
-    "id": "293391",
-    "title": "To My Shore",
-    "overview": "After a car accident, a ruthless Thai heir and a reserved company executive become trapped in a dangerous game of desire that spirals into obsession.",
-    "release_date": "2025-11-15",
-    "poster_path": "/w1iU3Ak0HaJfMeIVGVgvOWLuYx3.jpg",
-    "backdrop_path": "/AtclgGgnqR7SipnTpd0CvzzK3PH.jpg",
-    "vote_average": 8.929,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1412113",
     "title": "Squid Game: Making Season 2",
     "overview": "From set designs to character arcs, get exclusive cast and director interviews on how Season 2 of the globally most-watched series was brought to life.",
@@ -4275,6 +4258,23 @@
     "original_language": "ko",
     "genre_ids": [
       99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "293391",
+    "title": "To My Shore",
+    "overview": "After a car accident, a ruthless Thai heir and a reserved company executive become trapped in a dangerous game of desire that spirals into obsession.",
+    "release_date": "2025-11-15",
+    "poster_path": "/w1iU3Ak0HaJfMeIVGVgvOWLuYx3.jpg",
+    "backdrop_path": "/AtclgGgnqR7SipnTpd0CvzzK3PH.jpg",
+    "vote_average": 8.929,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
