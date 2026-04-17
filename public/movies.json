@@ -1,18 +1,75 @@
 [
   {
-    "id": 297454,
-    "title": "Someone Has to Know",
-    "poster_path": "/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
-    "overview": "A boy vanishes, and no one can find him. An open-and-shut case, except there are no leads. Three hundred people around him, and no one saw anything?",
-    "vote_average": 6.5,
-    "release_date": "2026-04-15",
+    "id": 893723,
+    "title": "PAW Patrol: The Mighty Movie",
+    "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+    "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+    "vote_average": 6.993,
+    "release_date": "2023-09-21",
     "genre_ids": [
-      18,
-      80,
-      9648
+      10751,
+      35,
+      12,
+      16
     ],
-    "original_language": "es",
-    "media_type": "tv",
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 520763,
+    "title": "A Quiet Place Part II",
+    "poster_path": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+    "overview": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+    "vote_average": 7.435,
+    "release_date": "2021-05-21",
+    "genre_ids": [
+      878,
+      53,
+      27
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 400155,
+    "title": "Hotel Transylvania 3: Summer Vacation",
+    "poster_path": "/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg",
+    "overview": "Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship’s captain, Ericka, who’s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.",
+    "vote_average": 6.85,
+    "release_date": "2018-06-28",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      14
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 601666,
+    "title": "I Care a Lot",
+    "poster_path": "/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg",
+    "overview": "A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.",
+    "vote_average": 6.577,
+    "release_date": "2021-02-19",
+    "genre_ids": [
+      80,
+      53,
+      18,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "movie",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
@@ -551,7 +608,7 @@
     "release_date": "2026-03-02",
     "poster_path": "/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
     "backdrop_path": "/kgnukvQ1YKotz734ACQxDTvDCGe.jpg",
-    "vote_average": 6.717,
+    "vote_average": 6.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1025,13 +1082,13 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.3,
+    "id": "283543",
+    "title": "My Safe Zone",
+    "overview": "Alin leaves her best friend Jane to study abroad. Years later, a broken engagement brings her home, where they face feelings long unspoken.",
+    "release_date": "2025-10-24",
+    "poster_path": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
+    "backdrop_path": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
+    "vote_average": 6.3,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1042,13 +1099,13 @@
     "is_local": true
   },
   {
-    "id": "283543",
-    "title": "My Safe Zone",
-    "overview": "Alin leaves her best friend Jane to study abroad. Years later, a broken engagement brings her home, where they face feelings long unspoken.",
-    "release_date": "2025-10-24",
-    "poster_path": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
-    "backdrop_path": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
-    "vote_average": 6.3,
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.167,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1187,25 +1244,6 @@
     "is_local": true
   },
   {
-    "id": "307624",
-    "title": "Sammy's Children's Day",
-    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
-    "release_date": "2026-03-13",
-    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
-    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      80,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "219651",
     "title": "Welcome to Samdal-ri",
     "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
@@ -1235,6 +1273,25 @@
     "original_language": "th",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "307624",
+    "title": "Sammy's Children's Day",
+    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
+    "release_date": "2026-03-13",
+    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
+    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      80,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1454,24 +1511,6 @@
     "is_local": true
   },
   {
-    "id": "237337",
-    "title": "Wandee Goodday",
-    "overview": "Because of a broken heart and drunkenness, Dr. Wandee goes from darling to daring, entangling himself with Muay Thai fighter Yoryak Phadetseuk. A one-night stand somehow turns into a fake boyfriends with benefits relationship.",
-    "release_date": "2024-05-04",
-    "poster_path": "/paqFs0PdOK2XLi289so8fuPLydE.jpg",
-    "backdrop_path": "/owtvdducZVoRG3PnXvMyA0y46af.jpg",
-    "vote_average": 8.862,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "52273",
     "title": "Hidden Agenda",
     "overview": "Former government Jason Price makes people disappear for a living. But when a top lieutenant for a crime syndicate asks Price to help him drop out of sight, things take a grisly, unexpected turn. A mysterious hit man known as The Cleaner has infiltrated Price's tightly-controlled system, leaving a bloody trail behind. With the help of an enigmatic seductress posing as the mobster's chief assistant, Price methodically works through his network of associates to find out what went wrong, and is plunged headlong into a spiraling gauntlet of half-truths and full-blown lies where nobody is who they appear to be, and everyone has a deadly, hidden agenda",
@@ -1484,6 +1523,24 @@
     "genre_ids": [
       28,
       53
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237337",
+    "title": "Wandee Goodday",
+    "overview": "Because of a broken heart and drunkenness, Dr. Wandee goes from darling to daring, entangling himself with Muay Thai fighter Yoryak Phadetseuk. A one-night stand somehow turns into a fake boyfriends with benefits relationship.",
+    "release_date": "2024-05-04",
+    "poster_path": "/paqFs0PdOK2XLi289so8fuPLydE.jpg",
+    "backdrop_path": "/owtvdducZVoRG3PnXvMyA0y46af.jpg",
+    "vote_average": 8.862,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1657,7 +1714,7 @@
     "release_date": "2025-03-11",
     "poster_path": "/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
     "backdrop_path": "/iZLtHdy8supE79NsAXERN5Vju1K.jpg",
-    "vote_average": 6.727,
+    "vote_average": 7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1739,37 +1796,17 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.056,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "42188",
+    "id": "72167",
     "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/7okcm65P7WfpF3f0HiQBFTsvcXV.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.847,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "30-year-old Kyoko has a \"job\". The story starts with her looking back 20 years to her boarding school of Yoko Gakuen in the mountains. Tomohiko, Miwa, and Kyoko are all in the same grade. Inspired by the educational philosophy of the principal - Emiko, teacher Tatsuko joins the boarding school staff, but soon finds the school rather strange...",
+    "release_date": "2016-01-15",
+    "poster_path": "/sGpqhD9kKiP3abxOrzYWRy05lV2.jpg",
+    "backdrop_path": "/lhLQWWtBtFhyOH2Iv9zSs9ohjiX.jpg",
+    "vote_average": 6.5,
+    "media_type": "tv",
+    "original_language": "ja",
     "genre_ids": [
-      18,
-      10749,
-      878
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1820,6 +1857,24 @@
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 8.056,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -3078,25 +3133,6 @@
     "is_local": true
   },
   {
-    "id": "270420",
-    "title": "No Tail to Tell",
-    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
-    "release_date": "2026-01-16",
-    "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
-    "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "vote_average": 7.824,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "93657",
     "title": "Extraordinary You",
     "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
@@ -3110,6 +3146,25 @@
       10765,
       35,
       10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "270420",
+    "title": "No Tail to Tell",
+    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
+    "release_date": "2026-01-16",
+    "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
+    "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+    "vote_average": 7.824,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
       18
     ],
     "video_url": "",
@@ -5396,7 +5451,7 @@
     "release_date": "2025-12-12",
     "poster_path": "/tnN7OcVOfIhJATSquVzvMoxLPoR.jpg",
     "backdrop_path": "/bbSaCxOIew0PfkG2kie7h1Gf3gf.jpg",
-    "vote_average": 7.95,
+    "vote_average": 8.016,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5475,6 +5530,43 @@
     "is_local": true
   },
   {
+    "id": 297454,
+    "title": "Someone Has to Know",
+    "poster_path": "/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
+    "overview": "A boy vanishes, and no one can find him. An open-and-shut case, except there are no leads. Three hundred people around him, and no one saw anything?",
+    "vote_average": 6.5,
+    "release_date": "2026-04-15",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "42188",
+    "title": "Never Let Me Go",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/7okcm65P7WfpF3f0HiQBFTsvcXV.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.847,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      10749,
+      878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 80321,
     "title": "Madagascar 3: Europe's Most Wanted",
     "poster_path": "/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
@@ -5492,23 +5584,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "72167",
-    "title": "Never Let Me Go",
-    "overview": "30-year-old Kyoko has a \"job\". The story starts with her looking back 20 years to her boarding school of Yoko Gakuen in the mountains. Tomohiko, Miwa, and Kyoko are all in the same grade. Inspired by the educational philosophy of the principal - Emiko, teacher Tatsuko joins the boarding school staff, but soon finds the school rather strange...",
-    "release_date": "2016-01-15",
-    "poster_path": "/sGpqhD9kKiP3abxOrzYWRy05lV2.jpg",
-    "backdrop_path": "/lhLQWWtBtFhyOH2Iv9zSs9ohjiX.jpg",
-    "vote_average": 6.5,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "879945",
