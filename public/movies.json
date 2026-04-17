@@ -439,6 +439,23 @@
     "is_local": true
   },
   {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "45787",
     "title": "Jun to Ai",
     "overview": "Jun to Ai is a Japanese television drama series. It debuted on October 1, 2012 and was broadcast until March 30, 2013. It is about a girl named Jun Kanō, raised in Miyakojima, Okinawa, who moves to Osaka to work in a hotel. There she meets a man named Itoshi Machida, with whom she falls in love. It is the 87th NHK Asadora.",
@@ -451,23 +468,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -570,13 +570,31 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.688,
+    "vote_average": 7.679,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
       16,
       28,
       14
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230835",
+    "title": "Mysterious Lotus Casebook",
+    "overview": "Li Lian Hua is a countryside doctor who travels dragging around a lotus tower. He accidentally becomes \"famous\" and gets pulled into the pugilistic world that he no longer wants to have any connections with.",
+    "release_date": "2023-07-23",
+    "poster_path": "/jpMyCVieu5JlGT52KzBTOOh9VFo.jpg",
+    "backdrop_path": "/v0It4jPMkYT3H57x6ot4Fd56C8E.jpg",
+    "vote_average": 7.41,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -596,24 +614,6 @@
       10759,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "230835",
-    "title": "Mysterious Lotus Casebook",
-    "overview": "Li Lian Hua is a countryside doctor who travels dragging around a lotus tower. He accidentally becomes \"famous\" and gets pulled into the pugilistic world that he no longer wants to have any connections with.",
-    "release_date": "2023-07-23",
-    "poster_path": "/jpMyCVieu5JlGT52KzBTOOh9VFo.jpg",
-    "backdrop_path": "/v0It4jPMkYT3H57x6ot4Fd56C8E.jpg",
-    "vote_average": 7.41,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1241,24 +1241,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "245292",
     "title": "The Spirealm",
     "overview": "Jiu Shi’s skills are pushed to the edge as he faces life-or-death challenges inside a brutal VR maze.",
@@ -1290,6 +1272,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2182,6 +2182,23 @@
     "is_local": true
   },
   {
+    "id": "255095",
+    "title": "Eat Run Love",
+    "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
+    "release_date": "2025-04-08",
+    "poster_path": "/ksZiJ8IbByqFxOTszZjdPmcRlP5.jpg",
+    "backdrop_path": "/33Bg4EM7Oqpran2WjE8y4dv2Syr.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "224030",
     "title": "High School Return of a Gangster",
     "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
@@ -2193,23 +2210,6 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "255095",
-    "title": "Eat Run Love",
-    "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
-    "release_date": "2025-04-08",
-    "poster_path": "/ksZiJ8IbByqFxOTszZjdPmcRlP5.jpg",
-    "backdrop_path": "/33Bg4EM7Oqpran2WjE8y4dv2Syr.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -4198,6 +4198,23 @@
     "is_local": true
   },
   {
+    "id": "236300",
+    "title": "Love Sea",
+    "overview": "Tongrak, a romance novelist, meets Mahasamut, a quirky southern man, during his travels. Their unexpected encounter leaves Tongrak captivated.",
+    "release_date": "2024-06-09",
+    "poster_path": "/nV6AWBI0aCN41rx6vFdwaAmmoPl.jpg",
+    "backdrop_path": "/lk8UclTf2RdE0uRhQ90RIYUCO7v.jpg",
+    "vote_average": 7.341,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "312172",
     "title": "Hell University",
     "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
@@ -4210,23 +4227,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "236300",
-    "title": "Love Sea",
-    "overview": "Tongrak, a romance novelist, meets Mahasamut, a quirky southern man, during his travels. Their unexpected encounter leaves Tongrak captivated.",
-    "release_date": "2024-06-09",
-    "poster_path": "/nV6AWBI0aCN41rx6vFdwaAmmoPl.jpg",
-    "backdrop_path": "/lk8UclTf2RdE0uRhQ90RIYUCO7v.jpg",
-    "vote_average": 7.341,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5220,7 +5220,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
     "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
