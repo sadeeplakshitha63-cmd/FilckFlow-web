@@ -17,25 +17,6 @@
     "is_local": true
   },
   {
-    "id": "293608",
-    "title": "Undercover Miss Hong",
-    "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
-    "release_date": "2026-01-17",
-    "poster_path": "/bZr3i8yczHGDzyqZQ9oOArEEVON.jpg",
-    "backdrop_path": "/6yyKOxjQgb0C3I43T6qyXbieHni.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215072",
     "title": "A Shop for Killers",
     "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
@@ -50,6 +31,25 @@
       10759,
       9648,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "293608",
+    "title": "Undercover Miss Hong",
+    "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
+    "release_date": "2026-01-17",
+    "poster_path": "/bZr3i8yczHGDzyqZQ9oOArEEVON.jpg",
+    "backdrop_path": "/6yyKOxjQgb0C3I43T6qyXbieHni.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -293,23 +293,6 @@
     "is_local": true
   },
   {
-    "id": "249104",
-    "title": "This Love Doesn't Have Long Beans",
-    "overview": "Model Plawan, a pad kaprao enthusiast, is hired to train under stern Chef Oab, aiming to win his heart and become his successor.",
-    "release_date": "2024-07-05",
-    "poster_path": "/8JWGotah8kRzwufFvXXvrkZzeYZ.jpg",
-    "backdrop_path": "/qSoShinVzMUK0QhtMGoiOD7SJE1.jpg",
-    "vote_average": 7.818,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278166",
     "title": "Boys In Love",
     "overview": "This semester, studious Shane is tasked with tutoring feckless and flirtatious Kit. Meanwhile, just when Kim is ready to give up on love, new kid Mon arrives and it's love at first sight.",
@@ -321,6 +304,23 @@
     "original_language": "th",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "249104",
+    "title": "This Love Doesn't Have Long Beans",
+    "overview": "Model Plawan, a pad kaprao enthusiast, is hired to train under stern Chef Oab, aiming to win his heart and become his successor.",
+    "release_date": "2024-07-05",
+    "poster_path": "/8JWGotah8kRzwufFvXXvrkZzeYZ.jpg",
+    "backdrop_path": "/qSoShinVzMUK0QhtMGoiOD7SJE1.jpg",
+    "vote_average": 7.818,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -439,23 +439,6 @@
     "is_local": true
   },
   {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "45787",
     "title": "Jun to Ai",
     "overview": "Jun to Ai is a Japanese television drama series. It debuted on October 1, 2012 and was broadcast until March 30, 2013. It is about a girl named Jun Kanō, raised in Miyakojima, Okinawa, who moves to Osaka to work in a hotel. There she meets a man named Itoshi Machida, with whom she falls in love. It is the 87th NHK Asadora.",
@@ -468,6 +451,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1131,6 +1131,24 @@
     "is_local": true
   },
   {
+    "id": "237882",
+    "title": "Are You The One",
+    "overview": "The clever and decisive Liu Miantang, as the first lord of Mount Yang, led the people of Mount Yang to punish the wicked, promote goodness, and uphold justice. However, she suffered serious injuries under the attack of various evil forces and was rescued by Cui Xingzhou, the Prince of Huai Yang. When Liu Miantang woke up, she had no memory of Mount Yang, mistaking Cui Xingzhou for her husband, Cui Jiu. However, if their identities were exposed, can they face it honestly while enduring hardships?",
+    "release_date": "2024-08-12",
+    "poster_path": "/4YgYVgzFLg3drAMm3FlpWzhSbcy.jpg",
+    "backdrop_path": "/hDk7lDjMWwTnOyhPgP9IWa2jPG3.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "803796",
     "title": "KPop Demon Hunters",
     "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
@@ -1145,24 +1163,6 @@
       10402,
       35,
       16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237882",
-    "title": "Are You The One",
-    "overview": "The clever and decisive Liu Miantang, as the first lord of Mount Yang, led the people of Mount Yang to punish the wicked, promote goodness, and uphold justice. However, she suffered serious injuries under the attack of various evil forces and was rescued by Cui Xingzhou, the Prince of Huai Yang. When Liu Miantang woke up, she had no memory of Mount Yang, mistaking Cui Xingzhou for her husband, Cui Jiu. However, if their identities were exposed, can they face it honestly while enduring hardships?",
-    "release_date": "2024-08-12",
-    "poster_path": "/4YgYVgzFLg3drAMm3FlpWzhSbcy.jpg",
-    "backdrop_path": "/hDk7lDjMWwTnOyhPgP9IWa2jPG3.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1223,24 +1223,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "133060",
     "title": "Cute Programmer",
     "overview": "Lu Li admires genius programmer Jiang Yicheng and follows his path, excelling in school. After graduation, she disguises herself as a man to join his company, which doesn’t hire women. Balancing work and her secret, she strikes a deal with Jiang Yicheng to become a \"contract couple\" for a year.",
@@ -1250,6 +1232,24 @@
     "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -1347,6 +1347,24 @@
     "is_local": true
   },
   {
+    "id": "275593",
+    "title": "Ms. Incognito",
+    "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
+    "release_date": "2025-09-29",
+    "poster_path": "/jG0hr4bvJM1iOEcScgav7zmMF5P.jpg",
+    "backdrop_path": "/aAjm3w7Gnjw7HDe5UQ0BbTec7S2.jpg",
+    "vote_average": 7.389,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
@@ -1360,24 +1378,6 @@
       18,
       35,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "275593",
-    "title": "Ms. Incognito",
-    "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
-    "release_date": "2025-09-29",
-    "poster_path": "/jG0hr4bvJM1iOEcScgav7zmMF5P.jpg",
-    "backdrop_path": "/aAjm3w7Gnjw7HDe5UQ0BbTec7S2.jpg",
-    "vote_average": 7.389,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1651,23 +1651,6 @@
     "is_local": true
   },
   {
-    "id": "247207",
-    "title": "Ski into Love",
-    "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
-    "release_date": "2025-03-11",
-    "poster_path": "/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
-    "backdrop_path": "/iZLtHdy8supE79NsAXERN5Vju1K.jpg",
-    "vote_average": 6.727,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "239389",
     "title": "Fangs of Fortune",
     "overview": "During the Zhenyuan era, the accidental death of the Bai Ze goddess, who governed both human and demon realms, leads to chaos as demon beasts run rampant. Disguised as Zhao Yuanzhou, the demon leader Zhu Yan offers to form a demon-hunting bureau to help restore order.\n\nWen Xiao, suspicious of Zhao Yuanzhou, joins the bureau along with her childhood friend Zhuo Yichen, skilled archer Pei Sijing, and the talented but timid doctor Bai Jiu. Together, they confront the creatures from \"The Classic of Mountains and Seas\" and uncover the darker truths behind the chaos.",
@@ -1681,6 +1664,23 @@
       18,
       10765,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "247207",
+    "title": "Ski into Love",
+    "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
+    "release_date": "2025-03-11",
+    "poster_path": "/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
+    "backdrop_path": "/iZLtHdy8supE79NsAXERN5Vju1K.jpg",
+    "vote_average": 6.727,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3753,7 +3753,7 @@
     "title": "Our Generation",
     "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
     "release_date": "2025-07-14",
-    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
+    "poster_path": "/5dzHelXsXzqXOxUCHiDcf8mbdeL.jpg",
     "backdrop_path": "/8yfPXapjvJhFnpSEXrGN8cqV1fD.jpg",
     "vote_average": 8.2,
     "media_type": "tv",
@@ -4070,24 +4070,6 @@
     "is_local": true
   },
   {
-    "id": "223896",
-    "title": "Spirit Fingers",
-    "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
-    "release_date": "2025-10-29",
-    "poster_path": "/aM28UXrgZoNNk4ZBfSs9lzw6HeI.jpg",
-    "backdrop_path": "/6pDBlGPXWhQJ5aIrKVNbIph1y75.jpg",
-    "vote_average": 8.727,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "271309",
     "title": "Buried Hearts",
     "overview": "Seo Dong-ju, who hacked a political slush fund worth two trillion won, risks it all for revenge.",
@@ -4100,6 +4082,24 @@
     "genre_ids": [
       80,
       9648,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "223896",
+    "title": "Spirit Fingers",
+    "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
+    "release_date": "2025-10-29",
+    "poster_path": "/aM28UXrgZoNNk4ZBfSs9lzw6HeI.jpg",
+    "backdrop_path": "/6pDBlGPXWhQJ5aIrKVNbIph1y75.jpg",
+    "vote_average": 8.727,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -4989,7 +4989,7 @@
     "release_date": "2024-01-01",
     "poster_path": "/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
     "backdrop_path": "/bd1uYBQnd9HRex77LTiMughdKKK.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.456,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
