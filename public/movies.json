@@ -1294,23 +1294,6 @@
     "is_local": true
   },
   {
-    "id": "217800",
-    "title": "Last Twilight",
-    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
-    "release_date": "2023-11-10",
-    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
-    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
-    "vote_average": 9.6,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
@@ -1341,6 +1324,23 @@
     "original_language": "ko",
     "genre_ids": [
       80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217800",
+    "title": "Last Twilight",
+    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
+    "release_date": "2023-11-10",
+    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
+    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
+    "vote_average": 9.6,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1883,24 +1883,6 @@
     "is_local": true
   },
   {
-    "id": "284430",
-    "title": "Deep Affection Eyes",
-    "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
-    "release_date": "2025-07-21",
-    "poster_path": "/2VXqB4AuI93rNSGnjdqOnMJj54j.jpg",
-    "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "128883",
     "title": "Hometown Cha-Cha-Cha",
     "overview": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
@@ -1928,6 +1910,24 @@
     "vote_average": 6,
     "media_type": "tv",
     "original_language": "ja",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "284430",
+    "title": "Deep Affection Eyes",
+    "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
+    "release_date": "2025-07-21",
+    "poster_path": "/2VXqB4AuI93rNSGnjdqOnMJj54j.jpg",
+    "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18,
       9648
@@ -2862,24 +2862,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278428",
     "title": "Incognito",
     "overview": "In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.",
@@ -2891,6 +2873,24 @@
     "original_language": "tl",
     "genre_ids": [
       10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
