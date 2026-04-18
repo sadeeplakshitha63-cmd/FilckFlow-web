@@ -440,23 +440,6 @@
     "is_local": true
   },
   {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "45787",
     "title": "Jun to Ai",
     "overview": "Jun to Ai is a Japanese television drama series. It debuted on October 1, 2012 and was broadcast until March 30, 2013. It is about a girl named Jun Kanō, raised in Miyakojima, Okinawa, who moves to Osaka to work in a hotel. There she meets a man named Itoshi Machida, with whom she falls in love. It is the 87th NHK Asadora.",
@@ -469,6 +452,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -857,7 +857,7 @@
     "release_date": "2015-11-06",
     "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
     "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.785,
+    "vote_average": 8.771,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1102,7 +1102,7 @@
     "release_date": "2025-06-20",
     "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
     "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-    "vote_average": 8.022,
+    "vote_average": 8.021,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -1816,7 +1816,7 @@
     "release_date": "2022-04-26",
     "poster_path": "/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
     "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
-    "vote_average": 5.924,
+    "vote_average": 5.9,
     "media_type": "movie",
     "original_language": "pl",
     "genre_ids": [
@@ -1883,24 +1883,6 @@
     "is_local": true
   },
   {
-    "id": "128883",
-    "title": "Hometown Cha-Cha-Cha",
-    "overview": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
-    "release_date": "2021-08-28",
-    "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
-    "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
-    "vote_average": 8.167,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "222371",
     "title": "Unknown",
     "overview": "Yamihara Kokoro and Asada Toramatsu live in a town that is quite peaceful, until a serial murder case happened where the bodies all had their blood drained out. Five years have passed but the case remains unsolved. Meanwhile, Kokoro and Toramatsu have been in a relationship for a year, but are unable to get married as they are keeping a serious secret from each other. Kokoro is actually a vampire. However, she does not attack humans and live modestly. Toramatsu is a popular resident in the town and is trusted by many. After getting a divorce, Toramatsu got drunk and went back to his old house, where he met Kokoro, the current occupant. As the two continue to keep their secrets hidden, a horrific murder occurs once again in the town.",
@@ -1931,6 +1913,24 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "128883",
+    "title": "Hometown Cha-Cha-Cha",
+    "overview": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
+    "release_date": "2021-08-28",
+    "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
+    "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
+    "vote_average": 8.167,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2766,6 +2766,533 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "290054",
+    "title": "The Seven Relics of ill Omen",
+    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
+    "release_date": "2025-06-08",
+    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
+    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "222233",
+    "title": "Doctor Slump",
+    "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
+    "release_date": "2024-01-27",
+    "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
+    "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
+    "vote_average": 8.116,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "238618",
+    "title": "Love of the Divine Tree",
+    "overview": "Su Yishui, a talented young cultivator, had his destiny changed by his master Mu Qingge eighteen years ago. Mu Qingge, known as the \"female demon,\" was also branded with a bad reputation and presumed dead. Eighteen years later, Mu Qingge transforms into Xue Ranran, and Su Yishui, now the head of the West Mountain Sect, takes the critically ill Ranran as his disciple, vowing to protect her for life. Thus, the roles of master and disciple are swapped, and various amusing and unusual stories unfold between them.",
+    "release_date": "2025-02-07",
+    "poster_path": "/1XRiwCvZPlx8iWGy1BWOCHRgY0a.jpg",
+    "backdrop_path": "/h5Z7JutfjTOETDg86YMex28F2se.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "291753",
+    "title": "Boys II Planet",
+    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
+    "release_date": "2025-07-17",
+    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
+    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68814",
+    "title": "Strong Woman Do Bong-Soon",
+    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
+    "release_date": "2017-02-24",
+    "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+    "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278428",
+    "title": "Incognito",
+    "overview": "In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.",
+    "release_date": "2025-01-20",
+    "poster_path": "/8jdXvKWFllqPCD83Yv52WXeWn2N.jpg",
+    "backdrop_path": "/wNy5lA4k2C9VvLUPQCdJaZnJFWR.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "262741",
+    "title": "Youthful Glory",
+    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
+    "release_date": "2025-05-19",
+    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
+    "backdrop_path": "/hAqIdjKhUVCLKB94w4fawIujJFF.jpg",
+    "vote_average": 9.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278969",
+    "title": "Love in the Edge of Divorce",
+    "overview": "In a loveless arranged marriage, Fu Yancheng and Sheng Mian plan to divorce.  However, an unexpected intimate encounter leads to deeper misunderstandings when Fu Yancheng discovers that Sheng Mian is actually Penny. Regretting his actions, Fu Yancheng works to win her back",
+    "release_date": "2025-01-09",
+    "poster_path": "/ndArPPZTvqrpwvZHhC8o1xYRFgF.jpg",
+    "backdrop_path": "/8T5hiwuUvOmK32cL2a6KHDJHikd.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278331",
+    "title": "The First Night with the Duke",
+    "overview": "Reincarnated as a minor character in a novel, Cha Seon-taek unexpectedly spends a night with Prince Kyungsung, sparking an intense and unexpected romance.",
+    "release_date": "2025-06-11",
+    "poster_path": "/kKpIpNJGT9MQpejVNpNXxP09eAr.jpg",
+    "backdrop_path": "/xPFmxUuZnmYAlpoO5QI9AdYegxt.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "117549",
+    "title": "Please Feel At Ease Mr. Ling",
+    "overview": "A story of how the 'rabbit' brings home a 'big bad wolf' follows a young woman named Gu An Xin who chances upon the hotshot executive Ling Yue after he encountered an accident. Gu An Xin picked up a man. At first, she thought he was stupid, but after a few days of interaction, he proves himself to be a genius. As it turns out, Ling Yue got into an accident after being caught in the ugly fight for succession of a powerful conglomerate.",
+    "release_date": "2021-05-20",
+    "poster_path": "/rYquBAJqfHuHdPQ1w2YhISXPb9E.jpg",
+    "backdrop_path": "/pdCKtMARtuwqj8zpCPLXLrg8Y2t.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "108261",
+    "title": "Mr. Queen",
+    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
+    "release_date": "2020-12-12",
+    "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
+    "backdrop_path": "/ct9c3gAXfGUKUMYfeguxHFWsVcr.jpg",
+    "vote_average": 8.512,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "124003",
+    "title": "Perfect World",
+    "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
+    "release_date": "2021-04-23",
+    "poster_path": "/qy60bm9admmgpkmcPeW4BvRjjVm.jpg",
+    "backdrop_path": "/vMIlGA4HJnJekSboqk4ap0lz2Sd.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      10765,
+      16
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "226670",
+    "title": "Cherry Magic",
+    "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
+    "release_date": "2023-12-09",
+    "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
+    "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "252320",
+    "title": "FEUD",
+    "overview": "Li Qingyue, the Four Spirit Immortal, and Bai Jiusi, the powerful Dacheng Lord, are caught in a turbulent love-hate relationship. As hidden truths come to light, they overcome their misunderstandings and join forces to protect the world from impending danger.",
+    "release_date": "2025-06-06",
+    "poster_path": "/fx7KQNaFUx5DaXMRm0pznHoLe04.jpg",
+    "backdrop_path": "/jHbPcwrjJzX74Hrkuy5LWxEER1E.jpg",
+    "vote_average": 7.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "93657",
+    "title": "Extraordinary You",
+    "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
+    "release_date": "2019-10-02",
+    "poster_path": "/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
+    "backdrop_path": "/i6rkuzYRCBYUSYZJItWzBVAQ2j6.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "270420",
+    "title": "No Tail to Tell",
+    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
+    "release_date": "2026-01-16",
+    "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
+    "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "281016",
+    "title": "Boyfriend on Demand",
+    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
+    "release_date": "2026-03-06",
+    "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+    "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "198182",
+    "title": "Throne of Seal",
+    "overview": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. The mankind created six Temples to fight the demons. Long Haochen joins the Knights Temple. As he grows, an adventure unfolds. He wins the recognition of others and fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people. Could Long win the Throne of Seal and be granted the highest honor in the Knights' Temple? All remained to be revealed.",
+    "release_date": "2022-04-28",
+    "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
+    "backdrop_path": "/lCyVptIB3CgO0ls9o0PvT50xshn.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      16,
+      10759,
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261980",
+    "title": "Our Unwritten Seoul",
+    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
+    "release_date": "2025-05-24",
+    "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
+    "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
+    "vote_average": 8.423,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230735",
+    "title": "My Personal Weatherman",
+    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
+    "release_date": "2023-08-11",
+    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
+    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240901",
+    "title": "Safe Skies, Archer",
+    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+    "release_date": "2023-11-20",
+    "poster_path": "/5aQgnEYN0bAhbUI0w0rOLLufrOA.jpg",
+    "backdrop_path": "/3osYBadMX2dMwWjddDe6NPrTs4R.jpg",
+    "vote_average": 9.8,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237327",
+    "title": "My Golden Blood",
+    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
+    "release_date": "2025-03-12",
+    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
+    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
+    "vote_average": 9.13,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "221416",
+    "title": "Kiseki: Dear To Me",
+    "overview": "A top student and an injured gangster form an unlikely bond, but fate, crime, and memory loss tear them apart—until destiny brings them back together.",
+    "release_date": "2023-08-22",
+    "poster_path": "/rNixyYfhnh42yWL7ysCkZyLSAJP.jpg",
+    "backdrop_path": "/qXd2fqz9KdL8BOtzXU4C1LlLU5T.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278146",
+    "title": "Dare You to Death",
+    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
+    "release_date": "2025-12-18",
+    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
+    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
+    "vote_average": 8.389,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "273418",
+    "title": "Law and the City",
+    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+    "release_date": "2025-07-05",
+    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "backdrop_path": "/8MsIBCK1kGSoLWPGey79tZwCPRN.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "247453",
+    "title": "Everyone Loves Me",
+    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
+    "release_date": "2024-03-01",
+    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
+    "backdrop_path": "/cT0BHScPLuvpWywZ04gLxF7q3K5.jpg",
+    "vote_average": 8.028,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259857",
+    "title": "Be Passionately in Love",
+    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
+    "release_date": "2025-05-28",
+    "poster_path": "/lHwDCUgN5bjOgWgASt0BMgHQVIQ.jpg",
+    "backdrop_path": "/reKaaMHb1b6LC3ehppR3nIafKNs.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "274559",
+    "title": "The Wicked Game",
+    "overview": "An abandoned heir wages war to expose his ruthless father and seize control of the family empire, but treachery—and desire—threaten his plan.",
+    "release_date": "2025-09-27",
+    "poster_path": "/vcOR221FjqIUYAnPB7ZhE20z0Ch.jpg",
+    "backdrop_path": "/guVAWuTVFbTInhJW4OLGmIMR9uA.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10759,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4224,18 +4751,17 @@
     "is_local": true
   },
   {
-    "id": "297424",
+    "id": "213608",
     "title": "Our Universe",
-    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
-    "release_date": "2026-02-04",
-    "poster_path": "/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
-    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 7.9,
+    "overview": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
+    "release_date": "2022-11-22",
+    "poster_path": "/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
+    "backdrop_path": "/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
+    "vote_average": 7.857,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "en",
     "genre_ids": [
-      35,
-      18
+      99
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4931,527 +5457,18 @@
     "is_local": true
   },
   {
-    "id": "290054",
-    "title": "The Seven Relics of ill Omen",
-    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
-    "release_date": "2025-06-08",
-    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
-    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "222233",
-    "title": "Doctor Slump",
-    "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
-    "release_date": "2024-01-27",
-    "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
-    "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8.116,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "238618",
-    "title": "Love of the Divine Tree",
-    "overview": "Su Yishui, a talented young cultivator, had his destiny changed by his master Mu Qingge eighteen years ago. Mu Qingge, known as the \"female demon,\" was also branded with a bad reputation and presumed dead. Eighteen years later, Mu Qingge transforms into Xue Ranran, and Su Yishui, now the head of the West Mountain Sect, takes the critically ill Ranran as his disciple, vowing to protect her for life. Thus, the roles of master and disciple are swapped, and various amusing and unusual stories unfold between them.",
-    "release_date": "2025-02-07",
-    "poster_path": "/1XRiwCvZPlx8iWGy1BWOCHRgY0a.jpg",
-    "backdrop_path": "/h5Z7JutfjTOETDg86YMex28F2se.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "291753",
-    "title": "Boys II Planet",
-    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
-    "release_date": "2025-07-17",
-    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
-    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "68814",
-    "title": "Strong Woman Do Bong-Soon",
-    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
-    "release_date": "2017-02-24",
-    "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
-    "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278428",
-    "title": "Incognito",
-    "overview": "In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.",
-    "release_date": "2025-01-20",
-    "poster_path": "/8jdXvKWFllqPCD83Yv52WXeWn2N.jpg",
-    "backdrop_path": "/wNy5lA4k2C9VvLUPQCdJaZnJFWR.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "262741",
-    "title": "Youthful Glory",
-    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
-    "release_date": "2025-05-19",
-    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
-    "backdrop_path": "/hAqIdjKhUVCLKB94w4fawIujJFF.jpg",
-    "vote_average": 9.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278969",
-    "title": "Love in the Edge of Divorce",
-    "overview": "In a loveless arranged marriage, Fu Yancheng and Sheng Mian plan to divorce.  However, an unexpected intimate encounter leads to deeper misunderstandings when Fu Yancheng discovers that Sheng Mian is actually Penny. Regretting his actions, Fu Yancheng works to win her back",
-    "release_date": "2025-01-09",
-    "poster_path": "/ndArPPZTvqrpwvZHhC8o1xYRFgF.jpg",
-    "backdrop_path": "/8T5hiwuUvOmK32cL2a6KHDJHikd.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278331",
-    "title": "The First Night with the Duke",
-    "overview": "Reincarnated as a minor character in a novel, Cha Seon-taek unexpectedly spends a night with Prince Kyungsung, sparking an intense and unexpected romance.",
-    "release_date": "2025-06-11",
-    "poster_path": "/kKpIpNJGT9MQpejVNpNXxP09eAr.jpg",
-    "backdrop_path": "/xPFmxUuZnmYAlpoO5QI9AdYegxt.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "117549",
-    "title": "Please Feel At Ease Mr. Ling",
-    "overview": "A story of how the 'rabbit' brings home a 'big bad wolf' follows a young woman named Gu An Xin who chances upon the hotshot executive Ling Yue after he encountered an accident. Gu An Xin picked up a man. At first, she thought he was stupid, but after a few days of interaction, he proves himself to be a genius. As it turns out, Ling Yue got into an accident after being caught in the ugly fight for succession of a powerful conglomerate.",
-    "release_date": "2021-05-20",
-    "poster_path": "/rYquBAJqfHuHdPQ1w2YhISXPb9E.jpg",
-    "backdrop_path": "/pdCKtMARtuwqj8zpCPLXLrg8Y2t.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "108261",
-    "title": "Mr. Queen",
-    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
-    "release_date": "2020-12-12",
-    "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
-    "backdrop_path": "/ct9c3gAXfGUKUMYfeguxHFWsVcr.jpg",
-    "vote_average": 8.512,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "124003",
-    "title": "Perfect World",
-    "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
-    "release_date": "2021-04-23",
-    "poster_path": "/qy60bm9admmgpkmcPeW4BvRjjVm.jpg",
-    "backdrop_path": "/vMIlGA4HJnJekSboqk4ap0lz2Sd.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      10765,
-      16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "226670",
-    "title": "Cherry Magic",
-    "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
-    "release_date": "2023-12-09",
-    "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
-    "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252320",
-    "title": "FEUD",
-    "overview": "Li Qingyue, the Four Spirit Immortal, and Bai Jiusi, the powerful Dacheng Lord, are caught in a turbulent love-hate relationship. As hidden truths come to light, they overcome their misunderstandings and join forces to protect the world from impending danger.",
-    "release_date": "2025-06-06",
-    "poster_path": "/fx7KQNaFUx5DaXMRm0pznHoLe04.jpg",
-    "backdrop_path": "/jHbPcwrjJzX74Hrkuy5LWxEER1E.jpg",
-    "vote_average": 7.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "93657",
-    "title": "Extraordinary You",
-    "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
-    "release_date": "2019-10-02",
-    "poster_path": "/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
-    "backdrop_path": "/i6rkuzYRCBYUSYZJItWzBVAQ2j6.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "270420",
-    "title": "No Tail to Tell",
-    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
-    "release_date": "2026-01-16",
-    "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
-    "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+    "id": "297424",
+    "title": "Our Universe",
+    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+    "release_date": "2026-02-04",
+    "poster_path": "/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
+    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
     "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
-      10765,
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "281016",
-    "title": "Boyfriend on Demand",
-    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
-    "release_date": "2026-03-06",
-    "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
-    "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "198182",
-    "title": "Throne of Seal",
-    "overview": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. The mankind created six Temples to fight the demons. Long Haochen joins the Knights Temple. As he grows, an adventure unfolds. He wins the recognition of others and fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people. Could Long win the Throne of Seal and be granted the highest honor in the Knights' Temple? All remained to be revealed.",
-    "release_date": "2022-04-28",
-    "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
-    "backdrop_path": "/lCyVptIB3CgO0ls9o0PvT50xshn.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      16,
-      10759,
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "261980",
-    "title": "Our Unwritten Seoul",
-    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
-    "release_date": "2025-05-24",
-    "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
-    "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.423,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "230735",
-    "title": "My Personal Weatherman",
-    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
-    "release_date": "2023-08-11",
-    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
-    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240901",
-    "title": "Safe Skies, Archer",
-    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
-    "release_date": "2023-11-20",
-    "poster_path": "/5aQgnEYN0bAhbUI0w0rOLLufrOA.jpg",
-    "backdrop_path": "/3osYBadMX2dMwWjddDe6NPrTs4R.jpg",
-    "vote_average": 9.8,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237327",
-    "title": "My Golden Blood",
-    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
-    "release_date": "2025-03-12",
-    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
-    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
-    "vote_average": 9.13,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "221416",
-    "title": "Kiseki: Dear To Me",
-    "overview": "A top student and an injured gangster form an unlikely bond, but fate, crime, and memory loss tear them apart—until destiny brings them back together.",
-    "release_date": "2023-08-22",
-    "poster_path": "/rNixyYfhnh42yWL7ysCkZyLSAJP.jpg",
-    "backdrop_path": "/qXd2fqz9KdL8BOtzXU4C1LlLU5T.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278146",
-    "title": "Dare You to Death",
-    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
-    "release_date": "2025-12-18",
-    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
-    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 8.389,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "273418",
-    "title": "Law and the City",
-    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
-    "release_date": "2025-07-05",
-    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
-    "backdrop_path": "/8MsIBCK1kGSoLWPGey79tZwCPRN.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "247453",
-    "title": "Everyone Loves Me",
-    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
-    "release_date": "2024-03-01",
-    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
-    "backdrop_path": "/cT0BHScPLuvpWywZ04gLxF7q3K5.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259857",
-    "title": "Be Passionately in Love",
-    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
-    "release_date": "2025-05-28",
-    "poster_path": "/lHwDCUgN5bjOgWgASt0BMgHQVIQ.jpg",
-    "backdrop_path": "/reKaaMHb1b6LC3ehppR3nIafKNs.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "274559",
-    "title": "The Wicked Game",
-    "overview": "An abandoned heir wages war to expose his ruthless father and seize control of the family empire, but treachery—and desire—threaten his plan.",
-    "release_date": "2025-09-27",
-    "poster_path": "/vcOR221FjqIUYAnPB7ZhE20z0Ch.jpg",
-    "backdrop_path": "/guVAWuTVFbTInhJW4OLGmIMR9uA.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10759,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5560,23 +5577,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "213608",
-    "title": "Our Universe",
-    "overview": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
-    "release_date": "2022-11-22",
-    "poster_path": "/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
-    "backdrop_path": "/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
-    "vote_average": 7.857,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      99
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 1511057,
