@@ -1,68 +1,18 @@
 [
   {
-    "id": 1623125,
-    "title": "A Gorilla Story: Told by David Attenborough",
-    "poster_path": "/kyfsiPQsJxdgf8gOtYkUhwojN6l.jpg",
-    "overview": "David Attenborough tells the remarkable story of his first encounter with the baby gorilla Pablo, how that gorilla grew up to be a top Silverback and how Pablo's direct descendants are doing today.",
-    "vote_average": 8.6,
-    "release_date": "2026-04-17",
+    "id": 1542352,
+    "title": "Youth",
+    "poster_path": "/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+    "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+    "vote_average": 6,
+    "release_date": "2026-03-19",
     "genre_ids": [
-      99
+      35,
+      10749,
+      18
     ],
-    "original_language": "en",
+    "original_language": "ta",
     "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 1079091,
-    "title": "It Ends with Us",
-    "poster_path": "/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
-    "overview": "When a woman's first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended, and she realizes she must learn to rely on her own strength to make an impossible choice for her future.",
-    "vote_average": 6.941,
-    "release_date": "2024-08-07",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 533514,
-    "title": "Violet Evergarden: The Movie",
-    "poster_path": "/bajajkoErDst0JxdFyBkABiF9rW.jpg",
-    "overview": "As the world moves on from the war and technological advances bring changes to her life, Violet still hopes to see her lost commanding officer again.",
-    "vote_average": 8.301,
-    "release_date": "2020-09-18",
-    "genre_ids": [
-      16,
-      18,
-      14,
-      10749
-    ],
-    "original_language": "ja",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 316544,
-    "title": "Ronaldinho: The One and Only",
-    "poster_path": "/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
-    "overview": "The life and career of Brazilian football star Ronaldinho, tracing his journey from young prodigy to global sports icon.",
-    "vote_average": 6.1,
-    "release_date": "2026-04-16",
-    "genre_ids": [
-      99
-    ],
-    "original_language": "pt",
-    "media_type": "tv",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
@@ -508,6 +458,23 @@
     "is_local": true
   },
   {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "45787",
     "title": "Jun to Ai",
     "overview": "Jun to Ai is a Japanese television drama series. It debuted on October 1, 2012 and was broadcast until March 30, 2013. It is about a girl named Jun Kanō, raised in Miyakojima, Okinawa, who moves to Osaka to work in a hotel. There she meets a man named Itoshi Machida, with whom she falls in love. It is the 87th NHK Asadora.",
@@ -520,23 +487,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -907,7 +857,7 @@
     "release_date": "2022-11-10",
     "poster_path": "/2LSRCKg68ktB5sBtFbOkXwDQTan.jpg",
     "backdrop_path": "/ytMqU90MI12y8YHS4tqtFGYIWMl.jpg",
-    "vote_average": 6.652,
+    "vote_average": 6.792,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1595,23 +1545,6 @@
     "is_local": true
   },
   {
-    "id": "223618",
-    "title": "Venus in the Sky",
-    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
-    "release_date": "2023-09-02",
-    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
-    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "258280",
     "title": "Dashing Youth",
     "overview": "Baili Dongjun, the young master of the Marquis of Zhenxi's mansion, has little interest in practicing martial arts but throws himself into brewing liquor, only because he promised to be the Liquor Deity while his childhood friend Ye Yun becomes the Sword Deity. As fate would have it, he becomes a disciple of the top martial arts master Li Changsheng to start learning martial arts. Later, he meets his confidante Yueyao, reunites with Ye Yun, who has changed his name to Ye Dingzhi, and travels with Sikong Changfeng, a wandering adventurer. Together, these youths embark on their own adventures in the martial world.",
@@ -1624,6 +1557,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "223618",
+    "title": "Venus in the Sky",
+    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
+    "release_date": "2023-09-02",
+    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
+    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1666,23 +1616,6 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
-    "release_date": "2022-12-02",
-    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
-    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
-    "vote_average": 8.16,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -1713,6 +1646,23 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
+    "release_date": "2022-12-02",
+    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
+    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
+    "vote_average": 8.16,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1809,13 +1759,13 @@
     "is_local": true
   },
   {
-    "id": "253093",
-    "title": "Shadow Love",
-    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
-    "release_date": "2025-08-24",
-    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
-    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
-    "vote_average": 8.6,
+    "id": "68045",
+    "title": "Stay with Me",
+    "overview": "After an accidental drowning, Li Wei Wei a famous fashion designer, loses parts of her memory. Whereby her memories stop at when she was 23. The boyfriend she remembers has now become her ex and rival, and instead a stranger is her fiancé. Li Wei Wei does not believe that she broke up with her ex Chen Yi Du and investigates the reason to as why they did. Her fiancé Qi Cheng, in order to protect and rekindle his relationship, uses all methods to prevent Wei Wei from investigating. During her investigation, Wei Wei discovers that due to the hectic lifestyle of adulthood, she has lost the innocence of her original dreams. It was this very reason as well to as why she and her ex broke up. The now 30 years old Li Wei Wei has decided to change her lifestyle. She plans to regain her most pure emotions and dreams as well as finding true love.",
+    "release_date": "2016-12-11",
+    "poster_path": "/76qtuHvpqzp30By8Cp16R0t0Mtc.jpg",
+    "backdrop_path": "/30EGncmHcKRY0z3eerA3EvDTowx.jpg",
+    "vote_average": 4.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1826,13 +1776,13 @@
     "is_local": true
   },
   {
-    "id": "68045",
-    "title": "Stay with Me",
-    "overview": "After an accidental drowning, Li Wei Wei a famous fashion designer, loses parts of her memory. Whereby her memories stop at when she was 23. The boyfriend she remembers has now become her ex and rival, and instead a stranger is her fiancé. Li Wei Wei does not believe that she broke up with her ex Chen Yi Du and investigates the reason to as why they did. Her fiancé Qi Cheng, in order to protect and rekindle his relationship, uses all methods to prevent Wei Wei from investigating. During her investigation, Wei Wei discovers that due to the hectic lifestyle of adulthood, she has lost the innocence of her original dreams. It was this very reason as well to as why she and her ex broke up. The now 30 years old Li Wei Wei has decided to change her lifestyle. She plans to regain her most pure emotions and dreams as well as finding true love.",
-    "release_date": "2016-12-11",
-    "poster_path": "/76qtuHvpqzp30By8Cp16R0t0Mtc.jpg",
-    "backdrop_path": "/30EGncmHcKRY0z3eerA3EvDTowx.jpg",
-    "vote_average": 4.7,
+    "id": "253093",
+    "title": "Shadow Love",
+    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
+    "release_date": "2025-08-24",
+    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
+    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1951,24 +1901,6 @@
     "is_local": true
   },
   {
-    "id": "222371",
-    "title": "Unknown",
-    "overview": "Yamihara Kokoro and Asada Toramatsu live in a town that is quite peaceful, until a serial murder case happened where the bodies all had their blood drained out. Five years have passed but the case remains unsolved. Meanwhile, Kokoro and Toramatsu have been in a relationship for a year, but are unable to get married as they are keeping a serious secret from each other. Kokoro is actually a vampire. However, she does not attack humans and live modestly. Toramatsu is a popular resident in the town and is trusted by many. After getting a divorce, Toramatsu got drunk and went back to his old house, where he met Kokoro, the current occupant. As the two continue to keep their secrets hidden, a horrific murder occurs once again in the town.",
-    "release_date": "2023-04-18",
-    "poster_path": "/cRLMyXexifZ0hNtXMWXAnV1H1BI.jpg",
-    "backdrop_path": "/rILBXokPDoO1ht8mNrUEu3c5shN.jpg",
-    "vote_average": 6,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "284430",
     "title": "Deep Affection Eyes",
     "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
@@ -1999,6 +1931,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "222371",
+    "title": "Unknown",
+    "overview": "Yamihara Kokoro and Asada Toramatsu live in a town that is quite peaceful, until a serial murder case happened where the bodies all had their blood drained out. Five years have passed but the case remains unsolved. Meanwhile, Kokoro and Toramatsu have been in a relationship for a year, but are unable to get married as they are keeping a serious secret from each other. Kokoro is actually a vampire. However, she does not attack humans and live modestly. Toramatsu is a popular resident in the town and is trusted by many. After getting a divorce, Toramatsu got drunk and went back to his old house, where he met Kokoro, the current occupant. As the two continue to keep their secrets hidden, a horrific murder occurs once again in the town.",
+    "release_date": "2023-04-18",
+    "poster_path": "/cRLMyXexifZ0hNtXMWXAnV1H1BI.jpg",
+    "backdrop_path": "/rILBXokPDoO1ht8mNrUEu3c5shN.jpg",
+    "vote_average": 6,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2305,6 +2255,26 @@
     "is_local": true
   },
   {
+    "id": "233742",
+    "title": "Newtopia",
+    "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
+    "release_date": "2025-02-07",
+    "poster_path": "/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
+    "backdrop_path": "/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
+    "vote_average": 7.904,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      10759,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "258865",
     "title": "Love Beyond the Grave",
     "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
@@ -2317,26 +2287,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "233742",
-    "title": "Newtopia",
-    "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
-    "release_date": "2025-02-07",
-    "poster_path": "/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
-    "backdrop_path": "/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
-    "vote_average": 7.924,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      10759,
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2698,24 +2648,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252318",
     "title": "Melody of Golden Age",
     "overview": "It tells the story of a pair of mortal enemies who accidentally became a couple but fell in love with each other in a series of bizarre cases and finally chose to fight side by side.",
@@ -2744,6 +2676,24 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -2966,13 +2916,13 @@
     "is_local": true
   },
   {
-    "id": "278969",
-    "title": "Love in the Edge of Divorce",
-    "overview": "In a loveless arranged marriage, Fu Yancheng and Sheng Mian plan to divorce.  However, an unexpected intimate encounter leads to deeper misunderstandings when Fu Yancheng discovers that Sheng Mian is actually Penny. Regretting his actions, Fu Yancheng works to win her back",
-    "release_date": "2025-01-09",
-    "poster_path": "/ndArPPZTvqrpwvZHhC8o1xYRFgF.jpg",
-    "backdrop_path": "/8T5hiwuUvOmK32cL2a6KHDJHikd.jpg",
-    "vote_average": 8,
+    "id": "262741",
+    "title": "Youthful Glory",
+    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
+    "release_date": "2025-05-19",
+    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
+    "backdrop_path": "/hAqIdjKhUVCLKB94w4fawIujJFF.jpg",
+    "vote_average": 9.4,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2983,13 +2933,13 @@
     "is_local": true
   },
   {
-    "id": "262741",
-    "title": "Youthful Glory",
-    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
-    "release_date": "2025-05-19",
-    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
-    "backdrop_path": "/hAqIdjKhUVCLKB94w4fawIujJFF.jpg",
-    "vote_average": 9.4,
+    "id": "278969",
+    "title": "Love in the Edge of Divorce",
+    "overview": "In a loveless arranged marriage, Fu Yancheng and Sheng Mian plan to divorce.  However, an unexpected intimate encounter leads to deeper misunderstandings when Fu Yancheng discovers that Sheng Mian is actually Penny. Regretting his actions, Fu Yancheng works to win her back",
+    "release_date": "2025-01-09",
+    "poster_path": "/ndArPPZTvqrpwvZHhC8o1xYRFgF.jpg",
+    "backdrop_path": "/8T5hiwuUvOmK32cL2a6KHDJHikd.jpg",
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5326,7 +5276,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.726,
+    "vote_average": 8.722,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5524,6 +5474,74 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1623125,
+    "title": "A Gorilla Story: Told by David Attenborough",
+    "poster_path": "/kyfsiPQsJxdgf8gOtYkUhwojN6l.jpg",
+    "overview": "David Attenborough tells the remarkable story of his first encounter with the baby gorilla Pablo, how that gorilla grew up to be a top Silverback and how Pablo's direct descendants are doing today.",
+    "vote_average": 8.6,
+    "release_date": "2026-04-17",
+    "genre_ids": [
+      99
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1079091,
+    "title": "It Ends with Us",
+    "poster_path": "/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
+    "overview": "When a woman's first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended, and she realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+    "vote_average": 6.941,
+    "release_date": "2024-08-07",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 533514,
+    "title": "Violet Evergarden: The Movie",
+    "poster_path": "/bajajkoErDst0JxdFyBkABiF9rW.jpg",
+    "overview": "As the world moves on from the war and technological advances bring changes to her life, Violet still hopes to see her lost commanding officer again.",
+    "vote_average": 8.301,
+    "release_date": "2020-09-18",
+    "genre_ids": [
+      16,
+      18,
+      14,
+      10749
+    ],
+    "original_language": "ja",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 316544,
+    "title": "Ronaldinho: The One and Only",
+    "poster_path": "/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
+    "overview": "The life and career of Brazilian football star Ronaldinho, tracing his journey from young prodigy to global sports icon.",
+    "vote_average": 6.1,
+    "release_date": "2026-04-16",
+    "genre_ids": [
+      99
+    ],
+    "original_language": "pt",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "213608",
