@@ -76,6 +76,23 @@
     "is_local": true
   },
   {
+    "id": "313995",
+    "title": "Single's Inferno Reunion",
+    "overview": "\"Single's Inferno\" contestants reunite to reveal honest feelings and relationship updates — revisiting standout moments from their time on the island.",
+    "release_date": "2026-02-14",
+    "poster_path": "/xgM5WOEzr0Y7MUK0EnuozBw3CKZ.jpg",
+    "backdrop_path": "/4qceofXVeBtJqJun3CZtkPs4m4I.jpg",
+    "vote_average": 7.636,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "99654",
     "title": "18 Again",
     "overview": "At a difficult place in his marriage and career, a middle-aged man gets a shot at a do-over when he's transformed back into his 18-year-old body.",
@@ -89,23 +106,6 @@
       18,
       35,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "313995",
-    "title": "Single's Inferno Reunion",
-    "overview": "\"Single's Inferno\" contestants reunite to reveal honest feelings and relationship updates — revisiting standout moments from their time on the island.",
-    "release_date": "2026-02-14",
-    "poster_path": "/xgM5WOEzr0Y7MUK0EnuozBw3CKZ.jpg",
-    "backdrop_path": "/4qceofXVeBtJqJun3CZtkPs4m4I.jpg",
-    "vote_average": 7.636,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1206,23 +1206,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "245292",
     "title": "The Spirealm",
     "overview": "Jiu Shi’s skills are pushed to the edge as he faces life-or-death challenges inside a brutal VR maze.",
@@ -1236,6 +1219,23 @@
       18,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2413,23 +2413,6 @@
     "is_local": true
   },
   {
-    "id": "276257",
-    "title": "Secret Relationships",
-    "overview": "Trapped in an escalating love square, a salaryman must navigate his tumultuous feelings for a colleague, a former tutor, and an heir.",
-    "release_date": "2025-02-26",
-    "poster_path": "/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
-    "backdrop_path": "/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
-    "vote_average": 8.306,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "139353",
     "title": "Cutie Pie",
     "overview": "Arranged to marry, a young tycoon and a free-spirited student face a test when one reveals that only duty, not love, keeps them together.",
@@ -2441,6 +2424,23 @@
     "original_language": "th",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "276257",
+    "title": "Secret Relationships",
+    "overview": "Trapped in an escalating love square, a salaryman must navigate his tumultuous feelings for a colleague, a former tutor, and an heir.",
+    "release_date": "2025-02-26",
+    "poster_path": "/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
+    "backdrop_path": "/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
+    "vote_average": 8.306,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2760,7 +2760,7 @@
     "release_date": "2020-06-20",
     "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
     "backdrop_path": "/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
-    "vote_average": 8.513,
+    "vote_average": 8.512,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4848,7 +4848,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.697,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5238,7 +5238,7 @@
     "release_date": "2024-04-08",
     "poster_path": "/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg",
     "backdrop_path": "/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-    "vote_average": 8.57,
+    "vote_average": 8.576,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
