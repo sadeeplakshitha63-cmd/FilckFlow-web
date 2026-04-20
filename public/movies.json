@@ -279,7 +279,7 @@
     "release_date": "1996-01-08",
     "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
     "backdrop_path": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
-    "vote_average": 7.997,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -328,24 +328,6 @@
     "is_local": true
   },
   {
-    "id": "278275",
-    "title": "Veil of Shadows",
-    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
-    "release_date": "2026-04-01",
-    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
-    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "302569",
     "title": "What Lies Beneath",
     "overview": "A fractured group of women reunites to fulfill a childhood dream and honor a lost friend, but a dark secret from their past threatens to tear them apart.",
@@ -378,6 +360,24 @@
     "original_language": "ko",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278275",
+    "title": "Veil of Shadows",
+    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
+    "release_date": "2026-04-01",
+    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
+    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1331,23 +1331,6 @@
     "is_local": true
   },
   {
-    "id": "217800",
-    "title": "Last Twilight",
-    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
-    "release_date": "2023-11-10",
-    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
-    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
-    "vote_average": 9.6,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "286445",
     "title": "Marry Me Again",
     "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
@@ -1357,6 +1340,23 @@
     "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217800",
+    "title": "Last Twilight",
+    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
+    "release_date": "2023-11-10",
+    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
+    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
+    "vote_average": 9.6,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -1739,6 +1739,23 @@
     "is_local": true
   },
   {
+    "id": "253093",
+    "title": "Shadow Love",
+    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
+    "release_date": "2025-08-24",
+    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
+    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "42188",
     "title": "Never Let Me Go",
     "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
@@ -1752,23 +1769,6 @@
       18,
       10749,
       878
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253093",
-    "title": "Shadow Love",
-    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
-    "release_date": "2025-08-24",
-    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
-    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2413,6 +2413,23 @@
     "is_local": true
   },
   {
+    "id": "276257",
+    "title": "Secret Relationships",
+    "overview": "Trapped in an escalating love square, a salaryman must navigate his tumultuous feelings for a colleague, a former tutor, and an heir.",
+    "release_date": "2025-02-26",
+    "poster_path": "/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
+    "backdrop_path": "/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
+    "vote_average": 8.306,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "139353",
     "title": "Cutie Pie",
     "overview": "Arranged to marry, a young tycoon and a free-spirited student face a test when one reveals that only duty, not love, keeps them together.",
@@ -2424,23 +2441,6 @@
     "original_language": "th",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "276257",
-    "title": "Secret Relationships",
-    "overview": "Trapped in an escalating love square, a salaryman must navigate his tumultuous feelings for a colleague, a former tutor, and an heir.",
-    "release_date": "2025-02-26",
-    "poster_path": "/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
-    "backdrop_path": "/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
-    "vote_average": 8.306,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2778,7 +2778,7 @@
     "release_date": "2025-06-08",
     "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
     "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.083,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3319,24 +3319,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.111,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "457832",
     "title": "Reset",
     "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
@@ -3368,6 +3350,24 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9.111,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3429,24 +3429,6 @@
     "is_local": true
   },
   {
-    "id": "278137",
-    "title": "Head 2 Head",
-    "overview": "A rivalry turns upside down when Jerome’s strange new ability shows him a shocking future—one where his enemy becomes his soulmate.",
-    "release_date": "2025-10-26",
-    "poster_path": "/lgY5E0Gc5LQMy4SD9vPk6EBOei1.jpg",
-    "backdrop_path": "/5i7rjtU016yD1ooGLva8LYaoWF0.jpg",
-    "vote_average": 7.769,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "4545",
     "title": "Blossom",
     "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
@@ -3460,6 +3442,24 @@
       18,
       35,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278137",
+    "title": "Head 2 Head",
+    "overview": "A rivalry turns upside down when Jerome’s strange new ability shows him a shocking future—one where his enemy becomes his soulmate.",
+    "release_date": "2025-10-26",
+    "poster_path": "/lgY5E0Gc5LQMy4SD9vPk6EBOei1.jpg",
+    "backdrop_path": "/5i7rjtU016yD1ooGLva8LYaoWF0.jpg",
+    "vote_average": 7.769,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3738,7 +3738,7 @@
     "release_date": "2025-01-07",
     "poster_path": "/4tqNdo1e3dwxPUGGidcuT9IMfJ1.jpg",
     "backdrop_path": "/a6t5tRwdNh9MlYub0fr2HetALeh.jpg",
-    "vote_average": 7.885,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5221,7 +5221,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
     "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-    "vote_average": 7.75,
+    "vote_average": 7.682,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
