@@ -552,7 +552,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.678,
+    "vote_average": 7.681,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -2733,6 +2733,24 @@
     "is_local": true
   },
   {
+    "id": "96462",
+    "title": "It's Okay to Not Be Okay",
+    "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
+    "release_date": "2020-06-20",
+    "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
+    "backdrop_path": "/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+    "vote_average": 8.512,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "158258",
     "title": "Duty After School",
     "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
@@ -2746,24 +2764,6 @@
       18,
       10765,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "96462",
-    "title": "It's Okay to Not Be Okay",
-    "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
-    "release_date": "2020-06-20",
-    "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
-    "backdrop_path": "/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
-    "vote_average": 8.512,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3465,24 +3465,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.091,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "130368",
     "title": "Love Between Fairy and Devil",
     "overview": "When a low-ranked fairy accidentally resurrects a powerful demon, their fates become cosmically entangled as the world is thrown into turmoil.",
@@ -3495,6 +3477,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9.091,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
