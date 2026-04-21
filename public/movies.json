@@ -463,7 +463,7 @@
     "release_date": "2026-01-02",
     "poster_path": "/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
     "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
-    "vote_average": 7.667,
+    "vote_average": 7.632,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -476,18 +476,17 @@
     "is_local": true
   },
   {
-    "id": "278275",
-    "title": "Veil of Shadows",
-    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
-    "release_date": "2026-04-01",
-    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
-    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
-    "vote_average": 8.9,
+    "id": "263048",
+    "title": "Sniper Butterfly",
+    "overview": "A captivating romance unfolds between a confident, cat-like woman and a bold, loyal younger man. As they navigate their differences, they find mutual healing and redemption, leading to a passionate, fate-driven love story full of tension and desire.",
+    "release_date": "2025-12-04",
+    "poster_path": "/2lt4ZRGElT9uG4TEM1bkOjN86nk.jpg",
+    "backdrop_path": "/cAJDWfx0V82FzDwQl6y3QlGOuQY.jpg",
+    "vote_average": 6.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18,
-      10765
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -511,17 +510,18 @@
     "is_local": true
   },
   {
-    "id": "263048",
-    "title": "Sniper Butterfly",
-    "overview": "A captivating romance unfolds between a confident, cat-like woman and a bold, loyal younger man. As they navigate their differences, they find mutual healing and redemption, leading to a passionate, fate-driven love story full of tension and desire.",
-    "release_date": "2025-12-04",
-    "poster_path": "/2lt4ZRGElT9uG4TEM1bkOjN86nk.jpg",
-    "backdrop_path": "/cAJDWfx0V82FzDwQl6y3QlGOuQY.jpg",
-    "vote_average": 6.8,
+    "id": "278275",
+    "title": "Veil of Shadows",
+    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
+    "release_date": "2026-04-01",
+    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
+    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -552,7 +552,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.681,
+    "vote_average": 7.68,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -1543,6 +1543,24 @@
     "is_local": true
   },
   {
+    "id": "232948",
+    "title": "Best Choice Ever",
+    "overview": "Mai Chenghuan, a post-95 girl born into an ordinary family in Shanghai, agrees to marry her boyfriend, Xin Jialiang, under her mother’s urging. However, the economic gap between them creates an imbalance in their relationship, ultimately leading to its end. Mai Chenghuan then gains her grandmother's approval and is entrusted with the heavy responsibility of managing a hotel. Through cooperation, Mai Chenghuan and the professional hotel manager Yao Zhiming become working partners and go hand in hand. Mai Chenghuan transitions from being under her family's control to achieving self-fulfillment, forging her own path.",
+    "release_date": "2024-04-09",
+    "poster_path": "/kHosEyMUhgrAKu3TsuBIepP5vCN.jpg",
+    "backdrop_path": "/4mi2FoPWCvwkuF9go5qNIif890M.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "307624",
     "title": "Sammy's Children's Day",
     "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
@@ -1556,24 +1574,6 @@
       18,
       80,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "232948",
-    "title": "Best Choice Ever",
-    "overview": "Mai Chenghuan, a post-95 girl born into an ordinary family in Shanghai, agrees to marry her boyfriend, Xin Jialiang, under her mother’s urging. However, the economic gap between them creates an imbalance in their relationship, ultimately leading to its end. Mai Chenghuan then gains her grandmother's approval and is entrusted with the heavy responsibility of managing a hotel. Through cooperation, Mai Chenghuan and the professional hotel manager Yao Zhiming become working partners and go hand in hand. Mai Chenghuan transitions from being under her family's control to achieving self-fulfillment, forging her own path.",
-    "release_date": "2024-04-09",
-    "poster_path": "/kHosEyMUhgrAKu3TsuBIepP5vCN.jpg",
-    "backdrop_path": "/4mi2FoPWCvwkuF9go5qNIif890M.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1814,7 +1814,7 @@
     "release_date": "2022-04-26",
     "poster_path": "/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
     "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
-    "vote_average": 5.9,
+    "vote_average": 5.923,
     "media_type": "movie",
     "original_language": "pl",
     "genre_ids": [
@@ -3080,23 +3080,6 @@
     "is_local": true
   },
   {
-    "id": "261980",
-    "title": "Our Unwritten Seoul",
-    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
-    "release_date": "2025-05-24",
-    "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
-    "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.423,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "198182",
     "title": "Throne of Seal",
     "overview": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. The mankind created six Temples to fight the demons. Long Haochen joins the Knights Temple. As he grows, an adventure unfolds. He wins the recognition of others and fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people. Could Long win the Throne of Seal and be granted the highest honor in the Knights' Temple? All remained to be revealed.",
@@ -3111,6 +3094,23 @@
       10759,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261980",
+    "title": "Our Unwritten Seoul",
+    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
+    "release_date": "2025-05-24",
+    "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
+    "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
+    "vote_average": 8.423,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3518,24 +3518,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "220542",
     "title": "The Apothecary Diaries",
     "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
@@ -3564,6 +3546,24 @@
     "vote_average": 7.4,
     "media_type": "movie",
     "original_language": "en",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -5150,7 +5150,7 @@
     "release_date": "2023-11-24",
     "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
     "backdrop_path": "/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
-    "vote_average": 8.464,
+    "vote_average": 8.46,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
