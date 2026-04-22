@@ -281,7 +281,7 @@
     "release_date": "2025-01-24",
     "poster_path": "/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
     "backdrop_path": "/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-    "vote_average": 8.51,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1517,7 +1517,7 @@
     "release_date": "2025-10-14",
     "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
     "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
-    "vote_average": 7.556,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1671,6 +1671,24 @@
     "is_local": true
   },
   {
+    "id": "243028",
+    "title": "Love Song in Winter",
+    "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
+    "release_date": "2024-12-20",
+    "poster_path": "/73FWssGQ7eKrWIrPMJ0MBoQ0T45.jpg",
+    "backdrop_path": "/hEI6PtKQFR5ihOE9bwZfDqESW2.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "307624",
     "title": "Sammy's Children's Day",
     "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
@@ -1684,24 +1702,6 @@
       18,
       80,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "243028",
-    "title": "Love Song in Winter",
-    "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
-    "release_date": "2024-12-20",
-    "poster_path": "/73FWssGQ7eKrWIrPMJ0MBoQ0T45.jpg",
-    "backdrop_path": "/hEI6PtKQFR5ihOE9bwZfDqESW2.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2772,24 +2772,6 @@
     "is_local": true
   },
   {
-    "id": "290054",
-    "title": "The Seven Relics of ill Omen",
-    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
-    "release_date": "2025-06-08",
-    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
-    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
-    "vote_average": 8.083,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "222233",
     "title": "Doctor Slump",
     "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
@@ -2802,6 +2784,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "290054",
+    "title": "The Seven Relics of ill Omen",
+    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
+    "release_date": "2025-06-08",
+    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
+    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
+    "vote_average": 8.083,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3155,24 +3155,6 @@
     "is_local": true
   },
   {
-    "id": "237327",
-    "title": "My Golden Blood",
-    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
-    "release_date": "2025-03-12",
-    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
-    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
-    "vote_average": 9.13,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "221416",
     "title": "Kiseki: Dear To Me",
     "overview": "A top student and an injured gangster form an unlikely bond, but fate, crime, and memory loss tear them apart—until destiny brings them back together.",
@@ -3185,6 +3167,24 @@
     "genre_ids": [
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237327",
+    "title": "My Golden Blood",
+    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
+    "release_date": "2025-03-12",
+    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
+    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
+    "vote_average": 9.13,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3540,14 +3540,13 @@
     "is_local": true
   },
   {
-    "id": "220542",
-    "title": "The Apothecary Diaries",
-    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "release_date": "2023-10-22",
-    "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
-    "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.583,
-    "media_type": "tv",
+    "id": "1566920",
+    "title": "The Apothecary Diaries Movie",
+    "overview": "Movie with original story by Natsu Hyūga scheduled for December 2026. Plot TBA.",
+    "poster_path": "/aMQnlYqfKU9JZTwtlhVtDQ69hpe.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
       16,
@@ -3649,6 +3648,23 @@
     "is_local": true
   },
   {
+    "id": "221112",
+    "title": "Amidst a Snowstorm of Love",
+    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
+    "release_date": "2024-02-02",
+    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
+    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278573",
     "title": "Perfect Crown",
     "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
@@ -3660,23 +3676,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "221112",
-    "title": "Amidst a Snowstorm of Love",
-    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
-    "release_date": "2024-02-02",
-    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
-    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3840,25 +3839,6 @@
     "is_local": true
   },
   {
-    "id": "233833",
-    "title": "In Your Radiant Season",
-    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
-    "release_date": "2026-02-20",
-    "poster_path": "/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
-    "backdrop_path": "/xhpUS8NKvvE0UCLGWiIOBiHFb5y.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "285278",
     "title": "Idol I",
     "overview": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
@@ -3873,6 +3853,25 @@
       18,
       80,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233833",
+    "title": "In Your Radiant Season",
+    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
+    "release_date": "2026-02-20",
+    "poster_path": "/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
+    "backdrop_path": "/xhpUS8NKvvE0UCLGWiIOBiHFb5y.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5482,6 +5481,25 @@
     "is_local": true
   },
   {
+    "id": "220542",
+    "title": "The Apothecary Diaries",
+    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+    "release_date": "2023-10-22",
+    "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+    "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "vote_average": 8.583,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "52273",
     "title": "Hidden Agenda",
     "overview": "Former government Jason Price makes people disappear for a living. But when a top lieutenant for a crime syndicate asks Price to help him drop out of sight, things take a grisly, unexpected turn. A mysterious hit man known as The Cleaner has infiltrated Price's tightly-controlled system, leaving a bloody trail behind. With the help of an enigmatic seductress posing as the mobster's chief assistant, Price methodically works through his network of associates to find out what went wrong, and is plunged headlong into a spiraling gauntlet of half-truths and full-blown lies where nobody is who they appear to be, and everyone has a deadly, hidden agenda",
@@ -5738,24 +5756,6 @@
       28,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1566920",
-    "title": "The Apothecary Diaries Movie",
-    "overview": "Movie with original story by Natsu Hyūga scheduled for December 2026. Plot TBA.",
-    "poster_path": "/aMQnlYqfKU9JZTwtlhVtDQ69hpe.jpg",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      18,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
