@@ -1,5 +1,21 @@
 [
   {
+    "id": 262848,
+    "title": "Unchosen",
+    "poster_path": "/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
+    "overview": "When a young mother from a sheltered cult crosses paths with a mysterious stranger, she embarks on a risky affair that awakens desires and dark secrets.",
+    "vote_average": 7.8,
+    "release_date": "2026-04-21",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "293608",
     "title": "Undercover Miss Hong",
     "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
@@ -13,6 +29,25 @@
       80,
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "196157",
+    "title": "The Starry Love",
+    "overview": "The queen of the human tribe gave birth to twin girls. Respected by the entire tribe, the older sister Qing Kui, who is gentle and kind, is betrothed to the heavenly prince. The younger sister, Ye Tan, smart and cunning, shunned by her own people, is betrothed to the demon prince. Due to a mix-up, the two sisters are married off to the wrong husbands. It paves the way for two beautiful romances and also ignites a conspiracy that shakes the four realms.",
+    "release_date": "2023-02-16",
+    "poster_path": "/nL9EqEKanVBiRAdxsCYLgyNGBfy.jpg",
+    "backdrop_path": "/epXXeg1AAfCRw6b76Lx1YQj8VzK.jpg",
+    "vote_average": 7.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -39,37 +74,20 @@
     "is_local": true
   },
   {
-    "id": "196157",
-    "title": "The Starry Love",
-    "overview": "The queen of the human tribe gave birth to twin girls. Respected by the entire tribe, the older sister Qing Kui, who is gentle and kind, is betrothed to the heavenly prince. The younger sister, Ye Tan, smart and cunning, shunned by her own people, is betrothed to the demon prince. Due to a mix-up, the two sisters are married off to the wrong husbands. It paves the way for two beautiful romances and also ignites a conspiracy that shakes the four realms.",
-    "release_date": "2023-02-16",
-    "poster_path": "/nL9EqEKanVBiRAdxsCYLgyNGBfy.jpg",
-    "backdrop_path": "/epXXeg1AAfCRw6b76Lx1YQj8VzK.jpg",
-    "vote_average": 7.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "39563",
-    "title": "The Eclipse",
-    "overview": "Michael is a widower who is struggling to adjust to his new role as the sole caretaker of his two children. Still reeling from the death of his wife, he has been plagued by terrifying apparitions. When he volunteers at a local literary festival, he finds himself drawn to Lena, an empathetic author of supernatural fiction. While Lena tries to help Michael with the mystery of his nightmarish visions, she must contend with problems of her own, as she’s being jealously pursued by self-obsessed novelist Nicholas, her one-time lover. As the festival progresses, the three adults’ lives converge and collide.",
-    "release_date": "2009-04-24",
-    "poster_path": "/96ma6Hn8aW3FbHoaDzHiRflCHls.jpg",
-    "backdrop_path": "/keMfCmqrkSfnjyqCEvhc7mGzWX6.jpg",
-    "vote_average": 6,
+    "id": "24021",
+    "title": "The Twilight Saga: Eclipse",
+    "overview": "Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.",
+    "release_date": "2010-06-23",
+    "poster_path": "/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
+    "backdrop_path": "/oguoQWtQJcqIkmmUNbe3CmLx6AP.jpg",
+    "vote_average": 6.195,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
+      12,
+      14,
       18,
-      27
+      10749
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -130,6 +148,23 @@
     "is_local": true
   },
   {
+    "id": "227192",
+    "title": "Pyramid Game",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "release_date": "2024-02-29",
+    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "210191",
     "title": "A Journey to Love",
     "overview": "Two top assassins from rival agencies and their six-member team who with diverse backgrounds, and unique skills embark on a journey filled with challenges and crises.",
@@ -142,23 +177,6 @@
     "genre_ids": [
       18,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "227192",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "release_date": "2024-02-29",
-    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -291,6 +309,23 @@
     "is_local": true
   },
   {
+    "id": "291920",
+    "title": "Dangerous Queen",
+    "overview": "Bonita spends her time supporting her mother who suffers from alcohol and gambling addiction. In addition to this, her neighbour \"Kem\" pursues her relentlessly even though she only sees him as a friend.\n\nHer life takes a surprising turn when she goes to a bar and meets \"Queen\", a high-society woman from a prominent family. Queen helps Bonita escape her mother's abuse and they face various challenges before they become each other's favourite.\n\n\"In my life, I have only one favourite person.\"",
+    "release_date": "2025-10-05",
+    "poster_path": "/bPMnZtxk3ablkxp6T63SIyQeSVs.jpg",
+    "backdrop_path": "/cle9m5JqjnbYICVBy6Y0TVHasVr.jpg",
+    "vote_average": 6,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -305,23 +340,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "291920",
-    "title": "Dangerous Queen",
-    "overview": "Bonita spends her time supporting her mother who suffers from alcohol and gambling addiction. In addition to this, her neighbour \"Kem\" pursues her relentlessly even though she only sees him as a friend.\n\nHer life takes a surprising turn when she goes to a bar and meets \"Queen\", a high-society woman from a prominent family. Queen helps Bonita escape her mother's abuse and they face various challenges before they become each other's favourite.\n\n\"In my life, I have only one favourite person.\"",
-    "release_date": "2025-10-05",
-    "poster_path": "/bPMnZtxk3ablkxp6T63SIyQeSVs.jpg",
-    "backdrop_path": "/cle9m5JqjnbYICVBy6Y0TVHasVr.jpg",
-    "vote_average": 6,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -439,18 +457,20 @@
     "is_local": true
   },
   {
-    "id": "45787",
-    "title": "Jun to Ai",
-    "overview": "Jun to Ai is a Japanese television drama series. It debuted on October 1, 2012 and was broadcast until March 30, 2013. It is about a girl named Jun Kanō, raised in Miyakojima, Okinawa, who moves to Osaka to work in a hotel. There she meets a man named Itoshi Machida, with whom she falls in love. It is the 87th NHK Asadora.",
-    "release_date": "2012-10-01",
-    "poster_path": "/kvIOHcTuEhWiLdAMd7bhLV4XM5D.jpg",
-    "backdrop_path": "/oEbAS0ySOE9vTMMuBU9mFDZRQVJ.jpg",
+    "id": "224935",
+    "title": "Jin & Jun",
+    "overview": "Jin and Jun tell about the adventures of Junaidi (Jun) with a 3000-year-old genie he discovered in the South Sea. Feeling freed by Jun, the genie who got \"Uncle Jin\" as his nickname has served Jun as his confidant.  Jun and Uncle Jin's exciting adventure begins.",
+    "release_date": "1996-05-16",
+    "poster_path": "/guRUMSQByf6WFVO7HmNgiclIX3O.jpg",
+    "backdrop_path": "/990k3ZQwHEYXfDJp6iyZHxlTmoc.jpg",
     "vote_average": 0,
     "media_type": "tv",
-    "original_language": "ja",
+    "original_language": "id",
     "genre_ids": [
+      35,
       18,
-      35
+      10765,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -534,7 +554,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.683,
+    "vote_average": 7.681,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -746,23 +766,6 @@
     "is_local": true
   },
   {
-    "id": "305105",
-    "title": "Peach Lover",
-    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
-    "release_date": "2026-01-20",
-    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
-    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "273174",
     "title": "The Bangkok Boy",
     "overview": "Sun's quest for vengeance in Bangkok takes a turn when he meets Peace, pulling him into a dangerous mix of love and bloodshed.",
@@ -775,6 +778,23 @@
     "genre_ids": [
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "305105",
+    "title": "Peach Lover",
+    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
+    "release_date": "2026-01-20",
+    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
+    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1629,25 +1649,6 @@
     "is_local": true
   },
   {
-    "id": "307624",
-    "title": "Sammy's Children's Day",
-    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
-    "release_date": "2026-03-13",
-    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
-    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      80,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -1680,6 +1681,25 @@
       18,
       10765,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "307624",
+    "title": "Sammy's Children's Day",
+    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
+    "release_date": "2026-03-13",
+    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
+    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      80,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1826,18 +1846,20 @@
     "is_local": true
   },
   {
-    "id": "477706",
+    "id": "237411",
     "title": "The Sign",
-    "overview": "The Sign explores intersections of science and religion to uncover the truth behind prophecies of the apocalypse.",
-    "release_date": "2017-09-23",
-    "poster_path": "/2T2PnqgZOXr5PuOrDn4CyysdXYQ.jpg",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "Two men join a high-stakes special ops team to solve supernatural crimes, while a hidden connection from their past lives complicates everything.",
+    "release_date": "2023-11-25",
+    "poster_path": "/bqAjpdhw3vMNgyMwOJ0C29q9Vb5.jpg",
+    "backdrop_path": "/zvrmkaqCWwIGX6zBgGIGZHG3AaH.jpg",
+    "vote_average": 8.667,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
-      10770,
-      99
+      9648,
+      18,
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1896,24 +1918,6 @@
     "is_local": true
   },
   {
-    "id": "284430",
-    "title": "Deep Affection Eyes",
-    "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
-    "release_date": "2025-07-21",
-    "poster_path": "/2VXqB4AuI93rNSGnjdqOnMJj54j.jpg",
-    "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233912",
     "title": "Guardians of the Dafeng",
     "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
@@ -1927,6 +1931,24 @@
       18,
       10759,
       35,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "284430",
+    "title": "Deep Affection Eyes",
+    "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
+    "release_date": "2025-07-21",
+    "poster_path": "/2VXqB4AuI93rNSGnjdqOnMJj54j.jpg",
+    "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
       9648
     ],
     "video_url": "",
@@ -2294,7 +2316,7 @@
     "release_date": "2016-12-02",
     "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
     "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "vote_average": 8.601,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2478,6 +2500,24 @@
     "is_local": true
   },
   {
+    "id": "243084",
+    "title": "Love Game in Eastern Fantasy",
+    "overview": "Pulled into the pages of a fantasy novel, a woman is shocked to find herself stuck in the role of a villain. Now, she must battle to rewrite her destiny.",
+    "release_date": "2024-11-01",
+    "poster_path": "/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
+    "backdrop_path": "/mfSqsEQtTGrewyCrhwcvpFcq5n7.jpg",
+    "vote_average": 8.032,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "223911",
     "title": "Renegade Immortal",
     "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
@@ -2490,24 +2530,6 @@
     "genre_ids": [
       10759,
       16,
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "243084",
-    "title": "Love Game in Eastern Fantasy",
-    "overview": "Pulled into the pages of a fantasy novel, a woman is shocked to find herself stuck in the role of a villain. Now, she must battle to rewrite her destiny.",
-    "release_date": "2024-11-01",
-    "poster_path": "/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
-    "backdrop_path": "/mfSqsEQtTGrewyCrhwcvpFcq5n7.jpg",
-    "vote_average": 8.032,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18,
       10765
     ],
@@ -2539,7 +2561,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.608,
+    "vote_average": 7.654,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2748,18 +2770,36 @@
     "is_local": true
   },
   {
-    "id": "96462",
+    "id": "241506",
     "title": "It's Okay to Not Be Okay",
-    "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
-    "release_date": "2020-06-20",
-    "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
-    "backdrop_path": "/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
-    "vote_average": 8.511,
+    "overview": "An author with severe antisocial tendencies learns to confront her deep emotional wounds when she meets a stranger who challenges her cold facade.",
+    "release_date": "2025-07-21",
+    "poster_path": "/hHiNeb7zMQA9oEm0VmMpOwVAKVY.jpg",
+    "backdrop_path": "/dNAp924hXUYxaGxGJRLlB0dvu8e.jpg",
+    "vote_average": 9.7,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "tl",
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "290054",
+    "title": "The Seven Relics of ill Omen",
+    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
+    "release_date": "2025-06-08",
+    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
+    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
+    "vote_average": 8.083,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2779,24 +2819,6 @@
       18,
       10765,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "290054",
-    "title": "The Seven Relics of ill Omen",
-    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
-    "release_date": "2025-06-08",
-    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
-    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
-    "vote_average": 8.083,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3101,7 +3123,7 @@
     "release_date": "2025-05-24",
     "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
     "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.423,
+    "vote_average": 8.441,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3149,24 +3171,6 @@
     "is_local": true
   },
   {
-    "id": "237327",
-    "title": "My Golden Blood",
-    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
-    "release_date": "2025-03-12",
-    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
-    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
-    "vote_average": 9.13,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "221416",
     "title": "Kiseki: Dear To Me",
     "overview": "A top student and an injured gangster form an unlikely bond, but fate, crime, and memory loss tear them apart—until destiny brings them back together.",
@@ -3197,6 +3201,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237327",
+    "title": "My Golden Blood",
+    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
+    "release_date": "2025-03-12",
+    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
+    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
+    "vote_average": 9.13,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3338,7 +3360,7 @@
     "release_date": "2017-06-28",
     "poster_path": "/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg",
     "backdrop_path": "/f2fWG89GPSe31ymp6pqJANfjbit.jpg",
-    "vote_average": 6.928,
+    "vote_average": 6.929,
     "media_type": "movie",
     "original_language": "zh",
     "genre_ids": [
@@ -3553,18 +3575,19 @@
     "is_local": true
   },
   {
-    "id": "10683",
+    "id": "292318",
     "title": "Happiness",
-    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
-    "release_date": "1998-10-11",
-    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
-    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
-    "vote_average": 7.4,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
+    "release_date": "2025-05-30",
+    "poster_path": "/srMI72cod1UetnSYzQk9ROt9Vkx.jpg",
+    "backdrop_path": "/hVOx3nfWoVgYUYcIp90eMZOdFeB.jpg",
+    "vote_average": 5,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
-      35,
-      18
+      18,
+      10759,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3852,17 +3875,20 @@
     "is_local": true
   },
   {
-    "id": "13700",
-    "title": "Indian Idol",
-    "overview": "The Indian version of the Pop Idol format.",
-    "release_date": "2004-10-28",
-    "poster_path": "/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
-    "backdrop_path": "/qlnDrGpDmvKPQEnpge8yY3XTm0F.jpg",
-    "vote_average": 6.1,
+    "id": "285278",
+    "title": "Idol I",
+    "overview": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
+    "release_date": "2025-12-22",
+    "poster_path": "/ii3CB9QwIEwClqt7MgRoe188BbO.jpg",
+    "backdrop_path": "/ilTl0g138RAgM1TEeCaPKl1FxSh.jpg",
+    "vote_average": 7.7,
     "media_type": "tv",
-    "original_language": "hi",
+    "original_language": "ko",
     "genre_ids": [
-      10764
+      9648,
+      18,
+      80,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3888,18 +3914,17 @@
     "is_local": true
   },
   {
-    "id": "234740",
-    "title": "My New Boss Is Goofy",
-    "overview": "Forced to change jobs after being bullied by his boss, office worker Momose worries his new boss will be the same. But Shirosaki is totally easygoing!",
-    "release_date": "2023-10-07",
-    "poster_path": "/znyUBGQfT9Z59eqwJu0n9SNofXo.jpg",
-    "backdrop_path": "/y26R4UUZ2n8zN8jVGmiV9bl4wDS.jpg",
-    "vote_average": 6.3,
+    "id": "234147",
+    "title": "Yes Sir My Boss",
+    "overview": "Sophit, the successor to the family's business printing company, continues to adhere to the ideology of newspaper media production. Even if he had to pick up a little print, he agreed to keep the printing company alive, and however, the print media still had to be there, and the operators who were waiting for it would be chaotic. Will the managers deal with this problem?",
+    "release_date": "2015-02-20",
+    "poster_path": "/6yvSFNMIL677sSeUBe3J9gLWQL.jpg",
+    "backdrop_path": "/uslpgujtFfxzx9odfqVHS6ldF71.jpg",
+    "vote_average": 0,
     "media_type": "tv",
-    "original_language": "ja",
+    "original_language": "th",
     "genre_ids": [
-      16,
-      35
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4016,16 +4041,17 @@
     "is_local": true
   },
   {
-    "id": "1186741",
-    "title": "Mignon",
-    "overview": "The tragic, wandering journey of Mignon, the daughter of the nobleman Lothario and the Gypsy Musette, who is kidnapped by her mother's father, Giarno, after her mother's death. Mignon falls in love with the student Wilhelm, but he is infatuated with the actress Filina. After a fire and a mistaken engagement, Mignon leaves with Lothario, only to be recognized by an innkeeper who returns Lothario's lost memory. The film concludes with Lothario recovering his mind and Mignon and Wilhelm vowing to marry.",
-    "release_date": "1915-01-18",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
+    "id": "232510",
+    "title": "MIGNON",
+    "overview": "In a brutal underground world, a vampire medic and a wounded young fighter form a fragile bond—one built on pain, longing, and forbidden desire.",
+    "release_date": "2023-08-11",
+    "poster_path": "/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
+    "backdrop_path": "/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
+    "vote_average": 7.413,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
+      16,
       18
     ],
     "video_url": "",
@@ -4697,7 +4723,7 @@
     "release_date": "2024-08-17",
     "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
     "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "vote_average": 8.028,
+    "vote_average": 8.037,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4859,7 +4885,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.699,
+    "vote_average": 8.701,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5472,40 +5498,142 @@
     "is_local": true
   },
   {
-    "id": "24021",
-    "title": "The Twilight Saga: Eclipse",
-    "overview": "Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.",
-    "release_date": "2010-06-23",
-    "poster_path": "/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
-    "backdrop_path": "/oguoQWtQJcqIkmmUNbe3CmLx6AP.jpg",
-    "vote_average": 6.195,
+    "id": "39563",
+    "title": "The Eclipse",
+    "overview": "Michael is a widower who is struggling to adjust to his new role as the sole caretaker of his two children. Still reeling from the death of his wife, he has been plagued by terrifying apparitions. When he volunteers at a local literary festival, he finds himself drawn to Lena, an empathetic author of supernatural fiction. While Lena tries to help Michael with the mystery of his nightmarish visions, she must contend with problems of her own, as she’s being jealously pursued by self-obsessed novelist Nicholas, her one-time lover. As the festival progresses, the three adults’ lives converge and collide.",
+    "release_date": "2009-04-24",
+    "poster_path": "/96ma6Hn8aW3FbHoaDzHiRflCHls.jpg",
+    "backdrop_path": "/keMfCmqrkSfnjyqCEvhc7mGzWX6.jpg",
+    "vote_average": 6,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
-      12,
-      14,
       18,
-      10749
+      27
     ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
   },
   {
-    "id": "224935",
-    "title": "Jin & Jun",
-    "overview": "Jin and Jun tell about the adventures of Junaidi (Jun) with a 3000-year-old genie he discovered in the South Sea. Feeling freed by Jun, the genie who got \"Uncle Jin\" as his nickname has served Jun as his confidant.  Jun and Uncle Jin's exciting adventure begins.",
-    "release_date": "1996-05-16",
-    "poster_path": "/guRUMSQByf6WFVO7HmNgiclIX3O.jpg",
-    "backdrop_path": "/990k3ZQwHEYXfDJp6iyZHxlTmoc.jpg",
+    "id": "45787",
+    "title": "Jun to Ai",
+    "overview": "Jun to Ai is a Japanese television drama series. It debuted on October 1, 2012 and was broadcast until March 30, 2013. It is about a girl named Jun Kanō, raised in Miyakojima, Okinawa, who moves to Osaka to work in a hotel. There she meets a man named Itoshi Machida, with whom she falls in love. It is the 87th NHK Asadora.",
+    "release_date": "2012-10-01",
+    "poster_path": "/kvIOHcTuEhWiLdAMd7bhLV4XM5D.jpg",
+    "backdrop_path": "/oEbAS0ySOE9vTMMuBU9mFDZRQVJ.jpg",
     "vote_average": 0,
     "media_type": "tv",
-    "original_language": "id",
+    "original_language": "ja",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "477706",
+    "title": "The Sign",
+    "overview": "The Sign explores intersections of science and religion to uncover the truth behind prophecies of the apocalypse.",
+    "release_date": "2017-09-23",
+    "poster_path": "/2T2PnqgZOXr5PuOrDn4CyysdXYQ.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      10770,
+      99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "96462",
+    "title": "It's Okay to Not Be Okay",
+    "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
+    "release_date": "2020-06-20",
+    "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
+    "backdrop_path": "/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+    "vote_average": 8.511,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "10683",
+    "title": "Happiness",
+    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+    "release_date": "1998-10-11",
+    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
+    "vote_average": 7.4,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
       35,
-      18,
-      10765,
-      10751
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "13700",
+    "title": "Indian Idol",
+    "overview": "The Indian version of the Pop Idol format.",
+    "release_date": "2004-10-28",
+    "poster_path": "/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
+    "backdrop_path": "/qlnDrGpDmvKPQEnpge8yY3XTm0F.jpg",
+    "vote_average": 6.1,
+    "media_type": "tv",
+    "original_language": "hi",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "234740",
+    "title": "My New Boss Is Goofy",
+    "overview": "Forced to change jobs after being bullied by his boss, office worker Momose worries his new boss will be the same. But Shirosaki is totally easygoing!",
+    "release_date": "2023-10-07",
+    "poster_path": "/znyUBGQfT9Z59eqwJu0n9SNofXo.jpg",
+    "backdrop_path": "/y26R4UUZ2n8zN8jVGmiV9bl4wDS.jpg",
+    "vote_average": 6.3,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1186741",
+    "title": "Mignon",
+    "overview": "The tragic, wandering journey of Mignon, the daughter of the nobleman Lothario and the Gypsy Musette, who is kidnapped by her mother's father, Giarno, after her mother's death. Mignon falls in love with the student Wilhelm, but he is infatuated with the actress Filina. After a fire and a mistaken engagement, Mignon leaves with Lothario, only to be recognized by an innkeeper who returns Lothario's lost memory. The film concludes with Lothario recovering his mind and Mignon and Wilhelm vowing to marry.",
+    "release_date": "1915-01-18",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5539,26 +5667,6 @@
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237411",
-    "title": "The Sign",
-    "overview": "Two men join a high-stakes special ops team to solve supernatural crimes, while a hidden connection from their past lives complicates everything.",
-    "release_date": "2023-11-25",
-    "poster_path": "/bqAjpdhw3vMNgyMwOJ0C29q9Vb5.jpg",
-    "backdrop_path": "/zvrmkaqCWwIGX6zBgGIGZHG3AaH.jpg",
-    "vote_average": 8.667,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
-      18,
-      10759,
-      10765
-    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -5630,80 +5738,6 @@
       16,
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "292318",
-    "title": "Happiness",
-    "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
-    "release_date": "2025-05-30",
-    "poster_path": "/srMI72cod1UetnSYzQk9ROt9Vkx.jpg",
-    "backdrop_path": "/hVOx3nfWoVgYUYcIp90eMZOdFeB.jpg",
-    "vote_average": 5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10759,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "285278",
-    "title": "Idol I",
-    "overview": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
-    "release_date": "2025-12-22",
-    "poster_path": "/ii3CB9QwIEwClqt7MgRoe188BbO.jpg",
-    "backdrop_path": "/ilTl0g138RAgM1TEeCaPKl1FxSh.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      80,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "234147",
-    "title": "Yes Sir My Boss",
-    "overview": "Sophit, the successor to the family's business printing company, continues to adhere to the ideology of newspaper media production. Even if he had to pick up a little print, he agreed to keep the printing company alive, and however, the print media still had to be there, and the operators who were waiting for it would be chaotic. Will the managers deal with this problem?",
-    "release_date": "2015-02-20",
-    "poster_path": "/6yvSFNMIL677sSeUBe3J9gLWQL.jpg",
-    "backdrop_path": "/uslpgujtFfxzx9odfqVHS6ldF71.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "232510",
-    "title": "MIGNON",
-    "overview": "In a brutal underground world, a vampire medic and a wounded young fighter form a fragile bond—one built on pain, longing, and forbidden desire.",
-    "release_date": "2023-08-11",
-    "poster_path": "/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
-    "backdrop_path": "/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
-    "vote_average": 7.413,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      16,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
