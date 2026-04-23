@@ -1,21 +1,5 @@
 [
   {
-    "id": 290230,
-    "title": "Santita",
-    "poster_path": "/waBK1IMv72sXzuJXbAV7Bea9xBg.jpg",
-    "overview": "Left in a wheelchair after a crash, Santita leaves the love of her life at the altar. Twenty years later, he returns with a request that changes everything.",
-    "vote_average": 5.5,
-    "release_date": "2026-04-22",
-    "genre_ids": [
-      18
-    ],
-    "original_language": "es",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "255369",
     "title": "City of Romance",
     "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
@@ -204,7 +188,7 @@
     "release_date": "2026-01-17",
     "poster_path": "/6lnM7PecwSEyYjrWr2nQzmmZaDU.jpg",
     "backdrop_path": "/wESjJcBgXzPcDgHBmkWi25nbSI5.jpg",
-    "vote_average": 8.528,
+    "vote_average": 8.605,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -620,26 +604,6 @@
     "is_local": true
   },
   {
-    "id": "203164",
-    "title": "Strong Girl Nam-soon",
-    "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
-    "release_date": "2023-10-07",
-    "poster_path": "/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
-    "backdrop_path": "/6gyJwBbgFD0MYap1AFWQKOkve6D.jpg",
-    "vote_average": 7.666,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18,
-      10765,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253029",
     "title": "Brewing Love",
     "overview": "A heart-fluttering love story between Chae Yong-ju, a super passionate sales king at a liquor company who hides her emotions, and Yun Min-ju, a super sensitive brewery owner who is adept at catching people’s emotions.",
@@ -693,18 +657,20 @@
     "is_local": true
   },
   {
-    "id": "278275",
-    "title": "Veil of Shadows",
-    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
-    "release_date": "2026-04-01",
-    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
-    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
-    "vote_average": 8.5,
+    "id": "203164",
+    "title": "Strong Girl Nam-soon",
+    "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
+    "release_date": "2023-10-07",
+    "poster_path": "/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
+    "backdrop_path": "/6gyJwBbgFD0MYap1AFWQKOkve6D.jpg",
+    "vote_average": 7.666,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "ko",
     "genre_ids": [
+      35,
       18,
-      10765
+      10765,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -724,6 +690,24 @@
       18,
       80,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278275",
+    "title": "Veil of Shadows",
+    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
+    "release_date": "2026-04-01",
+    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
+    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1178,7 +1162,7 @@
     "release_date": "2023-12-02",
     "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
     "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.219,
+    "vote_average": 8.164,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1268,7 +1252,7 @@
     "release_date": "2025-01-25",
     "poster_path": "/vbh685TBLEfQKXjYomVEmVztmJ9.jpg",
     "backdrop_path": "/pg4xOroBDlxIhRK1m5xFyLgXrVD.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.097,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1401,23 +1385,6 @@
     "is_local": true
   },
   {
-    "id": "253946",
-    "title": "Bad Guy My Boss",
-    "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
-    "release_date": "2024-09-15",
-    "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
-    "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
-    "vote_average": 7.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278162",
     "title": "My Magic Prophecy",
     "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
@@ -1431,6 +1398,23 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253946",
+    "title": "Bad Guy My Boss",
+    "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
+    "release_date": "2024-09-15",
+    "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
+    "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
+    "vote_average": 7.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1770,25 +1754,6 @@
     "is_local": true
   },
   {
-    "id": "307624",
-    "title": "Sammy's Children's Day",
-    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
-    "release_date": "2026-03-13",
-    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
-    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      80,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "42188",
     "title": "Never Let Me Go",
     "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
@@ -1802,6 +1767,25 @@
       18,
       10749,
       878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "307624",
+    "title": "Sammy's Children's Day",
+    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
+    "release_date": "2026-03-13",
+    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
+    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      80,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2773,7 +2757,7 @@
     "release_date": "2024-01-27",
     "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
     "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8.116,
+    "vote_average": 8.062,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3764,24 +3748,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "45857",
     "title": "REBORN!",
     "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
@@ -3811,6 +3777,24 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -4577,7 +4561,7 @@
     "release_date": "2025-11-12",
     "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
     "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 8.075,
+    "vote_average": 7.988,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4613,7 +4597,7 @@
     "release_date": "2024-11-22",
     "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
     "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "vote_average": 8.363,
+    "vote_average": 8.337,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5307,7 +5291,7 @@
     "release_date": "2023-09-25",
     "poster_path": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
     "backdrop_path": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
-    "vote_average": 8.895,
+    "vote_average": 8.841,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5458,6 +5442,22 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 290230,
+    "title": "Santita",
+    "poster_path": "/waBK1IMv72sXzuJXbAV7Bea9xBg.jpg",
+    "overview": "Left in a wheelchair after a crash, Santita leaves the love of her life at the altar. Twenty years later, he returns with a request that changes everything.",
+    "vote_average": 5.5,
+    "release_date": "2026-04-22",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "207668",
