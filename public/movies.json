@@ -1,20 +1,55 @@
 [
   {
-    "id": "255369",
-    "title": "City of Romance",
-    "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
-    "release_date": "2025-02-14",
-    "poster_path": "/jRuly9cc1nky1UVBNH4gzMd03z5.jpg",
-    "backdrop_path": "/1iN8W3R5E0PgKuNMb2JrxOtDYTC.jpg",
-    "vote_average": 7,
-    "media_type": "tv",
-    "original_language": "zh",
+    "id": 615453,
+    "title": "Ne Zha",
+    "poster_path": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+    "overview": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate.",
+    "vote_average": 7.892,
+    "release_date": "2019-07-26",
     "genre_ids": [
-      18
+      16,
+      14,
+      12
     ],
+    "original_language": "zh",
+    "media_type": "movie",
+    "is_local": false,
     "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
+    "subtitle_file": null
+  },
+  {
+    "id": 245648,
+    "title": "Billionaires' Bunker",
+    "poster_path": "/hNVb60dPG34wYjazGgFolJhqfxp.jpg",
+    "overview": "When a group of billionaires takes shelter in a luxury bunker, an old feud between two families resurfaces amid an unprecedented global conflict.",
+    "vote_average": 6.236,
+    "release_date": "2025-09-19",
+    "genre_ids": [
+      10765,
+      18,
+      9648
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 76874,
+    "title": "Alexa & Katie",
+    "poster_path": "/aXNWQzzQ7yPSZMaWYA96NStN8DC.jpg",
+    "overview": "Lifelong best friends Alexa and Katie are eagerly anticipating the start of their freshman year of high school. The pals confront a crisis that leaves them feeling like outsiders at a time when what seems to matter most is fitting in.",
+    "vote_average": 8.1,
+    "release_date": "2018-03-23",
+    "genre_ids": [
+      35
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "293608",
@@ -29,6 +64,23 @@
     "genre_ids": [
       80,
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "255369",
+    "title": "City of Romance",
+    "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
+    "release_date": "2025-02-14",
+    "poster_path": "/jRuly9cc1nky1UVBNH4gzMd03z5.jpg",
+    "backdrop_path": "/1iN8W3R5E0PgKuNMb2JrxOtDYTC.jpg",
+    "vote_average": 7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -154,7 +206,7 @@
     "release_date": "2024-02-29",
     "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
     "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.036,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -171,7 +223,7 @@
     "release_date": "2024-11-03",
     "poster_path": "/uHYb0ho2uHaFaw67KS4wFpREF9O.jpg",
     "backdrop_path": "/sYlJ7ZJkBHLhqzEAU5QAYuw3STB.jpg",
-    "vote_average": 6.7,
+    "vote_average": 6.727,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -279,7 +331,7 @@
     "release_date": "2025-01-24",
     "poster_path": "/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
     "backdrop_path": "/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.459,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -536,7 +588,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.7,
+    "vote_average": 7.681,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -713,6 +765,23 @@
     "is_local": true
   },
   {
+    "id": "292614",
+    "title": "World of Street Woman Fighter",
+    "overview": "A global dance challenge that showcases the pride of strong women around the world.",
+    "release_date": "2025-05-27",
+    "poster_path": "/8m6G6Z9chiduch18lWKEyxttl7C.jpg",
+    "backdrop_path": "/chl67zBJ1G2hrgaSaxFvAZ9eBJh.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278275",
     "title": "Veil of Shadows",
     "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
@@ -725,23 +794,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "292614",
-    "title": "World of Street Woman Fighter",
-    "overview": "A global dance challenge that showcases the pride of strong women around the world.",
-    "release_date": "2025-05-27",
-    "poster_path": "/8m6G6Z9chiduch18lWKEyxttl7C.jpg",
-    "backdrop_path": "/chl67zBJ1G2hrgaSaxFvAZ9eBJh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -853,23 +905,6 @@
     "is_local": true
   },
   {
-    "id": "251652",
-    "title": "Treasure Seeking: The Legend of ShenLi",
-    "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
-    "release_date": "2024-04-11",
-    "poster_path": "/6iNze1uB5hheZD1Dh5Hy0NopdBd.jpg",
-    "backdrop_path": "/eRu27ZSGTM7CImcMgxPNMD1t6qP.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "135349",
     "title": "Once We Get Married",
     "overview": "Fashion buyer Gu Xixi bought Alex's couture wedding dresses for her clients. During a private reception, she got acquainted with Yin Sichen, the black-bellied president who came to discuss business cooperation with Alex. An incident occured leading to the two people to temporarily maintain a contract cooperative relationship for a win-win situation pertaining to Alex. The two with opposite personalities gradually found love in this contract marriage. Adapted from novel \"Flash Marriage CEO's Contract Wife\" by Xiang Wang.",
@@ -882,6 +917,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "207668",
+    "title": "The Legend of ShenLi",
+    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
+    "release_date": "2024-03-18",
+    "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
+    "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1125,7 +1178,7 @@
     "release_date": "2022-10-03",
     "poster_path": "/agyQFkNKBExKYiIealedXNDIDqn.jpg",
     "backdrop_path": "/43FSu75gWQfCQjyM9YB6zGOCNZ8.jpg",
-    "vote_average": 6.473,
+    "vote_average": 6.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1156,6 +1209,23 @@
     "is_local": true
   },
   {
+    "id": "278142",
+    "title": "Burnout Syndrome",
+    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
+    "release_date": "2025-11-26",
+    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
+    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "219651",
     "title": "Welcome to Samdal-ri",
     "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
@@ -1168,23 +1238,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278142",
-    "title": "Burnout Syndrome",
-    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
-    "release_date": "2025-11-26",
-    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
-    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2081,7 +2134,7 @@
     "release_date": "2024-11-08",
     "poster_path": "/AsnE5TY4NaYHGJXYxiVaA57nCqo.jpg",
     "backdrop_path": "/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
-    "vote_average": 8.188,
+    "vote_average": 8.127,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2236,6 +2289,24 @@
     "is_local": true
   },
   {
+    "id": "259486",
+    "title": "The Haunted Palace",
+    "overview": "In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption",
+    "release_date": "2025-04-18",
+    "poster_path": "/nR1cuxMOPqHHapEzORa8RESKrWG.jpg",
+    "backdrop_path": "/dSNOb8E64mGUJJ51VJXlE0cnEtU.jpg",
+    "vote_average": 7.81,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "66433",
     "title": "Scarlet Heart: Ryeo",
     "overview": "A story of a 25-year-old Go Hajin who is transported back in time to the Goryeo Dynasty. She then wakes up in the body of Lady Hae Soo and finds herself amongst the ruling princes of the Wang Family.",
@@ -2249,24 +2320,6 @@
       18,
       10765,
       10768
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259486",
-    "title": "The Haunted Palace",
-    "overview": "In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption",
-    "release_date": "2025-04-18",
-    "poster_path": "/nR1cuxMOPqHHapEzORa8RESKrWG.jpg",
-    "backdrop_path": "/dSNOb8E64mGUJJ51VJXlE0cnEtU.jpg",
-    "vote_average": 7.81,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2579,8 +2632,8 @@
     "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
     "release_date": "2019-12-14",
     "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdrop_path": "/o3Htmlg6BfNs8Ew7yjsRzVnYSEs.jpg",
-    "vote_average": 8.53,
+    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2715,24 +2768,6 @@
     "is_local": true
   },
   {
-    "id": "96462",
-    "title": "It's Okay to Not Be Okay",
-    "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
-    "release_date": "2020-06-20",
-    "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
-    "backdrop_path": "/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
-    "vote_average": 8.511,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "65143",
     "title": "Descendants of the Sun",
     "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
@@ -2751,18 +2786,18 @@
     "is_local": true
   },
   {
-    "id": "290054",
-    "title": "The Seven Relics of ill Omen",
-    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
-    "release_date": "2025-06-08",
-    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
-    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
-    "vote_average": 8.083,
+    "id": "96462",
+    "title": "It's Okay to Not Be Okay",
+    "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
+    "release_date": "2020-06-20",
+    "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
+    "backdrop_path": "/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+    "vote_average": 8.511,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "ko",
     "genre_ids": [
-      10759,
-      10765
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2781,6 +2816,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "290054",
+    "title": "The Seven Relics of ill Omen",
+    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
+    "release_date": "2025-06-08",
+    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
+    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
+    "vote_average": 8.083,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2841,6 +2894,24 @@
     "is_local": true
   },
   {
+    "id": "278428",
+    "title": "Incognito",
+    "overview": "In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.",
+    "release_date": "2025-01-20",
+    "poster_path": "/8jdXvKWFllqPCD83Yv52WXeWn2N.jpg",
+    "backdrop_path": "/wNy5lA4k2C9VvLUPQCdJaZnJFWR.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "68814",
     "title": "Strong Woman Do Bong-Soon",
     "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
@@ -2852,24 +2923,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278428",
-    "title": "Incognito",
-    "overview": "In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.",
-    "release_date": "2025-01-20",
-    "poster_path": "/8jdXvKWFllqPCD83Yv52WXeWn2N.jpg",
-    "backdrop_path": "/wNy5lA4k2C9VvLUPQCdJaZnJFWR.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
       10759,
       18
     ],
@@ -4309,7 +4362,7 @@
     "release_date": "2023-06-17",
     "poster_path": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
     "backdrop_path": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "vote_average": 8.182,
+    "vote_average": 8.17,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4333,6 +4386,492 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "219915",
+    "title": "As Beautiful As You",
+    "overview": "Ji Xing, a technical talent who works diligently in a technology company, resigned resolutely in order to realize her dream and embarked on the road of entrepreneurship. The team formed by Ji Xing and her younger brother was in jeopardy at the beginning of the business. Just when there was no hope, Ji Xing won the support of Han Ting, President of Dongyang Technology, with his unique insights. With Han Ting's investment, the startup Xingchen is finally on the right track. But Ji Xing \"lost\" her first boyfriend who she had been in love with for seven years. The difficulties of starting a business and the pain of breaking up with her love almost destroyed her. Fortunately, she has the close protection of the sister group.",
+    "release_date": "2024-07-02",
+    "poster_path": "/bA4beN83d67IHvZzQXO29d9mLHp.jpg",
+    "backdrop_path": "/g2IyljMEp9HcFEUKudIsoVkG0JG.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "200709",
+    "title": "Weak Hero",
+    "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+    "release_date": "2022-11-18",
+    "poster_path": "/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg",
+    "backdrop_path": "/oLwotnApTObF5bMRrNHCaqpaZce.jpg",
+    "vote_average": 8.663,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "229891",
+    "title": "Can This Love Be Translated?",
+    "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
+    "release_date": "2026-01-16",
+    "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+    "backdrop_path": "/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
+    "vote_average": 8.443,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "231306",
+    "title": "Exclusive Fairytale",
+    "overview": "Ling Chao and Xiao Tu have been childhood rivals and inseparable friends since kindergarten. Despite his brilliance and perfectionism, Ling Chao always lived in the shadow of Xiao Tu in his mother’s eyes. As they grow up together, their playful rivalry turns into something more.",
+    "release_date": "2023-07-27",
+    "poster_path": "/1yxAS3aEaZMmytwILyQr4aOLf3D.jpg",
+    "backdrop_path": "/q657Pl9ldJiGtw2lfuFpPDMsImH.jpg",
+    "vote_average": 7.54,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "272484",
+    "title": "Fated Hearts",
+    "overview": "After losing her memory in battle, skilled archer Fu Yixiao is taken in by a noble family and unexpectedly reunited with her former enemy, Prince Feng Suige—the man she once struck with an arrow. As they face the dangers of Yujing together, trust replaces suspicion and a deep bond begins to form. Caught in a web of past betrayals and political intrigue, the two must confront their shared history while fighting for survival, freedom, and each other.",
+    "release_date": "2025-10-02",
+    "poster_path": "/9yKpGzf83t02GRWYRmyLj2VXy96.jpg",
+    "backdrop_path": "/xk1FjT0j5YraC0CQgtq7AGQxT0j.jpg",
+    "vote_average": 9.333,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "134331",
+    "title": "Lighter and Princess",
+    "overview": "As soon as Zhu Yun started college life, the world was completely turned upside down by the intrusion of \"bad boy\" Li Xun. He was regarded by Zhu Yun as a rich, ignorant and incompetent son, but his real identity was actually a special admissions student who was admitted by the school, and a rare programming genius. After several confrontations, the two have some appreciation for each other. The senior Fang Zhijing made things difficult for Zhu Yun many times, Li Xun took action to protect Zhu Yun, and invited her to join the preparation team he set up to win a major programming competition on behalf of the school.",
+    "release_date": "2022-11-03",
+    "poster_path": "/oFFlFjiMQrOns39k9VbWcrfvbLX.jpg",
+    "backdrop_path": "/wxz9DOg9wMhkl4E2F3CjwZWSYS9.jpg",
+    "vote_average": 8.108,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278165",
+    "title": "Me and Thee",
+    "overview": "An introverted photographer's life changes when a former mafia boss hires him for love advice, only to end up falling for him instead.",
+    "release_date": "2025-11-15",
+    "poster_path": "/vq13Nvh0mMUAWGVA9TB9JnvoO5M.jpg",
+    "backdrop_path": "/cXCqkzOZ3vAgaskIBwDR2zTkH0M.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278847",
+    "title": "Top Form",
+    "overview": "Akin, a veteran actor and five-time \"Sexiest Man of the Year,\" loses his title to rising star Jin, who secretly admires and loves him despite the rivalry.",
+    "release_date": "2025-03-20",
+    "poster_path": "/5cDIWdKQX3V6Gcf75H7PQcFV1an.jpg",
+    "backdrop_path": "/iOZ4hgeQqQ4b4Bs0ibppG8ZRPVe.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "108291",
+    "title": "Snowdrop",
+    "overview": "An enduring love story in 1987 Seoul; Young-ro, a female university student, treats the bleeding Soo-ho, a student attending a prestigious university, who one day jumps into a women's university dormitory despite the dangerous situation.",
+    "release_date": "2021-12-18",
+    "poster_path": "/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg",
+    "backdrop_path": "/dyBkTBcRIw5BC78zCauyrRm5EhJ.jpg",
+    "vote_average": 8.513,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259695",
+    "title": "Shutline",
+    "overview": "Doing what he can to pay his bills, Moon Shingun works as a rogue mechanic on the city streets. He barely scrapes by with this illegal work, so he does not think twice about convincing ignorant people with cash to burn to always return to him for his services.\n\nThe streets are far from safe, however, with the organized crime group known as the Mercifuls fighting their rivals for control. With drugs and death becoming commonplace in his hunting grounds, Shingun is looking to keep his pockets full; and when he overhears a car failing to start, its sound leads him to Jake Gillan, a Mercifuls member. Finding himself facing a man dressed to kill and with a seemingly bottomless wallet, Shingun believes he has hit the jackpot.",
+    "release_date": "2024-07-18",
+    "poster_path": "/y1jlSybgrj8LwQaRurn7VKR2dzW.jpg",
+    "backdrop_path": "/gEcZd3yR5DTT4Yw7XGCNwHPPXcZ.jpg",
+    "vote_average": 6.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      16,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261846",
+    "title": "Chasing in the Wild",
+    "overview": "Sevi is a basketball captain from a humble family. Elyse is a spoiled cheerleader. Though opposites, the two fall for each other. But can their young love survive the harsh realities that may come their way?",
+    "release_date": "2024-08-16",
+    "poster_path": "/jDENAVWUDBV2txbPo3MrgL2bXeY.jpg",
+    "backdrop_path": "/pxKG5ra0r6TvuwgtiupDCHBgkzW.jpg",
+    "vote_average": 8.286,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "235577",
+    "title": "The Judge from Hell",
+    "overview": "A cruel and vicious judge, who wields power only for herself, meets a warm and cheerful detective who puts the victims first.",
+    "release_date": "2024-09-21",
+    "poster_path": "/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
+    "backdrop_path": "/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
+    "vote_average": 8.53,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765,
+      80,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "281013",
+    "title": "Dynamite Kiss",
+    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
+    "release_date": "2025-11-12",
+    "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
+    "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
+    "vote_average": 7.988,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "262928",
+    "title": "Love in the Clouds",
+    "overview": "At the annual Qingyun Conference in the Hexu Six Realms, Ji Bozai, a warrior from the Jixing Abyss with a past as a convict, defeated Ming Yi, the cold warrior goddess who had reigned supreme for seven consecutive years. Overnight, Ji Bozai became the hottest new star in Jixing Abyss. Meanwhile, Ming Yi, hiding her true identity, disguised herself as a dancer to get close to Ji Bozai. Under their carefully crafted personas, the two engaged in a thrilling dance of deception and attraction, fighting for justice and fairness, and ultimately found a deep and moving love.",
+    "release_date": "2025-10-08",
+    "poster_path": "/1eOek63acPohNgvXog4uYnJT6fh.jpg",
+    "backdrop_path": "/lAJCsUD3f6KhwdtbnevSAI1E9EU.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253905",
+    "title": "When the Phone Rings",
+    "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
+    "release_date": "2024-11-22",
+    "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
+    "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
+    "vote_average": 8.337,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279136",
+    "title": "Love Between Lines",
+    "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
+    "release_date": "2026-01-09",
+    "poster_path": "/xda6V8R2DKoRKWmnofeJFHII3ia.jpg",
+    "backdrop_path": "/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
+    "vote_average": 8.409,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "137870",
+    "title": "Love Like the Galaxy",
+    "overview": "Cheng Shaoshang, left behind by her parents who went off to war, faces challenges from a scheming aunt and struggles with estrangement from her family. Lacking love and security, she is cautious in choosing a marriage partner and meets three suitors: Ling Buyi, the emperor's adopted son; Yuan Shen, a talented figure from Bailu Mountain; and Lou Yao, an aristocrat. Despite a rocky path to love, Shaoshang remains steadfast. Her involvement with Ling Buyi leads them into a mystery surrounding his family and identity and together they confront a national crisis, growing through their experiences and upholding their ideals.",
+    "release_date": "2022-07-05",
+    "poster_path": "/yrFtRnriHMa4qOkAuXzo7jcXQmp.jpg",
+    "backdrop_path": "/wNSLw756U5JQSpG6POYxHKL2KDH.jpg",
+    "vote_average": 7.545,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "252650",
+    "title": "Perfect 10 Liners",
+    "overview": "First-year students join the elite ‘Perfect 10 Liners’ mentorship circle, where new bonds, secret crushes, and unexpected love stories unfold.",
+    "release_date": "2024-10-27",
+    "poster_path": "/1ZmjzDN2f7ZxzMluOTO5aPztI9e.jpg",
+    "backdrop_path": "/3iIPUMjUuR0dKhKsC4n9zF7isPu.jpg",
+    "vote_average": 8.905,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "241454",
+    "title": "Love Next Door",
+    "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
+    "release_date": "2024-08-17",
+    "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
+    "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
+    "vote_average": 8.006,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "215720",
+    "title": "Queen of Tears",
+    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+    "release_date": "2024-03-09",
+    "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
+    "vote_average": 8.368,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "281011",
+    "title": "Would You Marry Me?",
+    "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
+    "release_date": "2025-10-10",
+    "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
+    "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
+    "vote_average": 7.804,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "256920",
+    "title": "Love's Ambition",
+    "overview": "Renowned anchor Xu Yan and urban elite Shen Haoming appear to be the perfect couple but struggle to fit into each other’s social circles due to their differing backgrounds. When conflict arises, Xu Yan leaves, prompting Shen Haoming to realize his deep love for her and attempt to win her back. On their journey, they face challenges, shed their facades, and rediscover their true selves.",
+    "release_date": "2025-09-26",
+    "poster_path": "/iH8J36LMEYdvOlYvbBcYCK0ckpp.jpg",
+    "backdrop_path": "/vNqDJzm7AR95NpLzDn85dEL84vv.jpg",
+    "vote_average": 8.292,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297424",
+    "title": "Our Universe",
+    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+    "release_date": "2026-02-04",
+    "poster_path": "/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
+    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+    "vote_average": 7.897,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "248244",
+    "title": "Undercover High School",
+    "overview": "Ace NIS agent Jung Hae-seong is demoted after a mission failure. He goes undercover at a high school to locate King Gojong's missing gold, meeting his teacher Oh Soo-ah, who sees him as her lost first love, stirring old heartbreak.",
+    "release_date": "2025-02-21",
+    "poster_path": "/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
+    "backdrop_path": "/lAOiaHI5OoY1t4L5rcmwaf1HkLs.jpg",
+    "vote_average": 7.943,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233347",
+    "title": "Study Group",
+    "overview": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
+    "release_date": "2025-01-23",
+    "poster_path": "/wIYcAPkdQUPDoHxiQVyz9ZvpZrg.jpg",
+    "backdrop_path": "/uYi9bmJPBGC5tI2b6K4mdsUJivK.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259288",
+    "title": "Friendly Rivalry",
+    "overview": "A high-teen mystery thriller about a close relationship between teenage girls in a harsher survival competition than entrance examinations.",
+    "release_date": "2025-02-10",
+    "poster_path": "/eRwNhjpizV7up8KrCmiI94is1bl.jpg",
+    "backdrop_path": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
+    "vote_average": 8.599,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "219246",
+    "title": "When Life Gives You Tangerines",
+    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+    "release_date": "2025-03-07",
+    "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+    "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
+    "vote_average": 8.701,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4471,7 +5010,7 @@
     "release_date": "2024-01-01",
     "poster_path": "/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
     "backdrop_path": "/bd1uYBQnd9HRex77LTiMughdKKK.jpg",
-    "vote_average": 8.454,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4651,7 +5190,7 @@
     "release_date": "2023-11-24",
     "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
     "backdrop_path": "/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
-    "vote_average": 8.461,
+    "vote_average": 8.449,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4958,486 +5497,17 @@
     "is_local": true
   },
   {
-    "id": "219915",
-    "title": "As Beautiful As You",
-    "overview": "Ji Xing, a technical talent who works diligently in a technology company, resigned resolutely in order to realize her dream and embarked on the road of entrepreneurship. The team formed by Ji Xing and her younger brother was in jeopardy at the beginning of the business. Just when there was no hope, Ji Xing won the support of Han Ting, President of Dongyang Technology, with his unique insights. With Han Ting's investment, the startup Xingchen is finally on the right track. But Ji Xing \"lost\" her first boyfriend who she had been in love with for seven years. The difficulties of starting a business and the pain of breaking up with her love almost destroyed her. Fortunately, she has the close protection of the sister group.",
-    "release_date": "2024-07-02",
-    "poster_path": "/bA4beN83d67IHvZzQXO29d9mLHp.jpg",
-    "backdrop_path": "/g2IyljMEp9HcFEUKudIsoVkG0JG.jpg",
-    "vote_average": 8.4,
+    "id": "251652",
+    "title": "Treasure Seeking: The Legend of ShenLi",
+    "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
+    "release_date": "2024-04-11",
+    "poster_path": "/6iNze1uB5hheZD1Dh5Hy0NopdBd.jpg",
+    "backdrop_path": "/eRu27ZSGTM7CImcMgxPNMD1t6qP.jpg",
+    "vote_average": 0,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "200709",
-    "title": "Weak Hero",
-    "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
-    "release_date": "2022-11-18",
-    "poster_path": "/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg",
-    "backdrop_path": "/oLwotnApTObF5bMRrNHCaqpaZce.jpg",
-    "vote_average": 8.663,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "229891",
-    "title": "Can This Love Be Translated?",
-    "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
-    "release_date": "2026-01-16",
-    "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
-    "backdrop_path": "/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
-    "vote_average": 8.443,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "231306",
-    "title": "Exclusive Fairytale",
-    "overview": "Ling Chao and Xiao Tu have been childhood rivals and inseparable friends since kindergarten. Despite his brilliance and perfectionism, Ling Chao always lived in the shadow of Xiao Tu in his mother’s eyes. As they grow up together, their playful rivalry turns into something more.",
-    "release_date": "2023-07-27",
-    "poster_path": "/1yxAS3aEaZMmytwILyQr4aOLf3D.jpg",
-    "backdrop_path": "/q657Pl9ldJiGtw2lfuFpPDMsImH.jpg",
-    "vote_average": 7.54,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "272484",
-    "title": "Fated Hearts",
-    "overview": "After losing her memory in battle, skilled archer Fu Yixiao is taken in by a noble family and unexpectedly reunited with her former enemy, Prince Feng Suige—the man she once struck with an arrow. As they face the dangers of Yujing together, trust replaces suspicion and a deep bond begins to form. Caught in a web of past betrayals and political intrigue, the two must confront their shared history while fighting for survival, freedom, and each other.",
-    "release_date": "2025-10-02",
-    "poster_path": "/9yKpGzf83t02GRWYRmyLj2VXy96.jpg",
-    "backdrop_path": "/xk1FjT0j5YraC0CQgtq7AGQxT0j.jpg",
-    "vote_average": 9.333,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "134331",
-    "title": "Lighter and Princess",
-    "overview": "As soon as Zhu Yun started college life, the world was completely turned upside down by the intrusion of \"bad boy\" Li Xun. He was regarded by Zhu Yun as a rich, ignorant and incompetent son, but his real identity was actually a special admissions student who was admitted by the school, and a rare programming genius. After several confrontations, the two have some appreciation for each other. The senior Fang Zhijing made things difficult for Zhu Yun many times, Li Xun took action to protect Zhu Yun, and invited her to join the preparation team he set up to win a major programming competition on behalf of the school.",
-    "release_date": "2022-11-03",
-    "poster_path": "/oFFlFjiMQrOns39k9VbWcrfvbLX.jpg",
-    "backdrop_path": "/wxz9DOg9wMhkl4E2F3CjwZWSYS9.jpg",
-    "vote_average": 8.108,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278165",
-    "title": "Me and Thee",
-    "overview": "An introverted photographer's life changes when a former mafia boss hires him for love advice, only to end up falling for him instead.",
-    "release_date": "2025-11-15",
-    "poster_path": "/vq13Nvh0mMUAWGVA9TB9JnvoO5M.jpg",
-    "backdrop_path": "/cXCqkzOZ3vAgaskIBwDR2zTkH0M.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278847",
-    "title": "Top Form",
-    "overview": "Akin, a veteran actor and five-time \"Sexiest Man of the Year,\" loses his title to rising star Jin, who secretly admires and loves him despite the rivalry.",
-    "release_date": "2025-03-20",
-    "poster_path": "/5cDIWdKQX3V6Gcf75H7PQcFV1an.jpg",
-    "backdrop_path": "/iOZ4hgeQqQ4b4Bs0ibppG8ZRPVe.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "108291",
-    "title": "Snowdrop",
-    "overview": "An enduring love story in 1987 Seoul; Young-ro, a female university student, treats the bleeding Soo-ho, a student attending a prestigious university, who one day jumps into a women's university dormitory despite the dangerous situation.",
-    "release_date": "2021-12-18",
-    "poster_path": "/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg",
-    "backdrop_path": "/dyBkTBcRIw5BC78zCauyrRm5EhJ.jpg",
-    "vote_average": 8.513,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259695",
-    "title": "Shutline",
-    "overview": "Doing what he can to pay his bills, Moon Shingun works as a rogue mechanic on the city streets. He barely scrapes by with this illegal work, so he does not think twice about convincing ignorant people with cash to burn to always return to him for his services.\n\nThe streets are far from safe, however, with the organized crime group known as the Mercifuls fighting their rivals for control. With drugs and death becoming commonplace in his hunting grounds, Shingun is looking to keep his pockets full; and when he overhears a car failing to start, its sound leads him to Jake Gillan, a Mercifuls member. Finding himself facing a man dressed to kill and with a seemingly bottomless wallet, Shingun believes he has hit the jackpot.",
-    "release_date": "2024-07-18",
-    "poster_path": "/y1jlSybgrj8LwQaRurn7VKR2dzW.jpg",
-    "backdrop_path": "/gEcZd3yR5DTT4Yw7XGCNwHPPXcZ.jpg",
-    "vote_average": 6.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      16,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "261846",
-    "title": "Chasing in the Wild",
-    "overview": "Sevi is a basketball captain from a humble family. Elyse is a spoiled cheerleader. Though opposites, the two fall for each other. But can their young love survive the harsh realities that may come their way?",
-    "release_date": "2024-08-16",
-    "poster_path": "/jDENAVWUDBV2txbPo3MrgL2bXeY.jpg",
-    "backdrop_path": "/pxKG5ra0r6TvuwgtiupDCHBgkzW.jpg",
-    "vote_average": 8.286,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "235577",
-    "title": "The Judge from Hell",
-    "overview": "A cruel and vicious judge, who wields power only for herself, meets a warm and cheerful detective who puts the victims first.",
-    "release_date": "2024-09-21",
-    "poster_path": "/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
-    "backdrop_path": "/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
-    "vote_average": 8.53,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765,
-      80,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "281013",
-    "title": "Dynamite Kiss",
-    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
-    "release_date": "2025-11-12",
-    "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
-    "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 7.988,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "262928",
-    "title": "Love in the Clouds",
-    "overview": "At the annual Qingyun Conference in the Hexu Six Realms, Ji Bozai, a warrior from the Jixing Abyss with a past as a convict, defeated Ming Yi, the cold warrior goddess who had reigned supreme for seven consecutive years. Overnight, Ji Bozai became the hottest new star in Jixing Abyss. Meanwhile, Ming Yi, hiding her true identity, disguised herself as a dancer to get close to Ji Bozai. Under their carefully crafted personas, the two engaged in a thrilling dance of deception and attraction, fighting for justice and fairness, and ultimately found a deep and moving love.",
-    "release_date": "2025-10-08",
-    "poster_path": "/alXAb26apN2tbRM91QjeZ0KzHlj.jpg",
-    "backdrop_path": "/740EohtgbVDXsiaEoDJPc1k0tVX.jpg",
-    "vote_average": 8.75,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253905",
-    "title": "When the Phone Rings",
-    "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
-    "release_date": "2024-11-22",
-    "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
-    "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "vote_average": 8.337,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      9648,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "279136",
-    "title": "Love Between Lines",
-    "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
-    "release_date": "2026-01-09",
-    "poster_path": "/xda6V8R2DKoRKWmnofeJFHII3ia.jpg",
-    "backdrop_path": "/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
-    "vote_average": 8.409,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "137870",
-    "title": "Love Like the Galaxy",
-    "overview": "Cheng Shaoshang, left behind by her parents who went off to war, faces challenges from a scheming aunt and struggles with estrangement from her family. Lacking love and security, she is cautious in choosing a marriage partner and meets three suitors: Ling Buyi, the emperor's adopted son; Yuan Shen, a talented figure from Bailu Mountain; and Lou Yao, an aristocrat. Despite a rocky path to love, Shaoshang remains steadfast. Her involvement with Ling Buyi leads them into a mystery surrounding his family and identity and together they confront a national crisis, growing through their experiences and upholding their ideals.",
-    "release_date": "2022-07-05",
-    "poster_path": "/yrFtRnriHMa4qOkAuXzo7jcXQmp.jpg",
-    "backdrop_path": "/wNSLw756U5JQSpG6POYxHKL2KDH.jpg",
-    "vote_average": 7.545,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252650",
-    "title": "Perfect 10 Liners",
-    "overview": "First-year students join the elite ‘Perfect 10 Liners’ mentorship circle, where new bonds, secret crushes, and unexpected love stories unfold.",
-    "release_date": "2024-10-27",
-    "poster_path": "/1ZmjzDN2f7ZxzMluOTO5aPztI9e.jpg",
-    "backdrop_path": "/3iIPUMjUuR0dKhKsC4n9zF7isPu.jpg",
-    "vote_average": 8.905,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "241454",
-    "title": "Love Next Door",
-    "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
-    "release_date": "2024-08-17",
-    "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
-    "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "vote_average": 8.037,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "215720",
-    "title": "Queen of Tears",
-    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
-    "release_date": "2024-03-09",
-    "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
-    "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.384,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "281011",
-    "title": "Would You Marry Me?",
-    "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
-    "release_date": "2025-10-10",
-    "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
-    "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
-    "vote_average": 7.804,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "256920",
-    "title": "Love's Ambition",
-    "overview": "Renowned anchor Xu Yan and urban elite Shen Haoming appear to be the perfect couple but struggle to fit into each other’s social circles due to their differing backgrounds. When conflict arises, Xu Yan leaves, prompting Shen Haoming to realize his deep love for her and attempt to win her back. On their journey, they face challenges, shed their facades, and rediscover their true selves.",
-    "release_date": "2025-09-26",
-    "poster_path": "/iH8J36LMEYdvOlYvbBcYCK0ckpp.jpg",
-    "backdrop_path": "/vNqDJzm7AR95NpLzDn85dEL84vv.jpg",
-    "vote_average": 8.292,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "297424",
-    "title": "Our Universe",
-    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
-    "release_date": "2026-02-04",
-    "poster_path": "/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
-    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 7.897,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "248244",
-    "title": "Undercover High School",
-    "overview": "Ace NIS agent Jung Hae-seong is demoted after a mission failure. He goes undercover at a high school to locate King Gojong's missing gold, meeting his teacher Oh Soo-ah, who sees him as her lost first love, stirring old heartbreak.",
-    "release_date": "2025-02-21",
-    "poster_path": "/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
-    "backdrop_path": "/lAOiaHI5OoY1t4L5rcmwaf1HkLs.jpg",
-    "vote_average": 7.943,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "233347",
-    "title": "Study Group",
-    "overview": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
-    "release_date": "2025-01-23",
-    "poster_path": "/wIYcAPkdQUPDoHxiQVyz9ZvpZrg.jpg",
-    "backdrop_path": "/uYi9bmJPBGC5tI2b6K4mdsUJivK.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259288",
-    "title": "Friendly Rivalry",
-    "overview": "A high-teen mystery thriller about a close relationship between teenage girls in a harsher survival competition than entrance examinations.",
-    "release_date": "2025-02-10",
-    "poster_path": "/eRwNhjpizV7up8KrCmiI94is1bl.jpg",
-    "backdrop_path": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
-    "vote_average": 8.599,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "219246",
-    "title": "When Life Gives You Tangerines",
-    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
-    "release_date": "2025-03-07",
-    "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
-    "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.701,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
+      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5458,24 +5528,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "207668",
-    "title": "The Legend of ShenLi",
-    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
-    "release_date": "2024-03-18",
-    "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
-    "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "79434",
