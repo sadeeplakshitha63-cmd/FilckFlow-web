@@ -1,38 +1,5 @@
 [
   {
-    "id": 87826,
-    "title": "Selling Sunset",
-    "poster_path": "/wUtoD67q4BnRUwikUbT6M38d5oj.jpg",
-    "overview": "The elite agents at The Oppenheim Group sell the luxe life to affluent buyers in LA. Relationships are everything, and that often means major drama.",
-    "vote_average": 6.5,
-    "release_date": "2019-03-22",
-    "genre_ids": [
-      10764
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 287978,
-    "title": "Flunked",
-    "poster_path": "/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg",
-    "overview": "Eddy, a math genius and small-time crook, avoids jail-time by going undercover as a teacher. His mission: to identify the kid of a major criminal.",
-    "vote_average": 4.5,
-    "release_date": "2026-04-23",
-    "genre_ids": [
-      35,
-      80
-    ],
-    "original_language": "fr",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "293608",
     "title": "Undercover Miss Hong",
     "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
@@ -637,24 +604,6 @@
     "is_local": true
   },
   {
-    "id": "227191",
-    "title": "Nine Puzzles",
-    "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
-    "release_date": "2025-05-21",
-    "poster_path": "/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
-    "backdrop_path": "/6OfitF3ifOJmlglcixB3ixnNydW.jpg",
-    "vote_average": 7.856,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253029",
     "title": "Brewing Love",
     "overview": "A heart-fluttering love story between Chae Yong-ju, a super passionate sales king at a liquor company who hides her emotions, and Yun Min-ju, a super sensitive brewery owner who is adept at catching people’s emotions.",
@@ -667,6 +616,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "227191",
+    "title": "Nine Puzzles",
+    "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
+    "release_date": "2025-05-21",
+    "poster_path": "/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
+    "backdrop_path": "/6OfitF3ifOJmlglcixB3ixnNydW.jpg",
+    "vote_average": 7.856,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -887,6 +854,23 @@
     "is_local": true
   },
   {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
+    "vote_average": 8.785,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "207668",
     "title": "The Legend of ShenLi",
     "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
@@ -899,23 +883,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
-    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.785,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1616,6 +1583,23 @@
     "is_local": true
   },
   {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "214873",
     "title": "My School President",
     "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
@@ -1683,23 +1667,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2058,23 +2025,6 @@
     "is_local": true
   },
   {
-    "id": "253357",
-    "title": "See Your Love",
-    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
-    "release_date": "2024-10-23",
-    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
-    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233219",
     "title": "ONE: High School Heroes",
     "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
@@ -2086,6 +2036,23 @@
     "original_language": "ko",
     "genre_ids": [
       10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253357",
+    "title": "See Your Love",
+    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
+    "release_date": "2024-10-23",
+    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
+    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2310,6 +2277,25 @@
     "is_local": true
   },
   {
+    "id": "307624",
+    "title": "Sammy's Children's Day",
+    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
+    "release_date": "2026-03-13",
+    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
+    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      80,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "284488",
     "title": "Harmony Secret",
     "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
@@ -2338,25 +2324,6 @@
     "original_language": "zh",
     "genre_ids": [
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "307624",
-    "title": "Sammy's Children's Day",
-    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
-    "release_date": "2026-03-13",
-    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
-    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      80,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2482,23 +2449,6 @@
     "is_local": true
   },
   {
-    "id": "281004",
-    "title": "Beyond the Bar",
-    "overview": "A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
-    "release_date": "2025-08-02",
-    "poster_path": "/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
-    "backdrop_path": "/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "243084",
     "title": "Love Game in Eastern Fantasy",
     "overview": "Pulled into the pages of a fantasy novel, a woman is shocked to find herself stuck in the role of a villain. Now, she must battle to rewrite her destiny.",
@@ -2511,6 +2461,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "281004",
+    "title": "Beyond the Bar",
+    "overview": "A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
+    "release_date": "2025-08-02",
+    "poster_path": "/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
+    "backdrop_path": "/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2824,23 +2791,6 @@
     "is_local": true
   },
   {
-    "id": "291753",
-    "title": "Boys II Planet",
-    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
-    "release_date": "2025-07-17",
-    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
-    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "158258",
     "title": "Duty After School",
     "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
@@ -2854,6 +2804,23 @@
       18,
       10765,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "291753",
+    "title": "Boys II Planet",
+    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
+    "release_date": "2025-07-17",
+    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
+    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4096,24 +4063,6 @@
     "is_local": true
   },
   {
-    "id": "204236",
-    "title": "Love Mechanics",
-    "overview": "Vee has a girlfriend. Mark has feelings. One moment changes everything, and now they must face what love really means.",
-    "release_date": "2022-06-18",
-    "poster_path": "/ahCX6yRk5rtk2r1rmJt3C8z5Ijb.jpg",
-    "backdrop_path": "/v6G5vmzmuicPxdlceK5IUJnWpx3.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223896",
     "title": "Spirit Fingers",
     "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
@@ -4126,6 +4075,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "204236",
+    "title": "Love Mechanics",
+    "overview": "Vee has a girlfriend. Mark has feelings. One moment changes everything, and now they must face what love really means.",
+    "release_date": "2022-06-18",
+    "poster_path": "/ahCX6yRk5rtk2r1rmJt3C8z5Ijb.jpg",
+    "backdrop_path": "/v6G5vmzmuicPxdlceK5IUJnWpx3.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10766
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4290,6 +4257,24 @@
     "is_local": true
   },
   {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 8.071,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "279580",
     "title": "Secret Lover",
     "overview": "During a campus play, a 'relationship training' game turns real as lifelong friends cross boundaries and slip into a secret romance.",
@@ -4359,24 +4344,6 @@
     "is_local": true
   },
   {
-    "id": "200709",
-    "title": "Weak Hero",
-    "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
-    "release_date": "2022-11-18",
-    "poster_path": "/dbqNBeLvAWFqpAvdBc0cecaqytT.jpg",
-    "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "229891",
     "title": "Can This Love Be Translated?",
     "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
@@ -4407,24 +4374,6 @@
     "genre_ids": [
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.071,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5477,6 +5426,57 @@
     "original_language": "en",
     "genre_ids": [
       99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": 87826,
+    "title": "Selling Sunset",
+    "poster_path": "/wUtoD67q4BnRUwikUbT6M38d5oj.jpg",
+    "overview": "The elite agents at The Oppenheim Group sell the luxe life to affluent buyers in LA. Relationships are everything, and that often means major drama.",
+    "vote_average": 6.5,
+    "release_date": "2019-03-22",
+    "genre_ids": [
+      10764
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 287978,
+    "title": "Flunked",
+    "poster_path": "/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg",
+    "overview": "Eddy, a math genius and small-time crook, avoids jail-time by going undercover as a teacher. His mission: to identify the kid of a major criminal.",
+    "vote_average": 4.5,
+    "release_date": "2026-04-23",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "original_language": "fr",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "200709",
+    "title": "Weak Hero",
+    "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+    "release_date": "2022-11-18",
+    "poster_path": "/dbqNBeLvAWFqpAvdBc0cecaqytT.jpg",
+    "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
