@@ -1,25 +1,5 @@
 [
   {
-    "id": "281010",
-    "title": "Phantom Lawyer",
-    "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
-    "release_date": "2026-03-13",
-    "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
-    "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
-    "vote_average": 7.333,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765,
-      9648,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215072",
     "title": "A Shop for Killers",
     "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
@@ -51,6 +31,26 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "281010",
+    "title": "Phantom Lawyer",
+    "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
+    "release_date": "2026-03-13",
+    "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
+    "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
+    "vote_average": 7.333,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765,
+      9648,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -807,7 +807,7 @@
     "release_date": "2026-04-01",
     "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
     "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1674,23 +1674,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "631895",
     "title": "Stay with Me",
     "overview": "",
@@ -1714,6 +1697,23 @@
     "vote_average": 7.462,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -3468,23 +3468,6 @@
     "is_local": true
   },
   {
-    "id": "298567",
-    "title": "Thundercloud Rainstorm",
-    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
-    "release_date": "2025-11-28",
-    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
-    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "126485",
     "title": "Moving",
     "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
@@ -3498,6 +3481,23 @@
       9648,
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "298567",
+    "title": "Thundercloud Rainstorm",
+    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
+    "release_date": "2025-11-28",
+    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
+    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3844,17 +3844,16 @@
     "is_local": true
   },
   {
-    "id": "240437",
-    "title": "My Boss",
-    "overview": "Cheng Yao, aspiring to be a lawyer, joins a top law firm and moves into an apartment near work—only to discover her housemate is her new boss, Qian Heng. Initially harsh and suspicious, Qian Heng puts her through rigorous training, believing she got the job through connections. As Cheng Yao proves her talent and determination, she changes his impression, and a reluctant admiration slowly turns into romance.",
-    "release_date": "2024-01-04",
-    "poster_path": "/27mXtbvk9lNpq5zC3dRzOX9Zb0c.jpg",
-    "backdrop_path": "/nTMNnL7WQfmUN5O2sydtNSuwrEN.jpg",
-    "vote_average": 7.433,
+    "id": "234147",
+    "title": "Yes Sir My Boss",
+    "overview": "Sophit, the successor to the family's business printing company, continues to adhere to the ideology of newspaper media production. Even if he had to pick up a little print, he agreed to keep the printing company alive, and however, the print media still had to be there, and the operators who were waiting for it would be chaotic. Will the managers deal with this problem?",
+    "release_date": "2015-02-20",
+    "poster_path": "/6yvSFNMIL677sSeUBe3J9gLWQL.jpg",
+    "backdrop_path": "/uslpgujtFfxzx9odfqVHS6ldF71.jpg",
+    "vote_average": 0,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "th",
     "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -4762,7 +4761,7 @@
     "release_date": "2025-02-21",
     "poster_path": "/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
     "backdrop_path": "/lAOiaHI5OoY1t4L5rcmwaf1HkLs.jpg",
-    "vote_average": 7.943,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5223,6 +5222,23 @@
     "is_local": true
   },
   {
+    "id": "301507",
+    "title": "Heated Rivalry",
+    "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+    "release_date": "2025-11-28",
+    "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
+    "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
+    "vote_average": 8.729,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "279388",
     "title": "Pursuit of Jade",
     "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
@@ -5232,23 +5248,6 @@
     "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "301507",
-    "title": "Heated Rivalry",
-    "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-    "release_date": "2025-11-28",
-    "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
-    "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.723,
-    "media_type": "tv",
-    "original_language": "en",
     "genre_ids": [
       18
     ],
@@ -5295,7 +5294,7 @@
     "release_date": "2023-09-25",
     "poster_path": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
     "backdrop_path": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
-    "vote_average": 8.829,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5313,7 +5312,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.247,
+    "vote_average": 8.244,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5331,7 +5330,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.116,
+    "vote_average": 8.112,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5442,6 +5441,24 @@
     "original_language": "en",
     "genre_ids": [
       99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240437",
+    "title": "My Boss",
+    "overview": "Cheng Yao, aspiring to be a lawyer, joins a top law firm and moves into an apartment near work—only to discover her housemate is her new boss, Qian Heng. Initially harsh and suspicious, Qian Heng puts her through rigorous training, believing she got the job through connections. As Cheng Yao proves her talent and determination, she changes his impression, and a reluctant admiration slowly turns into romance.",
+    "release_date": "2024-01-04",
+    "poster_path": "/27mXtbvk9lNpq5zC3dRzOX9Zb0c.jpg",
+    "backdrop_path": "/nTMNnL7WQfmUN5O2sydtNSuwrEN.jpg",
+    "vote_average": 7.433,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5620,23 +5637,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "234147",
-    "title": "Yes Sir My Boss",
-    "overview": "Sophit, the successor to the family's business printing company, continues to adhere to the ideology of newspaper media production. Even if he had to pick up a little print, he agreed to keep the printing company alive, and however, the print media still had to be there, and the operators who were waiting for it would be chaotic. Will the managers deal with this problem?",
-    "release_date": "2015-02-20",
-    "poster_path": "/6yvSFNMIL677sSeUBe3J9gLWQL.jpg",
-    "backdrop_path": "/uslpgujtFfxzx9odfqVHS6ldF71.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 1075175,
