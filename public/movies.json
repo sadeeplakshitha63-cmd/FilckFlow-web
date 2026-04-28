@@ -1,21 +1,5 @@
 [
   {
-    "id": 300529,
-    "title": "Straight to Hell",
-    "poster_path": "/fRgQ7noEDUoP6w2EEQlQgvnrpiy.jpg",
-    "overview": "Kazuko Hosoki dominated TV and publishing as a top fortune teller — but who was this woman behind the dark rumors of spiritual scams and underworld ties?",
-    "vote_average": 9,
-    "release_date": "2026-04-27",
-    "genre_ids": [
-      18
-    ],
-    "original_language": "ja",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "215072",
     "title": "A Shop for Killers",
     "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
@@ -179,25 +163,6 @@
     "is_local": true
   },
   {
-    "id": "261663",
-    "title": "Blood River",
-    "overview": "Blood River is the realm's most feared assassin guild, jointly run by the Su, Mu, and Xie clans. They can strike royals in court and crush great sects in the wild. When the patriarch is poisoned on a mission, the three clans vie for the top seat. Su Muyu leads the Spider-Shadow unit and shields the dying leader on the road to a cure. He clashes with elder Su Zhe and old friend Su Changhe, and meets master healer Bai Hehuai. After brutal power struggles, Su Changhe becomes new patriarch and Su Muyu heads the Su clan. They launch the \"Other Shore Plan\" to drag Blood River out of the shadow and forge a new destiny, free from being anyone's blade.",
-    "release_date": "2025-10-20",
-    "poster_path": "/jvxV9A8IcgeCqnagkfCsHSg4y5J.jpg",
-    "backdrop_path": "/ftVwJEKXCgCKGCb75e3MXwEBWBV.jpg",
-    "vote_average": 7.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "296009",
     "title": "Positively Yours",
     "overview": "A man and a woman who swore off marriage find their carefully controlled lives overturned after a one-night mistake forces them into an unexpected, reverse romance neither planned nor wanted.",
@@ -211,6 +176,25 @@
       35,
       10751,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261663",
+    "title": "Blood River",
+    "overview": "Blood River is the realm's most feared assassin guild, jointly run by the Su, Mu, and Xie clans. They can strike royals in court and crush great sects in the wild. When the patriarch is poisoned on a mission, the three clans vie for the top seat. Su Muyu leads the Spider-Shadow unit and shields the dying leader on the road to a cure. He clashes with elder Su Zhe and old friend Su Changhe, and meets master healer Bai Hehuai. After brutal power struggles, Su Changhe becomes new patriarch and Su Muyu heads the Su clan. They launch the \"Other Shore Plan\" to drag Blood River out of the shadow and forge a new destiny, free from being anyone's blade.",
+    "release_date": "2025-10-20",
+    "poster_path": "/jvxV9A8IcgeCqnagkfCsHSg4y5J.jpg",
+    "backdrop_path": "/ftVwJEKXCgCKGCb75e3MXwEBWBV.jpg",
+    "vote_average": 7.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -363,6 +347,24 @@
     "is_local": true
   },
   {
+    "id": "260555",
+    "title": "Pump Up the Healthy Love",
+    "overview": "Do Hyeon-joong, a health-obsessed gym manager, helps his members transform their lives while balancing the struggles of self-employment, and forms a passionate connection with Lee Mi-ran, a travel agency manager who loves food.",
+    "release_date": "2025-04-30",
+    "poster_path": "/rzGKRiBSPVd5RsEhMB0GGWYd654.jpg",
+    "backdrop_path": "/b5M1ZUxYT3v5cRVKMpw6tKIYo89.jpg",
+    "vote_average": 7.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "128567",
     "title": "Don't Say No",
     "overview": "Best friends since childhood, Leo and Fiat must face the confusing line between friendship and something more.",
@@ -376,24 +378,6 @@
       35,
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "260555",
-    "title": "Pump Up the Healthy Love",
-    "overview": "Do Hyeon-joong, a health-obsessed gym manager, helps his members transform their lives while balancing the struggles of self-employment, and forms a passionate connection with Lee Mi-ran, a travel agency manager who loves food.",
-    "release_date": "2025-04-30",
-    "poster_path": "/rzGKRiBSPVd5RsEhMB0GGWYd654.jpg",
-    "backdrop_path": "/b5M1ZUxYT3v5cRVKMpw6tKIYo89.jpg",
-    "vote_average": 7.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -871,34 +855,16 @@
     "is_local": true
   },
   {
-    "id": "251652",
-    "title": "Treasure Seeking: The Legend of ShenLi",
-    "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
-    "release_date": "2024-04-11",
-    "poster_path": "/6iNze1uB5hheZD1Dh5Hy0NopdBd.jpg",
-    "backdrop_path": "/eRu27ZSGTM7CImcMgxPNMD1t6qP.jpg",
-    "vote_average": 0,
+    "id": "207668",
+    "title": "The Legend of ShenLi",
+    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
+    "release_date": "2024-03-18",
+    "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
+    "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240144",
-    "title": "Revamp: The Undead Story",
-    "overview": "After his blood frees a century-old vampire trapped in a painting, an antique dealer must help him regain his powers before deadly Hunters close in.",
-    "release_date": "2025-08-23",
-    "poster_path": "/55MOnT6ZoLc52duZUl9XRULVRCo.jpg",
-    "backdrop_path": "/gVJQILUClQ5JeNpHp0BzXsiRA1B.jpg",
-    "vote_average": 7.875,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
       18,
       10765
     ],
@@ -935,6 +901,25 @@
     "original_language": "ko",
     "genre_ids": [
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240144",
+    "title": "Revamp: The Undead Story",
+    "overview": "After his blood frees a century-old vampire trapped in a painting, an antique dealer must help him regain his powers before deadly Hunters close in.",
+    "release_date": "2025-08-23",
+    "poster_path": "/55MOnT6ZoLc52duZUl9XRULVRCo.jpg",
+    "backdrop_path": "/gVJQILUClQ5JeNpHp0BzXsiRA1B.jpg",
+    "vote_average": 7.875,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3285,7 +3270,7 @@
     "release_date": "2024-03-18",
     "poster_path": "/2NUtA4ODZphAknsXna84Nk9rq6F.jpg",
     "backdrop_path": "/wvCF59w0fRTmPg3sJUxY3sf5p2C.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.333,
     "media_type": "tv",
     "original_language": "tl",
     "genre_ids": [
@@ -5462,6 +5447,39 @@
     "is_local": true
   },
   {
+    "id": 300529,
+    "title": "Straight to Hell",
+    "poster_path": "/fRgQ7noEDUoP6w2EEQlQgvnrpiy.jpg",
+    "overview": "Kazuko Hosoki dominated TV and publishing as a top fortune teller — but who was this woman behind the dark rumors of spiritual scams and underworld ties?",
+    "vote_average": 9,
+    "release_date": "2026-04-27",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "ja",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "251652",
+    "title": "Treasure Seeking: The Legend of ShenLi",
+    "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
+    "release_date": "2024-04-11",
+    "poster_path": "/6iNze1uB5hheZD1Dh5Hy0NopdBd.jpg",
+    "backdrop_path": "/eRu27ZSGTM7CImcMgxPNMD1t6qP.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "96462",
     "title": "It's Okay to Not Be Okay",
     "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
@@ -5474,24 +5492,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "207668",
-    "title": "The Legend of ShenLi",
-    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
-    "release_date": "2024-03-18",
-    "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
-    "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
