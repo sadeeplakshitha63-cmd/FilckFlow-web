@@ -383,6 +383,23 @@
     "is_local": true
   },
   {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "224935",
     "title": "Jin & Jun",
     "overview": "Jin and Jun tell about the adventures of Junaidi (Jun) with a 3000-year-old genie he discovered in the South Sea. Feeling freed by Jun, the genie who got \"Uncle Jin\" as his nickname has served Jun as his confidant.  Jun and Uncle Jin's exciting adventure begins.",
@@ -397,23 +414,6 @@
       18,
       10765,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1809,23 +1809,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "879945",
     "title": "The Unknown Man",
     "overview": "Louis, a Flemish writer, decides to isolate himself at the Côte d’Azur, hoping this place will bring him inspiration.",
@@ -1835,6 +1818,23 @@
     "vote_average": 7.75,
     "media_type": "movie",
     "original_language": "nl",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -2714,24 +2714,6 @@
     "is_local": true
   },
   {
-    "id": "222233",
-    "title": "Doctor Slump",
-    "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
-    "release_date": "2024-01-27",
-    "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
-    "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8.038,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "290054",
     "title": "The Seven Relics of ill Omen",
     "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
@@ -2744,6 +2726,24 @@
     "genre_ids": [
       10759,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "222233",
+    "title": "Doctor Slump",
+    "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
+    "release_date": "2024-01-27",
+    "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
+    "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
+    "vote_average": 8.038,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3731,13 +3731,13 @@
     "is_local": true
   },
   {
-    "id": "261128",
-    "title": "Our Generation",
-    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
-    "release_date": "2025-07-14",
-    "poster_path": "/or59V7QMo3Up9HZaHxZOGATqSz3.jpg",
-    "backdrop_path": "/8yfPXapjvJhFnpSEXrGN8cqV1fD.jpg",
-    "vote_average": 8.2,
+    "id": "137206",
+    "title": "Till The End of The Moon",
+    "overview": "In an era when the demons are in power, they are the masters of the despicable cultivators and mortals. The cultivator elders deem it necessary to send someone back in time to determine the origin of the demon lord and to prevent his awakening. Li Susu accepts the mission, becoming the mortal Ye Xiwu, General Ye's third daughter, who is married to Tantai Jin, the hostage prince and future demon lord. She is determined to destroy Tantai Jin, who, in the future, will massacre many. But as a witness to Tantai Jin's past life and rise to power, an unexpected tale emerges, one complicating her quest.",
+    "release_date": "2023-04-06",
+    "poster_path": "/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
+    "backdrop_path": "/5fhS6Bh4VnF0SOZyZnhNpc0XHDb.jpg",
+    "vote_average": 8.213,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3748,13 +3748,13 @@
     "is_local": true
   },
   {
-    "id": "137206",
-    "title": "Till The End of The Moon",
-    "overview": "In an era when the demons are in power, they are the masters of the despicable cultivators and mortals. The cultivator elders deem it necessary to send someone back in time to determine the origin of the demon lord and to prevent his awakening. Li Susu accepts the mission, becoming the mortal Ye Xiwu, General Ye's third daughter, who is married to Tantai Jin, the hostage prince and future demon lord. She is determined to destroy Tantai Jin, who, in the future, will massacre many. But as a witness to Tantai Jin's past life and rise to power, an unexpected tale emerges, one complicating her quest.",
-    "release_date": "2023-04-06",
-    "poster_path": "/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
-    "backdrop_path": "/5fhS6Bh4VnF0SOZyZnhNpc0XHDb.jpg",
-    "vote_average": 8.213,
+    "id": "261128",
+    "title": "Our Generation",
+    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
+    "release_date": "2025-07-14",
+    "poster_path": "/or59V7QMo3Up9HZaHxZOGATqSz3.jpg",
+    "backdrop_path": "/8yfPXapjvJhFnpSEXrGN8cqV1fD.jpg",
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3804,23 +3804,6 @@
     "is_local": true
   },
   {
-    "id": "234147",
-    "title": "Yes Sir My Boss",
-    "overview": "Sophit, the successor to the family's business printing company, continues to adhere to the ideology of newspaper media production. Even if he had to pick up a little print, he agreed to keep the printing company alive, and however, the print media still had to be there, and the operators who were waiting for it would be chaotic. Will the managers deal with this problem?",
-    "release_date": "2015-02-20",
-    "poster_path": "/6yvSFNMIL677sSeUBe3J9gLWQL.jpg",
-    "backdrop_path": "/uslpgujtFfxzx9odfqVHS6ldF71.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "239385",
     "title": "The Manipulated",
     "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
@@ -3832,6 +3815,23 @@
     "original_language": "ko",
     "genre_ids": [
       80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "234147",
+    "title": "Yes Sir My Boss",
+    "overview": "Sophit, the successor to the family's business printing company, continues to adhere to the ideology of newspaper media production. Even if he had to pick up a little print, he agreed to keep the printing company alive, and however, the print media still had to be there, and the operators who were waiting for it would be chaotic. Will the managers deal with this problem?",
+    "release_date": "2015-02-20",
+    "poster_path": "/6yvSFNMIL677sSeUBe3J9gLWQL.jpg",
+    "backdrop_path": "/uslpgujtFfxzx9odfqVHS6ldF71.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -4308,7 +4308,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/dbqNBeLvAWFqpAvdBc0cecaqytT.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.662,
+    "vote_average": 8.665,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
