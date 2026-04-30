@@ -234,24 +234,6 @@
     "is_local": true
   },
   {
-    "id": "278166",
-    "title": "Boys In Love",
-    "overview": "This semester, studious Shane is tasked with tutoring feckless and flirtatious Kit. Meanwhile, just when Kim is ready to give up on love, new kid Mon arrives and it's love at first sight.",
-    "release_date": "2025-04-20",
-    "poster_path": "/fNQTlxzGq6iwenWKK89qBENFrzi.jpg",
-    "backdrop_path": "/2nAwb97mGbeo7COCV619YFmJXyj.jpg",
-    "vote_average": 8.7,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "291920",
     "title": "Dangerous Queen",
     "overview": "Bonita spends her time supporting her mother who suffers from alcohol and gambling addiction. In addition to this, her neighbour \"Kem\" pursues her relentlessly even though she only sees him as a friend.\n\nHer life takes a surprising turn when she goes to a bar and meets \"Queen\", a high-society woman from a prominent family. Queen helps Bonita escape her mother's abuse and they face various challenges before they become each other's favourite.\n\n\"In my life, I have only one favourite person.\"",
@@ -284,6 +266,24 @@
       35,
       9648,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278166",
+    "title": "Boys In Love",
+    "overview": "This semester, studious Shane is tasked with tutoring feckless and flirtatious Kit. Meanwhile, just when Kim is ready to give up on love, new kid Mon arrives and it's love at first sight.",
+    "release_date": "2025-04-20",
+    "poster_path": "/fNQTlxzGq6iwenWKK89qBENFrzi.jpg",
+    "backdrop_path": "/2nAwb97mGbeo7COCV619YFmJXyj.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1986,6 +1986,23 @@
     "is_local": true
   },
   {
+    "id": "272512",
+    "title": "Our Youth",
+    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
+    "release_date": "2024-11-05",
+    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
+    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "233219",
     "title": "ONE: High School Heroes",
     "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
@@ -1997,23 +2014,6 @@
     "original_language": "ko",
     "genre_ids": [
       10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "272512",
-    "title": "Our Youth",
-    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
-    "release_date": "2024-11-05",
-    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
-    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2543,7 +2543,7 @@
     "release_date": "2026-03-28",
     "poster_path": "/kQAq0QWERgzSnBFjJaeW2Y6BVVt.jpg",
     "backdrop_path": "/gCK3XzrD5nhaJUugqR8QGoE2Up0.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.429,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
