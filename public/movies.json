@@ -1,33 +1,16 @@
 [
   {
-    "id": 223386,
-    "title": "Man on Fire",
-    "poster_path": "/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
-    "overview": "Haunted by his past and hunted by his enemies, a Special Forces veteran fights to keep a teenage girl alive on the deadly streets of Rio de Janeiro.",
-    "vote_average": 5.381,
-    "release_date": "2026-04-30",
-    "genre_ids": [
-      10759,
-      80
-    ],
-    "original_language": "en",
+    "id": "255369",
+    "title": "City of Romance",
+    "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
+    "release_date": "2025-02-14",
+    "poster_path": "/jRuly9cc1nky1UVBNH4gzMd03z5.jpg",
+    "backdrop_path": "/1iN8W3R5E0PgKuNMb2JrxOtDYTC.jpg",
+    "vote_average": 7,
     "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": "313995",
-    "title": "Single's Inferno Reunion",
-    "overview": "\"Single's Inferno\" contestants reunite to reveal honest feelings and relationship updates — revisiting standout moments from their time on the island.",
-    "release_date": "2026-02-14",
-    "poster_path": "/xgM5WOEzr0Y7MUK0EnuozBw3CKZ.jpg",
-    "backdrop_path": "/4qceofXVeBtJqJun3CZtkPs4m4I.jpg",
-    "vote_average": 7.636,
-    "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "zh",
     "genre_ids": [
-      10764
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -40,7 +23,7 @@
     "release_date": "2010-06-23",
     "poster_path": "/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
     "backdrop_path": "/oguoQWtQJcqIkmmUNbe3CmLx6AP.jpg",
-    "vote_average": 6.195,
+    "vote_average": 6.194,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -79,7 +62,7 @@
     "release_date": "2022-11-14",
     "poster_path": "/cgCMrQufjgATGKv1nYVGQnSfHB4.jpg",
     "backdrop_path": "/lUcm7DjzIocjbtskJgOCusVJZUn.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.048,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -344,6 +327,25 @@
     "is_local": true
   },
   {
+    "id": "253296",
+    "title": "Century of Love",
+    "overview": "To reunite with his long-dead love, a man uses a mystical secret to lengthen his life until her rebirth — only to learn her reincarnation is a young man.",
+    "release_date": "2024-07-10",
+    "poster_path": "/5JAJR9J0b4Br4rql4XHgq7qt7SC.jpg",
+    "backdrop_path": "/rTpw6JjsS4WIRSQ7xJoaqjIxS4b.jpg",
+    "vote_average": 9.333,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -358,25 +360,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253296",
-    "title": "Century of Love",
-    "overview": "To reunite with his long-dead love, a man uses a mystical secret to lengthen his life until her rebirth — only to learn her reincarnation is a young man.",
-    "release_date": "2024-07-10",
-    "poster_path": "/5JAJR9J0b4Br4rql4XHgq7qt7SC.jpg",
-    "backdrop_path": "/rTpw6JjsS4WIRSQ7xJoaqjIxS4b.jpg",
-    "vote_average": 9.333,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -546,24 +529,6 @@
     "is_local": true
   },
   {
-    "id": "227191",
-    "title": "Nine Puzzles",
-    "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
-    "release_date": "2025-05-21",
-    "poster_path": "/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
-    "backdrop_path": "/6OfitF3ifOJmlglcixB3ixnNydW.jpg",
-    "vote_average": 7.856,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -577,6 +542,24 @@
       10759,
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "227191",
+    "title": "Nine Puzzles",
+    "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
+    "release_date": "2025-05-21",
+    "poster_path": "/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
+    "backdrop_path": "/6OfitF3ifOJmlglcixB3ixnNydW.jpg",
+    "vote_average": 7.856,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -618,6 +601,23 @@
     "is_local": true
   },
   {
+    "id": "292614",
+    "title": "World of Street Woman Fighter",
+    "overview": "A global dance challenge that showcases the pride of strong women around the world.",
+    "release_date": "2025-05-27",
+    "poster_path": "/8m6G6Z9chiduch18lWKEyxttl7C.jpg",
+    "backdrop_path": "/chl67zBJ1G2hrgaSaxFvAZ9eBJh.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "203164",
     "title": "Strong Girl Nam-soon",
     "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
@@ -632,23 +632,6 @@
       18,
       10765,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "292614",
-    "title": "World of Street Woman Fighter",
-    "overview": "A global dance challenge that showcases the pride of strong women around the world.",
-    "release_date": "2025-05-27",
-    "poster_path": "/8m6G6Z9chiduch18lWKEyxttl7C.jpg",
-    "backdrop_path": "/chl67zBJ1G2hrgaSaxFvAZ9eBJh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -800,25 +783,6 @@
     "is_local": true
   },
   {
-    "id": "240144",
-    "title": "Revamp: The Undead Story",
-    "overview": "After his blood frees a century-old vampire trapped in a painting, an antique dealer must help him regain his powers before deadly Hunters close in.",
-    "release_date": "2025-08-23",
-    "poster_path": "/55MOnT6ZoLc52duZUl9XRULVRCo.jpg",
-    "backdrop_path": "/gVJQILUClQ5JeNpHp0BzXsiRA1B.jpg",
-    "vote_average": 7.875,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "214172",
     "title": "New Life Begins",
     "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
@@ -848,6 +812,25 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240144",
+    "title": "Revamp: The Undead Story",
+    "overview": "After his blood frees a century-old vampire trapped in a painting, an antique dealer must help him regain his powers before deadly Hunters close in.",
+    "release_date": "2025-08-23",
+    "poster_path": "/55MOnT6ZoLc52duZUl9XRULVRCo.jpg",
+    "backdrop_path": "/gVJQILUClQ5JeNpHp0BzXsiRA1B.jpg",
+    "vote_average": 7.875,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1446,7 +1429,7 @@
     "release_date": "2023-08-23",
     "poster_path": "/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
     "backdrop_path": "/jJMfTkvU2exHwCFoBHsIqwaHImh.jpg",
-    "vote_average": 8.096,
+    "vote_average": 8.104,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1810,6 +1793,23 @@
     "is_local": true
   },
   {
+    "id": "879945",
+    "title": "The Unknown Man",
+    "overview": "Louis, a Flemish writer, decides to isolate himself at the Côte d’Azur, hoping this place will bring him inspiration.",
+    "release_date": "2021-10-16",
+    "poster_path": "/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
+    "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
+    "vote_average": 7.75,
+    "media_type": "movie",
+    "original_language": "nl",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "284430",
     "title": "Deep Affection Eyes",
     "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
@@ -1822,23 +1822,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "879945",
-    "title": "The Unknown Man",
-    "overview": "Louis, a Flemish writer, decides to isolate himself at the Côte d’Azur, hoping this place will bring him inspiration.",
-    "release_date": "2021-10-16",
-    "poster_path": "/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
-    "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
-    "vote_average": 7.75,
-    "media_type": "movie",
-    "original_language": "nl",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2003,23 +1986,6 @@
     "is_local": true
   },
   {
-    "id": "272512",
-    "title": "Our Youth",
-    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
-    "release_date": "2024-11-05",
-    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
-    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233219",
     "title": "ONE: High School Heroes",
     "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
@@ -2031,6 +1997,23 @@
     "original_language": "ko",
     "genre_ids": [
       10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "272512",
+    "title": "Our Youth",
+    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
+    "release_date": "2024-11-05",
+    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
+    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2449,7 +2432,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.523,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2559,13 +2542,30 @@
     "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
     "release_date": "2026-03-28",
     "poster_path": "/kQAq0QWERgzSnBFjJaeW2Y6BVVt.jpg",
-    "backdrop_path": "/gCK3XzrD5nhaJUugqR8QGoE2Up0.jpg",
-    "vote_average": 7.429,
+    "backdrop_path": "/ieXddj48s74FVhqmtCsQyeAciP1.jpg",
+    "vote_average": 7.4,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240440",
+    "title": "The Story of Pearl Girl",
+    "overview": "After narrowly escaping an abusive pearl farm, a young woman with unmatched talent carves out her own fate as treachery meets the world of jewelry.",
+    "release_date": "2024-11-01",
+    "poster_path": "/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
+    "backdrop_path": "/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
+    "vote_average": 8.133,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2585,23 +2585,6 @@
       16,
       10759,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240440",
-    "title": "The Story of Pearl Girl",
-    "overview": "After narrowly escaping an abusive pearl farm, a young woman with unmatched talent carves out her own fate as treachery meets the world of jewelry.",
-    "release_date": "2024-11-01",
-    "poster_path": "/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
-    "backdrop_path": "/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
-    "vote_average": 8.133,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3030,7 +3013,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
     "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.888,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3362,7 +3345,7 @@
     "release_date": "2022-04-22",
     "poster_path": "/wH8ZDJLFEIPsDHanefBEbt8FS3A.jpg",
     "backdrop_path": "/qkfoiujIUeRTGa5Vebty72INt7k.jpg",
-    "vote_average": 8.129,
+    "vote_average": 8.107,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4111,6 +4094,24 @@
     "is_local": true
   },
   {
+    "id": "208336",
+    "title": "Revenge of Others",
+    "overview": "A boy falls to his death at school, but Ok Chan-mi does not believe that her twin brother, Park Won-seok, committed suicide. Chan-mi transfers to her brother's school, Yongtan High, and meets Ji Soo-heon, who witnessed her brother's death. A \"hero,\" who avenges bullied students, appears at Yongtan High. Chan-mi speculates that it may be connected to her brother and starts looking for this hero.",
+    "release_date": "2022-11-09",
+    "poster_path": "/ccej6D8J81DDJWqhP7OG6PA6xcl.jpg",
+    "backdrop_path": "/zbzldNycqQy1O9gP5vwJf9HECwk.jpg",
+    "vote_average": 8.301,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "135157",
     "title": "Alchemy of Souls",
     "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
@@ -4124,24 +4125,6 @@
       18,
       10765,
       10759,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "208336",
-    "title": "Revenge of Others",
-    "overview": "A boy falls to his death at school, but Ok Chan-mi does not believe that her twin brother, Park Won-seok, committed suicide. Chan-mi transfers to her brother's school, Yongtan High, and meets Ji Soo-heon, who witnessed her brother's death. A \"hero,\" who avenges bullied students, appears at Yongtan High. Chan-mi speculates that it may be connected to her brother and starts looking for this hero.",
-    "release_date": "2022-11-09",
-    "poster_path": "/ccej6D8J81DDJWqhP7OG6PA6xcl.jpg",
-    "backdrop_path": "/zbzldNycqQy1O9gP5vwJf9HECwk.jpg",
-    "vote_average": 8.301,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
       9648
     ],
     "video_url": "",
@@ -4327,7 +4310,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
-    "vote_average": 8.379,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4575,24 +4558,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "279136",
     "title": "Love Between Lines",
     "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
@@ -4605,6 +4570,24 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 8.25,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5012,7 +4995,7 @@
     "release_date": "2023-07-05",
     "poster_path": "/ecF1kGP2tlCpoWXVsaeYP3W6dZb.jpg",
     "backdrop_path": "/oQBv5KUDuceheaYL8nMmF7Dg3K8.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.763,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5188,7 +5171,7 @@
     "release_date": "2024-04-08",
     "poster_path": "/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg",
     "backdrop_path": "/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-    "vote_average": 8.486,
+    "vote_average": 8.484,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5208,7 +5191,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.725,
+    "vote_average": 8.722,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5268,24 +5251,6 @@
     "is_local": true
   },
   {
-    "id": "212204",
-    "title": "Twinkling Watermelon",
-    "overview": "A CODA (child of deaf adult) student born with a gift for music crash lands at an unfamiliar place after time traveling through a suspicious music shop. There, he forms the band Watermelon Sugar with other mysterious youths.",
-    "release_date": "2023-09-25",
-    "poster_path": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
-    "backdrop_path": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "112888",
     "title": "True Beauty",
     "overview": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
@@ -5297,6 +5262,24 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "212204",
+    "title": "Twinkling Watermelon",
+    "overview": "A CODA (child of deaf adult) student born with a gift for music crash lands at an unfamiliar place after time traveling through a suspicious music shop. There, he forms the band Watermelon Sugar with other mysterious youths.",
+    "release_date": "2023-09-25",
+    "poster_path": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
+    "backdrop_path": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
       18
     ],
     "video_url": "",
@@ -5427,6 +5410,40 @@
     "is_local": true
   },
   {
+    "id": 223386,
+    "title": "Man on Fire",
+    "poster_path": "/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+    "overview": "Haunted by his past and hunted by his enemies, a Special Forces veteran fights to keep a teenage girl alive on the deadly streets of Rio de Janeiro.",
+    "vote_average": 5.381,
+    "release_date": "2026-04-30",
+    "genre_ids": [
+      10759,
+      80
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "313995",
+    "title": "Single's Inferno Reunion",
+    "overview": "\"Single's Inferno\" contestants reunite to reveal honest feelings and relationship updates — revisiting standout moments from their time on the island.",
+    "release_date": "2026-02-14",
+    "poster_path": "/xgM5WOEzr0Y7MUK0EnuozBw3CKZ.jpg",
+    "backdrop_path": "/4qceofXVeBtJqJun3CZtkPs4m4I.jpg",
+    "vote_average": 7.636,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 1418297,
     "title": "The Last Shot",
     "poster_path": "/3q8l68PtcEVm5KYjbljlcvzMsHH.jpg",
@@ -5492,23 +5509,6 @@
     "original_language": "zh",
     "genre_ids": [
       10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "255369",
-    "title": "City of Romance",
-    "overview": "Bai Xiaoduo, accustomed to protecting herself with lies due to her low self-esteem, meets Su Yancheng, a genius cartoonist who despises dishonesty. Despite their differences, they support each other through a series of events, gradually healing one another's inner wounds.",
-    "release_date": "2025-02-14",
-    "poster_path": "/jRuly9cc1nky1UVBNH4gzMd03z5.jpg",
-    "backdrop_path": "/1iN8W3R5E0PgKuNMb2JrxOtDYTC.jpg",
-    "vote_average": 7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
