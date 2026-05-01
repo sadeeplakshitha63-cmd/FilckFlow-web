@@ -1,5 +1,22 @@
 [
   {
+    "id": 223386,
+    "title": "Man on Fire",
+    "poster_path": "/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+    "overview": "Haunted by his past and hunted by his enemies, a Special Forces veteran fights to keep a teenage girl alive on the deadly streets of Rio de Janeiro.",
+    "vote_average": 5.381,
+    "release_date": "2026-04-30",
+    "genre_ids": [
+      10759,
+      80
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "313995",
     "title": "Single's Inferno Reunion",
     "overview": "\"Single's Inferno\" contestants reunite to reveal honest feelings and relationship updates — revisiting standout moments from their time on the island.",
@@ -204,7 +221,7 @@
     "overview": "A heartbreaking first love story of a man who was destined to be the fate of two women who were bus guides in the 1980s, and a melodrama-comedy of shining youths who were destined to be brilliant.",
     "release_date": "2025-09-13",
     "poster_path": "/iGHE2Wk0dhRRGnZghMorr07FTHt.jpg",
-    "backdrop_path": "/ne9RkIKaPtpv8OuFQI7YS4o6QBD.jpg",
+    "backdrop_path": "/k46AmUVAj6BCIBu074uLuvi1w70.jpg",
     "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
@@ -1535,7 +1552,7 @@
     "release_date": "2016-11-16",
     "poster_path": "/oARcy8kubYekRqii04obOlvw442.jpg",
     "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.499,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1793,23 +1810,6 @@
     "is_local": true
   },
   {
-    "id": "879945",
-    "title": "The Unknown Man",
-    "overview": "Louis, a Flemish writer, decides to isolate himself at the Côte d’Azur, hoping this place will bring him inspiration.",
-    "release_date": "2021-10-16",
-    "poster_path": "/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
-    "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
-    "vote_average": 7.75,
-    "media_type": "movie",
-    "original_language": "nl",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "284430",
     "title": "Deep Affection Eyes",
     "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
@@ -1822,6 +1822,23 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "879945",
+    "title": "The Unknown Man",
+    "overview": "Louis, a Flemish writer, decides to isolate himself at the Côte d’Azur, hoping this place will bring him inspiration.",
+    "release_date": "2021-10-16",
+    "poster_path": "/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
+    "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
+    "vote_average": 7.75,
+    "media_type": "movie",
+    "original_language": "nl",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2739,7 +2756,7 @@
     "release_date": "2024-01-27",
     "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
     "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8.038,
+    "vote_average": 8.023,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2990,6 +3007,23 @@
     "is_local": true
   },
   {
+    "id": "261980",
+    "title": "Our Unwritten Seoul",
+    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
+    "release_date": "2025-05-24",
+    "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
+    "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "270420",
     "title": "No Tail to Tell",
     "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
@@ -3002,23 +3036,6 @@
     "genre_ids": [
       10765,
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "261980",
-    "title": "Our Unwritten Seoul",
-    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
-    "release_date": "2025-05-24",
-    "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
-    "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       18
     ],
     "video_url": "",
