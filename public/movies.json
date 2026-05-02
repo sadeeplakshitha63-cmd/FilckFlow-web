@@ -1,33 +1,30 @@
 [
   {
-    "id": 1007757,
-    "title": "Swapped",
-    "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-    "overview": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
-    "vote_average": 8.8,
-    "release_date": "2026-05-01",
+    "id": 1651233,
+    "title": "Son-In-Law",
+    "poster_path": "/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg",
+    "overview": "José Sánchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming El Serpiente, a political boss feared for all the wrong reasons. Now he must pull off one final deal to stay alive — a deal far beyond anything he can fake.",
+    "vote_average": 5.5,
+    "release_date": "2026-04-18",
     "genre_ids": [
-      16,
-      12,
       35,
-      10751,
-      14
+      18
     ],
-    "original_language": "en",
+    "original_language": "es",
     "media_type": "movie",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
   },
   {
-    "id": 298234,
-    "title": "aka Charlie Sheen",
-    "poster_path": "/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
-    "overview": "Actor Charlie Sheen tells his story in this candid two-part documentary tracing his dazzling Hollywood rise, tabloid-topping fall and road to recovery.",
-    "vote_average": 7.5,
-    "release_date": "2025-09-10",
+    "id": 3796,
+    "title": "Trailer Park Boys",
+    "poster_path": "/nIcIwVTYcZnW1BDzexGfFO7KmX1.jpg",
+    "overview": "Follow the booze-fueled misadventures of three longtime pals and petty serial criminals who run scams from their Nova Scotia trailer park.",
+    "vote_average": 7.709,
+    "release_date": "2001-04-22",
     "genre_ids": [
-      99
+      35
     ],
     "original_language": "en",
     "media_type": "tv",
@@ -440,25 +437,6 @@
     "is_local": true
   },
   {
-    "id": "282810",
-    "title": "The Judge Returns",
-    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
-    "release_date": "2026-01-02",
-    "poster_path": "/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
-    "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
-    "vote_average": 7.632,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "255628",
     "title": "Liars in Love",
     "overview": "It tells the story of a girl who, upon learning that the orphanage where she grew up as a child is to be demolished because of a company project, decides to enter the business world to get closer to the Chu family heir.",
@@ -486,6 +464,25 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "282810",
+    "title": "The Judge Returns",
+    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
+    "release_date": "2026-01-02",
+    "poster_path": "/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
+    "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
+    "vote_average": 7.632,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      10765,
       18
     ],
     "video_url": "",
@@ -746,24 +743,6 @@
     "is_local": true
   },
   {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "135349",
     "title": "Once We Get Married",
     "overview": "Fashion buyer Gu Xixi bought Alex's couture wedding dresses for her clients. During a private reception, she got acquainted with Yin Sichen, the black-bellied president who came to discuss business cooperation with Alex. An incident occured leading to the two people to temporarily maintain a contract cooperative relationship for a win-win situation pertaining to Alex. The two with opposite personalities gradually found love in this contract marriage. Adapted from novel \"Flash Marriage CEO's Contract Wife\" by Xiang Wang.",
@@ -776,6 +755,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1566,24 +1563,6 @@
     "is_local": true
   },
   {
-    "id": "68349",
-    "title": "Weightlifting Fairy Kim Bok-joo",
-    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
-    "release_date": "2016-11-16",
-    "poster_path": "/oARcy8kubYekRqii04obOlvw442.jpg",
-    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.499,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "239389",
     "title": "Fangs of Fortune",
     "overview": "During the Zhenyuan era, the accidental death of the Bai Ze goddess, who governed both human and demon realms, leads to chaos as demon beasts run rampant. Disguised as Zhao Yuanzhou, the demon leader Zhu Yan offers to form a demon-hunting bureau to help restore order.\n\nWen Xiao, suspicious of Zhao Yuanzhou, joins the bureau along with her childhood friend Zhuo Yichen, skilled archer Pei Sijing, and the talented but timid doctor Bai Jiu. Together, they confront the creatures from \"The Classic of Mountains and Seas\" and uncover the darker truths behind the chaos.",
@@ -1597,6 +1576,24 @@
       18,
       10765,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68349",
+    "title": "Weightlifting Fairy Kim Bok-joo",
+    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
+    "release_date": "2016-11-16",
+    "poster_path": "/oARcy8kubYekRqii04obOlvw442.jpg",
+    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
+    "vote_average": 8.499,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2237,6 +2234,23 @@
     "is_local": true
   },
   {
+    "id": "284488",
+    "title": "Harmony Secret",
+    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
+    "release_date": "2025-07-26",
+    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
+    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "66433",
     "title": "Scarlet Heart: Ryeo",
     "overview": "A story of a 25-year-old Go Hajin who is transported back in time to the Goryeo Dynasty. She then wakes up in the body of Lady Hae Soo and finds herself amongst the ruling princes of the Wang Family.",
@@ -2250,23 +2264,6 @@
       18,
       10765,
       10768
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "284488",
-    "title": "Harmony Secret",
-    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
-    "release_date": "2025-07-26",
-    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
-    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2343,6 +2340,21 @@
     "is_local": true
   },
   {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "122009",
     "title": "Bad Buddy",
     "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
@@ -2356,21 +2368,6 @@
       35,
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -4599,7 +4596,7 @@
     "title": "Love Between Lines",
     "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
     "release_date": "2026-01-09",
-    "poster_path": "/xda6V8R2DKoRKWmnofeJFHII3ia.jpg",
+    "poster_path": "/pkVFgS5koHfy6XNdMmLqR5Q3RB9.jpg",
     "backdrop_path": "/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
     "vote_average": 8.5,
     "media_type": "tv",
@@ -4684,13 +4681,13 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 7.917,
+    "id": "281011",
+    "title": "Would You Marry Me?",
+    "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
+    "release_date": "2025-10-10",
+    "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
+    "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
+    "vote_average": 7.789,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4702,13 +4699,13 @@
     "is_local": true
   },
   {
-    "id": "281011",
-    "title": "Would You Marry Me?",
-    "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
-    "release_date": "2025-10-10",
-    "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
-    "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
-    "vote_average": 7.789,
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 7.917,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5445,6 +5442,42 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1007757,
+    "title": "Swapped",
+    "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+    "overview": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+    "vote_average": 8.8,
+    "release_date": "2026-05-01",
+    "genre_ids": [
+      16,
+      12,
+      35,
+      10751,
+      14
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 298234,
+    "title": "aka Charlie Sheen",
+    "poster_path": "/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+    "overview": "Actor Charlie Sheen tells his story in this candid two-part documentary tracing his dazzling Hollywood rise, tabloid-topping fall and road to recovery.",
+    "vote_average": 7.5,
+    "release_date": "2025-09-10",
+    "genre_ids": [
+      99
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 1239198,
