@@ -1,17 +1,36 @@
 [
   {
-    "id": 1239198,
-    "title": "My Dearest Señorita",
-    "poster_path": "/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
-    "overview": "A young woman from a traditional family learns she's intersex, sparking a journey of self-discovery, gender identity and love found in unexpected places.",
-    "vote_average": 3.6,
-    "release_date": "2026-04-17",
+    "id": 1007757,
+    "title": "Swapped",
+    "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+    "overview": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+    "vote_average": 8.8,
+    "release_date": "2026-05-01",
     "genre_ids": [
-      18,
-      10749
+      16,
+      12,
+      35,
+      10751,
+      14
     ],
-    "original_language": "es",
+    "original_language": "en",
     "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 298234,
+    "title": "aka Charlie Sheen",
+    "poster_path": "/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+    "overview": "Actor Charlie Sheen tells his story in this candid two-part documentary tracing his dazzling Hollywood rise, tabloid-topping fall and road to recovery.",
+    "vote_average": 7.5,
+    "release_date": "2025-09-10",
+    "genre_ids": [
+      99
+    ],
+    "original_language": "en",
+    "media_type": "tv",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
@@ -905,6 +924,25 @@
     "is_local": true
   },
   {
+    "id": "234534",
+    "title": "Back to Seventeen",
+    "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
+    "release_date": "2023-08-30",
+    "poster_path": "/2lBGlRbpNv7eA9wAnpDGO9zBKzU.jpg",
+    "backdrop_path": "/6BH0qWbp5JRIYrbcGRuqNghhi16.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -919,25 +957,6 @@
       10765,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "234534",
-    "title": "Back to Seventeen",
-    "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
-    "release_date": "2023-08-30",
-    "poster_path": "/2lBGlRbpNv7eA9wAnpDGO9zBKzU.jpg",
-    "backdrop_path": "/6BH0qWbp5JRIYrbcGRuqNghhi16.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      10765,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1281,13 +1300,13 @@
     "is_local": true
   },
   {
-    "id": "286445",
-    "title": "Marry Me Again",
-    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
-    "release_date": "2025-04-02",
-    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
-    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
-    "vote_average": 7.3,
+    "id": "252640",
+    "title": "Legend of Zang Hai",
+    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+    "release_date": "2025-05-18",
+    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+    "vote_average": 5.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1298,13 +1317,13 @@
     "is_local": true
   },
   {
-    "id": "252640",
-    "title": "Legend of Zang Hai",
-    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
-    "release_date": "2025-05-18",
-    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 5.8,
+    "id": "286445",
+    "title": "Marry Me Again",
+    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
+    "release_date": "2025-04-02",
+    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
+    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
+    "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1441,23 +1460,6 @@
     "is_local": true
   },
   {
-    "id": "290342",
-    "title": "The Love Never Sets",
-    "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
-    "release_date": "2025-10-14",
-    "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
-    "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215001",
     "title": "Destined with You",
     "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
@@ -1471,6 +1473,23 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "290342",
+    "title": "The Love Never Sets",
+    "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
+    "release_date": "2025-10-14",
+    "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
+    "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2040,23 +2059,6 @@
     "is_local": true
   },
   {
-    "id": "255095",
-    "title": "Eat Run Love",
-    "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
-    "release_date": "2025-04-08",
-    "poster_path": "/ksZiJ8IbByqFxOTszZjdPmcRlP5.jpg",
-    "backdrop_path": "/33Bg4EM7Oqpran2WjE8y4dv2Syr.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "230448",
     "title": "Mr. Plankton",
     "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
@@ -2068,6 +2070,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "255095",
+    "title": "Eat Run Love",
+    "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
+    "release_date": "2025-04-08",
+    "poster_path": "/ksZiJ8IbByqFxOTszZjdPmcRlP5.jpg",
+    "backdrop_path": "/33Bg4EM7Oqpran2WjE8y4dv2Syr.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2273,23 +2292,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "130822",
     "title": "Our Secret",
     "overview": "Zhou Siyue, a rebellious genius, and Ding Xian, a strong-willed and charming “Cinderella,” start off as unlikely seatmates. But through daily interactions, they slowly come to understand and support each other, forming a bond that stands the test of time.",
@@ -2299,6 +2301,23 @@
     "vote_average": 7.424,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -3510,7 +3529,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.568,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3754,7 +3773,7 @@
     "title": "Our Generation",
     "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
     "release_date": "2025-07-14",
-    "poster_path": "/or59V7QMo3Up9HZaHxZOGATqSz3.jpg",
+    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
     "backdrop_path": "/8yfPXapjvJhFnpSEXrGN8cqV1fD.jpg",
     "vote_average": 8.2,
     "media_type": "tv",
@@ -5426,6 +5445,23 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1239198,
+    "title": "My Dearest Señorita",
+    "poster_path": "/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
+    "overview": "A young woman from a traditional family learns she's intersex, sparking a journey of self-discovery, gender identity and love found in unexpected places.",
+    "vote_average": 3.6,
+    "release_date": "2026-04-17",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "original_language": "es",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "251652",
