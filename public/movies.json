@@ -24,7 +24,7 @@
     "release_date": "2024-11-03",
     "poster_path": "/uHYb0ho2uHaFaw67KS4wFpREF9O.jpg",
     "backdrop_path": "/sYlJ7ZJkBHLhqzEAU5QAYuw3STB.jpg",
-    "vote_average": 6.727,
+    "vote_average": 6.7,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2770,7 +2770,7 @@
     "release_date": "2016-02-24",
     "poster_path": "/s1zXuYyMMrgpet6BBrMqGlHnvc8.jpg",
     "backdrop_path": "/o9Z8O0gdi6Qvvzk86RdnnBjBGDq.jpg",
-    "vote_average": 8.357,
+    "vote_average": 8.359,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3423,24 +3423,6 @@
     "is_local": true
   },
   {
-    "id": "130368",
-    "title": "Love Between Fairy and Devil",
-    "overview": "When a low-ranked fairy accidentally resurrects a powerful demon, their fates become cosmically entangled as the world is thrown into turmoil.",
-    "release_date": "2022-08-07",
-    "poster_path": "/9iigsYwHsBlU1As6ChDHHTJmVKd.jpg",
-    "backdrop_path": "/pECcUE53TjkrR2VsAgF7JICzH7k.jpg",
-    "vote_average": 8.197,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "4545",
     "title": "Blossom",
     "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
@@ -3454,6 +3436,24 @@
       18,
       35,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "130368",
+    "title": "Love Between Fairy and Devil",
+    "overview": "When a low-ranked fairy accidentally resurrects a powerful demon, their fates become cosmically entangled as the world is thrown into turmoil.",
+    "release_date": "2022-08-07",
+    "poster_path": "/9iigsYwHsBlU1As6ChDHHTJmVKd.jpg",
+    "backdrop_path": "/pECcUE53TjkrR2VsAgF7JICzH7k.jpg",
+    "vote_average": 8.197,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
