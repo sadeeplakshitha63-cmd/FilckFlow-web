@@ -475,24 +475,6 @@
     "is_local": true
   },
   {
-    "id": "230835",
-    "title": "Mysterious Lotus Casebook",
-    "overview": "Li Lian Hua is a countryside doctor who travels dragging around a lotus tower. He accidentally becomes \"famous\" and gets pulled into the pugilistic world that he no longer wants to have any connections with.",
-    "release_date": "2023-07-23",
-    "poster_path": "/jpMyCVieu5JlGT52KzBTOOh9VFo.jpg",
-    "backdrop_path": "/v0It4jPMkYT3H57x6ot4Fd56C8E.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "227191",
     "title": "Nine Puzzles",
     "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
@@ -504,6 +486,24 @@
     "original_language": "ko",
     "genre_ids": [
       80,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230835",
+    "title": "Mysterious Lotus Casebook",
+    "overview": "Li Lian Hua is a countryside doctor who travels dragging around a lotus tower. He accidentally becomes \"famous\" and gets pulled into the pugilistic world that he no longer wants to have any connections with.",
+    "release_date": "2023-07-23",
+    "poster_path": "/jpMyCVieu5JlGT52KzBTOOh9VFo.jpg",
+    "backdrop_path": "/v0It4jPMkYT3H57x6ot4Fd56C8E.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
       9648
     ],
     "video_url": "",
@@ -1156,7 +1156,7 @@
     "release_date": "2024-08-26",
     "poster_path": "/jiGxkMP3lzPDaPw4F0EZAEiTSgL.jpg",
     "backdrop_path": "/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
-    "vote_average": 8.459,
+    "vote_average": 8.465,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1598,23 +1598,6 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
-    "release_date": "2022-12-02",
-    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
-    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -1628,6 +1611,23 @@
       10759,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
+    "release_date": "2022-12-02",
+    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
+    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2286,21 +2286,6 @@
     "is_local": true
   },
   {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "282471",
     "title": "ClaireBell",
     "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
@@ -2313,6 +2298,21 @@
     "genre_ids": [
       18
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2557,7 +2557,7 @@
     "release_date": "2024-11-01",
     "poster_path": "/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
     "backdrop_path": "/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
-    "vote_average": 8.133,
+    "vote_average": 8.25,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4336,7 +4336,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
-    "vote_average": 8.406,
+    "vote_average": 8.402,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4788,7 +4788,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.699,
+    "vote_average": 8.701,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4840,7 +4840,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.15,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4985,7 +4985,7 @@
     "release_date": "2025-08-23",
     "poster_path": "/bzYSIw9FTzQXUcWsnDSwlcwok3C.jpg",
     "backdrop_path": "/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
-    "vote_average": 8.644,
+    "vote_average": 8.65,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
