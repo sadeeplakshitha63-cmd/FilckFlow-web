@@ -328,26 +328,6 @@
     "is_local": true
   },
   {
-    "id": "301031",
-    "title": "The Secrets of Hotel 88",
-    "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
-    "release_date": "2026-03-02",
-    "poster_path": "/5FmIyAnBvDmyAGYFnP0zCqphYlP.jpg",
-    "backdrop_path": "/mwShyCXHStuIdHYaDl6pimQkWYh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      9648,
-      10759,
-      10751,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "255628",
     "title": "Liars in Love",
     "overview": "It tells the story of a girl who, upon learning that the orphanage where she grew up as a child is to be demolished because of a company project, decides to enter the business world to get closer to the Chu family heir.",
@@ -397,6 +377,26 @@
     "genre_ids": [
       80,
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "301031",
+    "title": "The Secrets of Hotel 88",
+    "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
+    "release_date": "2026-03-02",
+    "poster_path": "/5FmIyAnBvDmyAGYFnP0zCqphYlP.jpg",
+    "backdrop_path": "/mwShyCXHStuIdHYaDl6pimQkWYh.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      9648,
+      10759,
+      10751,
       18
     ],
     "video_url": "",
@@ -563,6 +563,25 @@
     "is_local": true
   },
   {
+    "id": "67391",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "release_date": "2016-09-23",
+    "poster_path": "/2MvpJNxvJi6NZL32UB9RhEiEx4U.jpg",
+    "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
+    "vote_average": 7.698,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      18,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "203164",
     "title": "Strong Girl Nam-soon",
     "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
@@ -576,25 +595,6 @@
       35,
       18,
       10765,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "67391",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "release_date": "2016-09-23",
-    "poster_path": "/2MvpJNxvJi6NZL32UB9RhEiEx4U.jpg",
-    "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
-    "vote_average": 7.698,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18,
       80
     ],
     "video_url": "",
@@ -709,24 +709,6 @@
     "is_local": true
   },
   {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 7.951,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "251652",
     "title": "Treasure Seeking: The Legend of ShenLi",
     "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
@@ -773,6 +755,24 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 7.951,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
       18
     ],
     "video_url": "",
@@ -1309,6 +1309,23 @@
     "is_local": true
   },
   {
+    "id": "217800",
+    "title": "Last Twilight",
+    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
+    "release_date": "2023-11-10",
+    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
+    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
+    "vote_average": 9.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1323,23 +1340,6 @@
       10765,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "217800",
-    "title": "Last Twilight",
-    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
-    "release_date": "2023-11-10",
-    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
-    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
-    "vote_average": 9.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1419,24 +1419,6 @@
     "is_local": true
   },
   {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "290342",
     "title": "The Love Never Sets",
     "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
@@ -1467,6 +1449,24 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2141,6 +2141,26 @@
     "is_local": true
   },
   {
+    "id": "233742",
+    "title": "Newtopia",
+    "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
+    "release_date": "2025-02-07",
+    "poster_path": "/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
+    "backdrop_path": "/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      10759,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "259486",
     "title": "The Haunted Palace",
     "overview": "In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption",
@@ -2152,26 +2172,6 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "233742",
-    "title": "Newtopia",
-    "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
-    "release_date": "2025-02-07",
-    "poster_path": "/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
-    "backdrop_path": "/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
-    "vote_average": 7.891,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      10759,
-      35,
       18
     ],
     "video_url": "",
@@ -2746,24 +2746,6 @@
     "is_local": true
   },
   {
-    "id": "65143",
-    "title": "Descendants of the Sun",
-    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
-    "release_date": "2016-02-24",
-    "poster_path": "/s1zXuYyMMrgpet6BBrMqGlHnvc8.jpg",
-    "backdrop_path": "/o9Z8O0gdi6Qvvzk86RdnnBjBGDq.jpg",
-    "vote_average": 8.359,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278428",
     "title": "Incognito",
     "overview": "In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.",
@@ -2794,6 +2776,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "65143",
+    "title": "Descendants of the Sun",
+    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+    "release_date": "2016-02-24",
+    "poster_path": "/s1zXuYyMMrgpet6BBrMqGlHnvc8.jpg",
+    "backdrop_path": "/o9Z8O0gdi6Qvvzk86RdnnBjBGDq.jpg",
+    "vote_average": 8.359,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4708,18 +4708,17 @@
     "is_local": true
   },
   {
-    "id": "297424",
+    "id": "213608",
     "title": "Our Universe",
-    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
-    "release_date": "2026-02-04",
-    "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
-    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 7.9,
+    "overview": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
+    "release_date": "2022-11-22",
+    "poster_path": "/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
+    "backdrop_path": "/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
+    "vote_average": 7.857,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "en",
     "genre_ids": [
-      35,
-      18
+      99
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5197,7 +5196,7 @@
     "release_date": "2024-04-08",
     "poster_path": "/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg",
     "backdrop_path": "/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-    "vote_average": 8.49,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5430,6 +5429,24 @@
     "original_language": "en",
     "genre_ids": [
       99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297424",
+    "title": "Our Universe",
+    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+    "release_date": "2026-02-04",
+    "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
+    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -7060,23 +7077,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "213608",
-    "title": "Our Universe",
-    "overview": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
-    "release_date": "2022-11-22",
-    "poster_path": "/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
-    "backdrop_path": "/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
-    "vote_average": 7.857,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      99
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 1659087,
