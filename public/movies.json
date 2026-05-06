@@ -1,5 +1,22 @@
 [
   {
+    "id": 79026,
+    "title": "The Protector",
+    "poster_path": "/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg",
+    "overview": "The epic adventure of Hakan, a young shopkeeper whose modern world gets turned upside down when he learns he’s connected to a secret, ancient order, tasked with protecting Istanbul.",
+    "vote_average": 7.196,
+    "release_date": "2018-12-14",
+    "genre_ids": [
+      10759,
+      10765
+    ],
+    "original_language": "tr",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "127814",
     "title": "She and Her Perfect Husband",
     "overview": "Elite lawyer Qin Shi and resident homebody Yang Hua who got \"married\" for their own purposes unexpectedly find true love in each other. Together, they walk hand in hand towards a happy and fruitful life.",
@@ -563,25 +580,6 @@
     "is_local": true
   },
   {
-    "id": "67391",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "release_date": "2016-09-23",
-    "poster_path": "/2MvpJNxvJi6NZL32UB9RhEiEx4U.jpg",
-    "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
-    "vote_average": 7.698,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "203164",
     "title": "Strong Girl Nam-soon",
     "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
@@ -595,6 +593,25 @@
       35,
       18,
       10765,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "67391",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "release_date": "2016-09-23",
+    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      18,
       80
     ],
     "video_url": "",
@@ -709,17 +726,18 @@
     "is_local": true
   },
   {
-    "id": "251652",
-    "title": "Treasure Seeking: The Legend of ShenLi",
-    "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
-    "release_date": "2024-04-11",
-    "poster_path": "/6iNze1uB5hheZD1Dh5Hy0NopdBd.jpg",
-    "backdrop_path": "/eRu27ZSGTM7CImcMgxPNMD1t6qP.jpg",
-    "vote_average": 0,
+    "id": "207668",
+    "title": "The Legend of ShenLi",
+    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
+    "release_date": "2024-03-18",
+    "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
+    "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      10764
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -833,6 +851,23 @@
     "is_local": true
   },
   {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "285838",
     "title": "If Wishes Could Kill",
     "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
@@ -845,23 +880,6 @@
     "genre_ids": [
       9648,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
-    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -975,24 +993,6 @@
     "is_local": true
   },
   {
-    "id": "278275",
-    "title": "Veil of Shadows",
-    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
-    "release_date": "2026-04-01",
-    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
-    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
-    "vote_average": 8.533,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "155229",
     "title": "Cheer Up",
     "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
@@ -1006,6 +1006,24 @@
       18,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278275",
+    "title": "Veil of Shadows",
+    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
+    "release_date": "2026-04-01",
+    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
+    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
+    "vote_average": 8.533,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1224,13 +1242,13 @@
     "is_local": true
   },
   {
-    "id": "286445",
-    "title": "Marry Me Again",
-    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
-    "release_date": "2025-04-02",
-    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
-    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
-    "vote_average": 7.3,
+    "id": "252640",
+    "title": "Legend of Zang Hai",
+    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+    "release_date": "2025-05-18",
+    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+    "vote_average": 5.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1241,13 +1259,13 @@
     "is_local": true
   },
   {
-    "id": "252640",
-    "title": "Legend of Zang Hai",
-    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
-    "release_date": "2025-05-18",
-    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 5.8,
+    "id": "286445",
+    "title": "Marry Me Again",
+    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
+    "release_date": "2025-04-02",
+    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
+    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
+    "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1565,25 +1583,6 @@
     "is_local": true
   },
   {
-    "id": "90761",
-    "title": "The Untamed",
-    "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
-    "release_date": "2019-06-27",
-    "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
-    "backdrop_path": "/mthKQh5uBwRnwJOafA1xfGOoj3J.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "243028",
     "title": "Love Song in Winter",
     "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
@@ -1613,6 +1612,25 @@
     "original_language": "th",
     "genre_ids": [
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "90761",
+    "title": "The Untamed",
+    "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
+    "release_date": "2019-06-27",
+    "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
+    "backdrop_path": "/mthKQh5uBwRnwJOafA1xfGOoj3J.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4593,7 +4611,7 @@
     "release_date": "2022-07-05",
     "poster_path": "/yrFtRnriHMa4qOkAuXzo7jcXQmp.jpg",
     "backdrop_path": "/wNSLw756U5JQSpG6POYxHKL2KDH.jpg",
-    "vote_average": 7.556,
+    "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4952,7 +4970,7 @@
     "release_date": "2025-08-06",
     "poster_path": "/r1EMXYnqFDk9tzkkoxFwFjxCEvC.jpg",
     "backdrop_path": "/mwiG510fVcOrzWUSDSV7B5tRMrb.jpg",
-    "vote_average": 8.031,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5420,6 +5438,23 @@
     "is_local": true
   },
   {
+    "id": "251652",
+    "title": "Treasure Seeking: The Legend of ShenLi",
+    "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
+    "release_date": "2024-04-11",
+    "poster_path": "/6iNze1uB5hheZD1Dh5Hy0NopdBd.jpg",
+    "backdrop_path": "/eRu27ZSGTM7CImcMgxPNMD1t6qP.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1688294",
     "title": "Euphoria Season 2",
     "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
@@ -5447,24 +5482,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "207668",
-    "title": "The Legend of ShenLi",
-    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
-    "release_date": "2024-03-18",
-    "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
-    "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
