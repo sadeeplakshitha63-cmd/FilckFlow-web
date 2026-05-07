@@ -1,21 +1,105 @@
 [
   {
-    "id": "127814",
-    "title": "She and Her Perfect Husband",
-    "overview": "Elite lawyer Qin Shi and resident homebody Yang Hua who got \"married\" for their own purposes unexpectedly find true love in each other. Together, they walk hand in hand towards a happy and fruitful life.",
-    "release_date": "2022-11-14",
-    "poster_path": "/cgCMrQufjgATGKv1nYVGQnSfHB4.jpg",
-    "backdrop_path": "/lUcm7DjzIocjbtskJgOCusVJZUn.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
+    "id": 492188,
+    "title": "Marriage Story",
+    "poster_path": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+    "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+    "vote_average": 7.733,
+    "release_date": "2019-09-28",
     "genre_ids": [
-      10751,
       18
     ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
     "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
+    "subtitle_file": null
+  },
+  {
+    "id": 201124,
+    "title": "Mo",
+    "poster_path": "/x3ojdK36AKestQaL2nAE6A7JYWO.jpg",
+    "overview": "In Texas, Mo straddles the line between two cultures, three languages and a pending asylum request while hustling to support his Palestinian family.",
+    "vote_average": 6.988,
+    "release_date": "2022-08-24",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 250504,
+    "title": "The Beast in Me",
+    "poster_path": "/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "vote_average": 7.1,
+    "release_date": "2025-11-13",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 249039,
+    "title": "Black Rabbit",
+    "poster_path": "/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
+    "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
+    "vote_average": 6.984,
+    "release_date": "2025-09-18",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 247769,
+    "title": "The Great Indian Kapil Show",
+    "poster_path": "/3KMCmGDlYLlJ8zGOhCs6f3FZcnj.jpg",
+    "overview": "Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
+    "vote_average": 7.9,
+    "release_date": "2024-03-30",
+    "genre_ids": [
+      10767,
+      35
+    ],
+    "original_language": "hi",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 238084,
+    "title": "Trigger",
+    "poster_path": "/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+    "overview": "As illegal firearms flood into a gun-free South Korea, a resolute cop and a mysterious partner join forces to stop the chaos from sweeping the nation.",
+    "vote_average": 7.7,
+    "release_date": "2025-07-25",
+    "genre_ids": [
+      10759,
+      18,
+      80
+    ],
+    "original_language": "ko",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "262155",
@@ -143,23 +227,6 @@
     "is_local": true
   },
   {
-    "id": "291920",
-    "title": "Dangerous Queen",
-    "overview": "Bonita spends her time supporting her mother who suffers from alcohol and gambling addiction. In addition to this, her neighbour \"Kem\" pursues her relentlessly even though she only sees him as a friend.\n\nHer life takes a surprising turn when she goes to a bar and meets \"Queen\", a high-society woman from a prominent family. Queen helps Bonita escape her mother's abuse and they face various challenges before they become each other's favourite.\n\n\"In my life, I have only one favourite person.\"",
-    "release_date": "2025-10-05",
-    "poster_path": "/bPMnZtxk3ablkxp6T63SIyQeSVs.jpg",
-    "backdrop_path": "/cle9m5JqjnbYICVBy6Y0TVHasVr.jpg",
-    "vote_average": 6,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "302569",
     "title": "What Lies Beneath",
     "overview": "A fractured group of women reunites to fulfill a childhood dream and honor a lost friend, but a dark secret from their past threatens to tear them apart.",
@@ -175,6 +242,23 @@
       35,
       9648,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "291920",
+    "title": "Dangerous Queen",
+    "overview": "Bonita spends her time supporting her mother who suffers from alcohol and gambling addiction. In addition to this, her neighbour \"Kem\" pursues her relentlessly even though she only sees him as a friend.\n\nHer life takes a surprising turn when she goes to a bar and meets \"Queen\", a high-society woman from a prominent family. Queen helps Bonita escape her mother's abuse and they face various challenges before they become each other's favourite.\n\n\"In my life, I have only one favourite person.\"",
+    "release_date": "2025-10-05",
+    "poster_path": "/bPMnZtxk3ablkxp6T63SIyQeSVs.jpg",
+    "backdrop_path": "/cle9m5JqjnbYICVBy6Y0TVHasVr.jpg",
+    "vote_average": 6,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -491,26 +575,6 @@
     "is_local": true
   },
   {
-    "id": "301031",
-    "title": "The Secrets of Hotel 88",
-    "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
-    "release_date": "2026-03-02",
-    "poster_path": "/5FmIyAnBvDmyAGYFnP0zCqphYlP.jpg",
-    "backdrop_path": "/mwShyCXHStuIdHYaDl6pimQkWYh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      9648,
-      10759,
-      10751,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253029",
     "title": "Brewing Love",
     "overview": "A heart-fluttering love story between Chae Yong-ju, a super passionate sales king at a liquor company who hides her emotions, and Yun Min-ju, a super sensitive brewery owner who is adept at catching people’s emotions.",
@@ -557,6 +621,26 @@
     "original_language": "ko",
     "genre_ids": [
       10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "301031",
+    "title": "The Secrets of Hotel 88",
+    "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
+    "release_date": "2026-03-02",
+    "poster_path": "/5FmIyAnBvDmyAGYFnP0zCqphYlP.jpg",
+    "backdrop_path": "/mwShyCXHStuIdHYaDl6pimQkWYh.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      9648,
+      10759,
+      10751,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -958,24 +1042,6 @@
     "is_local": true
   },
   {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 7.984,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "155229",
     "title": "Cheer Up",
     "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
@@ -989,6 +1055,24 @@
       18,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 7.984,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1031,23 +1115,6 @@
     "is_local": true
   },
   {
-    "id": "278157",
-    "title": "My Romance Scammer",
-    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
-    "release_date": "2026-02-01",
-    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
-    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
-    "vote_average": 7.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278142",
     "title": "Burnout Syndrome",
     "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
@@ -1077,6 +1144,23 @@
     "genre_ids": [
       35,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278157",
+    "title": "My Romance Scammer",
+    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
+    "release_date": "2026-02-01",
+    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
+    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
+    "vote_average": 7.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1950,6 +2034,24 @@
     "is_local": true
   },
   {
+    "id": "239386",
+    "title": "Kiseki Miracle Season",
+    "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
+    "release_date": "2024-03-18",
+    "poster_path": "/wc9ulWm12VD2cPZTfJfzyr3Diyr.jpg",
+    "backdrop_path": "/dXyM1wIp5UCpTRBpbanl6OaRkxu.jpg",
+    "vote_average": 7.667,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "113268",
     "title": "The Uncanny Counter",
     "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
@@ -1963,24 +2065,6 @@
       18,
       9648,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "239386",
-    "title": "Kiseki Miracle Season",
-    "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
-    "release_date": "2024-03-18",
-    "poster_path": "/wc9ulWm12VD2cPZTfJfzyr3Diyr.jpg",
-    "backdrop_path": "/dXyM1wIp5UCpTRBpbanl6OaRkxu.jpg",
-    "vote_average": 7.667,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2074,23 +2158,6 @@
     "is_local": true
   },
   {
-    "id": "254474",
-    "title": "The Princess Royal",
-    "overview": "Because of political reasons, princess Li Rong and Pei Wenxuan got married at the age of 18. In the end they drifted further and further afar from each other. After 20 years of a loveless marriage, they were manipulated into turning against each other, leading to their deaths. However, they wake up back at 18, before their marriage, facing the hardest time of their lives. The two of them are given second change together, to save those around them.",
-    "release_date": "2024-06-26",
-    "poster_path": "/rjWNfvAALgazLPyVCd9l9BJxR6o.jpg",
-    "backdrop_path": "/hJN6i5uoKHtYz66wotERToBaI10.jpg",
-    "vote_average": 7.472,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "262828",
     "title": "Crushology 101",
     "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
@@ -2102,6 +2169,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "254474",
+    "title": "The Princess Royal",
+    "overview": "Because of political reasons, princess Li Rong and Pei Wenxuan got married at the age of 18. In the end they drifted further and further afar from each other. After 20 years of a loveless marriage, they were manipulated into turning against each other, leading to their deaths. However, they wake up back at 18, before their marriage, facing the hardest time of their lives. The two of them are given second change together, to save those around them.",
+    "release_date": "2024-06-26",
+    "poster_path": "/rjWNfvAALgazLPyVCd9l9BJxR6o.jpg",
+    "backdrop_path": "/hJN6i5uoKHtYz66wotERToBaI10.jpg",
+    "vote_average": 7.472,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2304,6 +2388,23 @@
     "is_local": true
   },
   {
+    "id": "276257",
+    "title": "Secret Relationships",
+    "overview": "Trapped in an escalating love square, a salaryman must navigate his tumultuous feelings for a colleague, a former tutor, and an heir.",
+    "release_date": "2025-02-26",
+    "poster_path": "/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
+    "backdrop_path": "/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
+    "vote_average": 8.306,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "122009",
     "title": "Bad Buddy",
     "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
@@ -2315,23 +2416,6 @@
     "original_language": "th",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "276257",
-    "title": "Secret Relationships",
-    "overview": "Trapped in an escalating love square, a salaryman must navigate his tumultuous feelings for a colleague, a former tutor, and an heir.",
-    "release_date": "2025-02-26",
-    "poster_path": "/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
-    "backdrop_path": "/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
-    "vote_average": 8.306,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3576,23 +3660,6 @@
     "is_local": true
   },
   {
-    "id": "252649",
-    "title": "ThamePo: Heart That Skips A Beat",
-    "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
-    "release_date": "2024-12-13",
-    "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
-    "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "221112",
     "title": "Amidst a Snowstorm of Love",
     "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
@@ -3602,6 +3669,23 @@
     "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "252649",
+    "title": "ThamePo: Heart That Skips A Beat",
+    "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
+    "release_date": "2024-12-13",
+    "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
+    "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -3949,23 +4033,6 @@
     "is_local": true
   },
   {
-    "id": "230524",
-    "title": "Perfect Marriage Revenge",
-    "overview": "Waking from a fatal accident to find herself in the past, Han Yi-joo teams up with Seo Do-guk to take revenge on the family who never loved her.",
-    "release_date": "2023-10-28",
-    "poster_path": "/5iqVjyWAfXAFMim0Fi5QS6jUNPq.jpg",
-    "backdrop_path": "/u8NXqLbrVMVN3Ap20w0aSfOdh9K.jpg",
-    "vote_average": 7.882,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "271309",
     "title": "Buried Hearts",
     "overview": "Seo Dong-ju, who hacked a political slush fund worth two trillion won, risks it all for revenge.",
@@ -3978,6 +4045,23 @@
     "genre_ids": [
       80,
       9648,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230524",
+    "title": "Perfect Marriage Revenge",
+    "overview": "Waking from a fatal accident to find herself in the past, Han Yi-joo teams up with Seo Do-guk to take revenge on the family who never loved her.",
+    "release_date": "2023-10-28",
+    "poster_path": "/5iqVjyWAfXAFMim0Fi5QS6jUNPq.jpg",
+    "backdrop_path": "/u8NXqLbrVMVN3Ap20w0aSfOdh9K.jpg",
+    "vote_average": 7.882,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -4845,7 +4929,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.238,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5400,6 +5484,24 @@
     "original_language": "en",
     "genre_ids": [
       99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "127814",
+    "title": "She and Her Perfect Husband",
+    "overview": "Elite lawyer Qin Shi and resident homebody Yang Hua who got \"married\" for their own purposes unexpectedly find true love in each other. Together, they walk hand in hand towards a happy and fruitful life.",
+    "release_date": "2022-11-14",
+    "poster_path": "/cgCMrQufjgATGKv1nYVGQnSfHB4.jpg",
+    "backdrop_path": "/lUcm7DjzIocjbtskJgOCusVJZUn.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10751,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
