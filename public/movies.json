@@ -525,26 +525,6 @@
     "is_local": true
   },
   {
-    "id": "301031",
-    "title": "The Secrets of Hotel 88",
-    "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
-    "release_date": "2026-03-02",
-    "poster_path": "/5FmIyAnBvDmyAGYFnP0zCqphYlP.jpg",
-    "backdrop_path": "/mwShyCXHStuIdHYaDl6pimQkWYh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      9648,
-      10759,
-      10751,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "203164",
     "title": "Strong Girl Nam-soon",
     "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
@@ -578,6 +558,26 @@
       10759,
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "301031",
+    "title": "The Secrets of Hotel 88",
+    "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
+    "release_date": "2026-03-02",
+    "poster_path": "/5FmIyAnBvDmyAGYFnP0zCqphYlP.jpg",
+    "backdrop_path": "/mwShyCXHStuIdHYaDl6pimQkWYh.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      9648,
+      10759,
+      10751,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -994,24 +994,6 @@
     "is_local": true
   },
   {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 7.984,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278157",
     "title": "My Romance Scammer",
     "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
@@ -1058,6 +1040,24 @@
     "genre_ids": [
       35,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 7.984,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1583,24 +1583,6 @@
     "is_local": true
   },
   {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "229203",
     "title": "Stay With Me",
     "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
@@ -1613,6 +1595,24 @@
     "genre_ids": [
       18,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2295,7 +2295,7 @@
     "release_date": "2021-10-29",
     "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
     "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
-    "vote_average": 8.465,
+    "vote_average": 8.486,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2790,25 +2790,6 @@
     "is_local": true
   },
   {
-    "id": "158258",
-    "title": "Duty After School",
-    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
-    "release_date": "2023-03-31",
-    "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
-    "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278331",
     "title": "The First Night with the Duke",
     "overview": "Reincarnated as a minor character in a novel, Cha Seon-taek unexpectedly spends a night with Prince Kyungsung, sparking an intense and unexpected romance.",
@@ -2822,6 +2803,25 @@
       10765,
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "158258",
+    "title": "Duty After School",
+    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
+    "release_date": "2023-03-31",
+    "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
+    "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2857,25 +2857,6 @@
     "original_language": "zh",
     "genre_ids": [
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "124003",
-    "title": "Perfect World",
-    "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
-    "release_date": "2021-04-23",
-    "poster_path": "/qy60bm9admmgpkmcPeW4BvRjjVm.jpg",
-    "backdrop_path": "/vMIlGA4HJnJekSboqk4ap0lz2Sd.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      10765,
-      16
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3477,7 +3458,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.569,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4274,7 +4255,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/dbqNBeLvAWFqpAvdBc0cecaqytT.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.665,
+    "vote_average": 8.645,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4479,24 +4460,6 @@
       10765,
       80,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "281013",
-    "title": "Dynamite Kiss",
-    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
-    "release_date": "2025-11-12",
-    "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
-    "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 7.988,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5385,6 +5348,43 @@
     "original_language": "en",
     "genre_ids": [
       99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "124003",
+    "title": "Perfect World",
+    "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
+    "release_date": "2021-04-23",
+    "poster_path": "/qy60bm9admmgpkmcPeW4BvRjjVm.jpg",
+    "backdrop_path": "/vMIlGA4HJnJekSboqk4ap0lz2Sd.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      10765,
+      16
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "281013",
+    "title": "Dynamite Kiss",
+    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
+    "release_date": "2025-11-12",
+    "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
+    "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
+    "vote_average": 7.988,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
