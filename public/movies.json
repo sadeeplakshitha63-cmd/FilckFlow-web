@@ -389,7 +389,7 @@
     "release_date": "2025-12-04",
     "poster_path": "/2lt4ZRGElT9uG4TEM1bkOjN86nk.jpg",
     "backdrop_path": "/cAJDWfx0V82FzDwQl6y3QlGOuQY.jpg",
-    "vote_average": 6.8,
+    "vote_average": 6.667,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -406,7 +406,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.7,
+    "vote_average": 7.704,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -1176,7 +1176,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8,
+    "vote_average": 8.059,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1879,24 +1879,6 @@
     "is_local": true
   },
   {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "230250",
     "title": "Love Me, Love My Voice",
     "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
@@ -1931,6 +1913,24 @@
     "is_local": true
   },
   {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "239386",
     "title": "Kiseki Miracle Season",
     "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
@@ -1943,23 +1943,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "272512",
-    "title": "Our Youth",
-    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
-    "release_date": "2024-11-05",
-    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
-    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1996,6 +1979,23 @@
       18,
       9648,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "272512",
+    "title": "Our Youth",
+    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
+    "release_date": "2024-11-05",
+    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
+    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2108,24 +2108,6 @@
     "is_local": true
   },
   {
-    "id": "224030",
-    "title": "High School Return of a Gangster",
-    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
-    "release_date": "2024-05-29",
-    "poster_path": "/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
-    "backdrop_path": "/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233742",
     "title": "Newtopia",
     "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
@@ -2139,6 +2121,24 @@
       10765,
       10759,
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "224030",
+    "title": "High School Return of a Gangster",
+    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
+    "release_date": "2024-05-29",
+    "poster_path": "/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
+    "backdrop_path": "/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
       18
     ],
     "video_url": "",
@@ -2274,7 +2274,7 @@
     "release_date": "2025-10-27",
     "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
     "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-    "vote_average": 8.259,
+    "vote_average": 8.286,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2464,6 +2464,24 @@
     "is_local": true
   },
   {
+    "id": "94796",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "release_date": "2019-12-14",
+    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "vote_average": 8.526,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "107329",
     "title": "Go Ahead",
     "overview": "Three friends from troubled families form a unique, lasting bond — but their pasts soon cast a cloud over their lives.",
@@ -2476,24 +2494,6 @@
     "genre_ids": [
       18,
       10751,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "94796",
-    "title": "Crash Landing on You",
-    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
-    "release_date": "2019-12-14",
-    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.526,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
       35
     ],
     "video_url": "",
@@ -2696,23 +2696,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278428",
     "title": "Incognito",
     "overview": "In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.",
@@ -2724,6 +2707,23 @@
     "original_language": "tl",
     "genre_ids": [
       10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2919,7 +2919,7 @@
     "release_date": "2020-12-12",
     "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
     "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.51,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3473,7 +3473,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.57,
+    "vote_average": 8.574,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4253,7 +4253,7 @@
     "release_date": "2024-07-02",
     "poster_path": "/bA4beN83d67IHvZzQXO29d9mLHp.jpg",
     "backdrop_path": "/g2IyljMEp9HcFEUKudIsoVkG0JG.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.227,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4487,7 +4487,7 @@
     "release_date": "2025-11-12",
     "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
     "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 7.988,
+    "vote_average": 7.976,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4505,7 +4505,7 @@
     "release_date": "2024-11-22",
     "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
     "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "vote_average": 8.318,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4542,7 +4542,7 @@
     "release_date": "2026-01-09",
     "poster_path": "/xda6V8R2DKoRKWmnofeJFHII3ia.jpg",
     "backdrop_path": "/l5po6CB4BVAmrxb0v2GjkOveQ1g.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4702,7 +4702,7 @@
     "release_date": "2025-01-23",
     "poster_path": "/wIYcAPkdQUPDoHxiQVyz9ZvpZrg.jpg",
     "backdrop_path": "/9dyMCxaX9YgHLJ6KSMBeDQu16uW.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.421,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4895,24 +4895,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "280945",
     "title": "Bon Appétit, Your Majesty",
     "overview": "After time traveling to the Joseon era, a talented chef meets a tyrant king. Her modern dishes captivate his palate, but royal challenges await her.",
@@ -4941,6 +4923,24 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
