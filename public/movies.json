@@ -366,23 +366,6 @@
     "is_local": true
   },
   {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.25,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "263048",
     "title": "Sniper Butterfly",
     "overview": "A captivating romance unfolds between a confident, cat-like woman and a bold, loyal younger man. As they navigate their differences, they find mutual healing and redemption, leading to a passionate, fate-driven love story full of tension and desire.",
@@ -392,6 +375,23 @@
     "vote_average": 6.667,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.25,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -479,7 +479,7 @@
     "release_date": "2024-11-04",
     "poster_path": "/kQMXEmYkyKGMGA1ZdgfWIxCOWOX.jpg",
     "backdrop_path": "/rl3DbxIiKp8SDbZ9dLmUDVhhjcA.jpg",
-    "vote_average": 7.539,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1206,13 +1206,13 @@
     "is_local": true
   },
   {
-    "id": "286445",
-    "title": "Marry Me Again",
-    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
-    "release_date": "2025-04-02",
-    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
-    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
-    "vote_average": 7.3,
+    "id": "252640",
+    "title": "Legend of Zang Hai",
+    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+    "release_date": "2025-05-18",
+    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+    "vote_average": 5.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1223,13 +1223,13 @@
     "is_local": true
   },
   {
-    "id": "252640",
-    "title": "Legend of Zang Hai",
-    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
-    "release_date": "2025-05-18",
-    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 5.8,
+    "id": "286445",
+    "title": "Marry Me Again",
+    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
+    "release_date": "2025-04-02",
+    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
+    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
+    "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1812,7 +1812,7 @@
     "release_date": "2024-12-28",
     "poster_path": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
     "backdrop_path": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
-    "vote_average": 7.3,
+    "vote_average": 7.4,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1931,6 +1931,23 @@
     "is_local": true
   },
   {
+    "id": "272512",
+    "title": "Our Youth",
+    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
+    "release_date": "2024-11-05",
+    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
+    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "255095",
     "title": "Eat Run Love",
     "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
@@ -1961,23 +1978,6 @@
       18,
       9648,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "272512",
-    "title": "Our Youth",
-    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
-    "release_date": "2024-11-05",
-    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
-    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2072,24 +2072,6 @@
     "is_local": true
   },
   {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "259486",
     "title": "The Haunted Palace",
     "overview": "In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption",
@@ -2158,6 +2140,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2464,24 +2464,6 @@
     "is_local": true
   },
   {
-    "id": "94796",
-    "title": "Crash Landing on You",
-    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
-    "release_date": "2019-12-14",
-    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.526,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "107329",
     "title": "Go Ahead",
     "overview": "Three friends from troubled families form a unique, lasting bond — but their pasts soon cast a cloud over their lives.",
@@ -2494,6 +2476,24 @@
     "genre_ids": [
       18,
       10751,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "94796",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "release_date": "2019-12-14",
+    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "vote_average": 8.526,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
       35
     ],
     "video_url": "",
@@ -4702,7 +4702,7 @@
     "release_date": "2025-01-23",
     "poster_path": "/wIYcAPkdQUPDoHxiQVyz9ZvpZrg.jpg",
     "backdrop_path": "/9dyMCxaX9YgHLJ6KSMBeDQu16uW.jpg",
-    "vote_average": 8.421,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
