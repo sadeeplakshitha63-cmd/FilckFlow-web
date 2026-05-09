@@ -1597,23 +1597,6 @@
     "is_local": true
   },
   {
-    "id": "223440",
-    "title": "The Eighth Sense",
-    "overview": "A rural freshman and a returning vet face a new kind of challenge: finding meaning in a crowded, fast-moving world.",
-    "release_date": "2023-03-29",
-    "poster_path": "/uoHehNNiO8lWpmaKmlx8icDESbm.jpg",
-    "backdrop_path": "/dNZCo6UVbig6Les5exI6iiMDHOl.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "217861",
     "title": "Dangerous Romance",
     "overview": "Sailom, a poor and studious student, has worked several odd jobs along with his elder brother in an effort to keep them afloat. One day, a misunderstanding causes him to hate school bully Kanghan. However, fate plays its hand when Sailom, offered a sum of money too great to refuse, takes on the role of Kanghan's private tutor. Despite their difference, the two develop an irrefutable connection.",
@@ -1623,6 +1606,23 @@
     "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "223440",
+    "title": "The Eighth Sense",
+    "overview": "A rural freshman and a returning vet face a new kind of challenge: finding meaning in a crowded, fast-moving world.",
+    "release_date": "2023-03-29",
+    "poster_path": "/uoHehNNiO8lWpmaKmlx8icDESbm.jpg",
+    "backdrop_path": "/dNZCo6UVbig6Les5exI6iiMDHOl.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -2464,24 +2464,6 @@
     "is_local": true
   },
   {
-    "id": "94796",
-    "title": "Crash Landing on You",
-    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
-    "release_date": "2019-12-14",
-    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.526,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "107329",
     "title": "Go Ahead",
     "overview": "Three friends from troubled families form a unique, lasting bond — but their pasts soon cast a cloud over their lives.",
@@ -2512,6 +2494,24 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "94796",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "release_date": "2019-12-14",
+    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "vote_average": 8.526,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2750,23 +2750,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278331",
     "title": "The First Night with the Duke",
     "overview": "Reincarnated as a minor character in a novel, Cha Seon-taek unexpectedly spends a night with Prince Kyungsung, sparking an intense and unexpected romance.",
@@ -2798,6 +2781,23 @@
     "genre_ids": [
       35,
       10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2884,7 +2884,7 @@
     "release_date": "2023-12-09",
     "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
     "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
-    "vote_average": 8.857,
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3730,17 +3730,20 @@
     "is_local": true
   },
   {
-    "id": "13700",
-    "title": "Indian Idol",
-    "overview": "The Indian version of the Pop Idol format.",
-    "release_date": "2004-10-28",
-    "poster_path": "/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
-    "backdrop_path": "/qlnDrGpDmvKPQEnpge8yY3XTm0F.jpg",
-    "vote_average": 5.706,
+    "id": "285278",
+    "title": "Idol I",
+    "overview": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
+    "release_date": "2025-12-22",
+    "poster_path": "/ii3CB9QwIEwClqt7MgRoe188BbO.jpg",
+    "backdrop_path": "/ilTl0g138RAgM1TEeCaPKl1FxSh.jpg",
+    "vote_average": 7.7,
     "media_type": "tv",
-    "original_language": "hi",
+    "original_language": "ko",
     "genre_ids": [
-      10764
+      9648,
+      18,
+      80,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4660,17 +4663,18 @@
     "is_local": true
   },
   {
-    "id": "213608",
+    "id": "297424",
     "title": "Our Universe",
-    "overview": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
-    "release_date": "2022-11-22",
-    "poster_path": "/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
-    "backdrop_path": "/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
-    "vote_average": 7.857,
+    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+    "release_date": "2026-02-04",
+    "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
+    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+    "vote_average": 7.9,
     "media_type": "tv",
-    "original_language": "en",
+    "original_language": "ko",
     "genre_ids": [
-      99
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5020,24 +5024,6 @@
     "is_local": true
   },
   {
-    "id": "278573",
-    "title": "Perfect Crown",
-    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-    "release_date": "2026-04-10",
-    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
-    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.318,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "303257",
     "title": "Golden Scenery of Tomorrow",
     "overview": "Though very different, simple wallflower Via and the charming Arkin have been best friends since they were kids. But when that friendship turns into love, will it be strong enough to keep them together through Arkin’s fame that’s bound to lead them to very different roads?",
@@ -5047,6 +5033,24 @@
     "vote_average": 0,
     "media_type": "tv",
     "original_language": "tl",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278573",
+    "title": "Perfect Crown",
+    "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+    "release_date": "2026-04-10",
+    "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
+    "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "vote_average": 8.318,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -5252,7 +5256,7 @@
     "release_date": "2023-09-25",
     "poster_path": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
     "backdrop_path": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.791,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5377,6 +5381,40 @@
     "poster_path": "/oLpzHSjCL618lFNaYMlX1AktEMt.jpg",
     "backdrop_path": "",
     "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "13700",
+    "title": "Indian Idol",
+    "overview": "The Indian version of the Pop Idol format.",
+    "release_date": "2004-10-28",
+    "poster_path": "/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
+    "backdrop_path": "/qlnDrGpDmvKPQEnpge8yY3XTm0F.jpg",
+    "vote_average": 5.706,
+    "media_type": "tv",
+    "original_language": "hi",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "213608",
+    "title": "Our Universe",
+    "overview": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
+    "release_date": "2022-11-22",
+    "poster_path": "/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
+    "backdrop_path": "/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
+    "vote_average": 7.857,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5817,24 +5855,6 @@
     "is_local": true
   },
   {
-    "id": "297424",
-    "title": "Our Universe",
-    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
-    "release_date": "2026-02-04",
-    "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
-    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": 788,
     "title": "Mrs. Doubtfire",
     "poster_path": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
@@ -5868,26 +5888,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "285278",
-    "title": "Idol I",
-    "overview": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
-    "release_date": "2025-12-22",
-    "poster_path": "/ii3CB9QwIEwClqt7MgRoe188BbO.jpg",
-    "backdrop_path": "/ilTl0g138RAgM1TEeCaPKl1FxSh.jpg",
-    "vote_average": 7.667,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      80,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 1472638,
