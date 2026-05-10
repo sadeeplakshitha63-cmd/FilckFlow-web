@@ -1,5 +1,38 @@
 [
   {
+    "id": 101918,
+    "title": "Valeria",
+    "poster_path": "/9WN7hVLAx7LEhLn5ZPylUEghM4m.jpg",
+    "overview": "A writer in a creative and marital crisis finds refuge and support in her three best friends. Based on the novels by Elisabet Benavent.",
+    "vote_average": 7.353,
+    "release_date": "2020-05-08",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 65584,
+    "title": "Atelier",
+    "poster_path": "/kJbIqJMPxxnp9WwiZlmLdyqzUjP.jpg",
+    "overview": "A young \"fabric geek\" lands a job at an upscale Japanese lingerie company — and quickly discovers she'll need help to survive.",
+    "vote_average": 8.1,
+    "release_date": "2015-09-02",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "ja",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "262155",
     "title": "Love in the Air -Premonition of Love-",
     "overview": "After a mysterious biker helps him on a stormy night, Rei can’t forget him—until fate brings them back together and sparks something more.",
@@ -1365,24 +1398,6 @@
     "is_local": true
   },
   {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.042,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215001",
     "title": "Destined with You",
     "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
@@ -1396,6 +1411,24 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 8.068,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1974,7 +2007,7 @@
     "release_date": "2020-11-28",
     "poster_path": "/bsbuXbQqryQ8aJlwXFkFXbrYko1.jpg",
     "backdrop_path": "/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "vote_average": 8.299,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3329,7 +3362,7 @@
     "release_date": "2025-10-26",
     "poster_path": "/lgY5E0Gc5LQMy4SD9vPk6EBOei1.jpg",
     "backdrop_path": "/5i7rjtU016yD1ooGLva8LYaoWF0.jpg",
-    "vote_average": 7.769,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -5174,7 +5207,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.725,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5223,7 +5256,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.243,
+    "vote_average": 8.244,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5294,7 +5327,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.112,
+    "vote_average": 8.115,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
