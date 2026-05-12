@@ -1028,24 +1028,6 @@
     "is_local": true
   },
   {
-    "id": "278176",
-    "title": "MuTeLuv",
-    "overview": "This anthology tells seven stories of people who attempt to use supernatural forces to meet their goals, and their unique journeys to finding love along the way.",
-    "release_date": "2025-08-25",
-    "poster_path": "/mnod6OPewIavXr9pIBi2sJalhnh.jpg",
-    "backdrop_path": "/1CYB1Q9KCOPTkNORHr4yVmMJmAN.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "219651",
     "title": "Welcome to Samdal-ri",
     "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
@@ -1058,6 +1040,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278176",
+    "title": "MuTeLuv",
+    "overview": "This anthology tells seven stories of people who attempt to use supernatural forces to meet their goals, and their unique journeys to finding love along the way.",
+    "release_date": "2025-08-25",
+    "poster_path": "/mnod6OPewIavXr9pIBi2sJalhnh.jpg",
+    "backdrop_path": "/1CYB1Q9KCOPTkNORHr4yVmMJmAN.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1188,13 +1188,13 @@
     "is_local": true
   },
   {
-    "id": "252640",
-    "title": "Legend of Zang Hai",
-    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
-    "release_date": "2025-05-18",
-    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 5.8,
+    "id": "286445",
+    "title": "Marry Me Again",
+    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
+    "release_date": "2025-04-02",
+    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
+    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
+    "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1205,13 +1205,13 @@
     "is_local": true
   },
   {
-    "id": "286445",
-    "title": "Marry Me Again",
-    "overview": "Mi Chuxia partners with influencer Lu Yi to revive her late fiancé Tang Jingxing’s jewelry brand, only to uncover that Lu Yi is actually Tang Jingxing, who vanished after a car accident three years ago. As their relationship deepens, the truth behind his disappearance gradually comes to light.",
-    "release_date": "2025-04-02",
-    "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
-    "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
-    "vote_average": 7.3,
+    "id": "252640",
+    "title": "Legend of Zang Hai",
+    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+    "release_date": "2025-05-18",
+    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+    "vote_average": 5.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1792,6 +1792,21 @@
     "is_local": true
   },
   {
+    "id": "1519202",
+    "title": "TNA Bound for Glory 2025",
+    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
+    "release_date": "2025-10-12",
+    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
+    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
+    "vote_average": 6.7,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "233912",
     "title": "Guardians of the Dafeng",
     "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
@@ -1807,21 +1822,6 @@
       35,
       9648
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1519202",
-    "title": "TNA Bound for Glory 2025",
-    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
-    "release_date": "2025-10-12",
-    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
-    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
-    "vote_average": 6.7,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2097,7 +2097,7 @@
     "release_date": "2025-02-07",
     "poster_path": "/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
     "backdrop_path": "/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.901,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2343,7 +2343,7 @@
     "release_date": "2022-02-19",
     "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
     "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
-    "vote_average": 7.778,
+    "vote_average": 7.766,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2518,24 +2518,6 @@
     "is_local": true
   },
   {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252318",
     "title": "Melody of Golden Age",
     "overview": "It tells the story of a pair of mortal enemies who accidentally became a couple but fell in love with each other in a series of bizarre cases and finally chose to fight side by side.",
@@ -2548,6 +2530,24 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
