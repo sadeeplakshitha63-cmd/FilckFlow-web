@@ -1526,23 +1526,6 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
-    "release_date": "2022-12-02",
-    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
-    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
-    "vote_average": 8.138,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -1574,6 +1557,23 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
+    "release_date": "2022-12-02",
+    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
+    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
+    "vote_average": 8.138,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1614,6 +1614,23 @@
     "is_local": true
   },
   {
+    "id": "253093",
+    "title": "Shadow Love",
+    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
+    "release_date": "2025-08-24",
+    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
+    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "285838",
     "title": "If Wishes Could Kill",
     "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
@@ -1625,23 +1642,6 @@
     "original_language": "ko",
     "genre_ids": [
       9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253093",
-    "title": "Shadow Love",
-    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
-    "release_date": "2025-08-24",
-    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
-    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2021,24 +2021,6 @@
     "is_local": true
   },
   {
-    "id": "233219",
-    "title": "ONE: High School Heroes",
-    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
-    "release_date": "2025-05-30",
-    "poster_path": "/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
-    "backdrop_path": "/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "230448",
     "title": "Mr. Plankton",
     "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
@@ -2050,6 +2032,24 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233219",
+    "title": "ONE: High School Heroes",
+    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
+    "release_date": "2025-05-30",
+    "poster_path": "/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
+    "backdrop_path": "/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
       18
     ],
     "video_url": "",
@@ -2626,24 +2626,6 @@
     "is_local": true
   },
   {
-    "id": "290054",
-    "title": "The Seven Relics of ill Omen",
-    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
-    "release_date": "2025-06-08",
-    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
-    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "222233",
     "title": "Doctor Slump",
     "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
@@ -2656,6 +2638,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "290054",
+    "title": "The Seven Relics of ill Omen",
+    "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
+    "release_date": "2025-06-08",
+    "poster_path": "/jBERkPkNxzKnSwCR8ZnuLYH9apE.jpg",
+    "backdrop_path": "/dQ9U6hk6DJEkgCB9QWJzPWN2U8I.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3230,15 +3230,15 @@
     "is_local": true
   },
   {
-    "id": "239993",
-    "title": "What's Wrong With Secretary Kim",
-    "overview": "A competent secretary and a narcissistic boss fall in love while uncovering a traumatic past that causes them to question whether their feelings are real or the result of a shared trauma.",
-    "release_date": "2024-03-18",
-    "poster_path": "/2NUtA4ODZphAknsXna84Nk9rq6F.jpg",
-    "backdrop_path": "/wvCF59w0fRTmPg3sJUxY3sf5p2C.jpg",
-    "vote_average": 8.333,
+    "id": "79434",
+    "title": "What's Wrong with Secretary Kim",
+    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
+    "release_date": "2018-06-06",
+    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "vote_average": 8.317,
     "media_type": "tv",
-    "original_language": "tl",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -3458,7 +3458,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
     "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
-    "vote_average": 7.733,
+    "vote_average": 7.625,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4472,7 +4472,7 @@
     "release_date": "2024-09-21",
     "poster_path": "/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
     "backdrop_path": "/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.503,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5117,7 +5117,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.391,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5204,7 +5204,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.247,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5368,6 +5368,24 @@
     "original_language": "en",
     "genre_ids": [
       99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "239993",
+    "title": "What's Wrong With Secretary Kim",
+    "overview": "A competent secretary and a narcissistic boss fall in love while uncovering a traumatic past that causes them to question whether their feelings are real or the result of a shared trauma.",
+    "release_date": "2024-03-18",
+    "poster_path": "/2NUtA4ODZphAknsXna84Nk9rq6F.jpg",
+    "backdrop_path": "/wvCF59w0fRTmPg3sJUxY3sf5p2C.jpg",
+    "vote_average": 8.333,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -6746,24 +6764,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "79434",
-    "title": "What's Wrong with Secretary Kim",
-    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
-    "release_date": "2018-06-06",
-    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
-    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
-    "vote_average": 8.316,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 1318447,
