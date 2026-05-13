@@ -71,24 +71,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.563,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "296009",
     "title": "Positively Yours",
     "overview": "A man and a woman who swore off marriage find their carefully controlled lives overturned after a one-night mistake forces them into an unexpected, reverse romance neither planned nor wanted.",
@@ -141,6 +123,24 @@
       35,
       9648,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.563,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -830,6 +830,25 @@
     "is_local": true
   },
   {
+    "id": "234534",
+    "title": "Back to Seventeen",
+    "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
+    "release_date": "2023-08-30",
+    "poster_path": "/2lBGlRbpNv7eA9wAnpDGO9zBKzU.jpg",
+    "backdrop_path": "/6BH0qWbp5JRIYrbcGRuqNghhi16.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "301031",
     "title": "The Secrets of Hotel 88",
     "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
@@ -843,25 +862,6 @@
       9648,
       10759,
       10751,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "234534",
-    "title": "Back to Seventeen",
-    "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
-    "release_date": "2023-08-30",
-    "poster_path": "/2lBGlRbpNv7eA9wAnpDGO9zBKzU.jpg",
-    "backdrop_path": "/6BH0qWbp5JRIYrbcGRuqNghhi16.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      10765,
       18
     ],
     "video_url": "",
@@ -1248,7 +1248,7 @@
     "release_date": "2024-09-15",
     "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
     "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
-    "vote_average": 7.2,
+    "vote_average": 7.111,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1506,6 +1506,25 @@
     "is_local": true
   },
   {
+    "id": "90761",
+    "title": "The Untamed",
+    "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
+    "release_date": "2019-06-27",
+    "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
+    "backdrop_path": "/mthKQh5uBwRnwJOafA1xfGOoj3J.jpg",
+    "vote_average": 8.494,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1520,25 +1539,6 @@
       10765,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "90761",
-    "title": "The Untamed",
-    "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
-    "release_date": "2019-06-27",
-    "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
-    "backdrop_path": "/mthKQh5uBwRnwJOafA1xfGOoj3J.jpg",
-    "vote_average": 8.494,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      18,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1637,7 +1637,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.153,
+    "vote_average": 8.086,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1967,6 +1967,24 @@
     "is_local": true
   },
   {
+    "id": "262828",
+    "title": "Crushology 101",
+    "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
+    "release_date": "2025-04-11",
+    "poster_path": "/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+    "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
+    "vote_average": 7.316,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "113268",
     "title": "The Uncanny Counter",
     "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
@@ -1980,24 +1998,6 @@
       18,
       9648,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "262828",
-    "title": "Crushology 101",
-    "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
-    "release_date": "2025-04-11",
-    "poster_path": "/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
-    "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
-    "vote_average": 7.316,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2537,6 +2537,23 @@
     "is_local": true
   },
   {
+    "id": "291753",
+    "title": "Boys II Planet",
+    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
+    "release_date": "2025-07-17",
+    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
+    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
+    "vote_average": 7.25,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "31910",
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
@@ -2550,23 +2567,6 @@
       16,
       10759,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "291753",
-    "title": "Boys II Planet",
-    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
-    "release_date": "2025-07-17",
-    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
-    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
-    "vote_average": 7.25,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2716,24 +2716,6 @@
     "is_local": true
   },
   {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "65143",
     "title": "Descendants of the Sun",
     "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
@@ -2745,6 +2727,24 @@
     "original_language": "ko",
     "genre_ids": [
       18,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
       10759
     ],
     "video_url": "",
@@ -3010,23 +3010,6 @@
     "is_local": true
   },
   {
-    "id": "230735",
-    "title": "My Personal Weatherman",
-    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
-    "release_date": "2023-08-11",
-    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
-    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
-    "vote_average": 7.773,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "221416",
     "title": "Kiseki: Dear To Me",
     "overview": "A top student and an injured gangster form an unlikely bond, but fate, crime, and memory loss tear them apart—until destiny brings them back together.",
@@ -3039,6 +3022,23 @@
     "genre_ids": [
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230735",
+    "title": "My Personal Weatherman",
+    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
+    "release_date": "2023-08-11",
+    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
+    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
+    "vote_average": 7.773,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3063,6 +3063,23 @@
     "is_local": true
   },
   {
+    "id": "273418",
+    "title": "Law and the City",
+    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+    "release_date": "2025-07-05",
+    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281016",
     "title": "Boyfriend on Demand",
     "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
@@ -3075,23 +3092,6 @@
     "genre_ids": [
       35,
       10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "273418",
-    "title": "Law and the City",
-    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
-    "release_date": "2025-07-05",
-    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
-    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3230,15 +3230,15 @@
     "is_local": true
   },
   {
-    "id": "79434",
-    "title": "What's Wrong with Secretary Kim",
-    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
-    "release_date": "2018-06-06",
-    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
-    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
-    "vote_average": 8.317,
+    "id": "239993",
+    "title": "What's Wrong With Secretary Kim",
+    "overview": "A competent secretary and a narcissistic boss fall in love while uncovering a traumatic past that causes them to question whether their feelings are real or the result of a shared trauma.",
+    "release_date": "2024-03-18",
+    "poster_path": "/2NUtA4ODZphAknsXna84Nk9rq6F.jpg",
+    "backdrop_path": "/wvCF59w0fRTmPg3sJUxY3sf5p2C.jpg",
+    "vote_average": 8.333,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "tl",
     "genre_ids": [
       35,
       18
@@ -3420,7 +3420,7 @@
     "release_date": "2023-08-09",
     "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
     "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.491,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3475,7 +3475,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.568,
+    "vote_average": 8.57,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3680,6 +3680,23 @@
     "is_local": true
   },
   {
+    "id": "235355",
+    "title": "Resident Playbook",
+    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
+    "release_date": "2025-04-12",
+    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "238680",
     "title": "Moonlight Mystique",
     "overview": "Bai Shuo, the youngest daughter of the General's Mansion, aspires to cultivate immortality in order to repay a favor. On her journey to seek immortality, she accidentally rescues the great demon god Fan Yue. As the saying goes, healthy fights strengthen relationships, and they go from mutual manipulation to mutual affection as they fall in love with each other, navigating a love affair intertwined with sweetness and cruelty. Even though they face countless difficulties, their love is strong enough to overcome all limitations, allowing them to truly embrace each other.",
@@ -3692,23 +3709,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "235355",
-    "title": "Resident Playbook",
-    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
-    "release_date": "2025-04-12",
-    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
-    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4007,6 +4007,24 @@
     "is_local": true
   },
   {
+    "id": "223896",
+    "title": "Spirit Fingers",
+    "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
+    "release_date": "2025-10-29",
+    "poster_path": "/aM28UXrgZoNNk4ZBfSs9lzw6HeI.jpg",
+    "backdrop_path": "/6pDBlGPXWhQJ5aIrKVNbIph1y75.jpg",
+    "vote_average": 8.792,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "207197",
     "title": "Story of Kunning Palace",
     "overview": "A fallen queen, Jiang Xuening who aspired to have the highest power and authority in her life was held hostage by rebels after the king, Shen Jie was poisoned. In this life, she used everyone around her to reach the authority of the queen but in the end, she remained under house arrest and Xie Wei slaughtered the entire city. Later, she received the decree to be buried with the emperor. She got a second chance to change her fate by not entering the palace but when she woke up after rebirth, she was already messing around. Even though she vowed not to enter the palace, a certain turn of events again entangles her with the palace and Xie Wei whom she hated the most.",
@@ -4024,17 +4042,16 @@
     "is_local": true
   },
   {
-    "id": "223896",
-    "title": "Spirit Fingers",
-    "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
-    "release_date": "2025-10-29",
-    "poster_path": "/aM28UXrgZoNNk4ZBfSs9lzw6HeI.jpg",
-    "backdrop_path": "/6pDBlGPXWhQJ5aIrKVNbIph1y75.jpg",
-    "vote_average": 8.792,
+    "id": "297710",
+    "title": "School Trip: Joined a Group I'm Not Close To",
+    "overview": "An awkward teen joins a group of popular classmates on a school trip, sparking an unexpected romance with the most popular and charming boy in school.",
+    "release_date": "2025-10-19",
+    "poster_path": "/hlgLNj2vg7XHixFpg2EJRf9JIsZ.jpg",
+    "backdrop_path": "/3YXRu9tLvpAfaNYuNswaBDpSALU.jpg",
+    "vote_average": 8.6,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "ja",
     "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -4054,23 +4071,6 @@
     "genre_ids": [
       35,
       16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "297710",
-    "title": "School Trip: Joined a Group I'm Not Close To",
-    "overview": "An awkward teen joins a group of popular classmates on a school trip, sparking an unexpected romance with the most popular and charming boy in school.",
-    "release_date": "2025-10-19",
-    "poster_path": "/hlgLNj2vg7XHixFpg2EJRf9JIsZ.jpg",
-    "backdrop_path": "/3YXRu9tLvpAfaNYuNswaBDpSALU.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4240,7 +4240,7 @@
     "release_date": "2023-06-17",
     "poster_path": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
     "backdrop_path": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "vote_average": 8.18,
+    "vote_average": 8.183,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4492,7 +4492,7 @@
     "release_date": "2025-11-12",
     "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
     "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 8,
+    "vote_average": 8.023,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4600,7 +4600,7 @@
     "release_date": "2024-08-17",
     "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
     "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "vote_average": 7.994,
+    "vote_average": 8.002,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4744,7 +4744,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.711,
+    "vote_average": 8.705,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5117,7 +5117,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.292,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5204,7 +5204,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.247,
+    "vote_average": 8.248,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5275,7 +5275,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.115,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5374,15 +5374,15 @@
     "is_local": true
   },
   {
-    "id": "239993",
-    "title": "What's Wrong With Secretary Kim",
-    "overview": "A competent secretary and a narcissistic boss fall in love while uncovering a traumatic past that causes them to question whether their feelings are real or the result of a shared trauma.",
-    "release_date": "2024-03-18",
-    "poster_path": "/2NUtA4ODZphAknsXna84Nk9rq6F.jpg",
-    "backdrop_path": "/wvCF59w0fRTmPg3sJUxY3sf5p2C.jpg",
-    "vote_average": 8.333,
+    "id": "79434",
+    "title": "What's Wrong with Secretary Kim",
+    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
+    "release_date": "2018-06-06",
+    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "vote_average": 8.317,
     "media_type": "tv",
-    "original_language": "tl",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
