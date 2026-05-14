@@ -238,24 +238,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.563,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281006",
     "title": "Tastefully Yours",
     "overview": "Driven to claim top culinary honors, an arrogant heir meets a low-profile but stubborn chef whose recipes astonish him — sparking an unlikely romance.",
@@ -267,23 +249,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "227192",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "release_date": "2024-02-29",
-    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.036,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -311,6 +276,41 @@
     "is_local": true
   },
   {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.563,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "227192",
+    "title": "Pyramid Game",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "release_date": "2024-02-29",
+    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "vote_average": 8.036,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "255628",
     "title": "Liars in Love",
     "overview": "It tells the story of a girl who, upon learning that the orphanage where she grew up as a child is to be demolished because of a company project, decides to enter the business world to get closer to the Chu family heir.",
@@ -321,24 +321,6 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 7.667,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -392,6 +374,24 @@
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 7.667,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -605,7 +605,7 @@
     "release_date": "2016-09-23",
     "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
     "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
-    "vote_average": 7.711,
+    "vote_average": 7.723,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2068,7 +2068,7 @@
     "release_date": "2024-06-26",
     "poster_path": "/rjWNfvAALgazLPyVCd9l9BJxR6o.jpg",
     "backdrop_path": "/hJN6i5uoKHtYz66wotERToBaI10.jpg",
-    "vote_average": 7.472,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2281,7 +2281,7 @@
     "release_date": "2025-10-27",
     "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
     "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.333,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2434,6 +2434,23 @@
     "is_local": true
   },
   {
+    "id": "197067",
+    "title": "Extraordinary Attorney Woo",
+    "overview": "With a genius-level IQ, Woo Young-woo learns to embrace her extraordinary self while forming a tight-knit community of friends and allies.",
+    "release_date": "2022-06-29",
+    "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
+    "backdrop_path": "/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
+    "vote_average": 8.479,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "223911",
     "title": "Renegade Immortal",
     "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
@@ -2448,23 +2465,6 @@
       16,
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "197067",
-    "title": "Extraordinary Attorney Woo",
-    "overview": "With a genius-level IQ, Woo Young-woo learns to embrace her extraordinary self while forming a tight-knit community of friends and allies.",
-    "release_date": "2022-06-29",
-    "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
-    "backdrop_path": "/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
-    "vote_average": 8.479,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3457,23 +3457,6 @@
     "is_local": true
   },
   {
-    "id": "298567",
-    "title": "Thundercloud Rainstorm",
-    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
-    "release_date": "2025-11-28",
-    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
-    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
-    "vote_average": 7.625,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "229915",
     "title": "Night Has Come",
     "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
@@ -3486,6 +3469,23 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "298567",
+    "title": "Thundercloud Rainstorm",
+    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
+    "release_date": "2025-11-28",
+    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
+    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
+    "vote_average": 7.625,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3703,6 +3703,23 @@
     "is_local": true
   },
   {
+    "id": "235355",
+    "title": "Resident Playbook",
+    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
+    "release_date": "2025-04-12",
+    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "238680",
     "title": "Moonlight Mystique",
     "overview": "Bai Shuo, the youngest daughter of the General's Mansion, aspires to cultivate immortality in order to repay a favor. On her journey to seek immortality, she accidentally rescues the great demon god Fan Yue. As the saying goes, healthy fights strengthen relationships, and they go from mutual manipulation to mutual affection as they fall in love with each other, navigating a love affair intertwined with sweetness and cruelty. Even though they face countless difficulties, their love is strong enough to overcome all limitations, allowing them to truly embrace each other.",
@@ -3715,23 +3732,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "235355",
-    "title": "Resident Playbook",
-    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
-    "release_date": "2025-04-12",
-    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
-    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4065,6 +4065,23 @@
     "is_local": true
   },
   {
+    "id": "297710",
+    "title": "School Trip: Joined a Group I'm Not Close To",
+    "overview": "An awkward teen joins a group of popular classmates on a school trip, sparking an unexpected romance with the most popular and charming boy in school.",
+    "release_date": "2025-10-19",
+    "poster_path": "/hlgLNj2vg7XHixFpg2EJRf9JIsZ.jpg",
+    "backdrop_path": "/3YXRu9tLvpAfaNYuNswaBDpSALU.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "74204",
     "title": "Big Mouth",
     "overview": "Teenage friends find their lives upended by the wonders and horrors of puberty in this edgy comedy from real-life pals Nick Kroll and Andrew Goldberg.",
@@ -4077,23 +4094,6 @@
     "genre_ids": [
       35,
       16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "297710",
-    "title": "School Trip: Joined a Group I'm Not Close To",
-    "overview": "An awkward teen joins a group of popular classmates on a school trip, sparking an unexpected romance with the most popular and charming boy in school.",
-    "release_date": "2025-10-19",
-    "poster_path": "/hlgLNj2vg7XHixFpg2EJRf9JIsZ.jpg",
-    "backdrop_path": "/3YXRu9tLvpAfaNYuNswaBDpSALU.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4453,24 +4453,6 @@
     "is_local": true
   },
   {
-    "id": "312172",
-    "title": "Hell University",
-    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
-    "release_date": "2026-02-06",
-    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
-    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "261846",
     "title": "Chasing in the Wild",
     "overview": "Sevi is a basketball captain from a humble family. Elyse is a spoiled cheerleader. Though opposites, the two fall for each other. But can their young love survive the harsh realities that may come their way?",
@@ -4483,6 +4465,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "312172",
+    "title": "Hell University",
+    "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
+    "release_date": "2026-02-06",
+    "poster_path": "/4X2POwtjmRZYDGcAtXdWqvr5oaJ.jpg",
+    "backdrop_path": "/8xRzu4BWq5ESN6yDumOVpygV8v.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5227,7 +5227,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.247,
+    "vote_average": 8.248,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5298,7 +5298,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.117,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
