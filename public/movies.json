@@ -1,5 +1,22 @@
 [
   {
+    "id": 285807,
+    "title": "Nemesis",
+    "poster_path": "/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
+    "overview": "A relentless LAPD cop becomes obsessed with taking down the master thief behind a string of daring heists — and only one can come out on top.",
+    "vote_average": 5.25,
+    "release_date": "2026-05-14",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "210191",
     "title": "A Journey to Love",
     "overview": "Two top assassins from rival agencies and their six-member team who with diverse backgrounds, and unique skills embark on a journey filled with challenges and crises.",
@@ -225,7 +242,7 @@
     "release_date": "2024-07-10",
     "poster_path": "/5JAJR9J0b4Br4rql4XHgq7qt7SC.jpg",
     "backdrop_path": "/rTpw6JjsS4WIRSQ7xJoaqjIxS4b.jpg",
-    "vote_average": 9.333,
+    "vote_average": 9.306,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -346,6 +363,23 @@
     "is_local": true
   },
   {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.25,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "314784",
     "title": "Absolute Value of Romance",
     "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
@@ -358,23 +392,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.25,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -401,6 +418,24 @@
     "is_local": true
   },
   {
+    "id": "226969",
+    "title": "Here We Meet Again",
+    "overview": "Xiang Yuan, who once unsuccessfully pursued Xu Yan Shi in school, reunites with him as an adult. While she works to save a company and he struggles to follow his dream of becoming a navigation engineer, they support each other through challenges and grow together.",
+    "release_date": "2023-05-22",
+    "poster_path": "/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg",
+    "backdrop_path": "/upDZaTR4RIGDp3lBw089R7KmGck.jpg",
+    "vote_average": 8.167,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1311031",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
@@ -414,24 +449,6 @@
       16,
       28,
       14
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "226969",
-    "title": "Here We Meet Again",
-    "overview": "Xiang Yuan, who once unsuccessfully pursued Xu Yan Shi in school, reunites with him as an adult. While she works to save a company and he struggles to follow his dream of becoming a navigation engineer, they support each other through challenges and grow together.",
-    "release_date": "2023-05-22",
-    "poster_path": "/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg",
-    "backdrop_path": "/upDZaTR4RIGDp3lBw089R7KmGck.jpg",
-    "vote_average": 8.167,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -653,18 +670,17 @@
     "is_local": true
   },
   {
-    "id": "207668",
-    "title": "The Legend of ShenLi",
-    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
-    "release_date": "2024-03-18",
-    "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
-    "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
-    "vote_average": 8.4,
+    "id": "251652",
+    "title": "Treasure Seeking: The Legend of ShenLi",
+    "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
+    "release_date": "2024-04-11",
+    "poster_path": "/6iNze1uB5hheZD1Dh5Hy0NopdBd.jpg",
+    "backdrop_path": "/eRu27ZSGTM7CImcMgxPNMD1t6qP.jpg",
+    "vote_average": 0,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18,
-      10765
+      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -796,25 +812,6 @@
     "is_local": true
   },
   {
-    "id": "234534",
-    "title": "Back to Seventeen",
-    "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
-    "release_date": "2023-08-30",
-    "poster_path": "/2lBGlRbpNv7eA9wAnpDGO9zBKzU.jpg",
-    "backdrop_path": "/6BH0qWbp5JRIYrbcGRuqNghhi16.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "214172",
     "title": "New Life Begins",
     "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
@@ -850,17 +847,18 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 7.7,
+    "id": "234534",
+    "title": "Back to Seventeen",
+    "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
+    "release_date": "2023-08-30",
+    "poster_path": "/2lBGlRbpNv7eA9wAnpDGO9zBKzU.jpg",
+    "backdrop_path": "/6BH0qWbp5JRIYrbcGRuqNghhi16.jpg",
+    "vote_average": 8,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "zh",
     "genre_ids": [
       35,
+      10765,
       18
     ],
     "video_url": "",
@@ -921,6 +919,24 @@
     "is_local": true
   },
   {
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "146393",
     "title": "Back From the Brink",
     "overview": "Tian Yao is a dragon spirit who was betrayed by his lover and stripped of his dragon bones. He meets Yan Hui, a free-spirited young maiden who holds the key to help him regain his powers and his faith in love. Mysteries will abound as Yan Hui come to learn of her true origin.",
@@ -933,6 +949,25 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "155229",
+    "title": "Cheer Up",
+    "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
+    "release_date": "2022-10-03",
+    "poster_path": "/agyQFkNKBExKYiIealedXNDIDqn.jpg",
+    "backdrop_path": "/43FSu75gWQfCQjyM9YB6zGOCNZ8.jpg",
+    "vote_average": 6.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      9648,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -953,25 +988,6 @@
       10759,
       10751,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "155229",
-    "title": "Cheer Up",
-    "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
-    "release_date": "2022-10-03",
-    "poster_path": "/agyQFkNKBExKYiIealedXNDIDqn.jpg",
-    "backdrop_path": "/43FSu75gWQfCQjyM9YB6zGOCNZ8.jpg",
-    "vote_average": 6.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      9648,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1031,6 +1047,24 @@
     "is_local": true
   },
   {
+    "id": "219651",
+    "title": "Welcome to Samdal-ri",
+    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
+    "release_date": "2023-12-02",
+    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
+    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278157",
     "title": "My Romance Scammer",
     "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
@@ -1048,13 +1082,13 @@
     "is_local": true
   },
   {
-    "id": "219651",
-    "title": "Welcome to Samdal-ri",
-    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
-    "release_date": "2023-12-02",
-    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
-    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.16,
+    "id": "229480",
+    "title": "No Gain No Love",
+    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
+    "release_date": "2024-08-26",
+    "poster_path": "/jiGxkMP3lzPDaPw4F0EZAEiTSgL.jpg",
+    "backdrop_path": "/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
+    "vote_average": 8.478,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1078,24 +1112,6 @@
     "genre_ids": [
       35,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "229480",
-    "title": "No Gain No Love",
-    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
-    "release_date": "2024-08-26",
-    "poster_path": "/jiGxkMP3lzPDaPw4F0EZAEiTSgL.jpg",
-    "backdrop_path": "/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
-    "vote_average": 8.472,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1511,18 +1527,15 @@
     "is_local": true
   },
   {
-    "id": "68045",
+    "id": "631895",
     "title": "Stay with Me",
-    "overview": "After an accidental drowning, Li Wei Wei a famous fashion designer, loses parts of her memory. Whereby her memories stop at when she was 23. The boyfriend she remembers has now become her ex and rival, and instead a stranger is her fiancé. Li Wei Wei does not believe that she broke up with her ex Chen Yi Du and investigates the reason to as why they did. Her fiancé Qi Cheng, in order to protect and rekindle his relationship, uses all methods to prevent Wei Wei from investigating. During her investigation, Wei Wei discovers that due to the hectic lifestyle of adulthood, she has lost the innocence of her original dreams. It was this very reason as well to as why she and her ex broke up. The now 30 years old Li Wei Wei has decided to change her lifestyle. She plans to regain her most pure emotions and dreams as well as finding true love.",
-    "release_date": "2016-12-11",
-    "poster_path": "/76qtuHvpqzp30By8Cp16R0t0Mtc.jpg",
-    "backdrop_path": "/30EGncmHcKRY0z3eerA3EvDTowx.jpg",
-    "vote_average": 4.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1779,24 +1792,6 @@
     "is_local": true
   },
   {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.14,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "284430",
     "title": "Deep Affection Eyes",
     "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
@@ -1809,6 +1804,24 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 8.14,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2024,6 +2037,24 @@
     "is_local": true
   },
   {
+    "id": "230448",
+    "title": "Mr. Plankton",
+    "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
+    "release_date": "2024-11-08",
+    "poster_path": "/AsnE5TY4NaYHGJXYxiVaA57nCqo.jpg",
+    "backdrop_path": "/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "113268",
     "title": "The Uncanny Counter",
     "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
@@ -2037,24 +2068,6 @@
       18,
       9648,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "230448",
-    "title": "Mr. Plankton",
-    "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
-    "release_date": "2024-11-08",
-    "poster_path": "/AsnE5TY4NaYHGJXYxiVaA57nCqo.jpg",
-    "backdrop_path": "/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2576,23 +2589,6 @@
     "is_local": true
   },
   {
-    "id": "232441",
-    "title": "You Are Desire",
-    "overview": "After her parents' divorce, Lin Yujing moves to a new city and becomes seatmates with Shen Juan, a withdrawn student repeating a year. As they grow closer, her presence begins to change his life. Just as things start to improve, she’s forced to return to her hometown. A year later, they reunite at university, where Lin Yujing helps Shen Juan confront his past and heal, while also discovering her own path in life.",
-    "release_date": "2023-08-12",
-    "poster_path": "/rZitZNGABZ221cXzxhcRK7IgAvn.jpg",
-    "backdrop_path": "/lHQLSn49qq8QsPZcH4i0YFWvSlK.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "241506",
     "title": "It's Okay to Not Be Okay",
     "overview": "An author with severe antisocial tendencies learns to confront her deep emotional wounds when she meets a stranger who challenges her cold facade.",
@@ -2605,6 +2601,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "232441",
+    "title": "You Are Desire",
+    "overview": "After her parents' divorce, Lin Yujing moves to a new city and becomes seatmates with Shen Juan, a withdrawn student repeating a year. As they grow closer, her presence begins to change his life. Just as things start to improve, she’s forced to return to her hometown. A year later, they reunite at university, where Lin Yujing helps Shen Juan confront his past and heal, while also discovering her own path in life.",
+    "release_date": "2023-08-12",
+    "poster_path": "/rZitZNGABZ221cXzxhcRK7IgAvn.jpg",
+    "backdrop_path": "/lHQLSn49qq8QsPZcH4i0YFWvSlK.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2690,7 +2703,7 @@
     "release_date": "2024-01-27",
     "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
     "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8.052,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2866,24 +2879,6 @@
     "is_local": true
   },
   {
-    "id": "226670",
-    "title": "Cherry Magic",
-    "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
-    "release_date": "2023-12-09",
-    "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
-    "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "124003",
     "title": "Perfect World",
     "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
@@ -2897,6 +2892,24 @@
       10759,
       10765,
       16
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "226670",
+    "title": "Cherry Magic",
+    "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
+    "release_date": "2023-12-09",
+    "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
+    "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2926,7 +2939,7 @@
     "release_date": "2023-08-12",
     "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
     "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.207,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2962,7 +2975,7 @@
     "release_date": "2025-05-24",
     "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
     "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.458,
+    "vote_average": 8.453,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3176,6 +3189,24 @@
     "is_local": true
   },
   {
+    "id": "259857",
+    "title": "Be Passionately in Love",
+    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
+    "release_date": "2025-05-28",
+    "poster_path": "/lHwDCUgN5bjOgWgASt0BMgHQVIQ.jpg",
+    "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "307624",
     "title": "Sammy's Children's Day",
     "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
@@ -3189,24 +3220,6 @@
       18,
       80,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259857",
-    "title": "Be Passionately in Love",
-    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
-    "release_date": "2025-05-28",
-    "poster_path": "/lHwDCUgN5bjOgWgASt0BMgHQVIQ.jpg",
-    "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10766
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3307,6 +3320,24 @@
     "is_local": true
   },
   {
+    "id": "136732",
+    "title": "Shooting Stars",
+    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
+    "release_date": "2022-04-22",
+    "poster_path": "/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
+    "backdrop_path": "/2u9M2WTPM6Olqh3JO0tt0OmmJnB.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "262932",
     "title": "Generation to Generation",
     "overview": "In the volatile world of martial arts, the cunning young master Mu Qingyan meets the easygoing heroine Cai Zhao, sparking an intense and complex romance. Together, they confront hidden truths and rivalries within the martial world, navigating twists, betrayals, and strategic battles. Their journey paints a vibrant portrait of loyalty, love, and the fierce spirit of heroism.",
@@ -3320,24 +3351,6 @@
       18,
       10759,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "136732",
-    "title": "Shooting Stars",
-    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
-    "release_date": "2022-04-22",
-    "poster_path": "/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
-    "backdrop_path": "/2u9M2WTPM6Olqh3JO0tt0OmmJnB.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3638,7 +3651,7 @@
     "release_date": "2023-02-17",
     "poster_path": "/rrLKRmz0gnaKMi7O7qcVlzEHr9H.jpg",
     "backdrop_path": "/jf2BNiZEHZuCm5jTn6OZ5WMcaFM.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.138,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4160,7 +4173,7 @@
     "release_date": "2024-06-09",
     "poster_path": "/nV6AWBI0aCN41rx6vFdwaAmmoPl.jpg",
     "backdrop_path": "/lk8UclTf2RdE0uRhQ90RIYUCO7v.jpg",
-    "vote_average": 7.457,
+    "vote_average": 7.563,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4551,7 +4564,7 @@
     "release_date": "2025-10-08",
     "poster_path": "/1eOek63acPohNgvXog4uYnJT6fh.jpg",
     "backdrop_path": "/lAJCsUD3f6KhwdtbnevSAI1E9EU.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.789,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4604,7 +4617,7 @@
     "release_date": "2024-10-27",
     "poster_path": "/1ZmjzDN2f7ZxzMluOTO5aPztI9e.jpg",
     "backdrop_path": "/3iIPUMjUuR0dKhKsC4n9zF7isPu.jpg",
-    "vote_average": 9,
+    "vote_average": 8.958,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4981,7 +4994,7 @@
     "release_date": "2025-07-12",
     "poster_path": "/fKmsS7HRGvhSNiLysVIj1zoBHnt.jpg",
     "backdrop_path": "/s2GQUEJApbOVZL3vASbm5FWGdYN.jpg",
-    "vote_average": 8.393,
+    "vote_average": 8.414,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5171,6 +5184,21 @@
     "is_local": true
   },
   {
+    "id": "293835",
+    "title": "Seducing Drake Palma",
+    "overview": "With over 125 million reads on Wattpad, this hit story follows Alys, a bubbly girl who agrees to seduce the mysterious Drake Palma to help her best friend. But as their pretend relationship starts to feel real, Alys is torn between loyalty and unexpected love.",
+    "release_date": "2025-06-15",
+    "poster_path": "/fCIO0nvv4M4fKVxnv95pki3oN09.jpg",
+    "backdrop_path": "/rUWK0zCJGCSXHBMSLIil2pVBDpX.jpg",
+    "vote_average": 6.3,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "301507",
     "title": "Heated Rivalry",
     "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
@@ -5183,21 +5211,6 @@
     "genre_ids": [
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "293835",
-    "title": "Seducing Drake Palma",
-    "overview": "With over 125 million reads on Wattpad, this hit story follows Alys, a bubbly girl who agrees to seduce the mysterious Drake Palma to help her best friend. But as their pretend relationship starts to feel real, Alys is torn between loyalty and unexpected love.",
-    "release_date": "2025-06-15",
-    "poster_path": "/fCIO0nvv4M4fKVxnv95pki3oN09.jpg",
-    "backdrop_path": "/rUWK0zCJGCSXHBMSLIil2pVBDpX.jpg",
-    "vote_average": 6.3,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -5297,7 +5310,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.117,
+    "vote_average": 8.113,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5349,7 +5362,7 @@
     "release_date": "2025-06-16",
     "poster_path": "/j5KWzpPAi4JC42GGrVWDFL6G2gY.jpg",
     "backdrop_path": "/aKvbFRFOzbaMB59575O5vUVaFyr.jpg",
-    "vote_average": 8.362,
+    "vote_average": 8.356,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5390,6 +5403,41 @@
     "original_language": "en",
     "genre_ids": [
       99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "207668",
+    "title": "The Legend of ShenLi",
+    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
+    "release_date": "2024-03-18",
+    "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
+    "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68045",
+    "title": "Stay with Me",
+    "overview": "After an accidental drowning, Li Wei Wei a famous fashion designer, loses parts of her memory. Whereby her memories stop at when she was 23. The boyfriend she remembers has now become her ex and rival, and instead a stranger is her fiancé. Li Wei Wei does not believe that she broke up with her ex Chen Yi Du and investigates the reason to as why they did. Her fiancé Qi Cheng, in order to protect and rekindle his relationship, uses all methods to prevent Wei Wei from investigating. During her investigation, Wei Wei discovers that due to the hectic lifestyle of adulthood, she has lost the innocence of her original dreams. It was this very reason as well to as why she and her ex broke up. The now 30 years old Li Wei Wei has decided to change her lifestyle. She plans to regain her most pure emotions and dreams as well as finding true love.",
+    "release_date": "2016-12-11",
+    "poster_path": "/76qtuHvpqzp30By8Cp16R0t0Mtc.jpg",
+    "backdrop_path": "/30EGncmHcKRY0z3eerA3EvDTowx.jpg",
+    "vote_average": 4.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5462,37 +5510,6 @@
       18,
       10751
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "251652",
-    "title": "Treasure Seeking: The Legend of ShenLi",
-    "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
-    "release_date": "2024-04-11",
-    "poster_path": "/6iNze1uB5hheZD1Dh5Hy0NopdBd.jpg",
-    "backdrop_path": "/eRu27ZSGTM7CImcMgxPNMD1t6qP.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
