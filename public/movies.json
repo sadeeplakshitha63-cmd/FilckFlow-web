@@ -641,10 +641,29 @@
     "release_date": "2024-03-18",
     "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
     "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.463,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240144",
+    "title": "Revamp: The Undead Story",
+    "overview": "After his blood frees a century-old vampire trapped in a painting, an antique dealer must help him regain his powers before deadly Hunters close in.",
+    "release_date": "2025-08-23",
+    "poster_path": "/55MOnT6ZoLc52duZUl9XRULVRCo.jpg",
+    "backdrop_path": "/gVJQILUClQ5JeNpHp0BzXsiRA1B.jpg",
+    "vote_average": 7.875,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
       18,
       10765
     ],
@@ -665,25 +684,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240144",
-    "title": "Revamp: The Undead Story",
-    "overview": "After his blood frees a century-old vampire trapped in a painting, an antique dealer must help him regain his powers before deadly Hunters close in.",
-    "release_date": "2025-08-23",
-    "poster_path": "/55MOnT6ZoLc52duZUl9XRULVRCo.jpg",
-    "backdrop_path": "/gVJQILUClQ5JeNpHp0BzXsiRA1B.jpg",
-    "vote_average": 7.875,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2992,23 +2992,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.207,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "198182",
     "title": "Throne of Seal",
     "overview": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. The mankind created six Temples to fight the demons. Long Haochen joins the Knights Temple. As he grows, an adventure unfolds. He wins the recognition of others and fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people. Could Long win the Throne of Seal and be granted the highest honor in the Knights' Temple? All remained to be revealed.",
@@ -3023,6 +3006,23 @@
       10759,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.207,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
