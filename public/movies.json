@@ -258,23 +258,6 @@
     "is_local": true
   },
   {
-    "id": "227192",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "release_date": "2024-02-29",
-    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.036,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "255628",
     "title": "Liars in Love",
     "overview": "It tells the story of a girl who, upon learning that the orphanage where she grew up as a child is to be demolished because of a company project, decides to enter the business world to get closer to the Chu family heir.",
@@ -284,6 +267,23 @@
     "vote_average": 9,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "227192",
+    "title": "Pyramid Game",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "release_date": "2024-02-29",
+    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "vote_average": 8.036,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -819,7 +819,7 @@
     "release_date": "2026-04-17",
     "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
     "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.714,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1153,24 +1153,6 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "275593",
     "title": "Ms. Incognito",
     "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
@@ -1182,6 +1164,24 @@
     "original_language": "ko",
     "genre_ids": [
       80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -1474,20 +1474,6 @@
     "is_local": true
   },
   {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "243028",
     "title": "Love Song in Winter",
     "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
@@ -1501,6 +1487,20 @@
       18,
       9648
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2698,24 +2698,6 @@
     "is_local": true
   },
   {
-    "id": "258865",
-    "title": "Love Beyond the Grave",
-    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
-    "release_date": "2026-03-28",
-    "poster_path": "/ygnrFg8oXpFFVDnb2u0xkWfxjbC.jpg",
-    "backdrop_path": "/rDQjoxB9RssdpcAysGhorjtTA6i.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "65143",
     "title": "Descendants of the Sun",
     "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
@@ -2728,6 +2710,24 @@
     "genre_ids": [
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "258865",
+    "title": "Love Beyond the Grave",
+    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
+    "release_date": "2026-03-28",
+    "poster_path": "/ygnrFg8oXpFFVDnb2u0xkWfxjbC.jpg",
+    "backdrop_path": "/rDQjoxB9RssdpcAysGhorjtTA6i.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3028,23 +3028,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.207,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "273418",
     "title": "Law and the City",
     "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
@@ -3054,6 +3037,23 @@
     "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.207,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -5152,7 +5152,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.708,
+    "vote_average": 8.711,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
