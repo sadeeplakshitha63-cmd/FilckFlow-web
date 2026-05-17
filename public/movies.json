@@ -328,24 +328,6 @@
     "is_local": true
   },
   {
-    "id": "226969",
-    "title": "Here We Meet Again",
-    "overview": "Xiang Yuan, who once unsuccessfully pursued Xu Yan Shi in school, reunites with him as an adult. While she works to save a company and he struggles to follow his dream of becoming a navigation engineer, they support each other through challenges and grow together.",
-    "release_date": "2023-05-22",
-    "poster_path": "/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg",
-    "backdrop_path": "/upDZaTR4RIGDp3lBw089R7KmGck.jpg",
-    "vote_average": 8.167,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -359,6 +341,24 @@
       16,
       80,
       9648,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "226969",
+    "title": "Here We Meet Again",
+    "overview": "Xiang Yuan, who once unsuccessfully pursued Xu Yan Shi in school, reunites with him as an adult. While she works to save a company and he struggles to follow his dream of becoming a navigation engineer, they support each other through challenges and grow together.",
+    "release_date": "2023-05-22",
+    "poster_path": "/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg",
+    "backdrop_path": "/upDZaTR4RIGDp3lBw089R7KmGck.jpg",
+    "vote_average": 8.167,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
       35
     ],
     "video_url": "",
@@ -1527,6 +1527,23 @@
     "is_local": true
   },
   {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
+    "release_date": "2022-12-02",
+    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
+    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
+    "vote_average": 8.138,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -1540,23 +1557,6 @@
       10759,
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
-    "release_date": "2022-12-02",
-    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
-    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
-    "vote_average": 8.138,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1943,7 +1943,7 @@
     "release_date": "2025-04-11",
     "poster_path": "/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
     "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
-    "vote_average": 7.316,
+    "vote_average": 7.45,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1995,7 +1995,7 @@
     "release_date": "2024-11-08",
     "poster_path": "/AsnE5TY4NaYHGJXYxiVaA57nCqo.jpg",
     "backdrop_path": "/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.071,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2452,6 +2452,23 @@
     "is_local": true
   },
   {
+    "id": "282620",
+    "title": "Rainkissed Fate",
+    "overview": "Heiress Bu Yan disappears after a fateful night with boxer He Yuchen. Six years later, she returns with twin children and reunites with He Yuchen, whose career has been derailed by scandal. To save her son, they enter a contract marriage, but their bond deepens as they work together to uncover dark secrets from their past.",
+    "release_date": "2025-02-15",
+    "poster_path": "/1EDAmzlo6CPLuKJ3oH7iyoCNxPT.jpg",
+    "backdrop_path": "/qetjna23Y9xPTEHst3nQhigHlCH.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "94796",
     "title": "Crash Landing on You",
     "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
@@ -2464,23 +2481,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "282620",
-    "title": "Rainkissed Fate",
-    "overview": "Heiress Bu Yan disappears after a fateful night with boxer He Yuchen. Six years later, she returns with twin children and reunites with He Yuchen, whose career has been derailed by scandal. To save her son, they enter a contract marriage, but their bond deepens as they work together to uncover dark secrets from their past.",
-    "release_date": "2025-02-15",
-    "poster_path": "/1EDAmzlo6CPLuKJ3oH7iyoCNxPT.jpg",
-    "backdrop_path": "/qetjna23Y9xPTEHst3nQhigHlCH.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2655,7 +2655,7 @@
     "release_date": "2024-01-27",
     "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
     "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.037,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3087,23 +3087,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278146",
     "title": "Dare You to Death",
     "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
@@ -3116,6 +3099,23 @@
     "genre_ids": [
       9648,
       80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3217,24 +3217,6 @@
     "is_local": true
   },
   {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "457832",
     "title": "Reset",
     "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
@@ -3247,6 +3229,24 @@
     "genre_ids": [
       28,
       878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3479,7 +3479,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.576,
+    "vote_average": 8.578,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3563,23 +3563,6 @@
     "is_local": true
   },
   {
-    "id": "253193",
-    "title": "A Dream Within a Dream",
-    "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
-    "release_date": "2025-06-26",
-    "poster_path": "/iGPTJ9RS5hnVhH3hs53x8qieBRV.jpg",
-    "backdrop_path": "/hznQvZZXABPjYz6aUWoonpLYhmx.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252649",
     "title": "ThamePo: Heart That Skips A Beat",
     "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
@@ -3589,6 +3572,23 @@
     "vote_average": 9,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253193",
+    "title": "A Dream Within a Dream",
+    "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
+    "release_date": "2025-06-26",
+    "poster_path": "/iGPTJ9RS5hnVhH3hs53x8qieBRV.jpg",
+    "backdrop_path": "/hznQvZZXABPjYz6aUWoonpLYhmx.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -4587,7 +4587,7 @@
     "release_date": "2024-08-17",
     "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
     "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "vote_average": 8.01,
+    "vote_average": 8.002,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5036,7 +5036,7 @@
     "release_date": "2023-11-24",
     "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
     "backdrop_path": "/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
-    "vote_average": 8.455,
+    "vote_average": 8.445,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
