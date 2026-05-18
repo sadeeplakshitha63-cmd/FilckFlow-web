@@ -38,24 +38,6 @@
     "is_local": true
   },
   {
-    "id": "297640",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "release_date": "2026-04-25",
-    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "153496",
     "title": "Reborn Rich",
     "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
@@ -137,6 +119,24 @@
     "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297640",
+    "title": "Filing for Love",
+    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+    "release_date": "2026-04-25",
+    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -599,17 +599,18 @@
     "is_local": true
   },
   {
-    "id": "251652",
-    "title": "Treasure Seeking: The Legend of ShenLi",
-    "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
-    "release_date": "2024-04-11",
-    "poster_path": "/6iNze1uB5hheZD1Dh5Hy0NopdBd.jpg",
-    "backdrop_path": "/eRu27ZSGTM7CImcMgxPNMD1t6qP.jpg",
-    "vote_average": 0,
+    "id": "207668",
+    "title": "The Legend of ShenLi",
+    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
+    "release_date": "2024-03-18",
+    "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
+    "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
+    "vote_average": 8.463,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      10764
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -635,23 +636,6 @@
     "is_local": true
   },
   {
-    "id": "278927",
-    "title": "The Unclouded Soul",
-    "overview": "For centuries, humans and demons have battled over the legendary Yuli Spring, a symbol of desire. Free-spirited Xiao Yao unexpectedly enters Ten Thousand Demons Valley, disrupting the demon world. There, she meets the powerful Demon King Hong Ye, who grows to admire her pure heart. Together, they face mysterious cases and formidable enemies, uncovering hidden truths along the way.",
-    "release_date": "2025-12-27",
-    "poster_path": "/n1JHWxQdYWApgB9CYKV6h2kO3MM.jpg",
-    "backdrop_path": "/1SvJs910EQol6mlndJ8tsqZzSMj.jpg",
-    "vote_average": 7.375,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278299",
     "title": "Me and Who",
     "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
@@ -664,6 +648,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278927",
+    "title": "The Unclouded Soul",
+    "overview": "For centuries, humans and demons have battled over the legendary Yuli Spring, a symbol of desire. Free-spirited Xiao Yao unexpectedly enters Ten Thousand Demons Valley, disrupting the demon world. There, she meets the powerful Demon King Hong Ye, who grows to admire her pure heart. Together, they face mysterious cases and formidable enemies, uncovering hidden truths along the way.",
+    "release_date": "2025-12-27",
+    "poster_path": "/n1JHWxQdYWApgB9CYKV6h2kO3MM.jpg",
+    "backdrop_path": "/1SvJs910EQol6mlndJ8tsqZzSMj.jpg",
+    "vote_average": 7.375,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1009,24 +1010,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.773,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "245292",
     "title": "The Spirealm",
     "overview": "Jiu Shi’s skills are pushed to the edge as he faces life-or-death challenges inside a brutal VR maze.",
@@ -1039,6 +1022,24 @@
     "genre_ids": [
       18,
       9648,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.773,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
       35
     ],
     "video_url": "",
@@ -1187,23 +1188,6 @@
     "is_local": true
   },
   {
-    "id": "253946",
-    "title": "Bad Guy My Boss",
-    "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
-    "release_date": "2024-09-15",
-    "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
-    "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
-    "vote_average": 7.111,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
@@ -1217,6 +1201,23 @@
       18,
       35,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253946",
+    "title": "Bad Guy My Boss",
+    "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
+    "release_date": "2024-09-15",
+    "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
+    "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
+    "vote_average": 7.111,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1883,24 +1884,6 @@
     "is_local": true
   },
   {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.07,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253357",
     "title": "See Your Love",
     "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
@@ -1911,6 +1894,24 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 8.09,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
       18
     ],
     "video_url": "",
@@ -3037,7 +3038,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
     "backdrop_path": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
-    "vote_average": 8.175,
+    "vote_average": 8.192,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3240,7 +3241,7 @@
     "release_date": "2026-04-11",
     "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
     "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 8.5,
+    "vote_average": 0,
     "media_type": "tv",
     "original_language": "tl",
     "genre_ids": [
@@ -3401,23 +3402,6 @@
     "is_local": true
   },
   {
-    "id": "298567",
-    "title": "Thundercloud Rainstorm",
-    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
-    "release_date": "2025-11-28",
-    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
-    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
-    "vote_average": 7.625,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "292318",
     "title": "Happiness",
     "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
@@ -3431,6 +3415,23 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "298567",
+    "title": "Thundercloud Rainstorm",
+    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
+    "release_date": "2025-11-28",
+    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
+    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
+    "vote_average": 7.625,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4604,7 +4605,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.356,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5047,6 +5048,21 @@
     "is_local": true
   },
   {
+    "id": "249798",
+    "title": "Head Over Heels",
+    "overview": "Legendary British musical-comedy favorite Jessie Matthews chalks up another winner with Head Over Heels in Love. The ever-charming Matthews plays Jeanne, a Parisian entertainer who manages to get herself in hot water with the French version of Actors' Equity and is forced to take a series of jobs under a series of assumed names. Meanwhile, a romantic triangle involving American film star Norma (Helen Whitney Bourne) and gangsters Pierre (Robert Flemyng) and Marcel (Louis Borrell) spells big trouble for all concerned -- including the plucky Jeanne. Highlighted by six sprightly song numbers, Head Over Heels in Love is our girl Jessie's vehicle all the way, and never mind the \"main\" plot. The film was directed by Sonnie Hale, who just so happened to be the star's husband.",
+    "release_date": "1937-02-12",
+    "poster_path": "/xnZeyStSwoafuCYOM5MVxFH4OiN.jpg",
+    "backdrop_path": "",
+    "vote_average": 9,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278577",
     "title": "Shine on Me",
     "overview": "Her heart was anchored in an unrequited love, while the one who truly saw her from the beginning waited in the wings. A tale of a fateful first encounter that changes everything—and a second chance at a love that was always meant to be.",
@@ -5059,21 +5075,6 @@
     "genre_ids": [
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "249798",
-    "title": "Head Over Heels",
-    "overview": "Legendary British musical-comedy favorite Jessie Matthews chalks up another winner with Head Over Heels in Love. The ever-charming Matthews plays Jeanne, a Parisian entertainer who manages to get herself in hot water with the French version of Actors' Equity and is forced to take a series of jobs under a series of assumed names. Meanwhile, a romantic triangle involving American film star Norma (Helen Whitney Bourne) and gangsters Pierre (Robert Flemyng) and Marcel (Louis Borrell) spells big trouble for all concerned -- including the plucky Jeanne. Highlighted by six sprightly song numbers, Head Over Heels in Love is our girl Jessie's vehicle all the way, and never mind the \"main\" plot. The film was directed by Sonnie Hale, who just so happened to be the star's husband.",
-    "release_date": "1937-02-12",
-    "poster_path": "/xnZeyStSwoafuCYOM5MVxFH4OiN.jpg",
-    "backdrop_path": "",
-    "vote_average": 9,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -5138,7 +5139,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.719,
+    "vote_average": 8.725,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5261,7 +5262,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.113,
+    "vote_average": 8.112,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5360,6 +5361,23 @@
     "is_local": true
   },
   {
+    "id": "251652",
+    "title": "Treasure Seeking: The Legend of ShenLi",
+    "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
+    "release_date": "2024-04-11",
+    "poster_path": "/6iNze1uB5hheZD1Dh5Hy0NopdBd.jpg",
+    "backdrop_path": "/eRu27ZSGTM7CImcMgxPNMD1t6qP.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 1582770,
     "title": "Dhurandhar: The Revenge",
     "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
@@ -5430,24 +5448,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "207668",
-    "title": "The Legend of ShenLi",
-    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
-    "release_date": "2024-03-18",
-    "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
-    "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
-    "vote_average": 8.463,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "249104",
