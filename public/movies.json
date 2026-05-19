@@ -328,6 +328,23 @@
     "is_local": true
   },
   {
+    "id": "292614",
+    "title": "World of Street Woman Fighter",
+    "overview": "A global dance challenge that showcases the pride of strong women around the world.",
+    "release_date": "2025-05-27",
+    "poster_path": "/8m6G6Z9chiduch18lWKEyxttl7C.jpg",
+    "backdrop_path": "/chl67zBJ1G2hrgaSaxFvAZ9eBJh.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1311031",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
@@ -347,23 +364,6 @@
     "is_local": true
   },
   {
-    "id": "292614",
-    "title": "World of Street Woman Fighter",
-    "overview": "A global dance challenge that showcases the pride of strong women around the world.",
-    "release_date": "2025-05-27",
-    "poster_path": "/8m6G6Z9chiduch18lWKEyxttl7C.jpg",
-    "backdrop_path": "/chl67zBJ1G2hrgaSaxFvAZ9eBJh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253029",
     "title": "Brewing Love",
     "overview": "A heart-fluttering love story between Chae Yong-ju, a super passionate sales king at a liquor company who hides her emotions, and Yun Min-ju, a super sensitive brewery owner who is adept at catching people’s emotions.",
@@ -376,6 +376,26 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "30983",
+    "title": "Detective Conan",
+    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+    "release_date": "1996-01-08",
+    "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
+    "backdrop_path": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
+    "vote_average": 8.009,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      80,
+      9648,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -411,26 +431,6 @@
     "original_language": "zh",
     "genre_ids": [
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "30983",
-    "title": "Detective Conan",
-    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
-    "release_date": "1996-01-08",
-    "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
-    "backdrop_path": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
-    "vote_average": 8.009,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      80,
-      9648,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1506,6 +1506,23 @@
     "is_local": true
   },
   {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
+    "release_date": "2022-12-02",
+    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
+    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
+    "vote_average": 8.138,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -1519,23 +1536,6 @@
       10759,
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
-    "release_date": "2022-12-02",
-    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
-    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
-    "vote_average": 8.138,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5205,7 +5205,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 7.695,
+    "vote_average": 7.807,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
