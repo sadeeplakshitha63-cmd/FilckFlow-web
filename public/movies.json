@@ -222,23 +222,6 @@
     "is_local": true
   },
   {
-    "id": "227192",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "release_date": "2024-02-29",
-    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.036,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "282810",
     "title": "The Judge Returns",
     "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
@@ -251,6 +234,23 @@
     "genre_ids": [
       80,
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "227192",
+    "title": "Pyramid Game",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "release_date": "2024-02-29",
+    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "vote_average": 8.036,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -744,6 +744,23 @@
     "is_local": true
   },
   {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
+    "vote_average": 8.779,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "214172",
     "title": "New Life Begins",
     "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
@@ -756,23 +773,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
-    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.779,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1150,26 +1150,6 @@
     "is_local": true
   },
   {
-    "id": "301031",
-    "title": "The Secrets of Hotel 88",
-    "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
-    "release_date": "2026-03-02",
-    "poster_path": "/5FmIyAnBvDmyAGYFnP0zCqphYlP.jpg",
-    "backdrop_path": "/mwShyCXHStuIdHYaDl6pimQkWYh.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      9648,
-      10759,
-      10751,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
@@ -1189,18 +1169,20 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.739,
+    "id": "301031",
+    "title": "The Secrets of Hotel 88",
+    "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
+    "release_date": "2026-03-02",
+    "poster_path": "/5FmIyAnBvDmyAGYFnP0zCqphYlP.jpg",
+    "backdrop_path": "/mwShyCXHStuIdHYaDl6pimQkWYh.jpg",
+    "vote_average": 0,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "tl",
     "genre_ids": [
-      18,
-      35
+      9648,
+      10759,
+      10751,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1236,6 +1218,24 @@
     "original_language": "th",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.739,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1314,24 +1314,6 @@
     "is_local": true
   },
   {
-    "id": "258280",
-    "title": "Dashing Youth",
-    "overview": "Baili Dongjun, the young master of the Marquis of Zhenxi's mansion, has little interest in practicing martial arts but throws himself into brewing liquor, only because he promised to be the Liquor Deity while his childhood friend Ye Yun becomes the Sword Deity. As fate would have it, he becomes a disciple of the top martial arts master Li Changsheng to start learning martial arts. Later, he meets his confidante Yueyao, reunites with Ye Yun, who has changed his name to Ye Dingzhi, and travels with Sikong Changfeng, a wandering adventurer. Together, these youths embark on their own adventures in the martial world.",
-    "release_date": "2024-07-19",
-    "poster_path": "/mmhD5uhHEr2Wih77nQ6D0BUwRTG.jpg",
-    "backdrop_path": "/nFe1KQhAlPKK0jiOCQuJlAK5DSV.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215001",
     "title": "Destined with You",
     "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
@@ -1345,6 +1327,24 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "258280",
+    "title": "Dashing Youth",
+    "overview": "Baili Dongjun, the young master of the Marquis of Zhenxi's mansion, has little interest in practicing martial arts but throws himself into brewing liquor, only because he promised to be the Liquor Deity while his childhood friend Ye Yun becomes the Sword Deity. As fate would have it, he becomes a disciple of the top martial arts master Li Changsheng to start learning martial arts. Later, he meets his confidante Yueyao, reunites with Ye Yun, who has changed his name to Ye Dingzhi, and travels with Sikong Changfeng, a wandering adventurer. Together, these youths embark on their own adventures in the martial world.",
+    "release_date": "2024-07-19",
+    "poster_path": "/mmhD5uhHEr2Wih77nQ6D0BUwRTG.jpg",
+    "backdrop_path": "/nFe1KQhAlPKK0jiOCQuJlAK5DSV.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1475,24 +1475,6 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223440",
     "title": "The Eighth Sense",
     "overview": "A rural freshman and a returning vet face a new kind of challenge: finding meaning in a crowded, fast-moving world.",
@@ -1510,17 +1492,18 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
-    "release_date": "2022-12-02",
-    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
-    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
-    "vote_average": 8.138,
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 7.7,
     "media_type": "tv",
-    "original_language": "th",
+    "original_language": "ko",
     "genre_ids": [
-      35
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1540,6 +1523,23 @@
       10759,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
+    "release_date": "2022-12-02",
+    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
+    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
+    "vote_average": 8.138,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1655,6 +1655,24 @@
     "is_local": true
   },
   {
+    "id": "664413",
+    "title": "365 Days",
+    "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
+    "release_date": "2020-02-07",
+    "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
+    "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
+    "vote_average": 6.991,
+    "media_type": "movie",
+    "original_language": "pl",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1669,24 +1687,6 @@
       10765,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "664413",
-    "title": "365 Days",
-    "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
-    "release_date": "2020-02-07",
-    "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
-    "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
-    "vote_average": 6.991,
-    "media_type": "movie",
-    "original_language": "pl",
-    "genre_ids": [
-      10749,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2051,7 +2051,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.128,
+    "vote_average": 8.126,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2209,7 +2209,7 @@
     "release_date": "2016-08-29",
     "poster_path": "/pjdPGHqUe60ZGQJR1TItVNaV4it.jpg",
     "backdrop_path": "/yBmqsAFjJJtdHkptwlCy0WMsfKA.jpg",
-    "vote_average": 8.509,
+    "vote_average": 8.511,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2637,7 +2637,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.533,
+    "vote_average": 8.534,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2686,24 +2686,6 @@
     "is_local": true
   },
   {
-    "id": "258865",
-    "title": "Love Beyond the Grave",
-    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
-    "release_date": "2026-03-28",
-    "poster_path": "/ygnrFg8oXpFFVDnb2u0xkWfxjbC.jpg",
-    "backdrop_path": "/rDQjoxB9RssdpcAysGhorjtTA6i.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278331",
     "title": "The First Night with the Duke",
     "overview": "Reincarnated as a minor character in a novel, Cha Seon-taek unexpectedly spends a night with Prince Kyungsung, sparking an intense and unexpected romance.",
@@ -2717,6 +2699,24 @@
       10765,
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "258865",
+    "title": "Love Beyond the Grave",
+    "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
+    "release_date": "2026-03-28",
+    "poster_path": "/ygnrFg8oXpFFVDnb2u0xkWfxjbC.jpg",
+    "backdrop_path": "/rDQjoxB9RssdpcAysGhorjtTA6i.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2905,26 +2905,6 @@
     "is_local": true
   },
   {
-    "id": "198182",
-    "title": "Throne of Seal",
-    "overview": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. The mankind created six Temples to fight the demons. Long Haochen joins the Knights Temple. As he grows, an adventure unfolds. He wins the recognition of others and fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people. Could Long win the Throne of Seal and be granted the highest honor in the Knights' Temple? All remained to be revealed.",
-    "release_date": "2022-04-28",
-    "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
-    "backdrop_path": "/lCyVptIB3CgO0ls9o0PvT50xshn.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      16,
-      10759,
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "93657",
     "title": "Extraordinary You",
     "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
@@ -2939,6 +2919,26 @@
       35,
       10759,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "198182",
+    "title": "Throne of Seal",
+    "overview": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. The mankind created six Temples to fight the demons. Long Haochen joins the Knights Temple. As he grows, an adventure unfolds. He wins the recognition of others and fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people. Could Long win the Throne of Seal and be granted the highest honor in the Knights' Temple? All remained to be revealed.",
+    "release_date": "2022-04-28",
+    "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
+    "backdrop_path": "/lCyVptIB3CgO0ls9o0PvT50xshn.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      16,
+      10759,
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3261,31 +3261,13 @@
     "release_date": "2026-02-22",
     "poster_path": "/gKaa3F5dvrkRTq0h94SipCLGK5m.jpg",
     "backdrop_path": "/6640A10Z0aysTCroNQQPK8ZB4FH.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.167,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
       18,
       10759,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3329,6 +3311,24 @@
     "is_local": true
   },
   {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "130368",
     "title": "Love Between Fairy and Devil",
     "overview": "When a low-ranked fairy accidentally resurrects a powerful demon, their fates become cosmically entangled as the world is thrown into turmoil.",
@@ -3366,6 +3366,23 @@
     "is_local": true
   },
   {
+    "id": "298567",
+    "title": "Thundercloud Rainstorm",
+    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
+    "release_date": "2025-11-28",
+    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
+    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
+    "vote_average": 7.625,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "292318",
     "title": "Happiness",
     "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
@@ -3379,23 +3396,6 @@
       18,
       10759,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "298567",
-    "title": "Thundercloud Rainstorm",
-    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
-    "release_date": "2025-11-28",
-    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
-    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
-    "vote_average": 7.625,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4714,7 +4714,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.718,
+    "vote_average": 8.716,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5245,7 +5245,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.109,
+    "vote_average": 8.11,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
