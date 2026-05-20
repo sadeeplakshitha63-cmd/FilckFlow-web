@@ -80,7 +80,7 @@
     "release_date": "2026-01-17",
     "poster_path": "/6lnM7PecwSEyYjrWr2nQzmmZaDU.jpg",
     "backdrop_path": "/wESjJcBgXzPcDgHBmkWi25nbSI5.jpg",
-    "vote_average": 8.568,
+    "vote_average": 8.63,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -111,24 +111,6 @@
     "is_local": true
   },
   {
-    "id": "217553",
-    "title": "The Trauma Code: Heroes on Call",
-    "overview": "To create a top-tier trauma center, a war-seasoned doctor arrives — bringing his blunt but skilled ways to transform his team into life-saving mavericks.",
-    "release_date": "2025-01-24",
-    "poster_path": "/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
-    "backdrop_path": "/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-    "vote_average": 8.467,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "128567",
     "title": "Don't Say No",
     "overview": "Best friends since childhood, Leo and Fiat must face the confusing line between friendship and something more.",
@@ -142,6 +124,24 @@
       35,
       18,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217553",
+    "title": "The Trauma Code: Heroes on Call",
+    "overview": "To create a top-tier trauma center, a war-seasoned doctor arrives — bringing his blunt but skilled ways to transform his team into life-saving mavericks.",
+    "release_date": "2025-01-24",
+    "poster_path": "/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
+    "backdrop_path": "/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+    "vote_average": 8.467,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -588,7 +588,7 @@
     "release_date": "2024-03-18",
     "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
     "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
-    "vote_average": 8.463,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -606,7 +606,7 @@
     "release_date": "2025-08-23",
     "poster_path": "/55MOnT6ZoLc52duZUl9XRULVRCo.jpg",
     "backdrop_path": "/gVJQILUClQ5JeNpHp0BzXsiRA1B.jpg",
-    "vote_average": 7.9,
+    "vote_average": 8.111,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1133,6 +1133,23 @@
     "is_local": true
   },
   {
+    "id": "253946",
+    "title": "Bad Guy My Boss",
+    "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
+    "release_date": "2024-09-15",
+    "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
+    "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
+    "vote_average": 7.111,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "301031",
     "title": "The Secrets of Hotel 88",
     "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
@@ -1146,23 +1163,6 @@
       9648,
       10759,
       10751,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253946",
-    "title": "Bad Guy My Boss",
-    "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
-    "release_date": "2024-09-15",
-    "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
-    "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
-    "vote_average": 7.111,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1314,6 +1314,24 @@
     "is_local": true
   },
   {
+    "id": "258280",
+    "title": "Dashing Youth",
+    "overview": "Baili Dongjun, the young master of the Marquis of Zhenxi's mansion, has little interest in practicing martial arts but throws himself into brewing liquor, only because he promised to be the Liquor Deity while his childhood friend Ye Yun becomes the Sword Deity. As fate would have it, he becomes a disciple of the top martial arts master Li Changsheng to start learning martial arts. Later, he meets his confidante Yueyao, reunites with Ye Yun, who has changed his name to Ye Dingzhi, and travels with Sikong Changfeng, a wandering adventurer. Together, these youths embark on their own adventures in the martial world.",
+    "release_date": "2024-07-19",
+    "poster_path": "/mmhD5uhHEr2Wih77nQ6D0BUwRTG.jpg",
+    "backdrop_path": "/nFe1KQhAlPKK0jiOCQuJlAK5DSV.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "215001",
     "title": "Destined with You",
     "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
@@ -1327,24 +1345,6 @@
       18,
       10765,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "258280",
-    "title": "Dashing Youth",
-    "overview": "Baili Dongjun, the young master of the Marquis of Zhenxi's mansion, has little interest in practicing martial arts but throws himself into brewing liquor, only because he promised to be the Liquor Deity while his childhood friend Ye Yun becomes the Sword Deity. As fate would have it, he becomes a disciple of the top martial arts master Li Changsheng to start learning martial arts. Later, he meets his confidante Yueyao, reunites with Ye Yun, who has changed his name to Ye Dingzhi, and travels with Sikong Changfeng, a wandering adventurer. Together, these youths embark on their own adventures in the martial world.",
-    "release_date": "2024-07-19",
-    "poster_path": "/mmhD5uhHEr2Wih77nQ6D0BUwRTG.jpg",
-    "backdrop_path": "/nFe1KQhAlPKK0jiOCQuJlAK5DSV.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1440,17 +1440,16 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 7.7,
+    "id": "217861",
+    "title": "Dangerous Romance",
+    "overview": "Sailom, a poor and studious student, has worked several odd jobs along with his elder brother in an effort to keep them afloat. One day, a misunderstanding causes him to hate school bully Kanghan. However, fate plays its hand when Sailom, offered a sum of money too great to refuse, takes on the role of Kanghan's private tutor. Despite their difference, the two develop an irrefutable connection.",
+    "release_date": "2023-08-18",
+    "poster_path": "/h6dbV84GgqOnWsTEJAqzPJ5sYql.jpg",
+    "backdrop_path": "/7e9AuNZ5N0JB5Chdqo9ETSRn05K.jpg",
+    "vote_average": 8.5,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "th",
     "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -1476,16 +1475,17 @@
     "is_local": true
   },
   {
-    "id": "217861",
-    "title": "Dangerous Romance",
-    "overview": "Sailom, a poor and studious student, has worked several odd jobs along with his elder brother in an effort to keep them afloat. One day, a misunderstanding causes him to hate school bully Kanghan. However, fate plays its hand when Sailom, offered a sum of money too great to refuse, takes on the role of Kanghan's private tutor. Despite their difference, the two develop an irrefutable connection.",
-    "release_date": "2023-08-18",
-    "poster_path": "/h6dbV84GgqOnWsTEJAqzPJ5sYql.jpg",
-    "backdrop_path": "/7e9AuNZ5N0JB5Chdqo9ETSRn05K.jpg",
-    "vote_average": 8.5,
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 7.7,
     "media_type": "tv",
-    "original_language": "th",
+    "original_language": "ko",
     "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -1745,6 +1745,24 @@
     "is_local": true
   },
   {
+    "id": "216264",
+    "title": "The Last Immortal",
+    "overview": "Yin, a hardworking Shuining Beast, and Gu Jin, the son of the true God whose magic has been sealed, meet by chance and embark on a quest to find Feng Yin's Immortal Essence. Alongside their companions, Hong Yi of the Fox Clan and Yan Shuang of the Eagle Clan, they face numerous challenges to collect the essence. Battling the villain Qing Lin and his followers, they overcome obstacles and, in the end, not only fulfill their mission to restore peace but also find love, friendship, and family.",
+    "release_date": "2023-12-11",
+    "poster_path": "/33zNWhfS3r0xWp7EaXtO9LDoB5Y.jpg",
+    "backdrop_path": "/xWb85qKubVjA39rVbBCXLOVl8Kg.jpg",
+    "vote_average": 7.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "233912",
     "title": "Guardians of the Dafeng",
     "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
@@ -1759,24 +1777,6 @@
       10759,
       35,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "216264",
-    "title": "The Last Immortal",
-    "overview": "Yin, a hardworking Shuining Beast, and Gu Jin, the son of the true God whose magic has been sealed, meet by chance and embark on a quest to find Feng Yin's Immortal Essence. Alongside their companions, Hong Yi of the Fox Clan and Yan Shuang of the Eagle Clan, they face numerous challenges to collect the essence. Battling the villain Qing Lin and his followers, they overcome obstacles and, in the end, not only fulfill their mission to restore peace but also find love, friendship, and family.",
-    "release_date": "2023-12-11",
-    "poster_path": "/33zNWhfS3r0xWp7EaXtO9LDoB5Y.jpg",
-    "backdrop_path": "/xWb85qKubVjA39rVbBCXLOVl8Kg.jpg",
-    "vote_average": 7.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1908,7 +1908,7 @@
     "release_date": "2025-04-11",
     "poster_path": "/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
     "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
-    "vote_average": 7.45,
+    "vote_average": 7.571,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2038,6 +2038,24 @@
       10765,
       10759,
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 8.128,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
       18
     ],
     "video_url": "",
@@ -2244,7 +2262,7 @@
     "release_date": "2025-08-02",
     "poster_path": "/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
     "backdrop_path": "/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
-    "vote_average": 0,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2613,6 +2631,25 @@
     "is_local": true
   },
   {
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+    "release_date": "2007-02-15",
+    "poster_path": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
+    "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+    "vote_average": 8.533,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "238618",
     "title": "Love of the Divine Tree",
     "overview": "Su Yishui, a talented young cultivator, had his destiny changed by his master Mu Qingge eighteen years ago. Mu Qingge, known as the \"female demon,\" was also branded with a bad reputation and presumed dead. Eighteen years later, Mu Qingge transforms into Xue Ranran, and Su Yishui, now the head of the West Mountain Sect, takes the critically ill Ranran as his disciple, vowing to protect her for life. Thus, the roles of master and disciple are swapped, and various amusing and unusual stories unfold between them.",
@@ -2932,7 +2969,7 @@
     "release_date": "2023-08-11",
     "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
     "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.803,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2984,7 +3021,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.167,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3237,6 +3274,24 @@
     "is_local": true
   },
   {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278137",
     "title": "Head 2 Head",
     "overview": "A rivalry turns upside down when Jerome’s strange new ability shows him a shocking future—one where his enemy becomes his soulmate.",
@@ -3311,23 +3366,6 @@
     "is_local": true
   },
   {
-    "id": "298567",
-    "title": "Thundercloud Rainstorm",
-    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
-    "release_date": "2025-11-28",
-    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
-    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
-    "vote_average": 7.625,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "292318",
     "title": "Happiness",
     "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
@@ -3341,6 +3379,23 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "298567",
+    "title": "Thundercloud Rainstorm",
+    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
+    "release_date": "2025-11-28",
+    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
+    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
+    "vote_average": 7.625,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3584,7 +3639,7 @@
     "release_date": "2023-04-06",
     "poster_path": "/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
     "backdrop_path": "/5fhS6Bh4VnF0SOZyZnhNpc0XHDb.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.242,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3692,7 +3747,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.43,
+    "vote_average": 8.439,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3796,17 +3851,18 @@
     "is_local": true
   },
   {
-    "id": "95223",
-    "title": "Between Us",
-    "overview": "Life consists mostly of everyday life and it is easy to forget to care for love. The series is a warm dramedy about two couples, their four perspectives, their trust and lack of trust in their relationships, and how even minuscule details end up having major consequences in their lives.",
-    "release_date": "2019-11-06",
-    "poster_path": "/1MD8DCcMusSnADgbRpRNa4JeGxe.jpg",
-    "backdrop_path": "/pMFme1qgIn2dgo23VZMZYVrSAVX.jpg",
-    "vote_average": 8.7,
+    "id": "218755",
+    "title": "The World Between Us",
+    "overview": "The World Between Us is a romance drama series that proves that true love bridges gaps, regardless of how deep or how wide.\n\nThe series follows the story of Luisito \"Louie\" Asuncion (Alden Richards) and Emilia \"Lia\" Libradilla (Jasmine Curtis Smith). Louie and Lia grew up together at the home of the Libdradillas, they will both feel that they are destined for each other but there are people who are keen on keeping them apart.\n\nJoining Louie and Lia in proving the power of true love is Kapuso versatile actor Tom Rodriguez in an off-beat role, portraying the character of Lia's older brother, Bryan.\n\nUnder the direction of critically acclaimed director, Dominic Zapata, let The World Between Us shows that no matter how deep our divide is, true love can bridge it all.",
+    "release_date": "2021-07-05",
+    "poster_path": "/t4h4o4PjpfGPLxExfZRoWRsIHyS.jpg",
+    "backdrop_path": "/rSMIte1yr1oyxcMEAWsAc6vg24W.jpg",
+    "vote_average": 0,
     "media_type": "tv",
-    "original_language": "da",
+    "original_language": "tl",
     "genre_ids": [
-      18
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3921,6 +3977,23 @@
     "is_local": true
   },
   {
+    "id": "207197",
+    "title": "Story of Kunning Palace",
+    "overview": "A fallen queen, Jiang Xuening who aspired to have the highest power and authority in her life was held hostage by rebels after the king, Shen Jie was poisoned. In this life, she used everyone around her to reach the authority of the queen but in the end, she remained under house arrest and Xie Wei slaughtered the entire city. Later, she received the decree to be buried with the emperor. She got a second chance to change her fate by not entering the palace but when she woke up after rebirth, she was already messing around. Even though she vowed not to enter the palace, a certain turn of events again entangles her with the palace and Xie Wei whom she hated the most.",
+    "release_date": "2023-11-07",
+    "poster_path": "/idcVj88MODVdBkaKpxNMiXwffLk.jpg",
+    "backdrop_path": "/3OLeiLbTdNFovd2zyBn2xgR8UWY.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "232510",
     "title": "MIGNON",
     "overview": "In a brutal underground world, a vampire medic and a wounded young fighter form a fragile bond—one built on pain, longing, and forbidden desire.",
@@ -3932,23 +4005,6 @@
     "original_language": "ko",
     "genre_ids": [
       16,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "207197",
-    "title": "Story of Kunning Palace",
-    "overview": "A fallen queen, Jiang Xuening who aspired to have the highest power and authority in her life was held hostage by rebels after the king, Shen Jie was poisoned. In this life, she used everyone around her to reach the authority of the queen but in the end, she remained under house arrest and Xie Wei slaughtered the entire city. Later, she received the decree to be buried with the emperor. She got a second chance to change her fate by not entering the palace but when she woke up after rebirth, she was already messing around. Even though she vowed not to enter the palace, a certain turn of events again entangles her with the palace and Xie Wei whom she hated the most.",
-    "release_date": "2023-11-07",
-    "poster_path": "/idcVj88MODVdBkaKpxNMiXwffLk.jpg",
-    "backdrop_path": "/3OLeiLbTdNFovd2zyBn2xgR8UWY.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -4406,7 +4462,7 @@
     "release_date": "2024-11-22",
     "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
     "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "vote_average": 8.275,
+    "vote_average": 8.281,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4585,7 +4641,7 @@
     "release_date": "2026-02-04",
     "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
     "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 7.818,
+    "vote_average": 7.851,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4727,7 +4783,7 @@
     "release_date": "2025-02-17",
     "poster_path": "/ifvFJ9xaKPJX2Il78lXMoeUQbMn.jpg",
     "backdrop_path": "/4Xer0oaXautbLRfJQOrlmPSCfN1.jpg",
-    "vote_average": 7.866,
+    "vote_average": 7.885,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5118,7 +5174,7 @@
     "release_date": "2025-02-25",
     "poster_path": "/okQHEWYmmVDLfxAsT8UBJeTMPIi.jpg",
     "backdrop_path": "/7KBu3AIlVJXxbkGBCm9FV4JUgLR.jpg",
-    "vote_average": 8.071,
+    "vote_average": 7.95,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5288,55 +5344,17 @@
     "is_local": true
   },
   {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.047,
+    "id": "95223",
+    "title": "Between Us",
+    "overview": "Life consists mostly of everyday life and it is easy to forget to care for love. The series is a warm dramedy about two couples, their four perspectives, their trust and lack of trust in their relationships, and how even minuscule details end up having major consequences in their lives.",
+    "release_date": "2019-11-06",
+    "poster_path": "/1MD8DCcMusSnADgbRpRNa4JeGxe.jpg",
+    "backdrop_path": "/pMFme1qgIn2dgo23VZMZYVrSAVX.jpg",
+    "vote_average": 8.7,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "da",
     "genre_ids": [
-      9648,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
-    "release_date": "2007-02-15",
-    "poster_path": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
-    "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5392,24 +5410,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "218755",
-    "title": "The World Between Us",
-    "overview": "The World Between Us is a romance drama series that proves that true love bridges gaps, regardless of how deep or how wide.\n\nThe series follows the story of Luisito \"Louie\" Asuncion (Alden Richards) and Emilia \"Lia\" Libradilla (Jasmine Curtis Smith). Louie and Lia grew up together at the home of the Libdradillas, they will both feel that they are destined for each other but there are people who are keen on keeping them apart.\n\nJoining Louie and Lia in proving the power of true love is Kapuso versatile actor Tom Rodriguez in an off-beat role, portraying the character of Lia's older brother, Bryan.\n\nUnder the direction of critically acclaimed director, Dominic Zapata, let The World Between Us shows that no matter how deep our divide is, true love can bridge it all.",
-    "release_date": "2021-07-05",
-    "poster_path": "/t4h4o4PjpfGPLxExfZRoWRsIHyS.jpg",
-    "backdrop_path": "/rSMIte1yr1oyxcMEAWsAc6vg24W.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 423204,
