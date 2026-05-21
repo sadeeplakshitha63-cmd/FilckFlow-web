@@ -417,6 +417,24 @@
     "is_local": true
   },
   {
+    "id": "273174",
+    "title": "The Bangkok Boy",
+    "overview": "Sun's quest for vengeance in Bangkok takes a turn when he meets Peace, pulling him into a dangerous mix of love and bloodshed.",
+    "release_date": "2025-04-26",
+    "poster_path": "/od2LObXYa5JpDaSMSuol2HcteBo.jpg",
+    "backdrop_path": "/dopCLva8PYynC4OVQKtHyL608Yw.jpg",
+    "vote_average": 8.167,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -431,24 +449,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "273174",
-    "title": "The Bangkok Boy",
-    "overview": "Sun's quest for vengeance in Bangkok takes a turn when he meets Peace, pulling him into a dangerous mix of love and bloodshed.",
-    "release_date": "2025-04-26",
-    "poster_path": "/od2LObXYa5JpDaSMSuol2HcteBo.jpg",
-    "backdrop_path": "/dopCLva8PYynC4OVQKtHyL608Yw.jpg",
-    "vote_average": 8.167,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1296,24 +1296,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.739,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "258280",
     "title": "Dashing Youth",
     "overview": "Baili Dongjun, the young master of the Marquis of Zhenxi's mansion, has little interest in practicing martial arts but throws himself into brewing liquor, only because he promised to be the Liquor Deity while his childhood friend Ye Yun becomes the Sword Deity. As fate would have it, he becomes a disciple of the top martial arts master Li Changsheng to start learning martial arts. Later, he meets his confidante Yueyao, reunites with Ye Yun, who has changed his name to Ye Dingzhi, and travels with Sikong Changfeng, a wandering adventurer. Together, these youths embark on their own adventures in the martial world.",
@@ -1344,6 +1326,24 @@
     "genre_ids": [
       18,
       10765,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.739,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
       35
     ],
     "video_url": "",
@@ -1488,23 +1488,6 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
-    "release_date": "2022-12-02",
-    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
-    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
-    "vote_average": 8.138,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -1535,6 +1518,23 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
+    "release_date": "2022-12-02",
+    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
+    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
+    "vote_average": 8.138,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2112,24 +2112,6 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "285838",
     "title": "If Wishes Could Kill",
     "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
@@ -2141,6 +2123,24 @@
     "original_language": "ko",
     "genre_ids": [
       9648,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -2411,6 +2411,23 @@
     "is_local": true
   },
   {
+    "id": "282620",
+    "title": "Rainkissed Fate",
+    "overview": "Heiress Bu Yan disappears after a fateful night with boxer He Yuchen. Six years later, she returns with twin children and reunites with He Yuchen, whose career has been derailed by scandal. To save her son, they enter a contract marriage, but their bond deepens as they work together to uncover dark secrets from their past.",
+    "release_date": "2025-02-15",
+    "poster_path": "/1EDAmzlo6CPLuKJ3oH7iyoCNxPT.jpg",
+    "backdrop_path": "/qetjna23Y9xPTEHst3nQhigHlCH.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "223911",
     "title": "Renegade Immortal",
     "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
@@ -2425,23 +2442,6 @@
       16,
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "282620",
-    "title": "Rainkissed Fate",
-    "overview": "Heiress Bu Yan disappears after a fateful night with boxer He Yuchen. Six years later, she returns with twin children and reunites with He Yuchen, whose career has been derailed by scandal. To save her son, they enter a contract marriage, but their bond deepens as they work together to uncover dark secrets from their past.",
-    "release_date": "2025-02-15",
-    "poster_path": "/1EDAmzlo6CPLuKJ3oH7iyoCNxPT.jpg",
-    "backdrop_path": "/qetjna23Y9xPTEHst3nQhigHlCH.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2627,24 +2627,6 @@
     "is_local": true
   },
   {
-    "id": "238618",
-    "title": "Love of the Divine Tree",
-    "overview": "Su Yishui, a talented young cultivator, had his destiny changed by his master Mu Qingge eighteen years ago. Mu Qingge, known as the \"female demon,\" was also branded with a bad reputation and presumed dead. Eighteen years later, Mu Qingge transforms into Xue Ranran, and Su Yishui, now the head of the West Mountain Sect, takes the critically ill Ranran as his disciple, vowing to protect her for life. Thus, the roles of master and disciple are swapped, and various amusing and unusual stories unfold between them.",
-    "release_date": "2025-02-07",
-    "poster_path": "/1XRiwCvZPlx8iWGy1BWOCHRgY0a.jpg",
-    "backdrop_path": "/h5Z7JutfjTOETDg86YMex28F2se.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "31910",
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
@@ -2657,6 +2639,24 @@
     "genre_ids": [
       16,
       10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "238618",
+    "title": "Love of the Divine Tree",
+    "overview": "Su Yishui, a talented young cultivator, had his destiny changed by his master Mu Qingge eighteen years ago. Mu Qingge, known as the \"female demon,\" was also branded with a bad reputation and presumed dead. Eighteen years later, Mu Qingge transforms into Xue Ranran, and Su Yishui, now the head of the West Mountain Sect, takes the critically ill Ranran as his disciple, vowing to protect her for life. Thus, the roles of master and disciple are swapped, and various amusing and unusual stories unfold between them.",
+    "release_date": "2025-02-07",
+    "poster_path": "/1XRiwCvZPlx8iWGy1BWOCHRgY0a.jpg",
+    "backdrop_path": "/h5Z7JutfjTOETDg86YMex28F2se.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
       10765
     ],
     "video_url": "",
@@ -4710,7 +4710,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.716,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
