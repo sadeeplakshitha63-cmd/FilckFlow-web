@@ -90,17 +90,19 @@
     "is_local": true
   },
   {
-    "id": "283952",
-    "title": "A Splendid Match",
-    "overview": "After years away from her family, Gu Jinzhao returns home and begins a remarkable transformation, from a carefree young woman into a poised and influential noble lady. As questions of marriage arise, she refuses to follow tradition and holds firmly to her own beliefs about love. But when multiple men enter her life, each offering a different future, who will Gu Jinzhao choose?",
-    "release_date": "2026-05-03",
-    "poster_path": "/a7xu2XuUT6Mk2wtD2mGx5Wwo2tC.jpg",
-    "backdrop_path": "/3AjXoOT5xIAoagGWStqOu7bEgqV.jpg",
-    "vote_average": 9,
+    "id": "128567",
+    "title": "Don't Say No",
+    "overview": "Best friends since childhood, Leo and Fiat must face the confusing line between friendship and something more.",
+    "release_date": "2021-08-06",
+    "poster_path": "/680pdkmuA0zszOE9zeXXo4JRwh7.jpg",
+    "backdrop_path": "/6eyxqib20JCk3d4H7bx4XWW4NO7.jpg",
+    "vote_average": 8.2,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "th",
     "genre_ids": [
-      18
+      35,
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -126,19 +128,17 @@
     "is_local": true
   },
   {
-    "id": "128567",
-    "title": "Don't Say No",
-    "overview": "Best friends since childhood, Leo and Fiat must face the confusing line between friendship and something more.",
-    "release_date": "2021-08-06",
-    "poster_path": "/680pdkmuA0zszOE9zeXXo4JRwh7.jpg",
-    "backdrop_path": "/6eyxqib20JCk3d4H7bx4XWW4NO7.jpg",
-    "vote_average": 8.2,
+    "id": "283952",
+    "title": "A Splendid Match",
+    "overview": "After years away from her family, Gu Jinzhao returns home and begins a remarkable transformation, from a carefree young woman into a poised and influential noble lady. As questions of marriage arise, she refuses to follow tradition and holds firmly to her own beliefs about love. But when multiple men enter her life, each offering a different future, who will Gu Jinzhao choose?",
+    "release_date": "2026-05-03",
+    "poster_path": "/a7xu2XuUT6Mk2wtD2mGx5Wwo2tC.jpg",
+    "backdrop_path": "/3AjXoOT5xIAoagGWStqOu7bEgqV.jpg",
+    "vote_average": 9,
     "media_type": "tv",
-    "original_language": "th",
+    "original_language": "zh",
     "genre_ids": [
-      35,
-      18,
-      10751
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -313,7 +313,7 @@
     "release_date": "2023-05-22",
     "poster_path": "/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg",
     "backdrop_path": "/upDZaTR4RIGDp3lBw089R7KmGck.jpg",
-    "vote_average": 8.167,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -747,7 +747,7 @@
     "release_date": "2015-11-06",
     "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
     "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.779,
+    "vote_average": 8.784,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -866,24 +866,6 @@
     "is_local": true
   },
   {
-    "id": "297640",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "release_date": "2026-04-25",
-    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "133060",
     "title": "Cute Programmer",
     "overview": "Lu Li admires genius programmer Jiang Yicheng and follows his path, excelling in school. After graduation, she disguises herself as a man to join his company, which doesn’t hire women. Balancing work and her secret, she strikes a deal with Jiang Yicheng to become a \"contract couple\" for a year.",
@@ -893,6 +875,24 @@
     "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297640",
+    "title": "Filing for Love",
+    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+    "release_date": "2026-04-25",
+    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -1328,6 +1328,23 @@
     "is_local": true
   },
   {
+    "id": "223618",
+    "title": "Venus in the Sky",
+    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
+    "release_date": "2023-09-02",
+    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
+    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "301031",
     "title": "The Secrets of Hotel 88",
     "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
@@ -1341,23 +1358,6 @@
       9648,
       10759,
       10751,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "223618",
-    "title": "Venus in the Sky",
-    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
-    "release_date": "2023-09-02",
-    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
-    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1400,6 +1400,24 @@
     "is_local": true
   },
   {
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "239389",
     "title": "Fangs of Fortune",
     "overview": "During the Zhenyuan era, the accidental death of the Bai Ze goddess, who governed both human and demon realms, leads to chaos as demon beasts run rampant. Disguised as Zhao Yuanzhou, the demon leader Zhu Yan offers to form a demon-hunting bureau to help restore order.\n\nWen Xiao, suspicious of Zhao Yuanzhou, joins the bureau along with her childhood friend Zhuo Yichen, skilled archer Pei Sijing, and the talented but timid doctor Bai Jiu. Together, they confront the creatures from \"The Classic of Mountains and Seas\" and uncover the darker truths behind the chaos.",
@@ -1414,20 +1432,6 @@
       10765,
       9648
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1648,24 +1652,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.926,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "93975",
     "title": "TharnType",
     "overview": "Type hated the idea of sharing a room with a gay guy. But now, he's starting to question what he thought he knew.",
@@ -1694,6 +1680,24 @@
     "original_language": "nl",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.926,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2133,7 +2137,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.075,
+    "vote_average": 8.094,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2301,13 +2305,13 @@
     "is_local": true
   },
   {
-    "id": "139353",
-    "title": "Cutie Pie",
-    "overview": "Arranged to marry, a young tycoon and a free-spirited student face a test when one reveals that only duty, not love, keeps them together.",
-    "release_date": "2022-02-19",
-    "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
-    "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
-    "vote_average": 7.766,
+    "id": "122009",
+    "title": "Bad Buddy",
+    "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
+    "release_date": "2021-10-29",
+    "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
+    "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2319,13 +2323,13 @@
     "is_local": true
   },
   {
-    "id": "122009",
-    "title": "Bad Buddy",
-    "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
-    "release_date": "2021-10-29",
-    "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
-    "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
-    "vote_average": 8.5,
+    "id": "139353",
+    "title": "Cutie Pie",
+    "overview": "Arranged to marry, a young tycoon and a free-spirited student face a test when one reveals that only duty, not love, keeps them together.",
+    "release_date": "2022-02-19",
+    "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
+    "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
+    "vote_average": 7.766,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2356,24 +2360,6 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "110632",
     "title": "Love is Sweet",
     "overview": "Jiang Jun, a driven woman with a background in economics and psychology, leaves philanthropy to fulfill her late father’s wish by joining a top investment firm. There, she faces intense competition and reunites with her childhood friend-turned-rival, Yuan Shuai. With her intelligence and resilience, she navigates workplace challenges, uncovering hidden schemes while finding success in both her career and love.",
@@ -2386,6 +2372,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3211,15 +3215,15 @@
     "is_local": true
   },
   {
-    "id": "79434",
-    "title": "What's Wrong with Secretary Kim",
-    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
-    "release_date": "2018-06-06",
-    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
-    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
-    "vote_average": 8.304,
+    "id": "239993",
+    "title": "What's Wrong With Secretary Kim",
+    "overview": "A competent secretary and a narcissistic boss fall in love while uncovering a traumatic past that causes them to question whether their feelings are real or the result of a shared trauma.",
+    "release_date": "2024-03-18",
+    "poster_path": "/2NUtA4ODZphAknsXna84Nk9rq6F.jpg",
+    "backdrop_path": "/wvCF59w0fRTmPg3sJUxY3sf5p2C.jpg",
+    "vote_average": 8.333,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "tl",
     "genre_ids": [
       35,
       18
@@ -3414,6 +3418,23 @@
     "is_local": true
   },
   {
+    "id": "256542",
+    "title": "Game of True Love",
+    "overview": "Xu Nuo, the heiress to the Yuanfei Group, returns from studying abroad to find her family in disarray. Her mother has lost everything, and her foster brother, Shen Jiahe, is poised to take control of the family business. To make matters worse, her father's fiancée is Bai Xia, her old rival. Determined to reclaim her place and expose Shen Jiahe's true intentions, Xu Nuo devises a bold plan, setting off a high-stakes game of love and betrayal.",
+    "release_date": "2025-03-21",
+    "poster_path": "/3lyC6hEeZSuJhtHOjEfac1pkfrA.jpg",
+    "backdrop_path": "/pNmd3afju8ATyGqFcE1LgWycyvT.jpg",
+    "vote_average": 6.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "229915",
     "title": "Night Has Come",
     "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
@@ -3426,23 +3447,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "256542",
-    "title": "Game of True Love",
-    "overview": "Xu Nuo, the heiress to the Yuanfei Group, returns from studying abroad to find her family in disarray. Her mother has lost everything, and her foster brother, Shen Jiahe, is poised to take control of the family business. To make matters worse, her father's fiancée is Bai Xia, her old rival. Determined to reclaim her place and expose Shen Jiahe's true intentions, Xu Nuo devises a bold plan, setting off a high-stakes game of love and betrayal.",
-    "release_date": "2025-03-21",
-    "poster_path": "/3lyC6hEeZSuJhtHOjEfac1pkfrA.jpg",
-    "backdrop_path": "/pNmd3afju8ATyGqFcE1LgWycyvT.jpg",
-    "vote_average": 6.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3539,24 +3543,6 @@
     "is_local": true
   },
   {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253193",
     "title": "A Dream Within a Dream",
     "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
@@ -3585,6 +3571,24 @@
     "original_language": "th",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5354,6 +5358,38 @@
     "is_local": true
   },
   {
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "79434",
+    "title": "What's Wrong with Secretary Kim",
+    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
+    "release_date": "2018-06-06",
+    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "vote_average": 8.304,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "302569",
     "title": "What Lies Beneath",
     "overview": "A fractured group of women reunites to fulfill a childhood dream and honor a lost friend, but a dark secret from their past threatens to tear them apart.",
@@ -5406,42 +5442,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "239993",
-    "title": "What's Wrong With Secretary Kim",
-    "overview": "A competent secretary and a narcissistic boss fall in love while uncovering a traumatic past that causes them to question whether their feelings are real or the result of a shared trauma.",
-    "release_date": "2024-03-18",
-    "poster_path": "/2NUtA4ODZphAknsXna84Nk9rq6F.jpg",
-    "backdrop_path": "/wvCF59w0fRTmPg3sJUxY3sf5p2C.jpg",
-    "vote_average": 8.333,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "297424",
