@@ -128,24 +128,6 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "224935",
     "title": "Jin & Jun",
     "overview": "Jin and Jun tell about the adventures of Junaidi (Jun) with a 3000-year-old genie he discovered in the South Sea. Feeling freed by Jun, the genie who got \"Uncle Jin\" as his nickname has served Jun as his confidant.  Jun and Uncle Jin's exciting adventure begins.",
@@ -160,6 +142,24 @@
       18,
       10765,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1864,24 +1864,6 @@
     "is_local": true
   },
   {
-    "id": "262828",
-    "title": "Crushology 101",
-    "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
-    "release_date": "2025-04-11",
-    "poster_path": "/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
-    "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
-    "vote_average": 7.571,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "239386",
     "title": "Kiseki Miracle Season",
     "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
@@ -1900,16 +1882,17 @@
     "is_local": true
   },
   {
-    "id": "292144",
-    "title": "Ball Boy Tactics",
-    "overview": "A quiet ex-gymnast and a playful basketball star fall into a slow-burning romance where every glance and touch speaks louder than words.",
-    "release_date": "2025-06-05",
-    "poster_path": "/A7SrIG3PnTCd2PeZawdgxqpxrUY.jpg",
-    "backdrop_path": "/hXiVeUUAWWxebEL7dj8nC6geuJj.jpg",
-    "vote_average": 7.85,
+    "id": "262828",
+    "title": "Crushology 101",
+    "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
+    "release_date": "2025-04-11",
+    "poster_path": "/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+    "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
+    "vote_average": 7.571,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -1926,6 +1909,23 @@
     "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "292144",
+    "title": "Ball Boy Tactics",
+    "overview": "A quiet ex-gymnast and a playful basketball star fall into a slow-burning romance where every glance and touch speaks louder than words.",
+    "release_date": "2025-06-05",
+    "poster_path": "/A7SrIG3PnTCd2PeZawdgxqpxrUY.jpg",
+    "backdrop_path": "/hXiVeUUAWWxebEL7dj8nC6geuJj.jpg",
+    "vote_average": 7.85,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -2189,7 +2189,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.12,
+    "vote_average": 8.111,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3479,7 +3479,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.581,
+    "vote_average": 8.584,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4781,7 +4781,7 @@
     "release_date": "2024-10-09",
     "poster_path": "/drQh6tu7OupGBtE5zqVJB1AAGoa.jpg",
     "backdrop_path": "/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",
-    "vote_average": 7.867,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5155,7 +5155,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.253,
+    "vote_average": 8.254,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5243,7 +5243,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.113,
+    "vote_average": 8.145,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
