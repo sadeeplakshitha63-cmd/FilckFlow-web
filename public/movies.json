@@ -1,22 +1,5 @@
 [
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278166",
     "title": "Boys In Love",
     "overview": "This semester, studious Shane is tasked with tutoring feckless and flirtatious Kit. Meanwhile, just when Kim is ready to give up on love, new kid Mon arrives and it's love at first sight.",
@@ -47,6 +30,23 @@
     "genre_ids": [
       35,
       10751,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -148,24 +148,6 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "312381",
     "title": "Project Loki",
     "overview": "One of Wattpad’s top mystery-crime thrillers comes alive with Viva One stars Dylan Menor, Marco Gallo, and Jayda Avanzado. Join Loki and Lorelei as they crack puzzles, solve cases, and uncover dark secrets within the halls of Clark University.",
@@ -179,6 +161,24 @@
       80,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -349,7 +349,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.7,
+    "vote_average": 7.718,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -397,6 +397,24 @@
     "is_local": true
   },
   {
+    "id": "273174",
+    "title": "The Bangkok Boy",
+    "overview": "Sun's quest for vengeance in Bangkok takes a turn when he meets Peace, pulling him into a dangerous mix of love and bloodshed.",
+    "release_date": "2025-04-26",
+    "poster_path": "/od2LObXYa5JpDaSMSuol2HcteBo.jpg",
+    "backdrop_path": "/dopCLva8PYynC4OVQKtHyL608Yw.jpg",
+    "vote_average": 8.167,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "283952",
     "title": "A Splendid Match",
     "overview": "After years away from her family, Gu Jinzhao returns home and begins a remarkable transformation, from a carefree young woman into a poised and influential noble lady. As questions of marriage arise, she refuses to follow tradition and holds firmly to her own beliefs about love. But when multiple men enter her life, each offering a different future, who will Gu Jinzhao choose?",
@@ -414,18 +432,17 @@
     "is_local": true
   },
   {
-    "id": "273174",
-    "title": "The Bangkok Boy",
-    "overview": "Sun's quest for vengeance in Bangkok takes a turn when he meets Peace, pulling him into a dangerous mix of love and bloodshed.",
-    "release_date": "2025-04-26",
-    "poster_path": "/od2LObXYa5JpDaSMSuol2HcteBo.jpg",
-    "backdrop_path": "/dopCLva8PYynC4OVQKtHyL608Yw.jpg",
-    "vote_average": 8.167,
+    "id": "156990",
+    "title": "Unforgotten Night",
+    "overview": "A night of lust turns into obsession when a mafia boss finds the one person who satisfies him—in every way.",
+    "release_date": "2022-06-22",
+    "poster_path": "/qg6Hmw0OzZr72qwz5TfDAowqLbG.jpg",
+    "backdrop_path": "/dVKchZNQG0HpBIMonEkUDyfRFYP.jpg",
+    "vote_average": 6.444,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
-      18,
-      10759
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -446,23 +463,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "156990",
-    "title": "Unforgotten Night",
-    "overview": "A night of lust turns into obsession when a mafia boss finds the one person who satisfies him—in every way.",
-    "release_date": "2022-06-22",
-    "poster_path": "/qg6Hmw0OzZr72qwz5TfDAowqLbG.jpg",
-    "backdrop_path": "/dVKchZNQG0HpBIMonEkUDyfRFYP.jpg",
-    "vote_average": 6.444,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -740,26 +740,6 @@
     "is_local": true
   },
   {
-    "id": "259837",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "release_date": "2026-05-15",
-    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
-    "vote_average": 9.206,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "241613",
     "title": "The On1y One",
     "overview": "When their parents marry, two high school students become stepbrothers and navigate their relationship, turning from enemies into something more special.",
@@ -806,6 +786,26 @@
     "original_language": "zh",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259837",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "release_date": "2026-05-15",
+    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
+    "vote_average": 9.156,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      35,
+      10765,
       18
     ],
     "video_url": "",
@@ -1383,24 +1383,6 @@
     "is_local": true
   },
   {
-    "id": "297640",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "release_date": "2026-04-25",
-    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "229203",
     "title": "Stay With Me",
     "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
@@ -1455,6 +1437,24 @@
     "is_local": true
   },
   {
+    "id": "297640",
+    "title": "Filing for Love",
+    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+    "release_date": "2026-04-25",
+    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "223440",
     "title": "The Eighth Sense",
     "overview": "A rural freshman and a returning vet face a new kind of challenge: finding meaning in a crowded, fast-moving world.",
@@ -1490,23 +1490,6 @@
     "is_local": true
   },
   {
-    "id": "253093",
-    "title": "Shadow Love",
-    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
-    "release_date": "2025-08-24",
-    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
-    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -1520,6 +1503,23 @@
       10759,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253093",
+    "title": "Shadow Love",
+    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
+    "release_date": "2025-08-24",
+    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
+    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1940,7 +1940,7 @@
     "release_date": "2026-04-17",
     "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
     "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.9,
+    "vote_average": 8.931,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2189,7 +2189,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.12,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2348,7 +2348,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.532,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3763,7 +3763,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.454,
+    "vote_average": 8.444,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4034,7 +4034,7 @@
     "release_date": "2017-09-29",
     "poster_path": "/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
     "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
-    "vote_average": 7.629,
+    "vote_average": 7.626,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5243,7 +5243,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.113,
+    "vote_average": 8.145,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
