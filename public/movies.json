@@ -1,5 +1,23 @@
 [
   {
+    "id": 1241693,
+    "title": "Do Deewane Seher Mein",
+    "poster_path": "/pJu9oL6ElIaajAjwgoKyUCM319H.jpg",
+    "overview": "Two socially awkward millennials in Mumbai find love while struggling with self-acceptance. As they battle insecurities and societal pressure, their journey takes them from city chaos to mountain serenity.",
+    "vote_average": 6.75,
+    "release_date": "2026-02-20",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "original_language": "hi",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "278166",
     "title": "Boys In Love",
     "overview": "This semester, studious Shane is tasked with tutoring feckless and flirtatious Kit. Meanwhile, just when Kim is ready to give up on love, new kid Mon arrives and it's love at first sight.",
@@ -167,23 +185,6 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "282810",
     "title": "The Judge Returns",
     "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
@@ -215,6 +216,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -919,26 +937,6 @@
     "is_local": true
   },
   {
-    "id": "259837",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "release_date": "2026-05-15",
-    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
-    "vote_average": 9.174,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "219651",
     "title": "Welcome to Samdal-ri",
     "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
@@ -987,6 +985,26 @@
       18,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259837",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "release_date": "2026-05-15",
+    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
+    "vote_average": 9.266,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      35,
+      10765,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1560,24 +1578,6 @@
     "is_local": true
   },
   {
-    "id": "297640",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "release_date": "2026-04-25",
-    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "226186",
     "title": "My Journey To You",
     "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
@@ -1601,7 +1601,7 @@
     "release_date": "2010-03-18",
     "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
     "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.849,
+    "vote_average": 6.8,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -1623,6 +1623,24 @@
     "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297640",
+    "title": "Filing for Love",
+    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+    "release_date": "2026-04-25",
+    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -1861,24 +1879,6 @@
     "is_local": true
   },
   {
-    "id": "239386",
-    "title": "Kiseki Miracle Season",
-    "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
-    "release_date": "2024-03-18",
-    "poster_path": "/wc9ulWm12VD2cPZTfJfzyr3Diyr.jpg",
-    "backdrop_path": "/dXyM1wIp5UCpTRBpbanl6OaRkxu.jpg",
-    "vote_average": 7.667,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "262828",
     "title": "Crushology 101",
     "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
@@ -1891,6 +1891,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "239386",
+    "title": "Kiseki Miracle Season",
+    "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
+    "release_date": "2024-03-18",
+    "poster_path": "/wc9ulWm12VD2cPZTfJfzyr3Diyr.jpg",
+    "backdrop_path": "/dXyM1wIp5UCpTRBpbanl6OaRkxu.jpg",
+    "vote_average": 7.667,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1949,6 +1967,23 @@
     "is_local": true
   },
   {
+    "id": "254474",
+    "title": "The Princess Royal",
+    "overview": "Because of political reasons, princess Li Rong and Pei Wenxuan got married at the age of 18. In the end they drifted further and further afar from each other. After 20 years of a loveless marriage, they were manipulated into turning against each other, leading to their deaths. However, they wake up back at 18, before their marriage, facing the hardest time of their lives. The two of them are given second change together, to save those around them.",
+    "release_date": "2024-06-26",
+    "poster_path": "/rjWNfvAALgazLPyVCd9l9BJxR6o.jpg",
+    "backdrop_path": "/hJN6i5uoKHtYz66wotERToBaI10.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "230448",
     "title": "Mr. Plankton",
     "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
@@ -1960,23 +1995,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "254474",
-    "title": "The Princess Royal",
-    "overview": "Because of political reasons, princess Li Rong and Pei Wenxuan got married at the age of 18. In the end they drifted further and further afar from each other. After 20 years of a loveless marriage, they were manipulated into turning against each other, leading to their deaths. However, they wake up back at 18, before their marriage, facing the hardest time of their lives. The two of them are given second change together, to save those around them.",
-    "release_date": "2024-06-26",
-    "poster_path": "/rjWNfvAALgazLPyVCd9l9BJxR6o.jpg",
-    "backdrop_path": "/hJN6i5uoKHtYz66wotERToBaI10.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2650,7 +2668,7 @@
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.231,
+    "vote_average": 8.357,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3735,24 +3753,6 @@
     "is_local": true
   },
   {
-    "id": "239385",
-    "title": "The Manipulated",
-    "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
-    "release_date": "2025-11-05",
-    "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
-    "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.444,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252739",
     "title": "Goddess Bless You from Death",
     "overview": "A gifted young man and a rational detective investigate brutal forest murders, uncovering ancient beliefs and dangers that defy all logic.",
@@ -3766,6 +3766,24 @@
       18,
       9648,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "239385",
+    "title": "The Manipulated",
+    "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
+    "release_date": "2025-11-05",
+    "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
+    "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
+    "vote_average": 8.444,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
