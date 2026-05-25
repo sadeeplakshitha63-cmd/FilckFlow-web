@@ -24,7 +24,7 @@
     "release_date": "2026-01-17",
     "poster_path": "/6lnM7PecwSEyYjrWr2nQzmmZaDU.jpg",
     "backdrop_path": "/wESjJcBgXzPcDgHBmkWi25nbSI5.jpg",
-    "vote_average": 8.63,
+    "vote_average": 8.688,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -255,41 +255,6 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "226969",
-    "title": "Here We Meet Again",
-    "overview": "Xiang Yuan, who once unsuccessfully pursued Xu Yan Shi in school, reunites with him as an adult. While she works to save a company and he struggles to follow his dream of becoming a navigation engineer, they support each other through challenges and grow together.",
-    "release_date": "2023-05-22",
-    "poster_path": "/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg",
-    "backdrop_path": "/upDZaTR4RIGDp3lBw089R7KmGck.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "292614",
     "title": "World of Street Woman Fighter",
     "overview": "A global dance challenge that showcases the pride of strong women around the world.",
@@ -319,6 +284,41 @@
     "genre_ids": [
       80,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "226969",
+    "title": "Here We Meet Again",
+    "overview": "Xiang Yuan, who once unsuccessfully pursued Xu Yan Shi in school, reunites with him as an adult. While she works to save a company and he struggles to follow his dream of becoming a navigation engineer, they support each other through challenges and grow together.",
+    "release_date": "2023-05-22",
+    "poster_path": "/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg",
+    "backdrop_path": "/upDZaTR4RIGDp3lBw089R7KmGck.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1007,26 +1007,6 @@
     "is_local": true
   },
   {
-    "id": "259837",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "release_date": "2026-05-15",
-    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
-    "vote_average": 9.266,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "275593",
     "title": "Ms. Incognito",
     "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
@@ -1055,6 +1035,26 @@
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259837",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "release_date": "2026-05-15",
+    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
+    "vote_average": 9.266,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      35,
+      10765,
       18
     ],
     "video_url": "",
@@ -1631,24 +1631,6 @@
     "is_local": true
   },
   {
-    "id": "297640",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "release_date": "2026-04-25",
-    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "93975",
     "title": "TharnType",
     "overview": "Type hated the idea of sharing a room with a gay guy. But now, he's starting to question what he thought he knew.",
@@ -1676,6 +1658,24 @@
     "media_type": "movie",
     "original_language": "nl",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297640",
+    "title": "Filing for Love",
+    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+    "release_date": "2026-04-25",
+    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -2055,24 +2055,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.931,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "224030",
     "title": "High School Return of a Gangster",
     "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
@@ -2085,6 +2067,24 @@
     "genre_ids": [
       10765,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.931,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2464,6 +2464,24 @@
     "is_local": true
   },
   {
+    "id": "252318",
+    "title": "Melody of Golden Age",
+    "overview": "It tells the story of a pair of mortal enemies who accidentally became a couple but fell in love with each other in a series of bizarre cases and finally chose to fight side by side.",
+    "release_date": "2024-08-26",
+    "poster_path": "/864xVZaoWOWmfVSInVuPXgAwIV5.jpg",
+    "backdrop_path": "/5MKItvWyYYEjbbZdj9sYtchyI8l.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "107329",
     "title": "Go Ahead",
     "overview": "Three friends from troubled families form a unique, lasting bond — but their pasts soon cast a cloud over their lives.",
@@ -2477,24 +2495,6 @@
       18,
       10751,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252318",
-    "title": "Melody of Golden Age",
-    "overview": "It tells the story of a pair of mortal enemies who accidentally became a couple but fell in love with each other in a series of bizarre cases and finally chose to fight side by side.",
-    "release_date": "2024-08-26",
-    "poster_path": "/864xVZaoWOWmfVSInVuPXgAwIV5.jpg",
-    "backdrop_path": "/5MKItvWyYYEjbbZdj9sYtchyI8l.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3267,24 +3267,6 @@
     "is_local": true
   },
   {
-    "id": "278137",
-    "title": "Head 2 Head",
-    "overview": "A rivalry turns upside down when Jerome’s strange new ability shows him a shocking future—one where his enemy becomes his soulmate.",
-    "release_date": "2025-10-26",
-    "poster_path": "/lgY5E0Gc5LQMy4SD9vPk6EBOei1.jpg",
-    "backdrop_path": "/5i7rjtU016yD1ooGLva8LYaoWF0.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "254993",
     "title": "Embrace in the Dark Night",
     "overview": "Wen Xi is drawn into an underground fight club and becomes the prize for champion Xu Zheqing, who is secretly a security consultant tasked with saving her. Three years later, after her twin sister’s mysterious death, Wen Xi assumes her sister’s identity at a company, where she reunites with Xu. Now on opposite sides, can they reconcile their feelings and uncover the truth?",
@@ -3298,6 +3280,24 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278137",
+    "title": "Head 2 Head",
+    "overview": "A rivalry turns upside down when Jerome’s strange new ability shows him a shocking future—one where his enemy becomes his soulmate.",
+    "release_date": "2025-10-26",
+    "poster_path": "/lgY5E0Gc5LQMy4SD9vPk6EBOei1.jpg",
+    "backdrop_path": "/5i7rjtU016yD1ooGLva8LYaoWF0.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
