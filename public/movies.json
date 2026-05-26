@@ -24,7 +24,7 @@
     "release_date": "2026-01-17",
     "poster_path": "/6lnM7PecwSEyYjrWr2nQzmmZaDU.jpg",
     "backdrop_path": "/wESjJcBgXzPcDgHBmkWi25nbSI5.jpg",
-    "vote_average": 8.688,
+    "vote_average": 8.74,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -344,23 +344,6 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "259698",
     "title": "You Are My Secret",
     "overview": "Lobby manager Tu Xiaoning and rising business star Ji Yuheng reconnect as childhood friends with a shared goal of marriage. As their lives intertwine through work and love, they navigate the complexities of relationships, balancing their dual roles as colleagues and newlyweds.",
@@ -409,6 +392,23 @@
     "genre_ids": [
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -883,24 +883,6 @@
     "is_local": true
   },
   {
-    "id": "237882",
-    "title": "Are You The One",
-    "overview": "The clever and decisive Liu Miantang, as the first lord of Mount Yang, led the people of Mount Yang to punish the wicked, promote goodness, and uphold justice. However, she suffered serious injuries under the attack of various evil forces and was rescued by Cui Xingzhou, the Prince of Huai Yang. When Liu Miantang woke up, she had no memory of Mount Yang, mistaking Cui Xingzhou for her husband, Cui Jiu. However, if their identities were exposed, can they face it honestly while enduring hardships?",
-    "release_date": "2024-08-12",
-    "poster_path": "/4YgYVgzFLg3drAMm3FlpWzhSbcy.jpg",
-    "backdrop_path": "/hDk7lDjMWwTnOyhPgP9IWa2jPG3.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "229480",
     "title": "No Gain No Love",
     "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
@@ -913,6 +895,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237882",
+    "title": "Are You The One",
+    "overview": "The clever and decisive Liu Miantang, as the first lord of Mount Yang, led the people of Mount Yang to punish the wicked, promote goodness, and uphold justice. However, she suffered serious injuries under the attack of various evil forces and was rescued by Cui Xingzhou, the Prince of Huai Yang. When Liu Miantang woke up, she had no memory of Mount Yang, mistaking Cui Xingzhou for her husband, Cui Jiu. However, if their identities were exposed, can they face it honestly while enduring hardships?",
+    "release_date": "2024-08-12",
+    "poster_path": "/4YgYVgzFLg3drAMm3FlpWzhSbcy.jpg",
+    "backdrop_path": "/hDk7lDjMWwTnOyhPgP9IWa2jPG3.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1077,26 +1077,6 @@
     "is_local": true
   },
   {
-    "id": "259837",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "release_date": "2026-05-15",
-    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253946",
     "title": "Bad Guy My Boss",
     "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
@@ -1142,6 +1122,26 @@
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259837",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "release_date": "2026-05-15",
+    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      35,
+      10765,
       18
     ],
     "video_url": "",
@@ -1364,6 +1364,20 @@
     "is_local": true
   },
   {
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "301031",
     "title": "The Secrets of Hotel 88",
     "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
@@ -1379,20 +1393,6 @@
       10751,
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1486,23 +1486,6 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
-    "release_date": "2022-12-02",
-    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
-    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
-    "vote_average": 8.138,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -1536,6 +1519,23 @@
       18,
       10759,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
+    "release_date": "2022-12-02",
+    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
+    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
+    "vote_average": 8.138,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2074,24 +2074,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.931,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "135897",
     "title": "Our Beloved Summer",
     "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
@@ -2104,6 +2086,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.931,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2197,24 +2197,6 @@
     "is_local": true
   },
   {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.118,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "66433",
     "title": "Scarlet Heart: Ryeo",
     "overview": "A story of a 25-year-old Go Hajin who is transported back in time to the Goryeo Dynasty. She then wakes up in the body of Lady Hae Soo and finds herself amongst the ruling princes of the Wang Family.",
@@ -2261,6 +2243,24 @@
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 8.118,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
       18
     ],
     "video_url": "",
@@ -2451,7 +2451,7 @@
     "release_date": "2023-09-25",
     "poster_path": "/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
     "backdrop_path": "/9R3tyMeAEvY53Da6fVguBEVlfxE.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.727,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2483,6 +2483,23 @@
     "is_local": true
   },
   {
+    "id": "291753",
+    "title": "Boys II Planet",
+    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
+    "release_date": "2025-07-17",
+    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
+    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
+    "vote_average": 7.25,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "107329",
     "title": "Go Ahead",
     "overview": "Three friends from troubled families form a unique, lasting bond — but their pasts soon cast a cloud over their lives.",
@@ -2496,23 +2513,6 @@
       18,
       10751,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "291753",
-    "title": "Boys II Planet",
-    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
-    "release_date": "2025-07-17",
-    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
-    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
-    "vote_average": 7.25,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2682,24 +2682,6 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.467,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "65143",
     "title": "Descendants of the Sun",
     "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
@@ -2712,6 +2694,24 @@
     "genre_ids": [
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 8.563,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2808,6 +2808,23 @@
     "is_local": true
   },
   {
+    "id": "252320",
+    "title": "FEUD",
+    "overview": "Li Qingyue, the Four Spirit Immortal, and Bai Jiusi, the powerful Dacheng Lord, are caught in a turbulent love-hate relationship. As hidden truths come to light, they overcome their misunderstandings and join forces to protect the world from impending danger.",
+    "release_date": "2025-06-06",
+    "poster_path": "/fx7KQNaFUx5DaXMRm0pznHoLe04.jpg",
+    "backdrop_path": "/jHbPcwrjJzX74Hrkuy5LWxEER1E.jpg",
+    "vote_average": 7.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "124003",
     "title": "Perfect World",
     "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
@@ -2821,23 +2838,6 @@
       10759,
       10765,
       16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252320",
-    "title": "FEUD",
-    "overview": "Li Qingyue, the Four Spirit Immortal, and Bai Jiusi, the powerful Dacheng Lord, are caught in a turbulent love-hate relationship. As hidden truths come to light, they overcome their misunderstandings and join forces to protect the world from impending danger.",
-    "release_date": "2025-06-06",
-    "poster_path": "/fx7KQNaFUx5DaXMRm0pznHoLe04.jpg",
-    "backdrop_path": "/jHbPcwrjJzX74Hrkuy5LWxEER1E.jpg",
-    "vote_average": 7.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2976,23 +2976,6 @@
     "is_local": true
   },
   {
-    "id": "230735",
-    "title": "My Personal Weatherman",
-    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
-    "release_date": "2023-08-11",
-    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
-    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
-    "vote_average": 7.803,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237327",
     "title": "My Golden Blood",
     "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
@@ -3020,6 +3003,23 @@
     "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230735",
+    "title": "My Personal Weatherman",
+    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
+    "release_date": "2023-08-11",
+    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
+    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
+    "vote_average": 7.803,
+    "media_type": "tv",
+    "original_language": "ja",
     "genre_ids": [
       18
     ],
@@ -3476,7 +3476,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.586,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3697,20 +3697,17 @@
     "is_local": true
   },
   {
-    "id": "285278",
-    "title": "Idol I",
-    "overview": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
-    "release_date": "2025-12-22",
-    "poster_path": "/ii3CB9QwIEwClqt7MgRoe188BbO.jpg",
-    "backdrop_path": "/ilTl0g138RAgM1TEeCaPKl1FxSh.jpg",
-    "vote_average": 7.7,
+    "id": "13700",
+    "title": "Indian Idol",
+    "overview": "The Indian version of the Pop Idol format.",
+    "release_date": "2004-10-28",
+    "poster_path": "/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
+    "backdrop_path": "/qlnDrGpDmvKPQEnpge8yY3XTm0F.jpg",
+    "vote_average": 5.706,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "hi",
     "genre_ids": [
-      9648,
-      18,
-      80,
-      35
+      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3728,6 +3725,25 @@
     "original_language": "tl",
     "genre_ids": [
       35,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "252739",
+    "title": "Goddess Bless You from Death",
+    "overview": "A gifted young man and a rational detective investigate brutal forest murders, uncovering ancient beliefs and dangers that defy all logic.",
+    "release_date": "2025-10-31",
+    "poster_path": "/6oJfgHENTx0WOoXrzfOvIJDpwpd.jpg",
+    "backdrop_path": "/ex8tr0HjFIsOWf968DuJwTKAZjg.jpg",
+    "vote_average": 8.294,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      9648,
       10759
     ],
     "video_url": "",
@@ -3753,19 +3769,37 @@
     "is_local": true
   },
   {
-    "id": "252739",
-    "title": "Goddess Bless You from Death",
-    "overview": "A gifted young man and a rational detective investigate brutal forest murders, uncovering ancient beliefs and dangers that defy all logic.",
-    "release_date": "2025-10-31",
-    "poster_path": "/6oJfgHENTx0WOoXrzfOvIJDpwpd.jpg",
-    "backdrop_path": "/ex8tr0HjFIsOWf968DuJwTKAZjg.jpg",
-    "vote_average": 8.294,
+    "id": "955675",
+    "title": "The Greatest TV Shows of the Noughties",
+    "overview": "Channel 4 has conducted a survey with the leading TV critics and industry figures, and asked the public in a YouGov national poll, to tell us what they think was the greatest television of the last ten years.",
+    "release_date": "2009-12-27",
+    "poster_path": "/oLpzHSjCL618lFNaYMlX1AktEMt.jpg",
+    "backdrop_path": "",
+    "vote_average": 8,
     "media_type": "tv",
-    "original_language": "th",
+    "original_language": "en",
     "genre_ids": [
-      18,
+      99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285278",
+    "title": "Idol I",
+    "overview": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
+    "release_date": "2025-12-22",
+    "poster_path": "/ii3CB9QwIEwClqt7MgRoe188BbO.jpg",
+    "backdrop_path": "/ilTl0g138RAgM1TEeCaPKl1FxSh.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
       9648,
-      10759
+      18,
+      80,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5340,23 +5374,6 @@
     "is_local": true
   },
   {
-    "id": "955675",
-    "title": "The Greatest TV Shows of the Noughties",
-    "overview": "Channel 4 has conducted a survey with the leading TV critics and industry figures, and asked the public in a YouGov national poll, to tell us what they think was the greatest television of the last ten years.",
-    "release_date": "2009-12-27",
-    "poster_path": "/oLpzHSjCL618lFNaYMlX1AktEMt.jpg",
-    "backdrop_path": "",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      99
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "251652",
     "title": "Treasure Seeking: The Legend of ShenLi",
     "overview": "Shen Li, Xing Zhi, Mo Fang, Fu Rongjun, Tian Jun, and Jin Niangzi receive a task from the celestial realm: to go to Pushi City and capture the demon that has been causing trouble there for three years. The six of them transform into ordinary mortals and arrive in Pushi City, only to find that they have entered the era of the Republic of China. Disguising themselves, they begin their special mission to seal the demon",
@@ -6571,23 +6588,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "13700",
-    "title": "Indian Idol",
-    "overview": "The Indian version of the Pop Idol format.",
-    "release_date": "2004-10-28",
-    "poster_path": "/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
-    "backdrop_path": "/qlnDrGpDmvKPQEnpge8yY3XTm0F.jpg",
-    "vote_average": 5.706,
-    "media_type": "tv",
-    "original_language": "hi",
-    "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 251883,
