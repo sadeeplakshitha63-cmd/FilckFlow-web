@@ -152,7 +152,7 @@
     "release_date": "2024-02-29",
     "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
     "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.05,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -180,19 +180,18 @@
     "is_local": true
   },
   {
-    "id": "295509",
-    "title": "The Legend of Kitchen Soldier",
-    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
-    "release_date": "2026-05-11",
-    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
-    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "vote_average": 7.1,
+    "id": "226969",
+    "title": "Here We Meet Again",
+    "overview": "Xiang Yuan, who once unsuccessfully pursued Xu Yan Shi in school, reunites with him as an adult. While she works to save a company and he struggles to follow his dream of becoming a navigation engineer, they support each other through challenges and grow together.",
+    "release_date": "2023-05-22",
+    "poster_path": "/apssKZABQwMccM5EJPPCXwLHMvE.jpg",
+    "backdrop_path": "/upDZaTR4RIGDp3lBw089R7KmGck.jpg",
+    "vote_average": 8.2,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "zh",
     "genre_ids": [
-      10765,
-      35,
-      18
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -218,24 +217,6 @@
     "is_local": true
   },
   {
-    "id": "226969",
-    "title": "Here We Meet Again",
-    "overview": "Xiang Yuan, who once unsuccessfully pursued Xu Yan Shi in school, reunites with him as an adult. While she works to save a company and he struggles to follow his dream of becoming a navigation engineer, they support each other through challenges and grow together.",
-    "release_date": "2023-05-22",
-    "poster_path": "/apssKZABQwMccM5EJPPCXwLHMvE.jpg",
-    "backdrop_path": "/upDZaTR4RIGDp3lBw089R7KmGck.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237338",
     "title": "High School Frenemy",
     "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
@@ -246,6 +227,25 @@
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295509",
+    "title": "The Legend of Kitchen Soldier",
+    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+    "release_date": "2026-05-11",
+    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
+    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
       18
     ],
     "video_url": "",
@@ -1412,6 +1412,23 @@
     "is_local": true
   },
   {
+    "id": "253093",
+    "title": "Shadow Love",
+    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
+    "release_date": "2025-08-24",
+    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
+    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "243028",
     "title": "Love Song in Winter",
     "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
@@ -1424,23 +1441,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253093",
-    "title": "Shadow Love",
-    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
-    "release_date": "2025-08-24",
-    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
-    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2197,6 +2197,23 @@
     "is_local": true
   },
   {
+    "id": "282471",
+    "title": "ClaireBell",
+    "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
+    "release_date": "2025-10-27",
+    "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
+    "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
+    "vote_average": 8.313,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "314784",
     "title": "Absolute Value of Romance",
     "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
@@ -2209,23 +2226,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "282471",
-    "title": "ClaireBell",
-    "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
-    "release_date": "2025-10-27",
-    "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
-    "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-    "vote_average": 8.313,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2292,7 +2292,7 @@
     "release_date": "2022-02-19",
     "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
     "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
-    "vote_average": 7.766,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2743,7 +2743,7 @@
     "release_date": "2017-02-24",
     "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
     "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
-    "vote_average": 8.044,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3035,7 +3035,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.18,
+    "vote_average": 8.196,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4314,7 +4314,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/dbqNBeLvAWFqpAvdBc0cecaqytT.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.672,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4747,7 +4747,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.72,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5491,7 +5491,7 @@
     "release_date": "2024-04-04",
     "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
     "backdrop_path": "/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
-    "vote_average": 8.111,
+    "vote_average": 8.1,
     "media_type": "movie",
     "original_language": "th",
     "genre_ids": [
