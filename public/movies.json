@@ -42,7 +42,7 @@
     "release_date": "2025-05-12",
     "poster_path": "/eJLFeRmxssjQgV1wmtgdKwzYLEC.jpg",
     "backdrop_path": "/xMgfvjhKwuFTyoXNpa8UVV74rek.jpg",
-    "vote_average": 8.264,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -152,7 +152,7 @@
     "release_date": "2024-02-29",
     "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
     "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.05,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -234,6 +234,24 @@
     "is_local": true
   },
   {
+    "id": "227191",
+    "title": "Nine Puzzles",
+    "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
+    "release_date": "2025-05-21",
+    "poster_path": "/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
+    "backdrop_path": "/6OfitF3ifOJmlglcixB3ixnNydW.jpg",
+    "vote_average": 7.856,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "295509",
     "title": "The Legend of Kitchen Soldier",
     "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
@@ -247,24 +265,6 @@
       10765,
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "227191",
-    "title": "Nine Puzzles",
-    "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
-    "release_date": "2025-05-21",
-    "poster_path": "/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
-    "backdrop_path": "/6OfitF3ifOJmlglcixB3ixnNydW.jpg",
-    "vote_average": 7.856,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1092,6 +1092,23 @@
     "is_local": true
   },
   {
+    "id": "305105",
+    "title": "Peach Lover",
+    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
+    "release_date": "2026-01-20",
+    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
+    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278275",
     "title": "Veil of Shadows",
     "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
@@ -1104,23 +1121,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "305105",
-    "title": "Peach Lover",
-    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
-    "release_date": "2026-01-20",
-    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
-    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1259,7 +1259,7 @@
     "release_date": "2023-07-09",
     "poster_path": "/30ZApQjC28XNAGGiqgHvFp4PyUT.jpg",
     "backdrop_path": "/aOWeObc5rNh6nPYWJybfyau9gRM.jpg",
-    "vote_average": 7.977,
+    "vote_average": 7.935,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1472,8 +1472,8 @@
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
     "release_date": "2019-06-27",
     "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
-    "backdrop_path": "/mthKQh5uBwRnwJOafA1xfGOoj3J.jpg",
-    "vote_average": 8.513,
+    "backdrop_path": "/ampkwvfwO7o5YMwYAVPKx1PLDaB.jpg",
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1558,6 +1558,24 @@
     "is_local": true
   },
   {
+    "id": "127493",
+    "title": "You Are My Glory",
+    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
+    "release_date": "2021-07-26",
+    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
+    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
+    "vote_average": 8.216,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "42188",
     "title": "Never Let Me Go",
     "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
@@ -1577,31 +1595,13 @@
     "is_local": true
   },
   {
-    "id": "127493",
-    "title": "You Are My Glory",
-    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
-    "release_date": "2021-07-26",
-    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
-    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "vote_average": 8.216,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "664413",
     "title": "365 Days",
     "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
     "release_date": "2020-02-07",
     "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
     "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
-    "vote_average": 6.992,
+    "vote_average": 6.993,
     "media_type": "movie",
     "original_language": "pl",
     "genre_ids": [
@@ -1665,6 +1665,24 @@
     "is_local": true
   },
   {
+    "id": "216264",
+    "title": "The Last Immortal",
+    "overview": "Yin, a hardworking Shuining Beast, and Gu Jin, the son of the true God whose magic has been sealed, meet by chance and embark on a quest to find Feng Yin's Immortal Essence. Alongside their companions, Hong Yi of the Fox Clan and Yan Shuang of the Eagle Clan, they face numerous challenges to collect the essence. Battling the villain Qing Lin and his followers, they overcome obstacles and, in the end, not only fulfill their mission to restore peace but also find love, friendship, and family.",
+    "release_date": "2023-12-11",
+    "poster_path": "/33zNWhfS3r0xWp7EaXtO9LDoB5Y.jpg",
+    "backdrop_path": "/xWb85qKubVjA39rVbBCXLOVl8Kg.jpg",
+    "vote_average": 7.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "259837",
     "title": "The WONDERfools",
     "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
@@ -1679,24 +1697,6 @@
       35,
       10765,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "216264",
-    "title": "The Last Immortal",
-    "overview": "Yin, a hardworking Shuining Beast, and Gu Jin, the son of the true God whose magic has been sealed, meet by chance and embark on a quest to find Feng Yin's Immortal Essence. Alongside their companions, Hong Yi of the Fox Clan and Yan Shuang of the Eagle Clan, they face numerous challenges to collect the essence. Battling the villain Qing Lin and his followers, they overcome obstacles and, in the end, not only fulfill their mission to restore peace but also find love, friendship, and family.",
-    "release_date": "2023-12-11",
-    "poster_path": "/33zNWhfS3r0xWp7EaXtO9LDoB5Y.jpg",
-    "backdrop_path": "/xWb85qKubVjA39rVbBCXLOVl8Kg.jpg",
-    "vote_average": 7.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1938,7 +1938,7 @@
     "release_date": "2024-11-08",
     "poster_path": "/AsnE5TY4NaYHGJXYxiVaA57nCqo.jpg",
     "backdrop_path": "/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
-    "vote_average": 8.071,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2214,24 +2214,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "66433",
     "title": "Scarlet Heart: Ryeo",
     "overview": "A story of a 25-year-old Go Hajin who is transported back in time to the Goryeo Dynasty. She then wakes up in the body of Lady Hae Soo and finds herself amongst the ruling princes of the Wang Family.",
@@ -2245,6 +2227,24 @@
       18,
       10765,
       10768
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2292,7 +2292,7 @@
     "release_date": "2022-02-19",
     "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
     "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.766,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2560,7 +2560,7 @@
     "release_date": "2020-08-10",
     "poster_path": "/75SigmLMhs3x4rA149w2hxT3iXD.jpg",
     "backdrop_path": "/4jLKnw4No3OoFDZw34E6E3bX1NZ.jpg",
-    "vote_average": 8.38,
+    "vote_average": 8.388,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2651,7 +2651,7 @@
     "release_date": "2025-06-11",
     "poster_path": "/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
     "backdrop_path": "/xPFmxUuZnmYAlpoO5QI9AdYegxt.jpg",
-    "vote_average": 8.35,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2743,7 +2743,7 @@
     "release_date": "2017-02-24",
     "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
     "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
-    "vote_average": 8,
+    "vote_average": 8.044,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2814,7 +2814,7 @@
     "release_date": "2021-04-23",
     "poster_path": "/qy60bm9admmgpkmcPeW4BvRjjVm.jpg",
     "backdrop_path": "/vMIlGA4HJnJekSboqk4ap0lz2Sd.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.417,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2871,7 +2871,7 @@
     "release_date": "2025-05-24",
     "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
     "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.453,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3017,7 +3017,7 @@
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.283,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3312,7 +3312,7 @@
     "release_date": "2022-08-07",
     "poster_path": "/9iigsYwHsBlU1As6ChDHHTJmVKd.jpg",
     "backdrop_path": "/pECcUE53TjkrR2VsAgF7JICzH7k.jpg",
-    "vote_average": 8.197,
+    "vote_average": 8.207,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4385,7 +4385,7 @@
     "release_date": "2021-12-18",
     "poster_path": "/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg",
     "backdrop_path": "/dyBkTBcRIw5BC78zCauyrRm5EhJ.jpg",
-    "vote_average": 8.513,
+    "vote_average": 8.518,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4621,7 +4621,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.358,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4657,7 +4657,7 @@
     "release_date": "2025-09-26",
     "poster_path": "/iH8J36LMEYdvOlYvbBcYCK0ckpp.jpg",
     "backdrop_path": "/vNqDJzm7AR95NpLzDn85dEL84vv.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.423,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5052,7 +5052,7 @@
     "release_date": "2023-11-24",
     "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
     "backdrop_path": "/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
-    "vote_average": 8.437,
+    "vote_average": 8.439,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5155,7 +5155,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.717,
+    "vote_average": 8.699,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5296,7 +5296,7 @@
     "release_date": "2025-12-12",
     "poster_path": "/tnN7OcVOfIhJATSquVzvMoxLPoR.jpg",
     "backdrop_path": "/bbSaCxOIew0PfkG2kie7h1Gf3gf.jpg",
-    "vote_average": 8.192,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
