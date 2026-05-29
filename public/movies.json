@@ -1,23 +1,5 @@
 [
   {
-    "id": 252372,
-    "title": "Murder Mindfully",
-    "poster_path": "/rt6SspSLBl5PqWXGstR7HlUM3Nj.jpg",
-    "overview": "When mafia lawyer Björn attends a mindfulness class to find a better work-life balance, he discovers surprising new coping strategies — including murder.",
-    "vote_average": 7.7,
-    "release_date": "2024-10-31",
-    "genre_ids": [
-      18,
-      35,
-      80
-    ],
-    "original_language": "de",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "296009",
     "title": "Positively Yours",
     "overview": "A man and a woman who swore off marriage find their carefully controlled lives overturned after a one-night mistake forces them into an unexpected, reverse romance neither planned nor wanted.",
@@ -415,6 +397,24 @@
     "is_local": true
   },
   {
+    "id": "298281",
+    "title": "My Bias is Showing?!",
+    "overview": "A flustered teacher scrambles to hide his fanboy side when his idol films at school—but being cast as his co-mentor makes secrets hard to keep.",
+    "release_date": "2025-08-28",
+    "poster_path": "/71dxvGtvFGvjUZzdLr8WaDpohgd.jpg",
+    "backdrop_path": "/sBIVxIpOXhDsCKs3ibINdCoqGGJ.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -429,24 +429,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "298281",
-    "title": "My Bias is Showing?!",
-    "overview": "A flustered teacher scrambles to hide his fanboy side when his idol films at school—but being cast as his co-mentor makes secrets hard to keep.",
-    "release_date": "2025-08-28",
-    "poster_path": "/71dxvGtvFGvjUZzdLr8WaDpohgd.jpg",
-    "backdrop_path": "/sBIVxIpOXhDsCKs3ibINdCoqGGJ.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -470,25 +452,6 @@
     "is_local": true
   },
   {
-    "id": "295509",
-    "title": "The Legend of Kitchen Soldier",
-    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
-    "release_date": "2026-05-11",
-    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
-    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -502,6 +465,25 @@
       10759,
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295509",
+    "title": "The Legend of Kitchen Soldier",
+    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+    "release_date": "2026-05-11",
+    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
+    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -598,24 +580,6 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "208591",
     "title": "Ai Long Nhai",
     "overview": "Expelled from school abroad, Ai starts fresh and falls for Nhai, a carefree student who doesn’t like him back—yet.",
@@ -644,6 +608,24 @@
     "original_language": "ko",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1094,24 +1076,6 @@
     "is_local": true
   },
   {
-    "id": "278275",
-    "title": "Veil of Shadows",
-    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
-    "release_date": "2026-04-01",
-    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
-    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "305105",
     "title": "Peach Lover",
     "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
@@ -1129,17 +1093,18 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 9,
+    "id": "278275",
+    "title": "Veil of Shadows",
+    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
+    "release_date": "2026-04-01",
+    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
+    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1177,6 +1142,23 @@
       18,
       35,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1361,18 +1343,15 @@
     "is_local": true
   },
   {
-    "id": "68045",
+    "id": "631895",
     "title": "Stay with Me",
-    "overview": "After an accidental drowning, Li Wei Wei a famous fashion designer, loses parts of her memory. Whereby her memories stop at when she was 23. The boyfriend she remembers has now become her ex and rival, and instead a stranger is her fiancé. Li Wei Wei does not believe that she broke up with her ex Chen Yi Du and investigates the reason to as why they did. Her fiancé Qi Cheng, in order to protect and rekindle his relationship, uses all methods to prevent Wei Wei from investigating. During her investigation, Wei Wei discovers that due to the hectic lifestyle of adulthood, she has lost the innocence of her original dreams. It was this very reason as well to as why she and her ex broke up. The now 30 years old Li Wei Wei has decided to change her lifestyle. She plans to regain her most pure emotions and dreams as well as finding true love.",
-    "release_date": "2016-12-11",
-    "poster_path": "/76qtuHvpqzp30By8Cp16R0t0Mtc.jpg",
-    "backdrop_path": "/30EGncmHcKRY0z3eerA3EvDTowx.jpg",
-    "vote_average": 4.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1557,24 +1536,6 @@
     "is_local": true
   },
   {
-    "id": "127493",
-    "title": "You Are My Glory",
-    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
-    "release_date": "2021-07-26",
-    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
-    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "vote_average": 8.216,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "42188",
     "title": "Never Let Me Go",
     "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
@@ -1588,6 +1549,24 @@
       18,
       10749,
       878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "127493",
+    "title": "You Are My Glory",
+    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
+    "release_date": "2021-07-26",
+    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
+    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
+    "vote_average": 8.216,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1861,26 +1840,6 @@
     "is_local": true
   },
   {
-    "id": "259837",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "release_date": "2026-05-15",
-    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
-    "vote_average": 9.279,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "239386",
     "title": "Kiseki Miracle Season",
     "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
@@ -1893,6 +1852,26 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259837",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "release_date": "2026-05-15",
+    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
+    "vote_average": 9.241,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      35,
+      10765,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2113,6 +2092,21 @@
     "is_local": true
   },
   {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "297640",
     "title": "Filing for Love",
     "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
@@ -2126,21 +2120,6 @@
       35,
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2707,7 +2686,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.534,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3128,7 +3107,7 @@
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.037,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3177,6 +3156,25 @@
     "is_local": true
   },
   {
+    "id": "307624",
+    "title": "Sammy's Children's Day",
+    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
+    "release_date": "2026-03-13",
+    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
+    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
+    "vote_average": 8.769,
+    "media_type": "tv",
+    "original_language": "cn",
+    "genre_ids": [
+      18,
+      80,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "228429",
     "title": "Soul Land 2: The Peerless Tang Clan",
     "overview": "The Tang Sect in a turbulent world. There is nothing but martial spirit here. Ten thousand years after the founding of the Tang Sect, it is in relative decline. An extremely talented man was born. Can the new Shrek Seven Monsters revive the Tang Sect and bring it back to glory? A soul beast of over one million years old; Electrolux who can pick stars; The new soul utensil system that led to the decline of the Tang Sect... A lot of secrets are to be revealed. Can the secret weapons of the Tang Sect be sharp again? Can the Tang Sect regain its former glory?",
@@ -3191,25 +3189,6 @@
       10765,
       10759,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "307624",
-    "title": "Sammy's Children's Day",
-    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
-    "release_date": "2026-03-13",
-    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
-    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 8.769,
-    "media_type": "tv",
-    "original_language": "cn",
-    "genre_ids": [
-      18,
-      80,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3668,23 +3647,6 @@
     "is_local": true
   },
   {
-    "id": "261600",
-    "title": "Always Home",
-    "overview": "Chen Huan’er, along with her friends Jing Xichi and Song Cong, navigates the journey from high school to adulthood. Together, they experience love, loss, family struggles, and personal growth. As life takes them in unexpected directions, their enduring friendship remains a constant through every challenge.",
-    "release_date": "2025-02-15",
-    "poster_path": "/geDp6b1qRXH5ZtetqRU1XLSqDv7.jpg",
-    "backdrop_path": "/n7geLpWf7ZbeiEv4XESL6aOJ78J.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "235355",
     "title": "Resident Playbook",
     "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
@@ -3694,6 +3656,23 @@
     "vote_average": 8.043,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261600",
+    "title": "Always Home",
+    "overview": "Chen Huan’er, along with her friends Jing Xichi and Song Cong, navigates the journey from high school to adulthood. Together, they experience love, loss, family struggles, and personal growth. As life takes them in unexpected directions, their enduring friendship remains a constant through every challenge.",
+    "release_date": "2025-02-15",
+    "poster_path": "/geDp6b1qRXH5ZtetqRU1XLSqDv7.jpg",
+    "backdrop_path": "/n7geLpWf7ZbeiEv4XESL6aOJ78J.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -3909,7 +3888,7 @@
     "release_date": "2025-02-21",
     "poster_path": "/vKf5h2xEtmTSp4GcYXPOUWdocQ7.jpg",
     "backdrop_path": "/vJMoMgjavkgkaUBDGQVVv4OjTjf.jpg",
-    "vote_average": 8.208,
+    "vote_average": 8.204,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4098,24 +4077,6 @@
     "is_local": true
   },
   {
-    "id": "232510",
-    "title": "MIGNON",
-    "overview": "In a brutal underground world, a vampire medic and a wounded young fighter form a fragile bond—one built on pain, longing, and forbidden desire.",
-    "release_date": "2023-08-11",
-    "poster_path": "/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
-    "backdrop_path": "/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
-    "vote_average": 7.16,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      16,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "208336",
     "title": "Revenge of Others",
     "overview": "A boy falls to his death at school, but Ok Chan-mi does not believe that her twin brother, Park Won-seok, committed suicide. Chan-mi transfers to her brother's school, Yongtan High, and meets Ji Soo-heon, who witnessed her brother's death. A \"hero,\" who avenges bullied students, appears at Yongtan High. Chan-mi speculates that it may be connected to her brother and starts looking for this hero.",
@@ -4128,6 +4089,24 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "232510",
+    "title": "MIGNON",
+    "overview": "In a brutal underground world, a vampire medic and a wounded young fighter form a fragile bond—one built on pain, longing, and forbidden desire.",
+    "release_date": "2023-08-11",
+    "poster_path": "/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
+    "backdrop_path": "/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
+    "vote_average": 7.16,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      16,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5174,7 +5153,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.699,
+    "vote_average": 8.703,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5521,6 +5500,41 @@
     "is_local": true
   },
   {
+    "id": 252372,
+    "title": "Murder Mindfully",
+    "poster_path": "/rt6SspSLBl5PqWXGstR7HlUM3Nj.jpg",
+    "overview": "When mafia lawyer Björn attends a mindfulness class to find a better work-life balance, he discovers surprising new coping strategies — including murder.",
+    "vote_average": 7.7,
+    "release_date": "2024-10-31",
+    "genre_ids": [
+      18,
+      35,
+      80
+    ],
+    "original_language": "de",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "68045",
+    "title": "Stay with Me",
+    "overview": "After an accidental drowning, Li Wei Wei a famous fashion designer, loses parts of her memory. Whereby her memories stop at when she was 23. The boyfriend she remembers has now become her ex and rival, and instead a stranger is her fiancé. Li Wei Wei does not believe that she broke up with her ex Chen Yi Du and investigates the reason to as why they did. Her fiancé Qi Cheng, in order to protect and rekindle his relationship, uses all methods to prevent Wei Wei from investigating. During her investigation, Wei Wei discovers that due to the hectic lifestyle of adulthood, she has lost the innocence of her original dreams. It was this very reason as well to as why she and her ex broke up. The now 30 years old Li Wei Wei has decided to change her lifestyle. She plans to regain her most pure emotions and dreams as well as finding true love.",
+    "release_date": "2016-12-11",
+    "poster_path": "/76qtuHvpqzp30By8Cp16R0t0Mtc.jpg",
+    "backdrop_path": "/30EGncmHcKRY0z3eerA3EvDTowx.jpg",
+    "vote_average": 4.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 1433117,
     "title": "Kara",
     "poster_path": "/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
@@ -5585,20 +5599,6 @@
       35,
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
