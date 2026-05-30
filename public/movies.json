@@ -357,25 +357,6 @@
     "is_local": true
   },
   {
-    "id": "312381",
-    "title": "Project Loki",
-    "overview": "One of Wattpad’s top mystery-crime thrillers comes alive with Viva One stars Dylan Menor, Marco Gallo, and Jayda Avanzado. Join Loki and Lorelei as they crack puzzles, solve cases, and uncover dark secrets within the halls of Clark University.",
-    "release_date": "2026-02-21",
-    "poster_path": "/44hWjk2A4cf9X3JDOCcvQxGMsGW.jpg",
-    "backdrop_path": "/vNbWPmU8XezUyST0A4FTBrBdp0O.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "203164",
     "title": "Strong Girl Nam-soon",
     "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
@@ -390,6 +371,25 @@
       18,
       10765,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "312381",
+    "title": "Project Loki",
+    "overview": "One of Wattpad’s top mystery-crime thrillers comes alive with Viva One stars Dylan Menor, Marco Gallo, and Jayda Avanzado. Join Loki and Lorelei as they crack puzzles, solve cases, and uncover dark secrets within the halls of Clark University.",
+    "release_date": "2026-02-21",
+    "poster_path": "/44hWjk2A4cf9X3JDOCcvQxGMsGW.jpg",
+    "backdrop_path": "/vNbWPmU8XezUyST0A4FTBrBdp0O.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      80,
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1236,25 +1236,6 @@
     "is_local": true
   },
   {
-    "id": "215001",
-    "title": "Destined with You",
-    "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
-    "release_date": "2023-08-23",
-    "poster_path": "/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
-    "backdrop_path": "/jJMfTkvU2exHwCFoBHsIqwaHImh.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "217804",
     "title": "Hidden Agenda",
     "overview": "University student Zo finally decides to pursue his longtime crush, Nita. To win her over, he seeks help from her ex, Joke, who has his own secret motives.",
@@ -1273,17 +1254,19 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 9,
+    "id": "215001",
+    "title": "Destined with You",
+    "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
+    "release_date": "2023-08-23",
+    "poster_path": "/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
+    "backdrop_path": "/jJMfTkvU2exHwCFoBHsIqwaHImh.jpg",
+    "vote_average": 8.1,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "ko",
     "genre_ids": [
-      18
+      18,
+      10765,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1317,6 +1300,23 @@
     "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -1913,19 +1913,19 @@
     "is_local": true
   },
   {
-    "id": "259837",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "release_date": "2026-05-15",
-    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
-    "vote_average": 9.2,
+    "id": "233742",
+    "title": "Newtopia",
+    "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
+    "release_date": "2025-02-07",
+    "poster_path": "/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
+    "backdrop_path": "/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
+    "vote_average": 7.902,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
+      10765,
       10759,
       35,
-      10765,
       18
     ],
     "video_url": "",
@@ -1951,26 +1951,6 @@
     "is_local": true
   },
   {
-    "id": "233742",
-    "title": "Newtopia",
-    "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
-    "release_date": "2025-02-07",
-    "poster_path": "/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
-    "backdrop_path": "/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
-    "vote_average": 7.902,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      10759,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "254474",
     "title": "The Princess Royal",
     "overview": "Because of political reasons, princess Li Rong and Pei Wenxuan got married at the age of 18. In the end they drifted further and further afar from each other. After 20 years of a loveless marriage, they were manipulated into turning against each other, leading to their deaths. However, they wake up back at 18, before their marriage, facing the hardest time of their lives. The two of them are given second change together, to save those around them.",
@@ -1981,6 +1961,26 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259837",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "release_date": "2026-05-15",
+    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      35,
+      10765,
       18
     ],
     "video_url": "",
@@ -2616,7 +2616,7 @@
     "release_date": "2026-04-17",
     "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
     "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 9,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3198,6 +3198,24 @@
     "is_local": true
   },
   {
+    "id": "239993",
+    "title": "What's Wrong With Secretary Kim",
+    "overview": "A competent secretary and a narcissistic boss fall in love while uncovering a traumatic past that causes them to question whether their feelings are real or the result of a shared trauma.",
+    "release_date": "2024-03-18",
+    "poster_path": "/2NUtA4ODZphAknsXna84Nk9rq6F.jpg",
+    "backdrop_path": "/wvCF59w0fRTmPg3sJUxY3sf5p2C.jpg",
+    "vote_average": 8.333,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "217807",
     "title": "Only Friends",
     "overview": "A group of business students running a hostel blur the lines between friendship and romance.",
@@ -3208,24 +3226,6 @@
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "79434",
-    "title": "What's Wrong with Secretary Kim",
-    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
-    "release_date": "2018-06-06",
-    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
-    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
-    "vote_average": 8.304,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -3515,7 +3515,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.587,
+    "vote_average": 8.589,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4133,23 +4133,6 @@
     "is_local": true
   },
   {
-    "id": "231299",
-    "title": "My Universe",
-    "overview": "An anthology of 12 stories exploring the diverse journeys of 11 couples, blending romance, drama, comedy, and thrills to create unforgettable tales.",
-    "release_date": "2023-08-20",
-    "poster_path": "/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg",
-    "backdrop_path": "/eFS47PfTc8Jae9FF1pvUe15tuDA.jpg",
-    "vote_average": 5.7,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "135157",
     "title": "Alchemy of Souls",
     "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
@@ -4164,6 +4147,23 @@
       10765,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "231299",
+    "title": "My Universe",
+    "overview": "An anthology of 12 stories exploring the diverse journeys of 11 couples, blending romance, drama, comedy, and thrills to create unforgettable tales.",
+    "release_date": "2023-08-20",
+    "poster_path": "/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg",
+    "backdrop_path": "/eFS47PfTc8Jae9FF1pvUe15tuDA.jpg",
+    "vote_average": 5.7,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4835,7 +4835,7 @@
     "release_date": "2022-04-02",
     "poster_path": "/hdPLe50HbZHsETXQRcIP8gw7cKz.jpg",
     "backdrop_path": "/wTgDY1izbDCbdgsNS1ujLk7lepG.jpg",
-    "vote_average": 8.673,
+    "vote_average": 8.681,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -5053,7 +5053,7 @@
     "release_date": "2023-11-24",
     "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
     "backdrop_path": "/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
-    "vote_average": 8.439,
+    "vote_average": 8.442,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5503,6 +5503,24 @@
     "is_local": true
   },
   {
+    "id": "79434",
+    "title": "What's Wrong with Secretary Kim",
+    "overview": "Lee Young-Joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-So. She has worked for him for years and she is perfect for him, but Kim Mi-So decides to quit her job.",
+    "release_date": "2018-06-06",
+    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "vote_average": 8.304,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "631895",
     "title": "Stay with Me",
     "overview": "",
@@ -5512,24 +5530,6 @@
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "239993",
-    "title": "What's Wrong With Secretary Kim",
-    "overview": "A competent secretary and a narcissistic boss fall in love while uncovering a traumatic past that causes them to question whether their feelings are real or the result of a shared trauma.",
-    "release_date": "2024-03-18",
-    "poster_path": "/2NUtA4ODZphAknsXna84Nk9rq6F.jpg",
-    "backdrop_path": "/wvCF59w0fRTmPg3sJUxY3sf5p2C.jpg",
-    "vote_average": 8.333,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      18
-    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
