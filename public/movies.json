@@ -1,17 +1,69 @@
 [
   {
-    "id": 246403,
-    "title": "Tusk",
-    "poster_path": "/pA2SgITmH0lzet9Nn5cxeinRKMv.jpg",
-    "overview": "When his best friend and podcast co-host goes missing in the backwoods of Canada, a young guy joins forces with his friend's girlfriend to search for him.",
-    "vote_average": 5.522,
-    "release_date": "2014-09-19",
+    "id": 744276,
+    "title": "After Ever Happy",
+    "poster_path": "/moogpu8rNkEjTgFyLXwhPghft5w.jpg",
+    "overview": "As a shocking truth about a couple's families emerges, the two lovers discover they are not so different from each other. Tessa is no longer the sweet, simple, good girl she was when she met Hardin — any more than he is the cruel, moody boy she fell so hard for.",
+    "vote_average": 6.772,
+    "release_date": "2022-08-24",
     "genre_ids": [
-      35,
-      27
+      10749,
+      18
     ],
     "original_language": "en",
     "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 857598,
+    "title": "Pushpa 2 - The Rule",
+    "poster_path": "/bhxZj3y59cK7JtGdV285dhDRaMe.jpg",
+    "overview": "As his smuggling empire grows, a brazen Pushpa longs for power and respect on his vengeful journey, while facing old rivals and new.",
+    "vote_average": 6.29,
+    "release_date": "2024-12-04",
+    "genre_ids": [
+      28,
+      18,
+      53,
+      80
+    ],
+    "original_language": "te",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 292532,
+    "title": "Brazil '70: The Third Star",
+    "poster_path": "/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
+    "overview": "In 1970, the Brazilian national team took the field with big dreams and an even bigger challenge: to become the first three-time world champions.",
+    "vote_average": 9.5,
+    "release_date": "2026-05-29",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "pt",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 245219,
+    "title": "Death by Lightning",
+    "poster_path": "/KyUrz3GA1FML3XnKkY795XxDxN.jpg",
+    "overview": "The story of James Garfield, who rose from obscurity to become America's 20th President — and Charles Guiteau, the man who assassinated him.",
+    "vote_average": 7.4,
+    "release_date": "2025-11-06",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "original_language": "en",
+    "media_type": "tv",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
@@ -685,6 +737,23 @@
     "is_local": true
   },
   {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "295509",
     "title": "The Legend of Kitchen Soldier",
     "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
@@ -698,23 +767,6 @@
       10765,
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
-    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1127,24 +1179,6 @@
     "is_local": true
   },
   {
-    "id": "233100",
-    "title": "Love Scout",
-    "overview": "Yoo Eun-ho, a single dad armed with perfection, becomes the secretary of Kang Ji-yun, the CEO of a popular headhunter company, who doesn't do anything except work.",
-    "release_date": "2025-01-03",
-    "poster_path": "/sp7OIpJl6uLiPqTgsc2wwrO9P8c.jpg",
-    "backdrop_path": "/lzidnBhiOCJdtKkUBD2TOfYLE8d.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
@@ -1158,6 +1192,24 @@
       18,
       35,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233100",
+    "title": "Love Scout",
+    "overview": "Yoo Eun-ho, a single dad armed with perfection, becomes the secretary of Kang Ji-yun, the CEO of a popular headhunter company, who doesn't do anything except work.",
+    "release_date": "2025-01-03",
+    "poster_path": "/sp7OIpJl6uLiPqTgsc2wwrO9P8c.jpg",
+    "backdrop_path": "/lzidnBhiOCJdtKkUBD2TOfYLE8d.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1523,7 +1575,7 @@
     "release_date": "2010-03-18",
     "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
     "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.851,
+    "vote_average": 6.9,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -2270,7 +2322,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.554,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5012,7 +5064,7 @@
     "release_date": "2021-12-18",
     "poster_path": "/mRpG6gLdLMGHRUriG4uCLs6WzLQ.jpg",
     "backdrop_path": "/3sUd661CAPLfiOs5gCm7nOQnHMe.jpg",
-    "vote_average": 8.721,
+    "vote_average": 8.732,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -5098,7 +5150,7 @@
     "release_date": "2020-07-08",
     "poster_path": "/bE71f9A3eztjcd5JT3MmHB8MbzA.jpg",
     "backdrop_path": "/9qq8LpOoBLYq8MxiMugn0gf9qJd.jpg",
-    "vote_average": 8.22,
+    "vote_average": 8.221,
     "media_type": "tv",
     "original_language": "tr",
     "genre_ids": [
@@ -5274,7 +5326,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.663,
+    "vote_average": 8.588,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5478,6 +5530,23 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 246403,
+    "title": "Tusk",
+    "poster_path": "/pA2SgITmH0lzet9Nn5cxeinRKMv.jpg",
+    "overview": "When his best friend and podcast co-host goes missing in the backwoods of Canada, a young guy joins forces with his friend's girlfriend to search for him.",
+    "vote_average": 5.522,
+    "release_date": "2014-09-19",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "229203",
