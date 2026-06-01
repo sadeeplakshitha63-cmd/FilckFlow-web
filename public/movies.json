@@ -327,7 +327,7 @@
     "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
     "release_date": "2018-10-08",
     "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
-    "backdrop_path": "/6m3klrwIfBZlDZtbf1DR6jK9uGX.jpg",
+    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
     "vote_average": 4.8,
     "media_type": "tv",
     "original_language": "ja",
@@ -703,25 +703,6 @@
     "is_local": true
   },
   {
-    "id": "295509",
-    "title": "The Legend of Kitchen Soldier",
-    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
-    "release_date": "2026-05-11",
-    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
-    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "146393",
     "title": "Back From the Brink",
     "overview": "Tian Yao is a dragon spirit who was betrayed by his lover and stripped of his dragon bones. He meets Yan Hui, a free-spirited young maiden who holds the key to help him regain his powers and his faith in love. Mysteries will abound as Yan Hui come to learn of her true origin.",
@@ -794,6 +775,25 @@
     "is_local": true
   },
   {
+    "id": "295509",
+    "title": "The Legend of Kitchen Soldier",
+    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+    "release_date": "2026-05-11",
+    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
+    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "283952",
     "title": "A Splendid Match",
     "overview": "After years away from her family, Gu Jinzhao returns home and begins a remarkable transformation, from a carefree young woman into a poised and influential noble lady. As questions of marriage arise, she refuses to follow tradition and holds firmly to her own beliefs about love. But when multiple men enter her life, each offering a different future, who will Gu Jinzhao choose?",
@@ -828,24 +828,6 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 9.333,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "229480",
     "title": "No Gain No Love",
     "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
@@ -858,6 +840,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 9.333,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1307,15 +1307,19 @@
     "is_local": true
   },
   {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1500,6 +1504,25 @@
     "is_local": true
   },
   {
+    "id": "42188",
+    "title": "Never Let Me Go",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.852,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      10749,
+      878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "127493",
     "title": "You Are My Glory",
     "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
@@ -1512,25 +1535,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "42188",
-    "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.9,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      18,
-      10749,
-      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1804,23 +1808,6 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "239386",
     "title": "Kiseki Miracle Season",
     "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
@@ -1833,6 +1820,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2055,7 +2059,7 @@
     "release_date": "2020-11-28",
     "poster_path": "/bsbuXbQqryQ8aJlwXFkFXbrYko1.jpg",
     "backdrop_path": "/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "vote_average": 8.318,
+    "vote_average": 8.326,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2078,26 +2082,6 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259837",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "release_date": "2026-05-15",
-    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
-    "vote_average": 9.164,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      35,
-      10765,
       18
     ],
     "video_url": "",
@@ -2151,6 +2135,26 @@
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259837",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "release_date": "2026-05-15",
+    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
+    "vote_average": 9.171,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      35,
+      10765,
       18
     ],
     "video_url": "",
@@ -2253,7 +2257,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.554,
+    "vote_average": 7.575,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2308,7 +2312,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.153,
+    "vote_average": 8.17,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2479,24 +2483,6 @@
     "is_local": true
   },
   {
-    "id": "297640",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "release_date": "2026-04-25",
-    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "241506",
     "title": "It's Okay to Not Be Okay",
     "overview": "An author with severe antisocial tendencies learns to confront her deep emotional wounds when she meets a stranger who challenges her cold facade.",
@@ -2515,24 +2501,6 @@
     "is_local": true
   },
   {
-    "id": "242762",
-    "title": "Moonlit Reunion",
-    "overview": "Mei Zhuyu, a calm and reserved nobleman from a lesser branch of the Mei family, arrives in Chang'an as an official at the Bureau of Mystic Investigations. During a banquet, he meets Wu Zhen, the bold and unruly younger sister of the Empress and secret Guardian of the Demon Underworld. Both hide their true identities. Wu, a half-demon striving to keep peace, and Mei, a skilled demon slayer, seek the truth behind the fire 18 years ago. As bone demons rise and unrest grows, they fight side by side, forming a bond that deepens into love until the Changxi Palace launches a purge, forcing them to face each other's secrets and the past they share.",
-    "release_date": "2025-08-18",
-    "poster_path": "/16o0xknWshrIbFPvWybgnOaz46o.jpg",
-    "backdrop_path": "/u4uUe0rnjx2UOegZFiwwKPlxDBX.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "290054",
     "title": "The Seven Relics of ill Omen",
     "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
@@ -2544,6 +2512,24 @@
     "original_language": "zh",
     "genre_ids": [
       10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "242762",
+    "title": "Moonlit Reunion",
+    "overview": "Mei Zhuyu, a calm and reserved nobleman from a lesser branch of the Mei family, arrives in Chang'an as an official at the Bureau of Mystic Investigations. During a banquet, he meets Wu Zhen, the bold and unruly younger sister of the Empress and secret Guardian of the Demon Underworld. Both hide their true identities. Wu, a half-demon striving to keep peace, and Mei, a skilled demon slayer, seek the truth behind the fire 18 years ago. As bone demons rise and unrest grows, they fight side by side, forming a bond that deepens into love until the Changxi Palace launches a purge, forcing them to face each other's secrets and the past they share.",
+    "release_date": "2025-08-18",
+    "poster_path": "/16o0xknWshrIbFPvWybgnOaz46o.jpg",
+    "backdrop_path": "/u4uUe0rnjx2UOegZFiwwKPlxDBX.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
       10765
     ],
     "video_url": "",
@@ -2575,13 +2561,31 @@
     "release_date": "2020-08-10",
     "poster_path": "/75SigmLMhs3x4rA149w2hxT3iXD.jpg",
     "backdrop_path": "/4jLKnw4No3OoFDZw34E6E3bX1NZ.jpg",
-    "vote_average": 8.388,
+    "vote_average": 8.386,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
       18,
       10751,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297640",
+    "title": "Filing for Love",
+    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+    "release_date": "2026-04-25",
+    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "vote_average": 8.214,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2698,24 +2702,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.735,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "68814",
     "title": "Strong Woman Do Bong-Soon",
     "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
@@ -2746,6 +2732,24 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "A quiet student by day, a romance novelist by night, Eui-ju is inspired when four gorgeous teachers appear: icy Woo-su, lively Da-ju, gruff Gi-jeon, and gentle Dong-ju. She writes them into her new novel, which blows up overnight! But her secret is discovered by Woo-su, her worst enemy since day one. She accepts his deal to protect her secret, but can she finish this novel unscathed?",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.735,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2825,25 +2829,6 @@
     "is_local": true
   },
   {
-    "id": "108261",
-    "title": "Mr. Queen",
-    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
-    "release_date": "2020-12-12",
-    "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
-    "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "vote_average": 8.501,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "261980",
     "title": "Our Unwritten Seoul",
     "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
@@ -2855,6 +2840,25 @@
     "original_language": "ko",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "108261",
+    "title": "Mr. Queen",
+    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
+    "release_date": "2020-12-12",
+    "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
+    "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3506,6 +3510,23 @@
     "is_local": true
   },
   {
+    "id": "221112",
+    "title": "Amidst a Snowstorm of Love",
+    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
+    "release_date": "2024-02-02",
+    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
+    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "240445",
     "title": "Coroner's Diary",
     "overview": "Shen Wan, the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi to solve unsolved cases and find the real culprit in order to vindicate her father.",
@@ -3518,23 +3539,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "221112",
-    "title": "Amidst a Snowstorm of Love",
-    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
-    "release_date": "2024-02-02",
-    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
-    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4046,7 +4050,7 @@
     "release_date": "2022-11-09",
     "poster_path": "/ccej6D8J81DDJWqhP7OG6PA6xcl.jpg",
     "backdrop_path": "/zbzldNycqQy1O9gP5vwJf9HECwk.jpg",
-    "vote_average": 8.275,
+    "vote_average": 8.281,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4136,7 +4140,7 @@
     "release_date": "2026-04-11",
     "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
     "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 0.5,
+    "vote_average": 10,
     "media_type": "tv",
     "original_language": "tl",
     "genre_ids": [
@@ -4653,7 +4657,7 @@
     "release_date": "2026-02-04",
     "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
     "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 7.886,
+    "vote_average": 7.915,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4777,7 +4781,7 @@
     "release_date": "2024-10-09",
     "poster_path": "/drQh6tu7OupGBtE5zqVJB1AAGoa.jpg",
     "backdrop_path": "/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",
-    "vote_average": 7.857,
+    "vote_average": 7.859,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5031,7 +5035,7 @@
     "release_date": "2023-11-24",
     "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
     "backdrop_path": "/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.444,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5134,7 +5138,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.711,
+    "vote_average": 8.71,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5417,7 +5421,7 @@
     "release_date": "2026-04-05",
     "poster_path": "/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
     "backdrop_path": "/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg",
-    "vote_average": 7.855,
+    "vote_average": 7.859,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5458,6 +5462,20 @@
     "genre_ids": [
       18
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -5547,24 +5565,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "977871",
