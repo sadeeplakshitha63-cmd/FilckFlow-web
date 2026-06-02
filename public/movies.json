@@ -1,5 +1,21 @@
 [
   {
+    "id": 1366,
+    "title": "Rocky",
+    "poster_path": "/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+    "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+    "vote_average": 7.799,
+    "release_date": "1976-12-03",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "281006",
     "title": "Tastefully Yours",
     "overview": "Driven to claim top culinary honors, an arrogant heir meets a low-profile but stubborn chef whose recipes astonish him — sparking an unlikely romance.",
@@ -900,6 +916,23 @@
     "is_local": true
   },
   {
+    "id": "278157",
+    "title": "My Romance Scammer",
+    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
+    "release_date": "2026-02-01",
+    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
+    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
+    "vote_average": 7.286,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "217838",
     "title": "Love Upon a Time",
     "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
@@ -912,23 +945,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278157",
-    "title": "My Romance Scammer",
-    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
-    "release_date": "2026-02-01",
-    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
-    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
-    "vote_average": 7.286,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1288,17 +1304,18 @@
     "is_local": true
   },
   {
-    "id": "68045",
-    "title": "Stay with Me",
-    "overview": "After an accidental drowning, Li Wei Wei a famous fashion designer, loses parts of her memory. Whereby her memories stop at when she was 23. The boyfriend she remembers has now become her ex and rival, and instead a stranger is her fiancé. Li Wei Wei does not believe that she broke up with her ex Chen Yi Du and investigates the reason to as why they did. Her fiancé Qi Cheng, in order to protect and rekindle his relationship, uses all methods to prevent Wei Wei from investigating. During her investigation, Wei Wei discovers that due to the hectic lifestyle of adulthood, she has lost the innocence of her original dreams. It was this very reason as well to as why she and her ex broke up. The now 30 years old Li Wei Wei has decided to change her lifestyle. She plans to regain her most pure emotions and dreams as well as finding true love.",
-    "release_date": "2016-12-11",
-    "poster_path": "/76qtuHvpqzp30By8Cp16R0t0Mtc.jpg",
-    "backdrop_path": "/30EGncmHcKRY0z3eerA3EvDTowx.jpg",
-    "vote_average": 4.7,
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1335,25 +1352,6 @@
       18,
       10765,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "295509",
-    "title": "The Legend of Kitchen Soldier",
-    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
-    "release_date": "2026-05-11",
-    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
-    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1445,6 +1443,25 @@
       10759,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295509",
+    "title": "The Legend of Kitchen Soldier",
+    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+    "release_date": "2026-05-11",
+    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
+    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1681,23 +1698,6 @@
     "is_local": true
   },
   {
-    "id": "230250",
-    "title": "Love Me, Love My Voice",
-    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
-    "release_date": "2023-11-30",
-    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
-    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1712,6 +1712,23 @@
       10765,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230250",
+    "title": "Love Me, Love My Voice",
+    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
+    "release_date": "2023-11-30",
+    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
+    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1735,6 +1752,23 @@
     "is_local": true
   },
   {
+    "id": "255095",
+    "title": "Eat Run Love",
+    "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
+    "release_date": "2025-04-08",
+    "poster_path": "/ksZiJ8IbByqFxOTszZjdPmcRlP5.jpg",
+    "backdrop_path": "/33Bg4EM7Oqpran2WjE8y4dv2Syr.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "301031",
     "title": "The Secrets of Hotel 88",
     "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
@@ -1748,23 +1782,6 @@
       9648,
       10759,
       10751,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "255095",
-    "title": "Eat Run Love",
-    "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
-    "release_date": "2025-04-08",
-    "poster_path": "/ksZiJ8IbByqFxOTszZjdPmcRlP5.jpg",
-    "backdrop_path": "/33Bg4EM7Oqpran2WjE8y4dv2Syr.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2212,24 +2229,6 @@
     "is_local": true
   },
   {
-    "id": "139353",
-    "title": "Cutie Pie",
-    "overview": "Arranged to marry, a young tycoon and a free-spirited student face a test when one reveals that only duty, not love, keeps them together.",
-    "release_date": "2022-02-19",
-    "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
-    "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "228689",
     "title": "Genie, Make a Wish",
     "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
@@ -2241,6 +2240,24 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "139353",
+    "title": "Cutie Pie",
+    "overview": "Arranged to marry, a young tycoon and a free-spirited student face a test when one reveals that only duty, not love, keeps them together.",
+    "release_date": "2022-02-19",
+    "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
+    "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       35,
       18
     ],
@@ -2267,6 +2284,24 @@
     "is_local": true
   },
   {
+    "id": "110632",
+    "title": "Love is Sweet",
+    "overview": "Jiang Jun, a driven woman with a background in economics and psychology, leaves philanthropy to fulfill her late father’s wish by joining a top investment firm. There, she faces intense competition and reunites with her childhood friend-turned-rival, Yuan Shuai. With her intelligence and resilience, she navigates workplace challenges, uncovering hidden schemes while finding success in both her career and love.",
+    "release_date": "2020-09-27",
+    "poster_path": "/k52mSqO1sXLhuRjNoSMsj1qJ7kD.jpg",
+    "backdrop_path": "/kxfuHytN7j4FV6bpbPvw0CbS1eU.jpg",
+    "vote_average": 7.89,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "259837",
     "title": "The WONDERfools",
     "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
@@ -2281,24 +2316,6 @@
       35,
       10765,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "110632",
-    "title": "Love is Sweet",
-    "overview": "Jiang Jun, a driven woman with a background in economics and psychology, leaves philanthropy to fulfill her late father’s wish by joining a top investment firm. There, she faces intense competition and reunites with her childhood friend-turned-rival, Yuan Shuai. With her intelligence and resilience, she navigates workplace challenges, uncovering hidden schemes while finding success in both her career and love.",
-    "release_date": "2020-09-27",
-    "poster_path": "/k52mSqO1sXLhuRjNoSMsj1qJ7kD.jpg",
-    "backdrop_path": "/kxfuHytN7j4FV6bpbPvw0CbS1eU.jpg",
-    "vote_average": 7.89,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4361,6 +4378,23 @@
     "is_local": true
   },
   {
+    "id": "278847",
+    "title": "Top Form",
+    "overview": "Akin, a veteran actor and five-time \"Sexiest Man of the Year,\" loses his title to rising star Jin, who secretly admires and loves him despite the rivalry.",
+    "release_date": "2025-03-20",
+    "poster_path": "/5cDIWdKQX3V6Gcf75H7PQcFV1an.jpg",
+    "backdrop_path": "/iOZ4hgeQqQ4b4Bs0ibppG8ZRPVe.jpg",
+    "vote_average": 9.033,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278165",
     "title": "Me and Thee",
     "overview": "An introverted photographer's life changes when a former mafia boss hires him for love advice, only to end up falling for him instead.",
@@ -4372,23 +4406,6 @@
     "original_language": "th",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278847",
-    "title": "Top Form",
-    "overview": "Akin, a veteran actor and five-time \"Sexiest Man of the Year,\" loses his title to rising star Jin, who secretly admires and loves him despite the rivalry.",
-    "release_date": "2025-03-20",
-    "poster_path": "/5cDIWdKQX3V6Gcf75H7PQcFV1an.jpg",
-    "backdrop_path": "/iOZ4hgeQqQ4b4Bs0ibppG8ZRPVe.jpg",
-    "vote_average": 9.033,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -4650,6 +4667,24 @@
     "is_local": true
   },
   {
+    "id": "297424",
+    "title": "Our Universe",
+    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+    "release_date": "2026-02-04",
+    "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
+    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+    "vote_average": 7.944,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "248244",
     "title": "Undercover High School",
     "overview": "Ace NIS agent Jung Hae-seong is demoted after a mission failure. He goes undercover at a high school to locate King Gojong's missing gold, meeting his teacher Oh Soo-ah, who sees him as her lost first love, stirring old heartbreak.",
@@ -4661,24 +4696,6 @@
     "original_language": "ko",
     "genre_ids": [
       10759,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "297424",
-    "title": "Our Universe",
-    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
-    "release_date": "2026-02-04",
-    "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
-    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 7.944,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       35,
       18
     ],
@@ -5207,7 +5224,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
     "backdrop_path": "/3FxO84UUfvVhvcuyHmBRixxcKcJ.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.853,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5466,18 +5483,17 @@
     "is_local": true
   },
   {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.6,
+    "id": "68045",
+    "title": "Stay with Me",
+    "overview": "After an accidental drowning, Li Wei Wei a famous fashion designer, loses parts of her memory. Whereby her memories stop at when she was 23. The boyfriend she remembers has now become her ex and rival, and instead a stranger is her fiancé. Li Wei Wei does not believe that she broke up with her ex Chen Yi Du and investigates the reason to as why they did. Her fiancé Qi Cheng, in order to protect and rekindle his relationship, uses all methods to prevent Wei Wei from investigating. During her investigation, Wei Wei discovers that due to the hectic lifestyle of adulthood, she has lost the innocence of her original dreams. It was this very reason as well to as why she and her ex broke up. The now 30 years old Li Wei Wei has decided to change her lifestyle. She plans to regain her most pure emotions and dreams as well as finding true love.",
+    "release_date": "2016-12-11",
+    "poster_path": "/76qtuHvpqzp30By8Cp16R0t0Mtc.jpg",
+    "backdrop_path": "/30EGncmHcKRY0z3eerA3EvDTowx.jpg",
+    "vote_average": 4.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18,
-      10751
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
