@@ -1,21 +1,5 @@
 [
   {
-    "id": 1366,
-    "title": "Rocky",
-    "poster_path": "/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
-    "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-in-a-lifetime opportunity to go the distance and come out a winner!",
-    "vote_average": 7.799,
-    "release_date": "1976-12-03",
-    "genre_ids": [
-      18
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "281006",
     "title": "Tastefully Yours",
     "overview": "Driven to claim top culinary honors, an arrogant heir meets a low-profile but stubborn chef whose recipes astonish him — sparking an unlikely romance.",
@@ -611,24 +595,6 @@
     "is_local": true
   },
   {
-    "id": "237918",
-    "title": "Derailment",
-    "overview": "Do you believe that there exist countless parallel universes that are exactly like the world you live in? Jiang Xiaoyuan finds herself struggling with her identity as she travels across parallel universes that never seem to intersect. In her original world, she is an invincible wealthy daughter, but in another place, she becomes an ordinary working girl who has absolutely nothing. Along the way, she meets the mysterious Qi Lian and together, they search for the truth involving the mystery surrounding her. Stripped of wealth, family background, appearance, and education, Jiang Xiaoyuan sets herself on a journey to find pieces of her \"real\" identity.",
-    "release_date": "2023-12-14",
-    "poster_path": "/eVnw1ATwtaTjcbZjUe61JK6OuzH.jpg",
-    "backdrop_path": "/xzp1qssjzGwhjynTSSreIZyvfoZ.jpg",
-    "vote_average": 6.783,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "234534",
     "title": "Back to Seventeen",
     "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
@@ -660,6 +626,24 @@
     "genre_ids": [
       16,
       10402
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237918",
+    "title": "Derailment",
+    "overview": "Do you believe that there exist countless parallel universes that are exactly like the world you live in? Jiang Xiaoyuan finds herself struggling with her identity as she travels across parallel universes that never seem to intersect. In her original world, she is an invincible wealthy daughter, but in another place, she becomes an ordinary working girl who has absolutely nothing. Along the way, she meets the mysterious Qi Lian and together, they search for the truth involving the mystery surrounding her. Stripped of wealth, family background, appearance, and education, Jiang Xiaoyuan sets herself on a journey to find pieces of her \"real\" identity.",
+    "release_date": "2023-12-14",
+    "poster_path": "/eVnw1ATwtaTjcbZjUe61JK6OuzH.jpg",
+    "backdrop_path": "/xzp1qssjzGwhjynTSSreIZyvfoZ.jpg",
+    "vote_average": 6.783,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -836,7 +820,8 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18
+      18,
+      10768
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1449,25 +1434,6 @@
     "is_local": true
   },
   {
-    "id": "295509",
-    "title": "The Legend of Kitchen Soldier",
-    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
-    "release_date": "2026-05-11",
-    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
-    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "214873",
     "title": "My School President",
     "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
@@ -1495,6 +1461,25 @@
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295509",
+    "title": "The Legend of Kitchen Soldier",
+    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+    "release_date": "2026-05-11",
+    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
+    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
       35,
       18
     ],
@@ -2037,6 +2022,21 @@
     "is_local": true
   },
   {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "317056",
     "title": "Double Helix",
     "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
@@ -2049,21 +2049,6 @@
     "genre_ids": [
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2391,23 +2376,6 @@
     "is_local": true
   },
   {
-    "id": "291753",
-    "title": "Boys II Planet",
-    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
-    "release_date": "2025-07-17",
-    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
-    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
-    "vote_average": 7.25,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "94796",
     "title": "Crash Landing on You",
     "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
@@ -2420,6 +2388,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "291753",
+    "title": "Boys II Planet",
+    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
+    "release_date": "2025-07-17",
+    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
+    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
+    "vote_average": 7.25,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2462,6 +2447,23 @@
     "is_local": true
   },
   {
+    "id": "232441",
+    "title": "You Are Desire",
+    "overview": "After her parents' divorce, Lin Yujing moves to a new city and becomes seatmates with Shen Juan, a withdrawn student repeating a year. As they grow closer, her presence begins to change his life. Just as things start to improve, she’s forced to return to her hometown. A year later, they reunite at university, where Lin Yujing helps Shen Juan confront his past and heal, while also discovering her own path in life.",
+    "release_date": "2023-08-12",
+    "poster_path": "/rZitZNGABZ221cXzxhcRK7IgAvn.jpg",
+    "backdrop_path": "/lHQLSn49qq8QsPZcH4i0YFWvSlK.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "241506",
     "title": "It's Okay to Not Be Okay",
     "overview": "An author with severe antisocial tendencies learns to confront her deep emotional wounds when she meets a stranger who challenges her cold facade.",
@@ -2474,23 +2476,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "232441",
-    "title": "You Are Desire",
-    "overview": "After her parents' divorce, Lin Yujing moves to a new city and becomes seatmates with Shen Juan, a withdrawn student repeating a year. As they grow closer, her presence begins to change his life. Just as things start to improve, she’s forced to return to her hometown. A year later, they reunite at university, where Lin Yujing helps Shen Juan confront his past and heal, while also discovering her own path in life.",
-    "release_date": "2023-08-12",
-    "poster_path": "/rZitZNGABZ221cXzxhcRK7IgAvn.jpg",
-    "backdrop_path": "/lHQLSn49qq8QsPZcH4i0YFWvSlK.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3165,7 +3150,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
     "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 8.769,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "cn",
     "genre_ids": [
@@ -3219,7 +3204,7 @@
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.03,
+    "vote_average": 8.014,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4667,24 +4652,6 @@
     "is_local": true
   },
   {
-    "id": "297424",
-    "title": "Our Universe",
-    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
-    "release_date": "2026-02-04",
-    "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
-    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 7.944,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "248244",
     "title": "Undercover High School",
     "overview": "Ace NIS agent Jung Hae-seong is demoted after a mission failure. He goes undercover at a high school to locate King Gojong's missing gold, meeting his teacher Oh Soo-ah, who sees him as her lost first love, stirring old heartbreak.",
@@ -4696,6 +4663,24 @@
     "original_language": "ko",
     "genre_ids": [
       10759,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297424",
+    "title": "Our Universe",
+    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+    "release_date": "2026-02-04",
+    "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
+    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+    "vote_average": 7.944,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
       35,
       18
     ],
@@ -5154,7 +5139,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.718,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5481,6 +5466,22 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1366,
+    "title": "Rocky",
+    "poster_path": "/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+    "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+    "vote_average": 7.799,
+    "release_date": "1976-12-03",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "68045",
