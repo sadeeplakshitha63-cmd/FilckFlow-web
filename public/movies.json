@@ -198,23 +198,6 @@
     "is_local": true
   },
   {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "227191",
     "title": "Nine Puzzles",
     "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
@@ -233,13 +216,30 @@
     "is_local": true
   },
   {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "230835",
     "title": "Mysterious Lotus Casebook",
     "overview": "Li Lian Hua is a countryside doctor who travels dragging around a lotus tower. He accidentally becomes \"famous\" and gets pulled into the pugilistic world that he no longer wants to have any connections with.",
     "release_date": "2023-07-23",
     "poster_path": "/jpMyCVieu5JlGT52KzBTOOh9VFo.jpg",
     "backdrop_path": "/v0It4jPMkYT3H57x6ot4Fd56C8E.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.357,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -613,24 +613,6 @@
     "is_local": true
   },
   {
-    "id": "237918",
-    "title": "Derailment",
-    "overview": "Do you believe that there exist countless parallel universes that are exactly like the world you live in? Jiang Xiaoyuan finds herself struggling with her identity as she travels across parallel universes that never seem to intersect. In her original world, she is an invincible wealthy daughter, but in another place, she becomes an ordinary working girl who has absolutely nothing. Along the way, she meets the mysterious Qi Lian and together, they search for the truth involving the mystery surrounding her. Stripped of wealth, family background, appearance, and education, Jiang Xiaoyuan sets herself on a journey to find pieces of her \"real\" identity.",
-    "release_date": "2023-12-14",
-    "poster_path": "/eVnw1ATwtaTjcbZjUe61JK6OuzH.jpg",
-    "backdrop_path": "/xzp1qssjzGwhjynTSSreIZyvfoZ.jpg",
-    "vote_average": 6.783,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "234534",
     "title": "Back to Seventeen",
     "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
@@ -644,6 +626,24 @@
       35,
       10765,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237918",
+    "title": "Derailment",
+    "overview": "Do you believe that there exist countless parallel universes that are exactly like the world you live in? Jiang Xiaoyuan finds herself struggling with her identity as she travels across parallel universes that never seem to intersect. In her original world, she is an invincible wealthy daughter, but in another place, she becomes an ordinary working girl who has absolutely nothing. Along the way, she meets the mysterious Qi Lian and together, they search for the truth involving the mystery surrounding her. Stripped of wealth, family background, appearance, and education, Jiang Xiaoyuan sets herself on a journey to find pieces of her \"real\" identity.",
+    "release_date": "2023-12-14",
+    "poster_path": "/eVnw1ATwtaTjcbZjUe61JK6OuzH.jpg",
+    "backdrop_path": "/xzp1qssjzGwhjynTSSreIZyvfoZ.jpg",
+    "vote_average": 6.783,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -775,6 +775,24 @@
     "is_local": true
   },
   {
+    "id": "229480",
+    "title": "No Gain No Love",
+    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
+    "release_date": "2024-08-26",
+    "poster_path": "/jiGxkMP3lzPDaPw4F0EZAEiTSgL.jpg",
+    "backdrop_path": "/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
+    "vote_average": 8.495,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278142",
     "title": "Burnout Syndrome",
     "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
@@ -786,24 +804,6 @@
     "original_language": "th",
     "genre_ids": [
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "229480",
-    "title": "No Gain No Love",
-    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
-    "release_date": "2024-08-26",
-    "poster_path": "/jiGxkMP3lzPDaPw4F0EZAEiTSgL.jpg",
-    "backdrop_path": "/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -822,6 +822,25 @@
     "genre_ids": [
       10759,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "245292",
+    "title": "The Spirealm",
+    "overview": "Jiu Shi’s skills are pushed to the edge as he faces life-or-death challenges inside a brutal VR maze.",
+    "release_date": "2024-02-02",
+    "poster_path": "/9fg3f2OW0yDnx6SfBWctYCs4ZU7.jpg",
+    "backdrop_path": "/pmUWKAxTWyo9JsKQskECPpWwYrn.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -857,25 +876,6 @@
     "original_language": "ko",
     "genre_ids": [
       18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "245292",
-    "title": "The Spirealm",
-    "overview": "Jiu Shi’s skills are pushed to the edge as he faces life-or-death challenges inside a brutal VR maze.",
-    "release_date": "2024-02-02",
-    "poster_path": "/9fg3f2OW0yDnx6SfBWctYCs4ZU7.jpg",
-    "backdrop_path": "/pmUWKAxTWyo9JsKQskECPpWwYrn.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648,
       35
     ],
     "video_url": "",
@@ -970,31 +970,13 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 9.333,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252640",
     "title": "Legend of Zang Hai",
     "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
     "release_date": "2025-05-18",
     "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
     "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 5.851,
+    "vote_average": 6.455,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1016,6 +998,24 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 9.333,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1289,15 +1289,19 @@
     "is_local": true
   },
   {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1417,7 +1421,7 @@
     "release_date": "2019-06-27",
     "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
     "backdrop_path": "/ampkwvfwO7o5YMwYAVPKx1PLDaB.jpg",
-    "vote_average": 8.531,
+    "vote_average": 8.54,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1784,25 +1788,6 @@
     "is_local": true
   },
   {
-    "id": "295509",
-    "title": "The Legend of Kitchen Soldier",
-    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
-    "release_date": "2026-05-11",
-    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
-    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "292144",
     "title": "Ball Boy Tactics",
     "overview": "A quiet ex-gymnast and a playful basketball star fall into a slow-burning romance where every glance and touch speaks louder than words.",
@@ -1868,6 +1853,25 @@
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295509",
+    "title": "The Legend of Kitchen Soldier",
+    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+    "release_date": "2026-05-11",
+    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
+    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
       18
     ],
     "video_url": "",
@@ -2109,30 +2113,13 @@
     "release_date": "2016-12-02",
     "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
     "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.608,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
       18,
       10765,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 9.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2173,13 +2160,30 @@
     "is_local": true
   },
   {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 9.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "66433",
     "title": "Scarlet Heart: Ryeo",
     "overview": "A story of a 25-year-old Go Hajin who is transported back in time to the Goryeo Dynasty. She then wakes up in the body of Lady Hae Soo and finds herself amongst the ruling princes of the Wang Family.",
     "release_date": "2016-08-29",
     "poster_path": "/pjdPGHqUe60ZGQJR1TItVNaV4it.jpg",
     "backdrop_path": "/yBmqsAFjJJtdHkptwlCy0WMsfKA.jpg",
-    "vote_average": 8.511,
+    "vote_average": 8.51,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2234,7 +2238,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.575,
+    "vote_average": 7.596,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2358,7 +2362,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
-    "vote_average": 9.17,
+    "vote_average": 9.176,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2681,23 +2685,6 @@
     "is_local": true
   },
   {
-    "id": "262741",
-    "title": "Youthful Glory",
-    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
-    "release_date": "2025-05-19",
-    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
-    "backdrop_path": "/tLewxYU1m43DS2Man8GRtHYQExI.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "68814",
     "title": "Strong Woman Do Bong-Soon",
     "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
@@ -2717,18 +2704,17 @@
     "is_local": true
   },
   {
-    "id": "226670",
-    "title": "Cherry Magic",
-    "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
-    "release_date": "2023-12-09",
-    "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
-    "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
-    "vote_average": 8.909,
+    "id": "262741",
+    "title": "Youthful Glory",
+    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
+    "release_date": "2025-05-19",
+    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
+    "backdrop_path": "/tLewxYU1m43DS2Man8GRtHYQExI.jpg",
+    "vote_average": 9.2,
     "media_type": "tv",
-    "original_language": "th",
+    "original_language": "zh",
     "genre_ids": [
-      18,
-      10765
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2746,6 +2732,24 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "226670",
+    "title": "Cherry Magic",
+    "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
+    "release_date": "2023-12-09",
+    "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
+    "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
+    "vote_average": 8.909,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2789,24 +2793,6 @@
     "is_local": true
   },
   {
-    "id": "297640",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "release_date": "2026-04-25",
-    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.313,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "158258",
     "title": "Duty After School",
     "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
@@ -2820,6 +2806,24 @@
       18,
       10765,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297640",
+    "title": "Filing for Love",
+    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+    "release_date": "2026-04-25",
+    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "vote_average": 8.313,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3194,6 +3198,24 @@
     "is_local": true
   },
   {
+    "id": "136732",
+    "title": "Shooting Stars",
+    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
+    "release_date": "2022-04-22",
+    "poster_path": "/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
+    "backdrop_path": "/2u9M2WTPM6Olqh3JO0tt0OmmJnB.jpg",
+    "vote_average": 8.079,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "236033",
     "title": "The Double",
     "overview": "Xue Fangfei, the daughter of a well-off county magistrate lost everything after a major upheaval. Saved by Jiang Li, the daughter of the Secretariat Director, she took on the identity of Jiang Li and returned to the capital.  With the help of Duke Xiao Heng and others, she overcame numerous hardships, tirelessly fought against injustice, rescued her father who had been wrongly imprisoned, assisted Xiao Heng in upholding justice, protecting the common people, and ultimately regained a beautiful life.",
@@ -3213,31 +3235,13 @@
     "is_local": true
   },
   {
-    "id": "136732",
-    "title": "Shooting Stars",
-    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
-    "release_date": "2022-04-22",
-    "poster_path": "/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
-    "backdrop_path": "/2u9M2WTPM6Olqh3JO0tt0OmmJnB.jpg",
-    "vote_average": 8.079,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "287011",
     "title": "Sold Out on You",
     "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.235,
+    "vote_average": 8.324,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3943,7 +3947,7 @@
     "release_date": "2023-10-28",
     "poster_path": "/5iqVjyWAfXAFMim0Fi5QS6jUNPq.jpg",
     "backdrop_path": "/9ijZyKSdaRR6zUUe7hhEzNE0Yxm.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.912,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4012,7 +4016,7 @@
     "release_date": "2017-09-29",
     "poster_path": "/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
     "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
-    "vote_average": 7.624,
+    "vote_average": 7.623,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4852,7 +4856,7 @@
     "release_date": "2024-01-01",
     "poster_path": "/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
     "backdrop_path": "/bd1uYBQnd9HRex77LTiMughdKKK.jpg",
-    "vote_average": 8.45,
+    "vote_average": 8.449,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5205,7 +5209,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
     "backdrop_path": "/3FxO84UUfvVhvcuyHmBRixxcKcJ.jpg",
-    "vote_average": 7.853,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5258,7 +5262,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.726,
+    "vote_average": 8.765,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5464,6 +5468,20 @@
     "is_local": true
   },
   {
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 1042834,
     "title": "Eden",
     "poster_path": "/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg",
@@ -5528,24 +5546,6 @@
     "original_language": "en",
     "genre_ids": [
       10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
     ],
     "video_url": "",
     "subtitle_file": null,
