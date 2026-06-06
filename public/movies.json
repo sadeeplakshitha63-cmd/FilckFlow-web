@@ -1,75 +1,5 @@
 [
   {
-    "id": 277752,
-    "title": "City of Shadows",
-    "poster_path": "/n4rguIB7Cf4h3l1IyqMo3THW5xn.jpg",
-    "overview": "A gruesome crime has taken place in La Pedrera – Casa Milà: a burned body is found on the facade of Gaudí's iconic building. Inspector Milo Malart, previously suspended for misconduct by the Mossos d'Esquadra (Mossos of the Squadron), returns to Barcelona to find the perpetrator along with Sub-Inspector Rebeca Garrido.",
-    "vote_average": 6.652,
-    "release_date": "2025-12-12",
-    "genre_ids": [
-      80,
-      9648
-    ],
-    "original_language": "es",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 238458,
-    "title": "Cashero",
-    "poster_path": "/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
-    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
-    "vote_average": 7.327,
-    "release_date": "2025-12-26",
-    "genre_ids": [
-      10759,
-      18
-    ],
-    "original_language": "ko",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 135238,
-    "title": "Gyeongseong Creature",
-    "poster_path": "/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg",
-    "overview": "Gyeongseong, 1945. In Seoul's grim era under colonial rule, an entrepreneur and a sleuth fight for survival and face a monster born out of human greed.",
-    "vote_average": 7.926,
-    "release_date": "2023-12-22",
-    "genre_ids": [
-      10765,
-      9648,
-      10759,
-      18
-    ],
-    "original_language": "ko",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 209110,
-    "title": "The Price of Confession",
-    "poster_path": "/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
-    "overview": "Accused of killing her husband, a woman is offered a way out by a mysterious stranger: in exchange for a confession in her place, she must commit murder.",
-    "vote_average": 7.964,
-    "release_date": "2025-12-05",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "original_language": "ko",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "217553",
     "title": "The Trauma Code: Heroes on Call",
     "overview": "To create a top-tier trauma center, a war-seasoned doctor arrives — bringing his blunt but skilled ways to transform his team into life-saving mavericks.",
@@ -502,25 +432,6 @@
     "is_local": true
   },
   {
-    "id": "67391",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "release_date": "2016-09-23",
-    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
-    "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
-    "vote_average": 7.759,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278299",
     "title": "Me and Who",
     "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
@@ -552,6 +463,25 @@
       9648,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "67391",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "release_date": "2016-09-23",
+    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
+    "vote_average": 7.759,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -899,24 +829,6 @@
     "is_local": true
   },
   {
-    "id": "219651",
-    "title": "Welcome to Samdal-ri",
-    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
-    "release_date": "2023-12-02",
-    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
-    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.142,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "275593",
     "title": "Ms. Incognito",
     "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
@@ -929,6 +841,24 @@
     "genre_ids": [
       80,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "219651",
+    "title": "Welcome to Samdal-ri",
+    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
+    "release_date": "2023-12-02",
+    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
+    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
+    "vote_average": 8.142,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -952,23 +882,6 @@
     "is_local": true
   },
   {
-    "id": "254821",
-    "title": "Perfect Match",
-    "overview": "In the bustling capital of Bianjing during the Northern Song Dynasty, Madam Li moves her family in search of better marriage prospects for her five beautiful but quirky daughters, whose love lives have long been her worry. Each daughter, though famous for her beauty and wit, comes with unique quirks: the eldest, Shou Hua, has no interest in remarrying after early widowhood; the third, Kang Ning, is fierce and headstrong; the fourth, Hao De, is well-meaning but blunt; and the youngest, Le Shan, is spoiled and selective.  Challenges abound as they face unexpected setbacks, including a cold reception from the already-married sister they came to visit. As the family reestablishes their business, they navigate a series of humorous and heartwarming misadventures, ultimately finding love and fulfilling their mother’s hopes in this lively tale of family and romance.",
-    "release_date": "2025-01-25",
-    "poster_path": "/vbh685TBLEfQKXjYomVEmVztmJ9.jpg",
-    "backdrop_path": "/pg4xOroBDlxIhRK1m5xFyLgXrVD.jpg",
-    "vote_average": 8.097,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "262493",
     "title": "Doctor's Mine",
     "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
@@ -978,6 +891,23 @@
     "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "254821",
+    "title": "Perfect Match",
+    "overview": "In the bustling capital of Bianjing during the Northern Song Dynasty, Madam Li moves her family in search of better marriage prospects for her five beautiful but quirky daughters, whose love lives have long been her worry. Each daughter, though famous for her beauty and wit, comes with unique quirks: the eldest, Shou Hua, has no interest in remarrying after early widowhood; the third, Kang Ning, is fierce and headstrong; the fourth, Hao De, is well-meaning but blunt; and the youngest, Le Shan, is spoiled and selective.  Challenges abound as they face unexpected setbacks, including a cold reception from the already-married sister they came to visit. As the family reestablishes their business, they navigate a series of humorous and heartwarming misadventures, ultimately finding love and fulfilling their mother’s hopes in this lively tale of family and romance.",
+    "release_date": "2025-01-25",
+    "poster_path": "/vbh685TBLEfQKXjYomVEmVztmJ9.jpg",
+    "backdrop_path": "/pg4xOroBDlxIhRK1m5xFyLgXrVD.jpg",
+    "vote_average": 8.097,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -1627,24 +1557,6 @@
     "is_local": true
   },
   {
-    "id": "284430",
-    "title": "Deep Affection Eyes",
-    "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
-    "release_date": "2025-07-21",
-    "poster_path": "/9m3VFGSZwEJukjzGD340GcXfEzQ.jpg",
-    "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "216264",
     "title": "The Last Immortal",
     "overview": "Yin, a hardworking Shuining Beast, and Gu Jin, the son of the true God whose magic has been sealed, meet by chance and embark on a quest to find Feng Yin's Immortal Essence. Alongside their companions, Hong Yi of the Fox Clan and Yan Shuang of the Eagle Clan, they face numerous challenges to collect the essence. Battling the villain Qing Lin and his followers, they overcome obstacles and, in the end, not only fulfill their mission to restore peace but also find love, friendship, and family.",
@@ -1657,6 +1569,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "284430",
+    "title": "Deep Affection Eyes",
+    "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
+    "release_date": "2025-07-21",
+    "poster_path": "/9m3VFGSZwEJukjzGD340GcXfEzQ.jpg",
+    "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2408,24 +2338,6 @@
     "is_local": true
   },
   {
-    "id": "94796",
-    "title": "Crash Landing on You",
-    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
-    "release_date": "2019-12-14",
-    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.536,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278428",
     "title": "Incognito",
     "overview": "In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.",
@@ -2438,6 +2350,24 @@
     "genre_ids": [
       10759,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "94796",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "release_date": "2019-12-14",
+    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "vote_average": 8.536,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2468,7 +2398,7 @@
     "release_date": "2023-08-12",
     "poster_path": "/rZitZNGABZ221cXzxhcRK7IgAvn.jpg",
     "backdrop_path": "/lHQLSn49qq8QsPZcH4i0YFWvSlK.jpg",
-    "vote_average": 7.63,
+    "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2847,23 +2777,6 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "261980",
     "title": "Our Unwritten Seoul",
     "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
@@ -2894,6 +2807,23 @@
       18,
       35,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4350,7 +4280,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/dbqNBeLvAWFqpAvdBc0cecaqytT.jpg",
     "backdrop_path": "/hj2YSkoqHB2FPHeoALfdd4eufue.jpg",
-    "vote_average": 8.672,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5456,7 +5386,7 @@
     "release_date": "2026-04-05",
     "poster_path": "/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
     "backdrop_path": "/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg",
-    "vote_average": 7.859,
+    "vote_average": 7.9,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5500,6 +5430,76 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 277752,
+    "title": "City of Shadows",
+    "poster_path": "/n4rguIB7Cf4h3l1IyqMo3THW5xn.jpg",
+    "overview": "A gruesome crime has taken place in La Pedrera – Casa Milà: a burned body is found on the facade of Gaudí's iconic building. Inspector Milo Malart, previously suspended for misconduct by the Mossos d'Esquadra (Mossos of the Squadron), returns to Barcelona to find the perpetrator along with Sub-Inspector Rebeca Garrido.",
+    "vote_average": 6.652,
+    "release_date": "2025-12-12",
+    "genre_ids": [
+      80,
+      9648
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 238458,
+    "title": "Cashero",
+    "poster_path": "/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
+    "vote_average": 7.327,
+    "release_date": "2025-12-26",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "original_language": "ko",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 135238,
+    "title": "Gyeongseong Creature",
+    "poster_path": "/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg",
+    "overview": "Gyeongseong, 1945. In Seoul's grim era under colonial rule, an entrepreneur and a sleuth fight for survival and face a monster born out of human greed.",
+    "vote_average": 7.926,
+    "release_date": "2023-12-22",
+    "genre_ids": [
+      10765,
+      9648,
+      10759,
+      18
+    ],
+    "original_language": "ko",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 209110,
+    "title": "The Price of Confession",
+    "poster_path": "/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
+    "overview": "Accused of killing her husband, a woman is offered a way out by a mysterious stranger: in exchange for a confession in her place, she must commit murder.",
+    "vote_average": 7.964,
+    "release_date": "2025-12-05",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "original_language": "ko",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 276161,
