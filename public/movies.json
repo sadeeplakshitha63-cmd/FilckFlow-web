@@ -1,22 +1,5 @@
 [
   {
-    "id": 1358005,
-    "title": "Office Romance",
-    "poster_path": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-    "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
-    "vote_average": 6.493,
-    "release_date": "2026-06-04",
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "217553",
     "title": "The Trauma Code: Heroes on Call",
     "overview": "To create a top-tier trauma center, a war-seasoned doctor arrives — bringing his blunt but skilled ways to transform his team into life-saving mavericks.",
@@ -162,23 +145,6 @@
     "is_local": true
   },
   {
-    "id": "227192",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "release_date": "2024-02-29",
-    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.043,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253029",
     "title": "Brewing Love",
     "overview": "A heart-fluttering love story between Chae Yong-ju, a super passionate sales king at a liquor company who hides her emotions, and Yun Min-ju, a super sensitive brewery owner who is adept at catching people’s emotions.",
@@ -190,6 +156,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "227192",
+    "title": "Pyramid Game",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "release_date": "2024-02-29",
+    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "vote_average": 8.043,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -320,25 +303,6 @@
     "is_local": true
   },
   {
-    "id": "1311031",
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-    "release_date": "2025-07-18",
-    "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.7,
-    "media_type": "movie",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      28,
-      14
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "203164",
     "title": "Strong Girl Nam-soon",
     "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
@@ -353,6 +317,25 @@
       18,
       10765,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1311031",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+    "release_date": "2025-07-18",
+    "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "vote_average": 7.7,
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      28,
+      14
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1432,6 +1415,23 @@
     "is_local": true
   },
   {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
+    "release_date": "2022-12-02",
+    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
+    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
+    "vote_average": 8.138,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "68349",
     "title": "Weightlifting Fairy Kim Bok-joo",
     "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
@@ -1444,23 +1444,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
-    "release_date": "2022-12-02",
-    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
-    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
-    "vote_average": 8.138,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1484,6 +1467,24 @@
     "is_local": true
   },
   {
+    "id": "127493",
+    "title": "You Are My Glory",
+    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
+    "release_date": "2021-07-26",
+    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
+    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "42188",
     "title": "Never Let Me Go",
     "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
@@ -1497,24 +1498,6 @@
       18,
       10749,
       878
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "127493",
-    "title": "You Are My Glory",
-    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
-    "release_date": "2021-07-26",
-    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
-    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1644,6 +1627,23 @@
     "is_local": true
   },
   {
+    "id": "230250",
+    "title": "Love Me, Love My Voice",
+    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
+    "release_date": "2023-11-30",
+    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
+    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "128883",
     "title": "Hometown Cha-Cha-Cha",
     "overview": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
@@ -1655,23 +1655,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "230250",
-    "title": "Love Me, Love My Voice",
-    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
-    "release_date": "2023-11-30",
-    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
-    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2249,6 +2232,23 @@
     "is_local": true
   },
   {
+    "id": "240440",
+    "title": "The Story of Pearl Girl",
+    "overview": "After narrowly escaping an abusive pearl farm, a young woman with unmatched talent carves out her own fate as treachery meets the world of jewelry.",
+    "release_date": "2024-11-01",
+    "poster_path": "/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
+    "backdrop_path": "/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
+    "vote_average": 8.25,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "295509",
     "title": "The Legend of Kitchen Soldier",
     "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
@@ -2261,23 +2261,6 @@
     "genre_ids": [
       10765,
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240440",
-    "title": "The Story of Pearl Girl",
-    "overview": "After narrowly escaping an abusive pearl farm, a young woman with unmatched talent carves out her own fate as treachery meets the world of jewelry.",
-    "release_date": "2024-11-01",
-    "poster_path": "/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
-    "backdrop_path": "/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
-    "vote_average": 8.25,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2443,26 +2426,6 @@
     "is_local": true
   },
   {
-    "id": "223911",
-    "title": "Renegade Immortal",
-    "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
-    "release_date": "2023-09-25",
-    "poster_path": "/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
-    "backdrop_path": "/9R3tyMeAEvY53Da6fVguBEVlfxE.jpg",
-    "vote_average": 8.588,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      16,
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "242762",
     "title": "Moonlit Reunion",
     "overview": "Mei Zhuyu, a calm and reserved nobleman from a lesser branch of the Mei family, arrives in Chang'an as an official at the Bureau of Mystic Investigations. During a banquet, he meets Wu Zhen, the bold and unruly younger sister of the Empress and secret Guardian of the Demon Underworld. Both hide their true identities. Wu, a half-demon striving to keep peace, and Mei, a skilled demon slayer, seek the truth behind the fire 18 years ago. As bone demons rise and unrest grows, they fight side by side, forming a bond that deepens into love until the Changxi Palace launches a purge, forcing them to face each other's secrets and the past they share.",
@@ -2492,6 +2455,26 @@
     "original_language": "zh",
     "genre_ids": [
       10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "223911",
+    "title": "Renegade Immortal",
+    "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+    "release_date": "2023-09-25",
+    "poster_path": "/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
+    "backdrop_path": "/9R3tyMeAEvY53Da6fVguBEVlfxE.jpg",
+    "vote_average": 8.588,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      16,
+      18,
       10765
     ],
     "video_url": "",
@@ -3307,24 +3290,6 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.286,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1357633",
     "title": "Solo Leveling -ReAwakening-",
     "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
@@ -3339,6 +3304,24 @@
       12,
       14,
       16
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 8.286,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4561,13 +4544,13 @@
     "is_local": true
   },
   {
-    "id": "241454",
-    "title": "Love Next Door",
-    "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
-    "release_date": "2024-08-17",
-    "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
-    "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "vote_average": 7.963,
+    "id": "215720",
+    "title": "Queen of Tears",
+    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+    "release_date": "2024-03-09",
+    "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
+    "vote_average": 8.365,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4579,13 +4562,13 @@
     "is_local": true
   },
   {
-    "id": "215720",
-    "title": "Queen of Tears",
-    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
-    "release_date": "2024-03-09",
-    "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
-    "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.365,
+    "id": "241454",
+    "title": "Love Next Door",
+    "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
+    "release_date": "2024-08-17",
+    "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
+    "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
+    "vote_average": 7.963,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5446,6 +5429,23 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1358005,
+    "title": "Office Romance",
+    "poster_path": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+    "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
+    "vote_average": 6.493,
+    "release_date": "2026-06-04",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "240437",
