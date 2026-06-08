@@ -1412,23 +1412,6 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
-    "release_date": "2022-12-02",
-    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
-    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
-    "vote_average": 8.138,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "68349",
     "title": "Weightlifting Fairy Kim Bok-joo",
     "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
@@ -1441,6 +1424,23 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The school music club is on the verge of closure. In order for the club to continue to exist, the new club leader has to take a desperate step - to become a servant of the school president. How will this tangled story end?",
+    "release_date": "2022-12-02",
+    "poster_path": "/4GeVGlTSwK2DyW5oIGJcxc4c91f.jpg",
+    "backdrop_path": "/xmY9qIiczjp1WO9A41vruldVMO6.jpg",
+    "vote_average": 8.138,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4113,12 +4113,12 @@
     "is_local": true
   },
   {
-    "id": "225178",
-    "title": "The Love You Give Me",
-    "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
-    "release_date": "2023-04-24",
-    "poster_path": "/qL282eKyVyYanby06A4dzNNWsxK.jpg",
-    "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
+    "id": "279580",
+    "title": "Secret Lover",
+    "overview": "During a campus play, a 'relationship training' game turns real as lifelong friends cross boundaries and slip into a secret romance.",
+    "release_date": "2025-07-22",
+    "poster_path": "/s4JZauT2tDk0SVJ00HklfUTiE4a.jpg",
+    "backdrop_path": "/AchQDIQ9zD6ZBThESDguLM3YxAi.jpg",
     "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "zh",
@@ -4130,12 +4130,12 @@
     "is_local": true
   },
   {
-    "id": "279580",
-    "title": "Secret Lover",
-    "overview": "During a campus play, a 'relationship training' game turns real as lifelong friends cross boundaries and slip into a secret romance.",
-    "release_date": "2025-07-22",
-    "poster_path": "/s4JZauT2tDk0SVJ00HklfUTiE4a.jpg",
-    "backdrop_path": "/AchQDIQ9zD6ZBThESDguLM3YxAi.jpg",
+    "id": "225178",
+    "title": "The Love You Give Me",
+    "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
+    "release_date": "2023-04-24",
+    "poster_path": "/qL282eKyVyYanby06A4dzNNWsxK.jpg",
+    "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
     "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "zh",
@@ -4583,7 +4583,7 @@
     "release_date": "2025-10-10",
     "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
     "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.828,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5097,7 +5097,7 @@
     "release_date": "2024-04-08",
     "poster_path": "/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
     "backdrop_path": "/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-    "vote_average": 8.537,
+    "vote_average": 8.542,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
