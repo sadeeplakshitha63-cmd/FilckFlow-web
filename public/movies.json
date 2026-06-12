@@ -56,23 +56,6 @@
     "is_local": true
   },
   {
-    "id": "263048",
-    "title": "Sniper Butterfly",
-    "overview": "A captivating romance unfolds between a confident, cat-like woman and a bold, loyal younger man. As they navigate their differences, they find mutual healing and redemption, leading to a passionate, fate-driven love story full of tension and desire.",
-    "release_date": "2025-12-04",
-    "poster_path": "/2lt4ZRGElT9uG4TEM1bkOjN86nk.jpg",
-    "backdrop_path": "/cAJDWfx0V82FzDwQl6y3QlGOuQY.jpg",
-    "vote_average": 6.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "292614",
     "title": "World of Street Woman Fighter",
     "overview": "A global dance challenge that showcases the pride of strong women around the world.",
@@ -84,6 +67,23 @@
     "original_language": "ko",
     "genre_ids": [
       10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "263048",
+    "title": "Sniper Butterfly",
+    "overview": "A captivating romance unfolds between a confident, cat-like woman and a bold, loyal younger man. As they navigate their differences, they find mutual healing and redemption, leading to a passionate, fate-driven love story full of tension and desire.",
+    "release_date": "2025-12-04",
+    "poster_path": "/2lt4ZRGElT9uG4TEM1bkOjN86nk.jpg",
+    "backdrop_path": "/cAJDWfx0V82FzDwQl6y3QlGOuQY.jpg",
+    "vote_average": 6.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -668,6 +668,23 @@
     "is_local": true
   },
   {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "214172",
     "title": "New Life Begins",
     "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
@@ -680,23 +697,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
-    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -773,24 +773,6 @@
     "is_local": true
   },
   {
-    "id": "275593",
-    "title": "Ms. Incognito",
-    "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
-    "release_date": "2025-09-29",
-    "poster_path": "/jG0hr4bvJM1iOEcScgav7zmMF5P.jpg",
-    "backdrop_path": "/aAjm3w7Gnjw7HDe5UQ0BbTec7S2.jpg",
-    "vote_average": 7.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "245292",
     "title": "The Spirealm",
     "overview": "Jiu Shi’s skills are pushed to the edge as he faces life-or-death challenges inside a brutal VR maze.",
@@ -804,6 +786,24 @@
       18,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "275593",
+    "title": "Ms. Incognito",
+    "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
+    "release_date": "2025-09-29",
+    "poster_path": "/jG0hr4bvJM1iOEcScgav7zmMF5P.jpg",
+    "backdrop_path": "/aAjm3w7Gnjw7HDe5UQ0BbTec7S2.jpg",
+    "vote_average": 7.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1216,15 +1216,19 @@
     "is_local": true
   },
   {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1541,7 +1545,7 @@
     "release_date": "2026-03-27",
     "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
     "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 9,
+    "vote_average": 9.2,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2410,7 +2414,7 @@
     "release_date": "2024-01-27",
     "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
     "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8.05,
+    "vote_average": 8.064,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2558,7 +2562,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.534,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2883,6 +2887,24 @@
     "is_local": true
   },
   {
+    "id": "240901",
+    "title": "Safe Skies, Archer",
+    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+    "release_date": "2023-11-20",
+    "poster_path": "/5aQgnEYN0bAhbUI0w0rOLLufrOA.jpg",
+    "backdrop_path": "/3osYBadMX2dMwWjddDe6NPrTs4R.jpg",
+    "vote_average": 9.8,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281016",
     "title": "Boyfriend on Demand",
     "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
@@ -2895,24 +2917,6 @@
     "genre_ids": [
       35,
       10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240901",
-    "title": "Safe Skies, Archer",
-    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
-    "release_date": "2023-11-20",
-    "poster_path": "/5aQgnEYN0bAhbUI0w0rOLLufrOA.jpg",
-    "backdrop_path": "/3osYBadMX2dMwWjddDe6NPrTs4R.jpg",
-    "vote_average": 9.8,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -2975,25 +2979,6 @@
     "is_local": true
   },
   {
-    "id": "295509",
-    "title": "The Legend of Kitchen Soldier",
-    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
-    "release_date": "2026-05-11",
-    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
-    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "vote_average": 7.643,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "259857",
     "title": "Be Passionately in Love",
     "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
@@ -3006,6 +2991,25 @@
     "genre_ids": [
       18,
       10766
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295509",
+    "title": "The Legend of Kitchen Soldier",
+    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+    "release_date": "2026-05-11",
+    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
+    "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
+    "vote_average": 7.813,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3326,24 +3330,6 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.256,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "256542",
     "title": "Game of True Love",
     "overview": "Xu Nuo, the heiress to the Yuanfei Group, returns from studying abroad to find her family in disarray. Her mother has lost everything, and her foster brother, Shen Jiahe, is poised to take control of the family business. To make matters worse, her father's fiancée is Bai Xia, her old rival. Determined to reclaim her place and expose Shen Jiahe's true intentions, Xu Nuo devises a bold plan, setting off a high-stakes game of love and betrayal.",
@@ -3354,6 +3340,24 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 8.295,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -4151,7 +4155,7 @@
     "release_date": "2023-06-17",
     "poster_path": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
     "backdrop_path": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "vote_average": 8.195,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4798,7 +4802,7 @@
     "release_date": "2025-08-23",
     "poster_path": "/exUXEOierAwZ597010TLQka9TFy.jpg",
     "backdrop_path": "/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
-    "vote_average": 8.656,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4960,7 +4964,7 @@
     "release_date": "2021-12-18",
     "poster_path": "/mRpG6gLdLMGHRUriG4uCLs6WzLQ.jpg",
     "backdrop_path": "/3sUd661CAPLfiOs5gCm7nOQnHMe.jpg",
-    "vote_average": 8.743,
+    "vote_average": 8.672,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -5186,7 +5190,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.129,
+    "vote_average": 8.128,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5392,6 +5396,20 @@
     "is_local": true
   },
   {
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 5559,
     "title": "Bee Movie",
     "poster_path": "/aWe27GmvfVYAd7p0KEtJZWwLWk5.jpg",
@@ -5441,24 +5459,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
     ],
     "video_url": "",
     "subtitle_file": null,
