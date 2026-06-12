@@ -1,5 +1,58 @@
 [
   {
+    "id": 353486,
+    "title": "Jumanji: Welcome to the Jungle",
+    "poster_path": "/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+    "overview": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!",
+    "vote_average": 6.82,
+    "release_date": "2017-12-09",
+    "genre_ids": [
+      12,
+      35,
+      14,
+      28
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 376812,
+    "title": "Sultan",
+    "poster_path": "/oarT8LL2XE0aPU9kXqrD249Z4rM.jpg",
+    "overview": "The ageing wrestler Sultan Ali Khan decides to try his luck on the mat again; to do this, he wants to represent his country at the Olympic Games, but first has to overcome personal issues.",
+    "vote_average": 6.866,
+    "release_date": "2016-07-06",
+    "genre_ids": [
+      18,
+      28,
+      10749
+    ],
+    "original_language": "hi",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 102904,
+    "title": "Sweet Magnolias",
+    "poster_path": "/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg",
+    "overview": "Lifelong friends Maddie, Helen and Dana Sue lift each other up as they juggle relationships, family and careers in the small Southern town of Serenity.",
+    "vote_average": 7.7,
+    "release_date": "2020-05-19",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "224935",
     "title": "Jin & Jun",
     "overview": "Jin and Jun tell about the adventures of Junaidi (Jun) with a 3000-year-old genie he discovered in the South Sea. Feeling freed by Jun, the genie who got \"Uncle Jin\" as his nickname has served Jun as his confidant.  Jun and Uncle Jin's exciting adventure begins.",
@@ -144,23 +197,6 @@
     "is_local": true
   },
   {
-    "id": "227192",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "release_date": "2024-02-29",
-    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.043,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "227191",
     "title": "Nine Puzzles",
     "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
@@ -173,6 +209,23 @@
     "genre_ids": [
       80,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "227192",
+    "title": "Pyramid Game",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "release_date": "2024-02-29",
+    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "vote_average": 8.043,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -668,6 +721,23 @@
     "is_local": true
   },
   {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "214172",
     "title": "New Life Begins",
     "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
@@ -680,23 +750,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
-    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1039,6 +1092,23 @@
     "is_local": true
   },
   {
+    "id": "305105",
+    "title": "Peach Lover",
+    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
+    "release_date": "2026-01-20",
+    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
+    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
+    "vote_average": 6.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "283952",
     "title": "A Splendid Match",
     "overview": "After years away from her family, Gu Jinzhao returns home and begins a remarkable transformation, from a carefree young woman into a poised and influential noble lady. As questions of marriage arise, she refuses to follow tradition and holds firmly to her own beliefs about love. But when multiple men enter her life, each offering a different future, who will Gu Jinzhao choose?",
@@ -1051,23 +1121,6 @@
     "genre_ids": [
       18,
       10768
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "305105",
-    "title": "Peach Lover",
-    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
-    "release_date": "2026-01-20",
-    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
-    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
-    "vote_average": 6.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1559,24 +1612,6 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1519202",
     "title": "TNA Bound for Glory 2025",
     "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
@@ -1708,6 +1743,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2354,24 +2407,6 @@
     "is_local": true
   },
   {
-    "id": "242762",
-    "title": "Moonlit Reunion",
-    "overview": "Mei Zhuyu, a calm and reserved nobleman from a lesser branch of the Mei family, arrives in Chang'an as an official at the Bureau of Mystic Investigations. During a banquet, he meets Wu Zhen, the bold and unruly younger sister of the Empress and secret Guardian of the Demon Underworld. Both hide their true identities. Wu, a half-demon striving to keep peace, and Mei, a skilled demon slayer, seek the truth behind the fire 18 years ago. As bone demons rise and unrest grows, they fight side by side, forming a bond that deepens into love until the Changxi Palace launches a purge, forcing them to face each other's secrets and the past they share.",
-    "release_date": "2025-08-18",
-    "poster_path": "/16o0xknWshrIbFPvWybgnOaz46o.jpg",
-    "backdrop_path": "/u4uUe0rnjx2UOegZFiwwKPlxDBX.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "290054",
     "title": "The Seven Relics of ill Omen",
     "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
@@ -2383,6 +2418,24 @@
     "original_language": "zh",
     "genre_ids": [
       10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "242762",
+    "title": "Moonlit Reunion",
+    "overview": "Mei Zhuyu, a calm and reserved nobleman from a lesser branch of the Mei family, arrives in Chang'an as an official at the Bureau of Mystic Investigations. During a banquet, he meets Wu Zhen, the bold and unruly younger sister of the Empress and secret Guardian of the Demon Underworld. Both hide their true identities. Wu, a half-demon striving to keep peace, and Mei, a skilled demon slayer, seek the truth behind the fire 18 years ago. As bone demons rise and unrest grows, they fight side by side, forming a bond that deepens into love until the Changxi Palace launches a purge, forcing them to face each other's secrets and the past they share.",
+    "release_date": "2025-08-18",
+    "poster_path": "/16o0xknWshrIbFPvWybgnOaz46o.jpg",
+    "backdrop_path": "/u4uUe0rnjx2UOegZFiwwKPlxDBX.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
       10765
     ],
     "video_url": "",
@@ -2556,6 +2609,23 @@
     "is_local": true
   },
   {
+    "id": "262741",
+    "title": "Youthful Glory",
+    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
+    "release_date": "2025-05-19",
+    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
+    "backdrop_path": "/tLewxYU1m43DS2Man8GRtHYQExI.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "31910",
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
@@ -2569,23 +2639,6 @@
       16,
       10759,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "262741",
-    "title": "Youthful Glory",
-    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
-    "release_date": "2025-05-19",
-    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
-    "backdrop_path": "/tLewxYU1m43DS2Man8GRtHYQExI.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2665,6 +2718,25 @@
     "is_local": true
   },
   {
+    "id": "158258",
+    "title": "Duty After School",
+    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
+    "release_date": "2023-03-31",
+    "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
+    "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
+    "vote_average": 8.093,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "259837",
     "title": "The WONDERfools",
     "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
@@ -2679,25 +2751,6 @@
       35,
       10765,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "158258",
-    "title": "Duty After School",
-    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
-    "release_date": "2023-03-31",
-    "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
-    "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
-    "vote_average": 8.093,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2721,24 +2774,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.789,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "108261",
     "title": "Mr. Queen",
     "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
@@ -2752,6 +2787,24 @@
       18,
       35,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.789,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3258,15 +3311,15 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 8.75,
+    "id": "298567",
+    "title": "Thundercloud Rainstorm",
+    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
+    "release_date": "2025-11-28",
+    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
+    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
+    "vote_average": 7.6,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -3288,23 +3341,6 @@
       18,
       35,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "298567",
-    "title": "Thundercloud Rainstorm",
-    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
-    "release_date": "2025-11-28",
-    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
-    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3337,6 +3373,23 @@
     "poster_path": "/3lyC6hEeZSuJhtHOjEfac1pkfrA.jpg",
     "backdrop_path": "/pNmd3afju8ATyGqFcE1LgWycyvT.jpg",
     "vote_average": 6.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 8.75,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3939,6 +3992,23 @@
     "is_local": true
   },
   {
+    "id": "207197",
+    "title": "Story of Kunning Palace",
+    "overview": "A fallen queen, Jiang Xuening who aspired to have the highest power and authority in her life was held hostage by rebels after the king, Shen Jie was poisoned. In this life, she used everyone around her to reach the authority of the queen but in the end, she remained under house arrest and Xie Wei slaughtered the entire city. Later, she received the decree to be buried with the emperor. She got a second chance to change her fate by not entering the palace but when she woke up after rebirth, she was already messing around. Even though she vowed not to enter the palace, a certain turn of events again entangles her with the palace and Xie Wei whom she hated the most.",
+    "release_date": "2023-11-07",
+    "poster_path": "/idcVj88MODVdBkaKpxNMiXwffLk.jpg",
+    "backdrop_path": "/3OLeiLbTdNFovd2zyBn2xgR8UWY.jpg",
+    "vote_average": 7.25,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "74204",
     "title": "Big Mouth",
     "overview": "Teenage friends find their lives upended by the wonders and horrors of puberty in this edgy comedy from real-life pals Nick Kroll and Andrew Goldberg.",
@@ -3951,23 +4021,6 @@
     "genre_ids": [
       35,
       16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "207197",
-    "title": "Story of Kunning Palace",
-    "overview": "A fallen queen, Jiang Xuening who aspired to have the highest power and authority in her life was held hostage by rebels after the king, Shen Jie was poisoned. In this life, she used everyone around her to reach the authority of the queen but in the end, she remained under house arrest and Xie Wei slaughtered the entire city. Later, she received the decree to be buried with the emperor. She got a second chance to change her fate by not entering the palace but when she woke up after rebirth, she was already messing around. Even though she vowed not to enter the palace, a certain turn of events again entangles her with the palace and Xie Wei whom she hated the most.",
-    "release_date": "2023-11-07",
-    "poster_path": "/idcVj88MODVdBkaKpxNMiXwffLk.jpg",
-    "backdrop_path": "/3OLeiLbTdNFovd2zyBn2xgR8UWY.jpg",
-    "vote_average": 7.25,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4461,7 +4514,7 @@
     "release_date": "2025-10-08",
     "poster_path": "/1eOek63acPohNgvXog4uYnJT6fh.jpg",
     "backdrop_path": "/lAJCsUD3f6KhwdtbnevSAI1E9EU.jpg",
-    "vote_average": 8.821,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4677,7 +4730,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.737,
+    "vote_average": 8.74,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4694,7 +4747,7 @@
     "release_date": "2025-05-13",
     "poster_path": "/mXbZ5aH4uhao6Dpd884USvATMfo.jpg",
     "backdrop_path": "/hew9LSQW4wk63aN1Z7cEBTISL9B.jpg",
-    "vote_average": 8.817,
+    "vote_average": 8.845,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
