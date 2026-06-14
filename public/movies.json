@@ -472,7 +472,7 @@
     "release_date": "2016-09-23",
     "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
     "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
-    "vote_average": 7.746,
+    "vote_average": 7.742,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1973,6 +1973,23 @@
     "is_local": true
   },
   {
+    "id": "280946",
+    "title": "Typhoon Family",
+    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
+    "release_date": "2025-10-11",
+    "poster_path": "/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
+    "backdrop_path": "/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "217838",
     "title": "Love Upon a Time",
     "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
@@ -1985,23 +2002,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "280946",
-    "title": "Typhoon Family",
-    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
-    "release_date": "2025-10-11",
-    "poster_path": "/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
-    "backdrop_path": "/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2025,25 +2025,6 @@
     "is_local": true
   },
   {
-    "id": "113268",
-    "title": "The Uncanny Counter",
-    "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
-    "release_date": "2020-11-28",
-    "poster_path": "/bsbuXbQqryQ8aJlwXFkFXbrYko1.jpg",
-    "backdrop_path": "/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "vote_average": 8.324,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      9648,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "67915",
     "title": "Guardian: The Lonely and Great God",
     "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
@@ -2057,6 +2038,25 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "113268",
+    "title": "The Uncanny Counter",
+    "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
+    "release_date": "2020-11-28",
+    "poster_path": "/bsbuXbQqryQ8aJlwXFkFXbrYko1.jpg",
+    "backdrop_path": "/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
+    "vote_average": 8.324,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      9648,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
