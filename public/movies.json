@@ -1,5 +1,23 @@
 [
   {
+    "id": 300894,
+    "title": "Kurukshetra: The Great War of Mahabharata",
+    "poster_path": "/amNFukSD0hpj5omLkikfaNw42sp.jpg",
+    "overview": "An epic 18-day battle unfolds through the perspectives of 18 warriors, revealing their inner struggles and ethical challenges during a war between brothers.",
+    "vote_average": 7.903,
+    "release_date": "2025-10-10",
+    "genre_ids": [
+      10759,
+      18,
+      16
+    ],
+    "original_language": "hi",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "224935",
     "title": "Jin & Jun",
     "overview": "Jin and Jun tell about the adventures of Junaidi (Jun) with a 3000-year-old genie he discovered in the South Sea. Feeling freed by Jun, the genie who got \"Uncle Jin\" as his nickname has served Jun as his confidant.  Jun and Uncle Jin's exciting adventure begins.",
@@ -1216,19 +1234,15 @@
     "is_local": true
   },
   {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1436,7 +1450,7 @@
     "release_date": "2019-10-07",
     "poster_path": "/ofK4Z2zGyLfjKqSTQyQhtdrU43O.jpg",
     "backdrop_path": "/cpPykwg5yE4vTIHHXiCRFdQDh1l.jpg",
-    "vote_average": 7.675,
+    "vote_average": 7.679,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1822,23 +1836,6 @@
     "is_local": true
   },
   {
-    "id": "254474",
-    "title": "The Princess Royal",
-    "overview": "Because of political reasons, princess Li Rong and Pei Wenxuan got married at the age of 18. In the end they drifted further and further afar from each other. After 20 years of a loveless marriage, they were manipulated into turning against each other, leading to their deaths. However, they wake up back at 18, before their marriage, facing the hardest time of their lives. The two of them are given second change together, to save those around them.",
-    "release_date": "2024-06-26",
-    "poster_path": "/rjWNfvAALgazLPyVCd9l9BJxR6o.jpg",
-    "backdrop_path": "/hJN6i5uoKHtYz66wotERToBaI10.jpg",
-    "vote_average": 7.595,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "230448",
     "title": "Mr. Plankton",
     "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
@@ -1850,6 +1847,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "254474",
+    "title": "The Princess Royal",
+    "overview": "Because of political reasons, princess Li Rong and Pei Wenxuan got married at the age of 18. In the end they drifted further and further afar from each other. After 20 years of a loveless marriage, they were manipulated into turning against each other, leading to their deaths. However, they wake up back at 18, before their marriage, facing the hardest time of their lives. The two of them are given second change together, to save those around them.",
+    "release_date": "2024-06-26",
+    "poster_path": "/rjWNfvAALgazLPyVCd9l9BJxR6o.jpg",
+    "backdrop_path": "/hJN6i5uoKHtYz66wotERToBaI10.jpg",
+    "vote_average": 7.595,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2092,7 +2106,7 @@
     "release_date": "2022-02-19",
     "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
     "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.785,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2471,7 +2485,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.175,
+    "vote_average": 8.174,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2526,12 +2540,29 @@
     "release_date": "2016-02-24",
     "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
     "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "vote_average": 8.349,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "262741",
+    "title": "Youthful Glory",
+    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
+    "release_date": "2025-05-19",
+    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
+    "backdrop_path": "/tLewxYU1m43DS2Man8GRtHYQExI.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2550,23 +2581,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "262741",
-    "title": "Youthful Glory",
-    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
-    "release_date": "2025-05-19",
-    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
-    "backdrop_path": "/tLewxYU1m43DS2Man8GRtHYQExI.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2763,8 +2777,8 @@
     "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop_path": "/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
-    "vote_average": 9.069,
+    "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+    "vote_average": 9.075,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4245,7 +4259,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
     "backdrop_path": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.68,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5209,7 +5223,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.125,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5415,6 +5429,24 @@
     "is_local": true
   },
   {
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 1699155,
     "title": "Maternal Instinct",
     "poster_path": "/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
@@ -5447,20 +5479,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "96462",
