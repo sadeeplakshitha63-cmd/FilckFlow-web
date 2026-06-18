@@ -211,23 +211,6 @@
     "is_local": true
   },
   {
-    "id": "237338",
-    "title": "High School Frenemy",
-    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
-    "release_date": "2024-10-14",
-    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
-    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "298281",
     "title": "My Bias is Showing?!",
     "overview": "A flustered teacher scrambles to hide his fanboy side when his idol films at school—but being cast as his co-mentor makes secrets hard to keep.",
@@ -239,6 +222,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237338",
+    "title": "High School Frenemy",
+    "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
+    "release_date": "2024-10-14",
+    "poster_path": "/pLl0Mk4aM5JN1wOXigEeR45zlp8.jpg",
+    "backdrop_path": "/zAGWhqpscSEGLnCpvFjS4ysa7WF.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -289,7 +289,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.724,
+    "vote_average": 7.716,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -429,23 +429,6 @@
     "is_local": true
   },
   {
-    "id": "292696",
-    "title": "The First Jasmine",
-    "overview": "Eldest daughter Ye Li marries the crippled Prince Mo Xiuyao, while her sister Ye Ying weds Prince Mo Jinglei the same day. A descendant of Lishan, Ye Li secretly seeks revenge on those who wronged her clan. Suspected by her husband, who also hides a revenge plan, the couple gradually become allies. Meanwhile, Prince Jinglei plots to seize the throne. In the end, Ye Li and Mo Xiuyao join forces to defeat their enemies and restore peace to the empire.",
-    "release_date": "2026-06-09",
-    "poster_path": "/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
-    "backdrop_path": "/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
-    "vote_average": 9.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "157208",
     "title": "Semantic Error",
     "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
@@ -517,6 +500,24 @@
     "is_local": true
   },
   {
+    "id": "241613",
+    "title": "The On1y One",
+    "overview": "When their parents marry, two high school students become stepbrothers and navigate their relationship, turning from enemies into something more special.",
+    "release_date": "2024-08-22",
+    "poster_path": "/4tWIjacaIr9CM08Xnc80V6aTJfC.jpg",
+    "backdrop_path": "/ySsrk66kX7vA9hcfSsj0yY54QRE.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "310800",
     "title": "Siren's Kiss",
     "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
@@ -536,18 +537,17 @@
     "is_local": true
   },
   {
-    "id": "241613",
-    "title": "The On1y One",
-    "overview": "When their parents marry, two high school students become stepbrothers and navigate their relationship, turning from enemies into something more special.",
-    "release_date": "2024-08-22",
-    "poster_path": "/4tWIjacaIr9CM08Xnc80V6aTJfC.jpg",
-    "backdrop_path": "/ySsrk66kX7vA9hcfSsj0yY54QRE.jpg",
-    "vote_average": 8.7,
+    "id": "292696",
+    "title": "The First Jasmine",
+    "overview": "Eldest daughter Ye Li marries the crippled Prince Mo Xiuyao, while her sister Ye Ying weds Prince Mo Jinglei the same day. A descendant of Lishan, Ye Li secretly seeks revenge on those who wronged her clan. Suspected by her husband, who also hides a revenge plan, the couple gradually become allies. Meanwhile, Prince Jinglei plots to seize the throne. In the end, Ye Li and Mo Xiuyao join forces to defeat their enemies and restore peace to the empire.",
+    "release_date": "2026-06-09",
+    "poster_path": "/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
+    "backdrop_path": "/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
+    "vote_average": 9.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18,
-      35
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1143,24 +1143,6 @@
     "is_local": true
   },
   {
-    "id": "217804",
-    "title": "Hidden Agenda",
-    "overview": "University student Zo finally decides to pursue his longtime crush, Nita. To win her over, he seeks help from her ex, Joke, who has his own secret motives.",
-    "release_date": "2023-07-09",
-    "poster_path": "/30ZApQjC28XNAGGiqgHvFp4PyUT.jpg",
-    "backdrop_path": "/aOWeObc5rNh6nPYWJybfyau9gRM.jpg",
-    "vote_average": 7.935,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "232948",
     "title": "Best Choice Ever",
     "overview": "Mai Chenghuan, a post-95 girl born into an ordinary family in Shanghai, agrees to marry her boyfriend, Xin Jialiang, under her mother’s urging. However, the economic gap between them creates an imbalance in their relationship, ultimately leading to its end. Mai Chenghuan then gains her grandmother's approval and is entrusted with the heavy responsibility of managing a hotel. Through cooperation, Mai Chenghuan and the professional hotel manager Yao Zhiming become working partners and go hand in hand. Mai Chenghuan transitions from being under her family's control to achieving self-fulfillment, forging her own path.",
@@ -1173,6 +1155,24 @@
     "genre_ids": [
       18,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217804",
+    "title": "Hidden Agenda",
+    "overview": "University student Zo finally decides to pursue his longtime crush, Nita. To win her over, he seeks help from her ex, Joke, who has his own secret motives.",
+    "release_date": "2023-07-09",
+    "poster_path": "/30ZApQjC28XNAGGiqgHvFp4PyUT.jpg",
+    "backdrop_path": "/aOWeObc5rNh6nPYWJybfyau9gRM.jpg",
+    "vote_average": 7.935,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1451,7 +1451,7 @@
     "release_date": "2020-02-07",
     "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
     "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
-    "vote_average": 7,
+    "vote_average": 6.993,
     "media_type": "movie",
     "original_language": "pl",
     "genre_ids": [
@@ -1755,7 +1755,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
     "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
-    "vote_average": 7.3,
+    "vote_average": 7.447,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1763,23 +1763,6 @@
       10765,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "272512",
-    "title": "Our Youth",
-    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
-    "release_date": "2024-11-05",
-    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
-    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
-    "vote_average": 8.594,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1795,6 +1778,23 @@
     "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "272512",
+    "title": "Our Youth",
+    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
+    "release_date": "2024-11-05",
+    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
+    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
+    "vote_average": 8.594,
+    "media_type": "tv",
+    "original_language": "ja",
     "genre_ids": [
       18
     ],
@@ -2279,19 +2279,16 @@
     "is_local": true
   },
   {
-    "id": "301031",
-    "title": "The Secrets of Hotel 88",
-    "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
-    "release_date": "2026-03-02",
-    "poster_path": "/5FmIyAnBvDmyAGYFnP0zCqphYlP.jpg",
-    "backdrop_path": "/mwShyCXHStuIdHYaDl6pimQkWYh.jpg",
-    "vote_average": 0,
+    "id": "232441",
+    "title": "You Are Desire",
+    "overview": "After her parents' divorce, Lin Yujing moves to a new city and becomes seatmates with Shen Juan, a withdrawn student repeating a year. As they grow closer, her presence begins to change his life. Just as things start to improve, she’s forced to return to her hometown. A year later, they reunite at university, where Lin Yujing helps Shen Juan confront his past and heal, while also discovering her own path in life.",
+    "release_date": "2023-08-12",
+    "poster_path": "/rZitZNGABZ221cXzxhcRK7IgAvn.jpg",
+    "backdrop_path": "/lHQLSn49qq8QsPZcH4i0YFWvSlK.jpg",
+    "vote_average": 7.6,
     "media_type": "tv",
-    "original_language": "tl",
+    "original_language": "zh",
     "genre_ids": [
-      9648,
-      10759,
-      10751,
       18
     ],
     "video_url": "",
@@ -2317,16 +2314,19 @@
     "is_local": true
   },
   {
-    "id": "232441",
-    "title": "You Are Desire",
-    "overview": "After her parents' divorce, Lin Yujing moves to a new city and becomes seatmates with Shen Juan, a withdrawn student repeating a year. As they grow closer, her presence begins to change his life. Just as things start to improve, she’s forced to return to her hometown. A year later, they reunite at university, where Lin Yujing helps Shen Juan confront his past and heal, while also discovering her own path in life.",
-    "release_date": "2023-08-12",
-    "poster_path": "/rZitZNGABZ221cXzxhcRK7IgAvn.jpg",
-    "backdrop_path": "/lHQLSn49qq8QsPZcH4i0YFWvSlK.jpg",
-    "vote_average": 7.6,
+    "id": "301031",
+    "title": "The Secrets of Hotel 88",
+    "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
+    "release_date": "2026-03-02",
+    "poster_path": "/5FmIyAnBvDmyAGYFnP0zCqphYlP.jpg",
+    "backdrop_path": "/mwShyCXHStuIdHYaDl6pimQkWYh.jpg",
+    "vote_average": 0,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "tl",
     "genre_ids": [
+      9648,
+      10759,
+      10751,
       18
     ],
     "video_url": "",
@@ -2412,7 +2412,7 @@
     "release_date": "2025-06-11",
     "poster_path": "/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
     "backdrop_path": "/xPFmxUuZnmYAlpoO5QI9AdYegxt.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.097,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2705,7 +2705,7 @@
     "release_date": "2020-12-12",
     "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
     "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "vote_average": 8.499,
+    "vote_average": 8.502,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2946,7 +2946,7 @@
     "release_date": "2025-12-18",
     "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
     "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.095,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3417,25 +3417,6 @@
     "is_local": true
   },
   {
-    "id": "295509",
-    "title": "The Legend of Kitchen Soldier",
-    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
-    "release_date": "2026-05-11",
-    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
-    "backdrop_path": "/q1k3dLG367ugCKiCmeWooLy8v5A.jpg",
-    "vote_average": 8.143,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253193",
     "title": "A Dream Within a Dream",
     "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
@@ -3463,6 +3444,25 @@
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295509",
+    "title": "The Legend of Kitchen Soldier",
+    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+    "release_date": "2026-05-11",
+    "poster_path": "/p2pRVGvSeh6VTlJnoV6SJyGDps8.jpg",
+    "backdrop_path": "/q1k3dLG367ugCKiCmeWooLy8v5A.jpg",
+    "vote_average": 8.133,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
+    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -4142,6 +4142,23 @@
     "is_local": true
   },
   {
+    "id": "237333",
+    "title": "We Are",
+    "overview": "A group of university friends navigate academics, friendships, and romance as they deal with the ups and downs of campus life.",
+    "release_date": "2024-04-03",
+    "poster_path": "/gqVxKunQPQVOZjElkVD0kz19ld7.jpg",
+    "backdrop_path": "/5PAupb5qisR4w1GznvbyTINB7jH.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "198004",
     "title": "King the Land",
     "overview": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile — which he cannot stand.",
@@ -4154,23 +4171,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237333",
-    "title": "We Are",
-    "overview": "A group of university friends navigate academics, friendships, and romance as they deal with the ups and downs of campus life.",
-    "release_date": "2024-04-03",
-    "poster_path": "/gqVxKunQPQVOZjElkVD0kz19ld7.jpg",
-    "backdrop_path": "/5PAupb5qisR4w1GznvbyTINB7jH.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5075,7 +5075,7 @@
     "release_date": "2024-04-08",
     "poster_path": "/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
     "backdrop_path": "/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-    "vote_average": 8.547,
+    "vote_average": 8.553,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5112,7 +5112,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.262,
+    "vote_average": 8.263,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5200,7 +5200,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.123,
+    "vote_average": 8.124,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
