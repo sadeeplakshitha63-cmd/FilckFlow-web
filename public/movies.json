@@ -289,7 +289,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.716,
+    "vote_average": 7.715,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -537,23 +537,6 @@
     "is_local": true
   },
   {
-    "id": "292696",
-    "title": "The First Jasmine",
-    "overview": "Eldest daughter Ye Li marries the crippled Prince Mo Xiuyao, while her sister Ye Ying weds Prince Mo Jinglei the same day. A descendant of Lishan, Ye Li secretly seeks revenge on those who wronged her clan. Suspected by her husband, who also hides a revenge plan, the couple gradually become allies. Meanwhile, Prince Jinglei plots to seize the throne. In the end, Ye Li and Mo Xiuyao join forces to defeat their enemies and restore peace to the empire.",
-    "release_date": "2026-06-09",
-    "poster_path": "/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
-    "backdrop_path": "/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
-    "vote_average": 9.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "234534",
     "title": "Back to Seventeen",
     "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
@@ -646,17 +629,16 @@
     "is_local": true
   },
   {
-    "id": "214172",
-    "title": "New Life Begins",
-    "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
-    "release_date": "2022-11-10",
-    "poster_path": "/2LSRCKg68ktB5sBtFbOkXwDQTan.jpg",
-    "backdrop_path": "/ytMqU90MI12y8YHS4tqtFGYIWMl.jpg",
-    "vote_average": 6.8,
+    "id": "292696",
+    "title": "The First Jasmine",
+    "overview": "Eldest daughter Ye Li marries the crippled Prince Mo Xiuyao, while her sister Ye Ying weds Prince Mo Jinglei the same day. A descendant of Lishan, Ye Li secretly seeks revenge on those who wronged her clan. Suspected by her husband, who also hides a revenge plan, the couple gradually become allies. Meanwhile, Prince Jinglei plots to seize the throne. In the end, Ye Li and Mo Xiuyao join forces to defeat their enemies and restore peace to the empire.",
+    "release_date": "2026-06-09",
+    "poster_path": "/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
+    "backdrop_path": "/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
+    "vote_average": 9.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -675,6 +657,24 @@
     "original_language": "ko",
     "genre_ids": [
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214172",
+    "title": "New Life Begins",
+    "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
+    "release_date": "2022-11-10",
+    "poster_path": "/2LSRCKg68ktB5sBtFbOkXwDQTan.jpg",
+    "backdrop_path": "/ytMqU90MI12y8YHS4tqtFGYIWMl.jpg",
+    "vote_average": 6.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1445,25 +1445,6 @@
     "is_local": true
   },
   {
-    "id": "664413",
-    "title": "365 Days",
-    "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
-    "release_date": "2020-02-07",
-    "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
-    "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
-    "vote_average": 6.993,
-    "media_type": "movie",
-    "original_language": "pl",
-    "genre_ids": [
-      10749,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "42188",
     "title": "Never Let Me Go",
     "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
@@ -1495,6 +1476,25 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "664413",
+    "title": "365 Days",
+    "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
+    "release_date": "2020-02-07",
+    "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
+    "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
+    "vote_average": 6.993,
+    "media_type": "movie",
+    "original_language": "pl",
+    "genre_ids": [
+      10749,
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1998,7 +1998,7 @@
     "release_date": "2025-10-27",
     "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
     "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-    "vote_average": 8.313,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2279,6 +2279,24 @@
     "is_local": true
   },
   {
+    "id": "241506",
+    "title": "It's Okay to Not Be Okay",
+    "overview": "An author with severe antisocial tendencies learns to confront her deep emotional wounds when she meets a stranger who challenges her cold facade.",
+    "release_date": "2025-07-21",
+    "poster_path": "/7rQ7E7u0y8VJgnUeDT6oF1J32Gu.jpg",
+    "backdrop_path": "/dNAp924hXUYxaGxGJRLlB0dvu8e.jpg",
+    "vote_average": 9.7,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "232441",
     "title": "You Are Desire",
     "overview": "After her parents' divorce, Lin Yujing moves to a new city and becomes seatmates with Shen Juan, a withdrawn student repeating a year. As they grow closer, her presence begins to change his life. Just as things start to improve, she’s forced to return to her hometown. A year later, they reunite at university, where Lin Yujing helps Shen Juan confront his past and heal, while also discovering her own path in life.",
@@ -2296,15 +2314,15 @@
     "is_local": true
   },
   {
-    "id": "241506",
-    "title": "It's Okay to Not Be Okay",
-    "overview": "An author with severe antisocial tendencies learns to confront her deep emotional wounds when she meets a stranger who challenges her cold facade.",
-    "release_date": "2025-07-21",
-    "poster_path": "/7rQ7E7u0y8VJgnUeDT6oF1J32Gu.jpg",
-    "backdrop_path": "/dNAp924hXUYxaGxGJRLlB0dvu8e.jpg",
-    "vote_average": 9.7,
+    "id": "94796",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "release_date": "2019-12-14",
+    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "vote_average": 8.534,
     "media_type": "tv",
-    "original_language": "tl",
+    "original_language": "ko",
     "genre_ids": [
       18,
       35
@@ -2328,24 +2346,6 @@
       10759,
       10751,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "94796",
-    "title": "Crash Landing on You",
-    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
-    "release_date": "2019-12-14",
-    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.534,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2449,7 +2449,7 @@
     "release_date": "2023-09-25",
     "poster_path": "/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
     "backdrop_path": "/9R3tyMeAEvY53Da6fVguBEVlfxE.jpg",
-    "vote_average": 8.629,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2469,7 +2469,7 @@
     "release_date": "2021-05-20",
     "poster_path": "/rYquBAJqfHuHdPQ1w2YhISXPb9E.jpg",
     "backdrop_path": "/pdCKtMARtuwqj8zpCPLXLrg8Y2t.jpg",
-    "vote_average": 7.045,
+    "vote_average": 7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2686,7 +2686,7 @@
     "release_date": "2023-03-31",
     "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
     "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
-    "vote_average": 8.093,
+    "vote_average": 8.168,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2774,24 +2774,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "221416",
     "title": "Kiseki: Dear To Me",
     "overview": "A top student and an injured gangster form an unlikely bond, but fate, crime, and memory loss tear them apart—until destiny brings them back together.",
@@ -2804,6 +2786,24 @@
     "genre_ids": [
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3423,7 +3423,7 @@
     "release_date": "2025-06-26",
     "poster_path": "/iGPTJ9RS5hnVhH3hs53x8qieBRV.jpg",
     "backdrop_path": "/hznQvZZXABPjYz6aUWoonpLYhmx.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.269,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3449,6 +3449,24 @@
     "is_local": true
   },
   {
+    "id": "240445",
+    "title": "Coroner's Diary",
+    "overview": "Shen Wan, the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi to solve unsolved cases and find the real culprit in order to vindicate her father.",
+    "release_date": "2025-07-13",
+    "poster_path": "/unalYN9lT9h9b5UgTxGo1CoS7fj.jpg",
+    "backdrop_path": "/trAzKgcmDMkNBFXSr9ucZcfzxgm.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "295509",
     "title": "The Legend of Kitchen Soldier",
     "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
@@ -3462,24 +3480,6 @@
       10765,
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240445",
-    "title": "Coroner's Diary",
-    "overview": "Shen Wan, the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi to solve unsolved cases and find the real culprit in order to vindicate her father.",
-    "release_date": "2025-07-13",
-    "poster_path": "/unalYN9lT9h9b5UgTxGo1CoS7fj.jpg",
-    "backdrop_path": "/trAzKgcmDMkNBFXSr9ucZcfzxgm.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3579,7 +3579,7 @@
     "release_date": "2025-02-15",
     "poster_path": "/geDp6b1qRXH5ZtetqRU1XLSqDv7.jpg",
     "backdrop_path": "/n7geLpWf7ZbeiEv4XESL6aOJ78J.jpg",
-    "vote_average": 8.714,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3722,7 +3722,7 @@
     "release_date": "2021-07-10",
     "poster_path": "/dPDndH5bkpHZyQcmNZpoAQIugpi.jpg",
     "backdrop_path": "/nnL1jRtytnwuVrDyujk9zcCUOhy.jpg",
-    "vote_average": 7.977,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4142,23 +4142,6 @@
     "is_local": true
   },
   {
-    "id": "237333",
-    "title": "We Are",
-    "overview": "A group of university friends navigate academics, friendships, and romance as they deal with the ups and downs of campus life.",
-    "release_date": "2024-04-03",
-    "poster_path": "/gqVxKunQPQVOZjElkVD0kz19ld7.jpg",
-    "backdrop_path": "/5PAupb5qisR4w1GznvbyTINB7jH.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "198004",
     "title": "King the Land",
     "overview": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile — which he cannot stand.",
@@ -4171,6 +4154,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237333",
+    "title": "We Are",
+    "overview": "A group of university friends navigate academics, friendships, and romance as they deal with the ups and downs of campus life.",
+    "release_date": "2024-04-03",
+    "poster_path": "/gqVxKunQPQVOZjElkVD0kz19ld7.jpg",
+    "backdrop_path": "/5PAupb5qisR4w1GznvbyTINB7jH.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4687,7 +4687,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "vote_average": 8.739,
+    "vote_average": 8.741,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5200,7 +5200,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.124,
+    "vote_average": 8.125,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
