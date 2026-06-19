@@ -1,72 +1,5 @@
 [
   {
-    "id": 1263256,
-    "title": "Happy Gilmore 2",
-    "poster_path": "/E3dPHPJigkXwuiE0n1vzz0se8a.jpg",
-    "overview": "Happy Gilmore isn't done with golf — not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.",
-    "vote_average": 6.539,
-    "release_date": "2025-07-25",
-    "genre_ids": [
-      35
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 480530,
-    "title": "Creed II",
-    "poster_path": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
-    "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
-    "vote_average": 7,
-    "release_date": "2018-11-21",
-    "genre_ids": [
-      18,
-      28
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 515916,
-    "title": "Girl",
-    "poster_path": "/a6WKjZ1eHrKV8u1DYqjW4yUPuC.jpg",
-    "overview": "A promising teenage dancer enrolls at a prestigious ballet school while grappling with her gender dysphoria.",
-    "vote_average": 7.161,
-    "release_date": "2018-09-18",
-    "genre_ids": [
-      18
-    ],
-    "original_language": "nl",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 278178,
-    "title": "I Will Find You",
-    "poster_path": "/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-    "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
-    "vote_average": 8.889,
-    "release_date": "2026-06-18",
-    "genre_ids": [
-      18,
-      9648,
-      80
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "255628",
     "title": "Liars in Love",
     "overview": "It tells the story of a girl who, upon learning that the orphanage where she grew up as a child is to be demolished because of a company project, decides to enter the business world to get closer to the Chu family heir.",
@@ -313,6 +246,23 @@
     "is_local": true
   },
   {
+    "id": "240892",
+    "title": "Monster Next Door",
+    "overview": "Introvert Diew cherishes his quiet life with his turtle until loud extrovert God moves in. Their balcony chats spark a friendship—without meeting face-to-face.",
+    "release_date": "2024-08-08",
+    "poster_path": "/gryQmz8EiGGQLfxnGZKEfS0VHB3.jpg",
+    "backdrop_path": "/9oali42CVTvN0kgTOIYsgKJMCnd.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "203164",
     "title": "Strong Girl Nam-soon",
     "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
@@ -327,23 +277,6 @@
       18,
       10765,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240892",
-    "title": "Monster Next Door",
-    "overview": "Introvert Diew cherishes his quiet life with his turtle until loud extrovert God moves in. Their balcony chats spark a friendship—without meeting face-to-face.",
-    "release_date": "2024-08-08",
-    "poster_path": "/gryQmz8EiGGQLfxnGZKEfS0VHB3.jpg",
-    "backdrop_path": "/9oali42CVTvN0kgTOIYsgKJMCnd.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1086,23 +1019,6 @@
     "is_local": true
   },
   {
-    "id": "290342",
-    "title": "The Love Never Sets",
-    "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
-    "release_date": "2025-10-14",
-    "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
-    "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "258280",
     "title": "Dashing Youth",
     "overview": "Baili Dongjun, the young master of the Marquis of Zhenxi's mansion, has little interest in practicing martial arts but throws himself into brewing liquor, only because he promised to be the Liquor Deity while his childhood friend Ye Yun becomes the Sword Deity. As fate would have it, he becomes a disciple of the top martial arts master Li Changsheng to start learning martial arts. Later, he meets his confidante Yueyao, reunites with Ye Yun, who has changed his name to Ye Dingzhi, and travels with Sikong Changfeng, a wandering adventurer. Together, these youths embark on their own adventures in the martial world.",
@@ -1115,6 +1031,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "290342",
+    "title": "The Love Never Sets",
+    "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
+    "release_date": "2025-10-14",
+    "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
+    "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1495,23 +1428,6 @@
     "is_local": true
   },
   {
-    "id": "226186",
-    "title": "My Journey To You",
-    "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
-    "release_date": "2023-09-02",
-    "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
-    "backdrop_path": "/h58XZvo62zOmwV35N2LRon9JPcd.jpg",
-    "vote_average": 7.517,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "216264",
     "title": "The Last Immortal",
     "overview": "Yin, a hardworking Shuining Beast, and Gu Jin, the son of the true God whose magic has been sealed, meet by chance and embark on a quest to find Feng Yin's Immortal Essence. Alongside their companions, Hong Yi of the Fox Clan and Yan Shuang of the Eagle Clan, they face numerous challenges to collect the essence. Battling the villain Qing Lin and his followers, they overcome obstacles and, in the end, not only fulfill their mission to restore peace but also find love, friendship, and family.",
@@ -1524,6 +1440,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "226186",
+    "title": "My Journey To You",
+    "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
+    "release_date": "2023-09-02",
+    "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+    "backdrop_path": "/h58XZvo62zOmwV35N2LRon9JPcd.jpg",
+    "vote_average": 7.517,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2369,7 +2302,7 @@
     "release_date": "2019-12-14",
     "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
     "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.534,
+    "vote_average": 8.531,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4680,7 +4613,7 @@
     "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
     "release_date": "2026-02-04",
     "poster_path": "/pWyRkjNI9FUMpqJOIK3kSAbbRfQ.jpg",
-    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+    "backdrop_path": "/hwmtHFaHVoYs1N8oQI7UlD5DY2C.jpg",
     "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
@@ -5179,7 +5112,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.263,
+    "vote_average": 8.264,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5285,7 +5218,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.91,
+    "vote_average": 8.926,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5454,6 +5387,73 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1263256,
+    "title": "Happy Gilmore 2",
+    "poster_path": "/E3dPHPJigkXwuiE0n1vzz0se8a.jpg",
+    "overview": "Happy Gilmore isn't done with golf — not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.",
+    "vote_average": 6.539,
+    "release_date": "2025-07-25",
+    "genre_ids": [
+      35
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 480530,
+    "title": "Creed II",
+    "poster_path": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+    "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+    "vote_average": 7,
+    "release_date": "2018-11-21",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 515916,
+    "title": "Girl",
+    "poster_path": "/a6WKjZ1eHrKV8u1DYqjW4yUPuC.jpg",
+    "overview": "A promising teenage dancer enrolls at a prestigious ballet school while grappling with her gender dysphoria.",
+    "vote_average": 7.161,
+    "release_date": "2018-09-18",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "nl",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 278178,
+    "title": "I Will Find You",
+    "poster_path": "/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+    "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+    "vote_average": 8.889,
+    "release_date": "2026-06-18",
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "631895",
