@@ -1,39 +1,5 @@
 [
   {
-    "id": 1451344,
-    "title": "Husbands in Action",
-    "poster_path": "/rdmXkKPjGw43u4wp3aod4aIPiH.jpg",
-    "overview": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
-    "vote_average": 6.25,
-    "release_date": "2026-06-18",
-    "genre_ids": [
-      35,
-      28
-    ],
-    "original_language": "ko",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 614945,
-    "title": "Voicemails for Isabelle",
-    "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-    "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-    "vote_average": 7.2,
-    "release_date": "2026-06-20",
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "292614",
     "title": "World of Street Woman Fighter",
     "overview": "A global dance challenge that showcases the pride of strong women around the world.",
@@ -499,25 +465,6 @@
     "is_local": true
   },
   {
-    "id": "310800",
-    "title": "Siren's Kiss",
-    "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
-    "release_date": "2026-03-02",
-    "poster_path": "/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
-    "backdrop_path": "/kgnukvQ1YKotz734ACQxDTvDCGe.jpg",
-    "vote_average": 7.097,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      80,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -531,6 +478,25 @@
       10759,
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "310800",
+    "title": "Siren's Kiss",
+    "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
+    "release_date": "2026-03-02",
+    "poster_path": "/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "backdrop_path": "/kgnukvQ1YKotz734ACQxDTvDCGe.jpg",
+    "vote_average": 7.097,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      80,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -945,24 +911,6 @@
     "is_local": true
   },
   {
-    "id": "278176",
-    "title": "MuTeLuv",
-    "overview": "This anthology tells seven stories of people who attempt to use supernatural forces to meet their goals, and their unique journeys to finding love along the way.",
-    "release_date": "2025-08-25",
-    "poster_path": "/mnod6OPewIavXr9pIBi2sJalhnh.jpg",
-    "backdrop_path": "/1CYB1Q9KCOPTkNORHr4yVmMJmAN.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233100",
     "title": "Love Scout",
     "overview": "Yoo Eun-ho, a single dad armed with perfection, becomes the secretary of Kang Ji-yun, the CEO of a popular headhunter company, who doesn't do anything except work.",
@@ -975,6 +923,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278176",
+    "title": "MuTeLuv",
+    "overview": "This anthology tells seven stories of people who attempt to use supernatural forces to meet their goals, and their unique journeys to finding love along the way.",
+    "release_date": "2025-08-25",
+    "poster_path": "/mnod6OPewIavXr9pIBi2sJalhnh.jpg",
+    "backdrop_path": "/1CYB1Q9KCOPTkNORHr4yVmMJmAN.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1254,7 +1220,7 @@
     "release_date": "2023-11-25",
     "poster_path": "/bqAjpdhw3vMNgyMwOJ0C29q9Vb5.jpg",
     "backdrop_path": "/zvrmkaqCWwIGX6zBgGIGZHG3AaH.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.783,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1700,7 +1666,7 @@
     "release_date": "2025-04-18",
     "poster_path": "/dstp4G3muuXFVr9x3McedmhMkRi.jpg",
     "backdrop_path": "/dSNOb8E64mGUJJ51VJXlE0cnEtU.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.191,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1911,7 +1877,7 @@
     "release_date": "2024-05-29",
     "poster_path": "/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
     "backdrop_path": "/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.438,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4096,7 +4062,7 @@
     "release_date": "2023-08-11",
     "poster_path": "/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
     "backdrop_path": "/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
-    "vote_average": 7.54,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4416,7 +4382,7 @@
     "release_date": "2026-04-11",
     "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
     "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 10,
+    "vote_average": 0.5,
     "media_type": "tv",
     "original_language": "tl",
     "genre_ids": [
@@ -5404,6 +5370,40 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1451344,
+    "title": "Husbands in Action",
+    "poster_path": "/rdmXkKPjGw43u4wp3aod4aIPiH.jpg",
+    "overview": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
+    "vote_average": 6.25,
+    "release_date": "2026-06-18",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "original_language": "ko",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 614945,
+    "title": "Voicemails for Isabelle",
+    "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+    "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+    "vote_average": 7.2,
+    "release_date": "2026-06-20",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 296285,
