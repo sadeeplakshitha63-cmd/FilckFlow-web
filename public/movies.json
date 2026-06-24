@@ -1,23 +1,5 @@
 [
   {
-    "id": 969492,
-    "title": "Land of Bad",
-    "poster_path": "/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
-    "overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
-    "vote_average": 7.254,
-    "release_date": "2024-02-09",
-    "genre_ids": [
-      28,
-      10752,
-      53
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "292614",
     "title": "World of Street Woman Fighter",
     "overview": "A global dance challenge that showcases the pride of strong women around the world.",
@@ -2490,7 +2472,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.218,
+    "vote_average": 8.244,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2776,23 +2758,6 @@
     "is_local": true
   },
   {
-    "id": "292696",
-    "title": "The First Jasmine",
-    "overview": "Eldest daughter Ye Li marries the crippled Prince Mo Xiuyao, while her sister Ye Ying weds Prince Mo Jinglei the same day. A descendant of Lishan, Ye Li secretly seeks revenge on those who wronged her clan. Suspected by her husband, who also hides a revenge plan, the couple gradually become allies. Meanwhile, Prince Jinglei plots to seize the throne. In the end, Ye Li and Mo Xiuyao join forces to defeat their enemies and restore peace to the empire.",
-    "release_date": "2026-06-09",
-    "poster_path": "/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
-    "backdrop_path": "/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
-    "vote_average": 9.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "314784",
     "title": "Absolute Value of Romance",
     "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
@@ -2838,6 +2803,23 @@
     "vote_average": 7.803,
     "media_type": "tv",
     "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "292696",
+    "title": "The First Jasmine",
+    "overview": "Eldest daughter Ye Li marries the crippled Prince Mo Xiuyao, while her sister Ye Ying weds Prince Mo Jinglei the same day. A descendant of Lishan, Ye Li secretly seeks revenge on those who wronged her clan. Suspected by her husband, who also hides a revenge plan, the couple gradually become allies. Meanwhile, Prince Jinglei plots to seize the throne. In the end, Ye Li and Mo Xiuyao join forces to defeat their enemies and restore peace to the empire.",
+    "release_date": "2026-06-09",
+    "poster_path": "/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
+    "backdrop_path": "/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
+    "vote_average": 9.8,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -5391,6 +5373,24 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 969492,
+    "title": "Land of Bad",
+    "poster_path": "/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
+    "overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
+    "vote_average": 7.254,
+    "release_date": "2024-02-09",
+    "genre_ids": [
+      28,
+      10752,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "631895",
