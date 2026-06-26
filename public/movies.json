@@ -201,7 +201,7 @@
     "release_date": "2024-02-29",
     "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
     "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.084,
+    "vote_average": 8.069,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2685,6 +2685,23 @@
     "is_local": true
   },
   {
+    "id": "273418",
+    "title": "Law and the City",
+    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+    "release_date": "2025-07-05",
+    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "108261",
     "title": "Mr. Queen",
     "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
@@ -2698,23 +2715,6 @@
       18,
       35,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "273418",
-    "title": "Law and the City",
-    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
-    "release_date": "2025-07-05",
-    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
-    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2962,23 +2962,6 @@
     "is_local": true
   },
   {
-    "id": "292696",
-    "title": "The First Jasmine",
-    "overview": "Eldest daughter Ye Li marries the crippled Prince Mo Xiuyao, while her sister Ye Ying weds Prince Mo Jinglei the same day. A descendant of Lishan, Ye Li secretly seeks revenge on those who wronged her clan. Suspected by her husband, who also hides a revenge plan, the couple gradually become allies. Meanwhile, Prince Jinglei plots to seize the throne. In the end, Ye Li and Mo Xiuyao join forces to defeat their enemies and restore peace to the empire.",
-    "release_date": "2026-06-09",
-    "poster_path": "/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
-    "backdrop_path": "/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
-    "vote_average": 9.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "457832",
     "title": "Reset",
     "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
@@ -2991,6 +2974,23 @@
     "genre_ids": [
       28,
       878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "292696",
+    "title": "The First Jasmine",
+    "overview": "Eldest daughter Ye Li marries the crippled Prince Mo Xiuyao, while her sister Ye Ying weds Prince Mo Jinglei the same day. A descendant of Lishan, Ye Li secretly seeks revenge on those who wronged her clan. Suspected by her husband, who also hides a revenge plan, the couple gradually become allies. Meanwhile, Prince Jinglei plots to seize the throne. In the end, Ye Li and Mo Xiuyao join forces to defeat their enemies and restore peace to the empire.",
+    "release_date": "2026-06-09",
+    "poster_path": "/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
+    "backdrop_path": "/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
+    "vote_average": 9.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3405,7 +3405,7 @@
     "release_date": "2023-12-04",
     "poster_path": "/qdolS77C0DXGZmchR6imcy4LiJf.jpg",
     "backdrop_path": "/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
-    "vote_average": 7.886,
+    "vote_average": 7.888,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4222,7 +4222,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
     "backdrop_path": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
-    "vote_average": 8.716,
+    "vote_average": 8.705,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5098,7 +5098,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.263,
+    "vote_average": 8.262,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
