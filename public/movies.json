@@ -292,7 +292,7 @@
     "release_date": "2024-03-18",
     "poster_path": "/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
     "backdrop_path": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
-    "vote_average": 8.463,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -863,7 +863,7 @@
     "release_date": "2024-05-04",
     "poster_path": "/paqFs0PdOK2XLi289so8fuPLydE.jpg",
     "backdrop_path": "/owtvdducZVoRG3PnXvMyA0y46af.jpg",
-    "vote_average": 8.781,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1427,24 +1427,6 @@
     "is_local": true
   },
   {
-    "id": "127493",
-    "title": "You Are My Glory",
-    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
-    "release_date": "2021-07-26",
-    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
-    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "42188",
     "title": "Never Let Me Go",
     "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
@@ -1458,6 +1440,24 @@
       18,
       10749,
       878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "127493",
+    "title": "You Are My Glory",
+    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
+    "release_date": "2021-07-26",
+    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
+    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1517,23 +1517,6 @@
     "is_local": true
   },
   {
-    "id": "255095",
-    "title": "Eat Run Love",
-    "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
-    "release_date": "2025-04-08",
-    "poster_path": "/ksZiJ8IbByqFxOTszZjdPmcRlP5.jpg",
-    "backdrop_path": "/33Bg4EM7Oqpran2WjE8y4dv2Syr.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "262828",
     "title": "Crushology 101",
     "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
@@ -1545,6 +1528,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "255095",
+    "title": "Eat Run Love",
+    "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
+    "release_date": "2025-04-08",
+    "poster_path": "/ksZiJ8IbByqFxOTszZjdPmcRlP5.jpg",
+    "backdrop_path": "/33Bg4EM7Oqpran2WjE8y4dv2Syr.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2645,6 +2645,23 @@
     "is_local": true
   },
   {
+    "id": "273418",
+    "title": "Law and the City",
+    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+    "release_date": "2025-07-05",
+    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "158258",
     "title": "Duty After School",
     "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
@@ -2658,23 +2675,6 @@
       18,
       10765,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "273418",
-    "title": "Law and the City",
-    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
-    "release_date": "2025-07-05",
-    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
-    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2846,25 +2846,6 @@
     "is_local": true
   },
   {
-    "id": "278146",
-    "title": "Dare You to Death",
-    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
-    "release_date": "2025-12-18",
-    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
-    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 7.833,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281016",
     "title": "Boyfriend on Demand",
     "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
@@ -2877,6 +2858,25 @@
     "genre_ids": [
       35,
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278146",
+    "title": "Dare You to Death",
+    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
+    "release_date": "2025-12-18",
+    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
+    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
+    "vote_average": 7.833,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      80,
       18
     ],
     "video_url": "",
@@ -3233,6 +3233,23 @@
     "is_local": true
   },
   {
+    "id": "1603843",
+    "title": "New Year's Eve Concert 2022 With the Berlin Philharmonic Orchestra",
+    "overview": "Under the baton of Kirill Petrenko, the Berlin Philharmonic Orchestra's traditional New Year's Eve concert brings you an enchanting programme led by star tenor Jonas Kaufmann. A delightful medley of Verdi, Prokofiev, Nino Rota, Tchaikovsky and more.",
+    "release_date": "2022-12-31",
+    "poster_path": "/lynxTugE8YUHTqbQP5aQhQb7rf8.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      10402
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "4545",
     "title": "Blossom",
     "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
@@ -3246,23 +3263,6 @@
       18,
       35,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1603843",
-    "title": "New Year's Eve Concert 2022 With the Berlin Philharmonic Orchestra",
-    "overview": "Under the baton of Kirill Petrenko, the Berlin Philharmonic Orchestra's traditional New Year's Eve concert brings you an enchanting programme led by star tenor Jonas Kaufmann. A delightful medley of Verdi, Prokofiev, Nino Rota, Tchaikovsky and more.",
-    "release_date": "2022-12-31",
-    "poster_path": "/lynxTugE8YUHTqbQP5aQhQb7rf8.jpg",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      10402
     ],
     "video_url": "",
     "subtitle_file": null,
