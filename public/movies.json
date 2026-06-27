@@ -1,21 +1,5 @@
 [
   {
-    "id": 1397385,
-    "title": "Little Brother",
-    "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-    "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
-    "vote_average": 6.2,
-    "release_date": "2026-06-25",
-    "genre_ids": [
-      35
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "226969",
     "title": "Here We Meet Again",
     "overview": "Xiang Yuan, who once unsuccessfully pursued Xu Yan Shi in school, reunites with him as an adult. While she works to save a company and he struggles to follow his dream of becoming a navigation engineer, they support each other through challenges and grow together.",
@@ -2665,6 +2649,23 @@
     "is_local": true
   },
   {
+    "id": "273418",
+    "title": "Law and the City",
+    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+    "release_date": "2025-07-05",
+    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "158258",
     "title": "Duty After School",
     "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
@@ -2678,23 +2679,6 @@
       18,
       10765,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "273418",
-    "title": "Law and the City",
-    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
-    "release_date": "2025-07-05",
-    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
-    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4504,24 +4488,6 @@
     "is_local": true
   },
   {
-    "id": "279136",
-    "title": "Love Between Lines",
-    "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
-    "release_date": "2026-01-09",
-    "poster_path": "/xda6V8R2DKoRKWmnofeJFHII3ia.jpg",
-    "backdrop_path": "/rqbOJAS7agIfwNBHoORt2mdU7hR.jpg",
-    "vote_average": 8.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "241454",
     "title": "Love Next Door",
     "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
@@ -4534,6 +4500,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279136",
+    "title": "Love Between Lines",
+    "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
+    "release_date": "2026-01-09",
+    "poster_path": "/xda6V8R2DKoRKWmnofeJFHII3ia.jpg",
+    "backdrop_path": "/rqbOJAS7agIfwNBHoORt2mdU7hR.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5372,6 +5356,22 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1397385,
+    "title": "Little Brother",
+    "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+    "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
+    "vote_average": 6.2,
+    "release_date": "2026-06-25",
+    "genre_ids": [
+      35
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 286360,
