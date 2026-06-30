@@ -198,23 +198,6 @@
     "is_local": true
   },
   {
-    "id": "227192",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "release_date": "2024-02-29",
-    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.069,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237338",
     "title": "High School Frenemy",
     "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
@@ -224,6 +207,23 @@
     "vote_average": 9.111,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "227192",
+    "title": "Pyramid Game",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "release_date": "2024-02-29",
+    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "vote_average": 8.069,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -2708,7 +2708,7 @@
     "release_date": "2020-12-12",
     "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
     "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "vote_average": 8.503,
+    "vote_average": 8.51,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
