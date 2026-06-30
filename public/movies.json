@@ -381,7 +381,7 @@
     "release_date": "1996-01-08",
     "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
     "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8,
+    "vote_average": 8.01,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -700,24 +700,6 @@
     "is_local": true
   },
   {
-    "id": "237882",
-    "title": "Are You The One",
-    "overview": "The clever and decisive Liu Miantang, as the first lord of Mount Yang, led the people of Mount Yang to punish the wicked, promote goodness, and uphold justice. However, she suffered serious injuries under the attack of various evil forces and was rescued by Cui Xingzhou, the Prince of Huai Yang. When Liu Miantang woke up, she had no memory of Mount Yang, mistaking Cui Xingzhou for her husband, Cui Jiu. However, if their identities were exposed, can they face it honestly while enduring hardships?",
-    "release_date": "2024-08-12",
-    "poster_path": "/4YgYVgzFLg3drAMm3FlpWzhSbcy.jpg",
-    "backdrop_path": "/hDk7lDjMWwTnOyhPgP9IWa2jPG3.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "245292",
     "title": "The Spirealm",
     "overview": "Jiu Shi’s skills are pushed to the edge as he faces life-or-death challenges inside a brutal VR maze.",
@@ -731,6 +713,24 @@
       18,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237882",
+    "title": "Are You The One",
+    "overview": "The clever and decisive Liu Miantang, as the first lord of Mount Yang, led the people of Mount Yang to punish the wicked, promote goodness, and uphold justice. However, she suffered serious injuries under the attack of various evil forces and was rescued by Cui Xingzhou, the Prince of Huai Yang. When Liu Miantang woke up, she had no memory of Mount Yang, mistaking Cui Xingzhou for her husband, Cui Jiu. However, if their identities were exposed, can they face it honestly while enduring hardships?",
+    "release_date": "2024-08-12",
+    "poster_path": "/4YgYVgzFLg3drAMm3FlpWzhSbcy.jpg",
+    "backdrop_path": "/hDk7lDjMWwTnOyhPgP9IWa2jPG3.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -965,6 +965,23 @@
     "is_local": true
   },
   {
+    "id": "290342",
+    "title": "The Love Never Sets",
+    "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
+    "release_date": "2025-10-14",
+    "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
+    "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
@@ -978,23 +995,6 @@
       18,
       35,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "290342",
-    "title": "The Love Never Sets",
-    "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
-    "release_date": "2025-10-14",
-    "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
-    "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1607,24 +1607,6 @@
     "is_local": true
   },
   {
-    "id": "239386",
-    "title": "Kiseki Miracle Season",
-    "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
-    "release_date": "2024-03-18",
-    "poster_path": "/wc9ulWm12VD2cPZTfJfzyr3Diyr.jpg",
-    "backdrop_path": "/dXyM1wIp5UCpTRBpbanl6OaRkxu.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "128883",
     "title": "Hometown Cha-Cha-Cha",
     "overview": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
@@ -1637,6 +1619,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "239386",
+    "title": "Kiseki Miracle Season",
+    "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
+    "release_date": "2024-03-18",
+    "poster_path": "/wc9ulWm12VD2cPZTfJfzyr3Diyr.jpg",
+    "backdrop_path": "/dXyM1wIp5UCpTRBpbanl6OaRkxu.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2446,24 +2446,6 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "262741",
     "title": "Youthful Glory",
     "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
@@ -2490,6 +2472,24 @@
     "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18,
       10765
