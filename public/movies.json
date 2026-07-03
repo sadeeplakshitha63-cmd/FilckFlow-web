@@ -1,22 +1,20 @@
 [
   {
-    "id": "282810",
-    "title": "The Judge Returns",
-    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
-    "release_date": "2026-01-02",
-    "poster_path": "/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
-    "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "ko",
+    "id": 253960,
+    "title": "Human Vapor",
+    "poster_path": "/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
+    "overview": "A death on live TV. A culprit who turns to gas. Behind it, a secret project that used and discarded the vulnerable. One detective pursues the dark truth.",
+    "vote_average": 9,
+    "release_date": "2026-07-02",
     "genre_ids": [
-      80,
       10765,
-      18
+      80
     ],
+    "original_language": "ja",
+    "media_type": "tv",
+    "is_local": false,
     "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
+    "subtitle_file": null
   },
   {
     "id": "253029",
@@ -30,6 +28,25 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "282810",
+    "title": "The Judge Returns",
+    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
+    "release_date": "2026-01-02",
+    "poster_path": "/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
+    "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      10765,
       18
     ],
     "video_url": "",
@@ -584,7 +601,7 @@
     "release_date": "2024-08-26",
     "poster_path": "/jiGxkMP3lzPDaPw4F0EZAEiTSgL.jpg",
     "backdrop_path": "/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.491,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1092,23 +1109,6 @@
     "is_local": true
   },
   {
-    "id": "223618",
-    "title": "Venus in the Sky",
-    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
-    "release_date": "2023-09-02",
-    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
-    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "247207",
     "title": "Ski into Love",
     "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
@@ -1118,6 +1118,23 @@
     "vote_average": 7,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "223618",
+    "title": "Venus in the Sky",
+    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
+    "release_date": "2023-09-02",
+    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
+    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -1144,19 +1161,15 @@
     "is_local": true
   },
   {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.607,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1294,7 +1307,7 @@
     "release_date": "2019-06-27",
     "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
     "backdrop_path": "/ampkwvfwO7o5YMwYAVPKx1PLDaB.jpg",
-    "vote_average": 8.574,
+    "vote_average": 8.583,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1843,7 +1856,7 @@
     "release_date": "2024-05-29",
     "poster_path": "/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
     "backdrop_path": "/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
-    "vote_average": 8.378,
+    "vote_average": 8.384,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2500,13 +2513,13 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 8.75,
+    "id": "226670",
+    "title": "Cherry Magic",
+    "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
+    "release_date": "2023-12-09",
+    "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
+    "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
+    "vote_average": 8.875,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2518,13 +2531,13 @@
     "is_local": true
   },
   {
-    "id": "226670",
-    "title": "Cherry Magic",
-    "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
-    "release_date": "2023-12-09",
-    "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
-    "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
-    "vote_average": 8.875,
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 8.75,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2654,29 +2667,10 @@
     "release_date": "2025-07-05",
     "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
     "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
-    "vote_average": 7.7,
+    "vote_average": 7.653,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "270420",
-    "title": "No Tail to Tell",
-    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
-    "release_date": "2026-01-16",
-    "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
-    "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "vote_average": 7.965,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
       18
     ],
     "video_url": "",
@@ -2696,6 +2690,25 @@
     "genre_ids": [
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "270420",
+    "title": "No Tail to Tell",
+    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
+    "release_date": "2026-01-16",
+    "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
+    "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+    "vote_average": 7.965,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2855,7 +2868,7 @@
     "release_date": "2025-12-18",
     "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
     "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 7.68,
+    "vote_average": 7.731,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2962,24 +2975,6 @@
     "is_local": true
   },
   {
-    "id": "297640",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "release_date": "2026-04-25",
-    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.115,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "228429",
     "title": "Soul Land 2: The Peerless Tang Clan",
     "overview": "The Tang Sect in a turbulent world. There is nothing but martial spirit here. Ten thousand years after the founding of the Tang Sect, it is in relative decline. An extremely talented man was born. Can the new Shrek Seven Monsters revive the Tang Sect and bring it back to glory? A soul beast of over one million years old; Electrolux who can pick stars; The new soul utensil system that led to the decline of the Tang Sect... A lot of secrets are to be revealed. Can the secret weapons of the Tang Sect be sharp again? Can the Tang Sect regain its former glory?",
@@ -2993,6 +2988,24 @@
       16,
       10765,
       10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297640",
+    "title": "Filing for Love",
+    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+    "release_date": "2026-04-25",
+    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "vote_average": 8.115,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -3074,23 +3087,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "Mew, Ray, Boston, and Namchueam, a group of business students running a hostel together blur the lines between friendship and romance.  Mew has been focusing on his studies, setting aside no time for sex and relationships. To help them with their business's design, Boston introduces the group to Top. Boston didn't anticipate Top's interest in Mew, and he isn't happy with the turn of events. Economics student Sand wants an exclusive relationship with Ray, but Ray has feelings for Mew, and he's not interested in settling. IT guy Nick finds a sex tape in Boston's phone and ends up in a friends-with-benefits relationship with him. However, Nick wants something more.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "254993",
     "title": "Embrace in the Dark Night",
     "overview": "Wen Xi is drawn into an underground fight club and becomes the prize for champion Xu Zheqing, who is secretly a security consultant tasked with saving her. Three years later, after her twin sister’s mysterious death, Wen Xi assumes her sister’s identity at a company, where she reunites with Xu. Now on opposite sides, can they reconcile their feelings and uncover the truth?",
@@ -3104,6 +3100,23 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "Mew, Ray, Boston, and Namchueam, a group of business students running a hostel together blur the lines between friendship and romance.  Mew has been focusing on his studies, setting aside no time for sex and relationships. To help them with their business's design, Boston introduces the group to Top. Boston didn't anticipate Top's interest in Mew, and he isn't happy with the turn of events. Economics student Sand wants an exclusive relationship with Ray, but Ray has feelings for Mew, and he's not interested in settling. IT guy Nick finds a sex tape in Boston's phone and ends up in a friends-with-benefits relationship with him. However, Nick wants something more.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3399,6 +3412,23 @@
     "is_local": true
   },
   {
+    "id": "252649",
+    "title": "ThamePo: Heart That Skips A Beat",
+    "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
+    "release_date": "2024-12-13",
+    "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
+    "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
+    "vote_average": 8.971,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "287011",
     "title": "Sold Out on You",
     "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
@@ -3410,23 +3440,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252649",
-    "title": "ThamePo: Heart That Skips A Beat",
-    "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
-    "release_date": "2024-12-13",
-    "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
-    "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
-    "vote_average": 8.971,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3541,23 +3554,6 @@
     "is_local": true
   },
   {
-    "id": "261600",
-    "title": "Always Home",
-    "overview": "Chen Huan’er, along with her friends Jing Xichi and Song Cong, navigates the journey from high school to adulthood. Together, they experience love, loss, family struggles, and personal growth. As life takes them in unexpected directions, their enduring friendship remains a constant through every challenge.",
-    "release_date": "2025-02-15",
-    "poster_path": "/l4Fihq74U4kRODxaTzcGs82hYKp.jpg",
-    "backdrop_path": "/1PSqUcQaVVLWwkLhuXewg7EVONv.jpg",
-    "vote_average": 8.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "13700",
     "title": "Indian Idol",
     "overview": "The Indian version of the Pop Idol format.",
@@ -3569,6 +3565,23 @@
     "original_language": "hi",
     "genre_ids": [
       10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261600",
+    "title": "Always Home",
+    "overview": "Chen Huan’er, along with her friends Jing Xichi and Song Cong, navigates the journey from high school to adulthood. Together, they experience love, loss, family struggles, and personal growth. As life takes them in unexpected directions, their enduring friendship remains a constant through every challenge.",
+    "release_date": "2025-02-15",
+    "poster_path": "/l4Fihq74U4kRODxaTzcGs82hYKp.jpg",
+    "backdrop_path": "/1PSqUcQaVVLWwkLhuXewg7EVONv.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4028,7 +4041,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
     "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.575,
+    "vote_average": 8.573,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4368,7 +4381,7 @@
     "release_date": "2025-11-12",
     "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
     "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 8.17,
+    "vote_average": 8.158,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4422,7 +4435,7 @@
     "release_date": "2025-10-08",
     "poster_path": "/1eOek63acPohNgvXog4uYnJT6fh.jpg",
     "backdrop_path": "/lAJCsUD3f6KhwdtbnevSAI1E9EU.jpg",
-    "vote_average": 8.85,
+    "vote_average": 8.854,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4619,7 +4632,7 @@
     "release_date": "2025-02-21",
     "poster_path": "/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
     "backdrop_path": "/lAOiaHI5OoY1t4L5rcmwaf1HkLs.jpg",
-    "vote_average": 8,
+    "vote_average": 7.95,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5064,7 +5077,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.747,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5239,7 +5252,7 @@
     "release_date": "2025-06-16",
     "poster_path": "/kJTSJ6X9zjL4nYM8Oje21sTuoOZ.jpg",
     "backdrop_path": "/aKvbFRFOzbaMB59575O5vUVaFyr.jpg",
-    "vote_average": 8.326,
+    "vote_average": 8.321,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5352,6 +5365,24 @@
     "original_language": "th",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.607,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5954,20 +5985,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "218521",
