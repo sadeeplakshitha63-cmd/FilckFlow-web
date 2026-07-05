@@ -1,22 +1,5 @@
 [
   {
-    "id": 257785,
-    "title": "Tulip Fever",
-    "poster_path": "/aGBRTDMuYDKCA9g7NTGwtMZBWd.jpg",
-    "overview": "An artist falls for a married young woman while he's commissioned to paint her portrait. The two invest in the risky tulip market in hopes to build a future together.",
-    "vote_average": 6.5,
-    "release_date": "2017-07-13",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "259698",
     "title": "You Are My Secret",
     "overview": "Lobby manager Tu Xiaoning and rising business star Ji Yuheng reconnect as childhood friends with a shared goal of marriage. As their lives intertwine through work and love, they navigate the complexities of relationships, balancing their dual roles as colleagues and newlyweds.",
@@ -772,7 +755,7 @@
     "release_date": "2023-12-02",
     "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
     "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.141,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -951,7 +934,7 @@
     "release_date": "2023-08-23",
     "poster_path": "/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
     "backdrop_path": "/jJMfTkvU2exHwCFoBHsIqwaHImh.jpg",
-    "vote_average": 8.124,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2439,6 +2422,24 @@
     "is_local": true
   },
   {
+    "id": "65143",
+    "title": "Descendants of the Sun",
+    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+    "release_date": "2016-02-24",
+    "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+    "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
+    "vote_average": 8.342,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "68814",
     "title": "Strong Woman Do Bong-Soon",
     "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
@@ -2452,24 +2453,6 @@
       35,
       10759,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "65143",
-    "title": "Descendants of the Sun",
-    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
-    "release_date": "2016-02-24",
-    "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
-    "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "vote_average": 8.342,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2524,6 +2507,580 @@
     "genre_ids": [
       10765,
       10759,
+      16
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+    "release_date": "2007-02-15",
+    "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+    "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+    "vote_average": 8.531,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261980",
+    "title": "Our Unwritten Seoul",
+    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
+    "release_date": "2025-05-24",
+    "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
+    "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
+    "vote_average": 8.444,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "198182",
+    "title": "Throne of Seal",
+    "overview": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. The mankind created six Temples to fight the demons. Long Haochen joins the Knights Temple. As he grows, an adventure unfolds. He wins the recognition of others and fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people. Could Long win the Throne of Seal and be granted the highest honor in the Knights' Temple? All remained to be revealed.",
+    "release_date": "2022-04-28",
+    "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
+    "backdrop_path": "/9fOsc3Hmvy6G5Hw8tTOGRFGWp73.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      16,
+      10759,
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "273418",
+    "title": "Law and the City",
+    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+    "release_date": "2025-07-05",
+    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
+    "vote_average": 7.653,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "221416",
+    "title": "Kiseki: Dear To Me",
+    "overview": "A top student and an injured gangster form an unlikely bond, but fate, crime, and memory loss tear them apart—until destiny brings them back together.",
+    "release_date": "2023-08-22",
+    "poster_path": "/eZhHNVFaT0YSylVZJVSljmAh1fs.jpg",
+    "backdrop_path": "/qXd2fqz9KdL8BOtzXU4C1LlLU5T.jpg",
+    "vote_average": 8.113,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "270420",
+    "title": "No Tail to Tell",
+    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
+    "release_date": "2026-01-16",
+    "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
+    "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+    "vote_average": 7.875,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "108261",
+    "title": "Mr. Queen",
+    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
+    "release_date": "2020-12-12",
+    "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
+    "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
+    "vote_average": 8.51,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "158258",
+    "title": "Duty After School",
+    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
+    "release_date": "2023-03-31",
+    "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
+    "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
+    "vote_average": 8.093,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237327",
+    "title": "My Golden Blood",
+    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
+    "release_date": "2025-03-12",
+    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
+    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
+    "vote_average": 8.96,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230735",
+    "title": "My Personal Weatherman",
+    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
+    "release_date": "2023-08-11",
+    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
+    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
+    "vote_average": 7.903,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "93657",
+    "title": "Extraordinary You",
+    "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
+    "release_date": "2019-10-02",
+    "poster_path": "/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
+    "backdrop_path": "/i6rkuzYRCBYUSYZJItWzBVAQ2j6.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240901",
+    "title": "Safe Skies, Archer",
+    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+    "release_date": "2023-11-20",
+    "poster_path": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
+    "backdrop_path": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
+    "vote_average": 9.8,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "247453",
+    "title": "Everyone Loves Me",
+    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
+    "release_date": "2024-03-01",
+    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
+    "backdrop_path": "/cT0BHScPLuvpWywZ04gLxF7q3K5.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278146",
+    "title": "Dare You to Death",
+    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
+    "release_date": "2025-12-18",
+    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
+    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
+    "vote_average": 7.731,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "281016",
+    "title": "Boyfriend on Demand",
+    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
+    "release_date": "2026-03-06",
+    "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+    "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
+    "vote_average": 8.264,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259857",
+    "title": "Be Passionately in Love",
+    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
+    "release_date": "2025-05-28",
+    "poster_path": "/lHwDCUgN5bjOgWgASt0BMgHQVIQ.jpg",
+    "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "274559",
+    "title": "The Wicked Game",
+    "overview": "An abandoned heir wages war to expose his ruthless father and seize control of the family empire, but treachery—and desire—threaten his plan.",
+    "release_date": "2025-09-27",
+    "poster_path": "/vcOR221FjqIUYAnPB7ZhE20z0Ch.jpg",
+    "backdrop_path": "/guVAWuTVFbTInhJW4OLGmIMR9uA.jpg",
+    "vote_average": 7.923,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10759,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "457832",
+    "title": "Reset",
+    "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
+    "release_date": "2017-06-28",
+    "poster_path": "/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg",
+    "backdrop_path": "/f2fWG89GPSe31ymp6pqJANfjbit.jpg",
+    "vote_average": 6.904,
+    "media_type": "movie",
+    "original_language": "zh",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "259837",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "release_date": "2026-05-15",
+    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+    "vote_average": 9.04,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      35,
+      10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "228429",
+    "title": "Soul Land 2: The Peerless Tang Clan",
+    "overview": "The Tang Sect in a turbulent world. There is nothing but martial spirit here. Ten thousand years after the founding of the Tang Sect, it is in relative decline. An extremely talented man was born. Can the new Shrek Seven Monsters revive the Tang Sect and bring it back to glory? A soul beast of over one million years old; Electrolux who can pick stars; The new soul utensil system that led to the decline of the Tang Sect... A lot of secrets are to be revealed. Can the secret weapons of the Tang Sect be sharp again? Can the Tang Sect regain its former glory?",
+    "release_date": "2023-06-24",
+    "poster_path": "/pzemNbETZKXRzjvBwc1hydqbEeK.jpg",
+    "backdrop_path": "/w2DBa4lRn97uvZkshoCX8XVvieZ.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      16,
+      10765,
+      10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "297640",
+    "title": "Filing for Love",
+    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+    "release_date": "2026-04-25",
+    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "vote_average": 8.25,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "79434",
+    "title": "What's Wrong with Secretary Kim",
+    "overview": "Lee Young-joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-so. She has worked for him for years and she is perfect for him, but Kim Mi-so decides to quit her job.",
+    "release_date": "2018-06-06",
+    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "307624",
+    "title": "Sammy's Children's Day",
+    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
+    "release_date": "2026-03-13",
+    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
+    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "cn",
+    "genre_ids": [
+      18,
+      80,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "236033",
+    "title": "The Double",
+    "overview": "Xue Fangfei, the daughter of a well-off county magistrate lost everything after a major upheaval. Saved by Jiang Li, the daughter of the Secretariat Director, she took on the identity of Jiang Li and returned to the capital.  With the help of Duke Xiao Heng and others, she overcame numerous hardships, tirelessly fought against injustice, rescued her father who had been wrongly imprisoned, assisted Xiao Heng in upholding justice, protecting the common people, and ultimately regained a beautiful life.",
+    "release_date": "2024-06-02",
+    "poster_path": "/u4zFeoSUlqp18yPbzppi5oZRlgH.jpg",
+    "backdrop_path": "/8zIi5neowf6iu7dK6tlLPvOAC5y.jpg",
+    "vote_average": 8.178,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "136732",
+    "title": "Shooting Stars",
+    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
+    "release_date": "2022-04-22",
+    "poster_path": "/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
+    "backdrop_path": "/2u9M2WTPM6Olqh3JO0tt0OmmJnB.jpg",
+    "vote_average": 8.087,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "254993",
+    "title": "Embrace in the Dark Night",
+    "overview": "Wen Xi is drawn into an underground fight club and becomes the prize for champion Xu Zheqing, who is secretly a security consultant tasked with saving her. Three years later, after her twin sister’s mysterious death, Wen Xi assumes her sister’s identity at a company, where she reunites with Xu. Now on opposite sides, can they reconcile their feelings and uncover the truth?",
+    "release_date": "2024-08-06",
+    "poster_path": "/dGBg7KKsNRNzeVeKePrgwfKw1m5.jpg",
+    "backdrop_path": "/bKLWC6ppultOZk0qPyYGWRqoQNm.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "Mew, Ray, Boston, and Namchueam, a group of business students running a hostel together blur the lines between friendship and romance.  Mew has been focusing on his studies, setting aside no time for sex and relationships. To help them with their business's design, Boston introduces the group to Top. Boston didn't anticipate Top's interest in Mew, and he isn't happy with the turn of events. Economics student Sand wants an exclusive relationship with Ray, but Ray has feelings for Mew, and he's not interested in settling. IT guy Nick finds a sex tape in Boston's phone and ends up in a friends-with-benefits relationship with him. However, Nick wants something more.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "130368",
+    "title": "Love Between Fairy and Devil",
+    "overview": "When a low-ranked fairy accidentally resurrects a powerful demon, their fates become cosmically entangled as the world is thrown into turmoil.",
+    "release_date": "2022-08-07",
+    "poster_path": "/9iigsYwHsBlU1As6ChDHHTJmVKd.jpg",
+    "backdrop_path": "/pECcUE53TjkrR2VsAgF7JICzH7k.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278137",
+    "title": "Head 2 Head",
+    "overview": "A rivalry turns upside down when Jerome’s strange new ability shows him a shocking future—one where his enemy becomes his soulmate.",
+    "release_date": "2025-10-26",
+    "poster_path": "/lgY5E0Gc5LQMy4SD9vPk6EBOei1.jpg",
+    "backdrop_path": "/5i7rjtU016yD1ooGLva8LYaoWF0.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1357633",
+    "title": "Solo Leveling -ReAwakening-",
+    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+    "release_date": "2024-11-26",
+    "poster_path": "/dblIFen0bNZAq8icJXHwrjfymDW.jpg",
+    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "vote_average": 7.16,
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+      28,
+      12,
+      14,
       16
     ],
     "video_url": "",
@@ -3841,7 +4398,7 @@
     "release_date": "2024-08-17",
     "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
     "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "vote_average": 7.858,
+    "vote_average": 7.845,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4446,7 +5003,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.265,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4723,578 +5280,21 @@
     "is_local": true
   },
   {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
-    "release_date": "2007-02-15",
-    "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
-    "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.531,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "261980",
-    "title": "Our Unwritten Seoul",
-    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
-    "release_date": "2025-05-24",
-    "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
-    "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.444,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "198182",
-    "title": "Throne of Seal",
-    "overview": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. The mankind created six Temples to fight the demons. Long Haochen joins the Knights Temple. As he grows, an adventure unfolds. He wins the recognition of others and fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people. Could Long win the Throne of Seal and be granted the highest honor in the Knights' Temple? All remained to be revealed.",
-    "release_date": "2022-04-28",
-    "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
-    "backdrop_path": "/9fOsc3Hmvy6G5Hw8tTOGRFGWp73.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      16,
-      10759,
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "273418",
-    "title": "Law and the City",
-    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
-    "release_date": "2025-07-05",
-    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
-    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
-    "vote_average": 7.653,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "221416",
-    "title": "Kiseki: Dear To Me",
-    "overview": "A top student and an injured gangster form an unlikely bond, but fate, crime, and memory loss tear them apart—until destiny brings them back together.",
-    "release_date": "2023-08-22",
-    "poster_path": "/eZhHNVFaT0YSylVZJVSljmAh1fs.jpg",
-    "backdrop_path": "/qXd2fqz9KdL8BOtzXU4C1LlLU5T.jpg",
-    "vote_average": 8.113,
-    "media_type": "tv",
-    "original_language": "zh",
+    "id": 257785,
+    "title": "Tulip Fever",
+    "poster_path": "/aGBRTDMuYDKCA9g7NTGwtMZBWd.jpg",
+    "overview": "An artist falls for a married young woman while he's commissioned to paint her portrait. The two invest in the risky tulip market in hopes to build a future together.",
+    "vote_average": 6.5,
+    "release_date": "2017-07-13",
     "genre_ids": [
       18,
-      80
+      10749
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "270420",
-    "title": "No Tail to Tell",
-    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
-    "release_date": "2026-01-16",
-    "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
-    "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "vote_average": 7.875,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "108261",
-    "title": "Mr. Queen",
-    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
-    "release_date": "2020-12-12",
-    "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
-    "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "vote_average": 8.51,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "158258",
-    "title": "Duty After School",
-    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
-    "release_date": "2023-03-31",
-    "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
-    "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
-    "vote_average": 8.093,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237327",
-    "title": "My Golden Blood",
-    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
-    "release_date": "2025-03-12",
-    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
-    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
-    "vote_average": 8.96,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "230735",
-    "title": "My Personal Weatherman",
-    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
-    "release_date": "2023-08-11",
-    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
-    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
-    "vote_average": 7.903,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "93657",
-    "title": "Extraordinary You",
-    "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
-    "release_date": "2019-10-02",
-    "poster_path": "/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
-    "backdrop_path": "/i6rkuzYRCBYUSYZJItWzBVAQ2j6.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240901",
-    "title": "Safe Skies, Archer",
-    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
-    "release_date": "2023-11-20",
-    "poster_path": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
-    "backdrop_path": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
-    "vote_average": 9.8,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "247453",
-    "title": "Everyone Loves Me",
-    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
-    "release_date": "2024-03-01",
-    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
-    "backdrop_path": "/cT0BHScPLuvpWywZ04gLxF7q3K5.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278146",
-    "title": "Dare You to Death",
-    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
-    "release_date": "2025-12-18",
-    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
-    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 7.731,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "281016",
-    "title": "Boyfriend on Demand",
-    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
-    "release_date": "2026-03-06",
-    "poster_path": "/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
-    "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.25,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259857",
-    "title": "Be Passionately in Love",
-    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
-    "release_date": "2025-05-28",
-    "poster_path": "/lHwDCUgN5bjOgWgASt0BMgHQVIQ.jpg",
-    "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "274559",
-    "title": "The Wicked Game",
-    "overview": "An abandoned heir wages war to expose his ruthless father and seize control of the family empire, but treachery—and desire—threaten his plan.",
-    "release_date": "2025-09-27",
-    "poster_path": "/vcOR221FjqIUYAnPB7ZhE20z0Ch.jpg",
-    "backdrop_path": "/guVAWuTVFbTInhJW4OLGmIMR9uA.jpg",
-    "vote_average": 7.923,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10759,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "457832",
-    "title": "Reset",
-    "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
-    "release_date": "2017-06-28",
-    "poster_path": "/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg",
-    "backdrop_path": "/f2fWG89GPSe31ymp6pqJANfjbit.jpg",
-    "vote_average": 6.904,
+    "original_language": "en",
     "media_type": "movie",
-    "original_language": "zh",
-    "genre_ids": [
-      28,
-      878
-    ],
+    "is_local": false,
     "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259837",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "release_date": "2026-05-15",
-    "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 9.04,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "228429",
-    "title": "Soul Land 2: The Peerless Tang Clan",
-    "overview": "The Tang Sect in a turbulent world. There is nothing but martial spirit here. Ten thousand years after the founding of the Tang Sect, it is in relative decline. An extremely talented man was born. Can the new Shrek Seven Monsters revive the Tang Sect and bring it back to glory? A soul beast of over one million years old; Electrolux who can pick stars; The new soul utensil system that led to the decline of the Tang Sect... A lot of secrets are to be revealed. Can the secret weapons of the Tang Sect be sharp again? Can the Tang Sect regain its former glory?",
-    "release_date": "2023-06-24",
-    "poster_path": "/pzemNbETZKXRzjvBwc1hydqbEeK.jpg",
-    "backdrop_path": "/w2DBa4lRn97uvZkshoCX8XVvieZ.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      16,
-      10765,
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "297640",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "release_date": "2026-04-25",
-    "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.25,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "79434",
-    "title": "What's Wrong with Secretary Kim",
-    "overview": "Lee Young-joon's family runs a large company and he works as the vice-president of the company. He is smart, rich and handsome, but he is arrogant. His secretary is Kim Mi-so. She has worked for him for years and she is perfect for him, but Kim Mi-so decides to quit her job.",
-    "release_date": "2018-06-06",
-    "poster_path": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
-    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
-    "vote_average": 8.307,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "307624",
-    "title": "Sammy's Children's Day",
-    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
-    "release_date": "2026-03-13",
-    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
-    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "cn",
-    "genre_ids": [
-      18,
-      80,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "236033",
-    "title": "The Double",
-    "overview": "Xue Fangfei, the daughter of a well-off county magistrate lost everything after a major upheaval. Saved by Jiang Li, the daughter of the Secretariat Director, she took on the identity of Jiang Li and returned to the capital.  With the help of Duke Xiao Heng and others, she overcame numerous hardships, tirelessly fought against injustice, rescued her father who had been wrongly imprisoned, assisted Xiao Heng in upholding justice, protecting the common people, and ultimately regained a beautiful life.",
-    "release_date": "2024-06-02",
-    "poster_path": "/u4zFeoSUlqp18yPbzppi5oZRlgH.jpg",
-    "backdrop_path": "/8zIi5neowf6iu7dK6tlLPvOAC5y.jpg",
-    "vote_average": 8.178,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "136732",
-    "title": "Shooting Stars",
-    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
-    "release_date": "2022-04-22",
-    "poster_path": "/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
-    "backdrop_path": "/2u9M2WTPM6Olqh3JO0tt0OmmJnB.jpg",
-    "vote_average": 8.087,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "254993",
-    "title": "Embrace in the Dark Night",
-    "overview": "Wen Xi is drawn into an underground fight club and becomes the prize for champion Xu Zheqing, who is secretly a security consultant tasked with saving her. Three years later, after her twin sister’s mysterious death, Wen Xi assumes her sister’s identity at a company, where she reunites with Xu. Now on opposite sides, can they reconcile their feelings and uncover the truth?",
-    "release_date": "2024-08-06",
-    "poster_path": "/dGBg7KKsNRNzeVeKePrgwfKw1m5.jpg",
-    "backdrop_path": "/bKLWC6ppultOZk0qPyYGWRqoQNm.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "Mew, Ray, Boston, and Namchueam, a group of business students running a hostel together blur the lines between friendship and romance.  Mew has been focusing on his studies, setting aside no time for sex and relationships. To help them with their business's design, Boston introduces the group to Top. Boston didn't anticipate Top's interest in Mew, and he isn't happy with the turn of events. Economics student Sand wants an exclusive relationship with Ray, but Ray has feelings for Mew, and he's not interested in settling. IT guy Nick finds a sex tape in Boston's phone and ends up in a friends-with-benefits relationship with him. However, Nick wants something more.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "130368",
-    "title": "Love Between Fairy and Devil",
-    "overview": "When a low-ranked fairy accidentally resurrects a powerful demon, their fates become cosmically entangled as the world is thrown into turmoil.",
-    "release_date": "2022-08-07",
-    "poster_path": "/9iigsYwHsBlU1As6ChDHHTJmVKd.jpg",
-    "backdrop_path": "/pECcUE53TjkrR2VsAgF7JICzH7k.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278137",
-    "title": "Head 2 Head",
-    "overview": "A rivalry turns upside down when Jerome’s strange new ability shows him a shocking future—one where his enemy becomes his soulmate.",
-    "release_date": "2025-10-26",
-    "poster_path": "/lgY5E0Gc5LQMy4SD9vPk6EBOei1.jpg",
-    "backdrop_path": "/5i7rjtU016yD1ooGLva8LYaoWF0.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1357633",
-    "title": "Solo Leveling -ReAwakening-",
-    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
-    "release_date": "2024-11-26",
-    "poster_path": "/dblIFen0bNZAq8icJXHwrjfymDW.jpg",
-    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-    "vote_average": 7.16,
-    "media_type": "movie",
-    "original_language": "ja",
-    "genre_ids": [
-      28,
-      12,
-      14,
-      16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
+    "subtitle_file": null
   },
   {
     "id": "230835",
