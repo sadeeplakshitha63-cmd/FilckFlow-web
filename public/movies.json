@@ -113,7 +113,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.726,
+    "vote_average": 7.73,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -1200,17 +1200,19 @@
     "is_local": true
   },
   {
-    "id": "879945",
-    "title": "The Unknown Man",
-    "overview": "Louis, a Flemish writer, decides to isolate himself at the Côte d’Azur, hoping this place will bring him inspiration.",
-    "release_date": "2021-10-16",
-    "poster_path": "/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
-    "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
-    "vote_average": 7.833,
-    "media_type": "movie",
-    "original_language": "nl",
+    "id": "61833",
+    "title": "Expedition Unknown",
+    "overview": "The adventures of Josh Gates as he investigates unsolved iconic stories across the globe.",
+    "release_date": "2015-01-08",
+    "poster_path": "/4OiM6apNckkqo04I7TO5VmQl65R.jpg",
+    "backdrop_path": "/5z7xXgrURj6Df0GYYGagoyPJm8J.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "en",
     "genre_ids": [
-      18
+      99,
+      10764,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2844,7 +2846,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 9.054,
+    "vote_average": 9.039,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2969,23 +2971,6 @@
     "is_local": true
   },
   {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "Mew, Ray, Boston, and Namchueam, a group of business students running a hostel together blur the lines between friendship and romance.  Mew has been focusing on his studies, setting aside no time for sex and relationships. To help them with their business's design, Boston introduces the group to Top. Boston didn't anticipate Top's interest in Mew, and he isn't happy with the turn of events. Economics student Sand wants an exclusive relationship with Ray, but Ray has feelings for Mew, and he's not interested in settling. IT guy Nick finds a sex tape in Boston's phone and ends up in a friends-with-benefits relationship with him. However, Nick wants something more.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "130368",
     "title": "Love Between Fairy and Devil",
     "overview": "When a low-ranked fairy accidentally resurrects a powerful demon, their fates become cosmically entangled as the world is thrown into turmoil.",
@@ -2998,6 +2983,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "Mew, Ray, Boston, and Namchueam, a group of business students running a hostel together blur the lines between friendship and romance.  Mew has been focusing on his studies, setting aside no time for sex and relationships. To help them with their business's design, Boston introduces the group to Top. Boston didn't anticipate Top's interest in Mew, and he isn't happy with the turn of events. Economics student Sand wants an exclusive relationship with Ray, but Ray has feelings for Mew, and he's not interested in settling. IT guy Nick finds a sex tape in Boston's phone and ends up in a friends-with-benefits relationship with him. However, Nick wants something more.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3476,7 +3478,7 @@
     "release_date": "2025-05-16",
     "poster_path": "/iDRm2U656Z91DyiD8FnKvQPcBCt.jpg",
     "backdrop_path": "/iLYLcW5G761ePELtkvxgse8hwRm.jpg",
-    "vote_average": 7.688,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4081,7 +4083,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
     "backdrop_path": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
-    "vote_average": 8.712,
+    "vote_average": 8.714,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4532,7 +4534,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/Afrz3QAcQcsT6w4S5wrKUxmYPWM.jpg",
     "backdrop_path": "/5yk3QwnQxzwKfhU1tlDkV2PSIBz.jpg",
-    "vote_average": 8.755,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5226,6 +5228,23 @@
     "vote_average": 8.113,
     "media_type": "movie",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "879945",
+    "title": "The Unknown Man",
+    "overview": "Louis, a Flemish writer, decides to isolate himself at the Côte d’Azur, hoping this place will bring him inspiration.",
+    "release_date": "2021-10-16",
+    "poster_path": "/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
+    "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
+    "vote_average": 7.833,
+    "media_type": "movie",
+    "original_language": "nl",
     "genre_ids": [
       18
     ],
