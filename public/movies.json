@@ -1177,24 +1177,6 @@
     "is_local": true
   },
   {
-    "id": "68349",
-    "title": "Weightlifting Fairy Kim Bok-joo",
-    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
-    "release_date": "2016-11-16",
-    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
-    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "214873",
     "title": "My School President",
     "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
@@ -1204,6 +1186,24 @@
     "vote_average": 8.194,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68349",
+    "title": "Weightlifting Fairy Kim Bok-joo",
+    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
+    "release_date": "2016-11-16",
+    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
+    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -1796,6 +1796,23 @@
     "is_local": true
   },
   {
+    "id": "282471",
+    "title": "ClaireBell",
+    "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
+    "release_date": "2025-10-27",
+    "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
+    "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "139353",
     "title": "Cutie Pie",
     "overview": "Arranged to marry, a young tycoon and a free-spirited student face a test when one reveals that only duty, not love, keeps them together.",
@@ -1807,23 +1824,6 @@
     "original_language": "th",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "282471",
-    "title": "ClaireBell",
-    "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
-    "release_date": "2025-10-27",
-    "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
-    "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3456,7 +3456,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.276,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4277,7 +4277,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.384,
+    "vote_average": 8.387,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4349,7 +4349,7 @@
     "release_date": "2025-09-26",
     "poster_path": "/iH8J36LMEYdvOlYvbBcYCK0ckpp.jpg",
     "backdrop_path": "/vNqDJzm7AR95NpLzDn85dEL84vv.jpg",
-    "vote_average": 8.618,
+    "vote_average": 8.167,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
