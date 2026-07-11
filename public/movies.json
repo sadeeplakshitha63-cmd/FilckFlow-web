@@ -1,31 +1,16 @@
 [
   {
-    "id": 1715492,
-    "title": "Shipwrecked: Nightmare at Sea",
-    "poster_path": "/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-    "overview": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
-    "vote_average": 8.7,
+    "id": 1484913,
+    "title": "Ikka",
+    "poster_path": "/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+    "vote_average": 6.071,
     "release_date": "2026-07-10",
     "genre_ids": [
-      99
+      18,
+      53
     ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 1516391,
-    "title": "Cover-Up",
-    "poster_path": "/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
-    "overview": "He's devoted his career to uncovering stories the powerful want buried. From My Lai to Abu Ghraib, dig into the life's work of journalist Seymour Hersh.",
-    "vote_average": 7.1,
-    "release_date": "2025-12-19",
-    "genre_ids": [
-      99
-    ],
-    "original_language": "en",
+    "original_language": "hi",
     "media_type": "movie",
     "is_local": false,
     "video_url": "",
@@ -90,7 +75,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.735,
+    "vote_average": 7.732,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -1305,7 +1290,7 @@
     "release_date": "2010-03-18",
     "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
     "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.852,
+    "vote_average": 6.9,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -1941,7 +1926,7 @@
     "release_date": "2021-10-29",
     "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
     "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
-    "vote_average": 8.487,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4014,6 +3999,24 @@
     "is_local": true
   },
   {
+    "id": "231306",
+    "title": "Exclusive Fairytale",
+    "overview": "Ling Chao and Xiao Tu have been childhood rivals and inseparable friends since kindergarten. Despite his brilliance and perfectionism, Ling Chao always lived in the shadow of Xiao Tu in his mother’s eyes. As they grow up together, their playful rivalry turns into something more.",
+    "release_date": "2023-07-27",
+    "poster_path": "/t2rRWqKgnVrMtmst0VOEQv0hA1J.jpg",
+    "backdrop_path": "/ztNIh5lBUjVLjQLa0GrKUgytGiX.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "229891",
     "title": "Can This Love Be Translated?",
     "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
@@ -4932,7 +4935,7 @@
     "release_date": "2025-02-25",
     "poster_path": "/okQHEWYmmVDLfxAsT8UBJeTMPIi.jpg",
     "backdrop_path": "/7KBu3AIlVJXxbkGBCm9FV4JUgLR.jpg",
-    "vote_average": 7.9,
+    "vote_average": 8.066,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5020,7 +5023,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.967,
+    "vote_average": 9.018,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5191,22 +5194,36 @@
     "is_local": true
   },
   {
-    "id": "231306",
-    "title": "Exclusive Fairytale",
-    "overview": "Ling Chao and Xiao Tu have been childhood rivals and inseparable friends since kindergarten. Despite his brilliance and perfectionism, Ling Chao always lived in the shadow of Xiao Tu in his mother’s eyes. As they grow up together, their playful rivalry turns into something more.",
-    "release_date": "2023-07-27",
-    "poster_path": "/t2rRWqKgnVrMtmst0VOEQv0hA1J.jpg",
-    "backdrop_path": "/ztNIh5lBUjVLjQLa0GrKUgytGiX.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
+    "id": 1715492,
+    "title": "Shipwrecked: Nightmare at Sea",
+    "poster_path": "/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+    "overview": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+    "vote_average": 8.7,
+    "release_date": "2026-07-10",
     "genre_ids": [
-      18,
-      10751
+      99
     ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
     "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
+    "subtitle_file": null
+  },
+  {
+    "id": 1516391,
+    "title": "Cover-Up",
+    "poster_path": "/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
+    "overview": "He's devoted his career to uncovering stories the powerful want buried. From My Lai to Abu Ghraib, dig into the life's work of journalist Seymour Hersh.",
+    "vote_average": 7.1,
+    "release_date": "2025-12-19",
+    "genre_ids": [
+      99
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 1057265,
