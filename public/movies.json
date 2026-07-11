@@ -1,95 +1,5 @@
 [
   {
-    "id": 1320660,
-    "title": "Pati Patni Aur Woh Do",
-    "poster_path": "/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-    "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-    "vote_average": 5.3,
-    "release_date": "2026-05-15",
-    "genre_ids": [
-      35
-    ],
-    "original_language": "hi",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 496450,
-    "title": "Miraculous: Ladybug & Cat Noir, The Movie",
-    "poster_path": "/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
-    "overview": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.",
-    "vote_average": 7.6,
-    "release_date": "2023-07-05",
-    "genre_ids": [
-      16,
-      14,
-      28,
-      10749,
-      10751
-    ],
-    "original_language": "fr",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 236235,
-    "title": "The Gentlemen",
-    "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-    "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-    "vote_average": 7.821,
-    "release_date": "2024-03-07",
-    "genre_ids": [
-      35,
-      18,
-      80
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 111111,
-    "title": "Blood of Zeus",
-    "poster_path": "/zXRR5tgGLtKrRmuN4ko9SLAdCiZ.jpg",
-    "overview": "In a brewing war between the gods of Olympus and the titans, Heron, a commoner living on the outskirts of ancient Greece, becomes mankind's best hope of surviving an evil demon army, when he discovers the secrets of his past.",
-    "vote_average": 7.753,
-    "release_date": "2020-10-27",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 239287,
-    "title": "Terminator Zero",
-    "poster_path": "/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg",
-    "overview": "A warrior from a post-apocalyptic future travels to 1997 to protect an AI scientist being hunted by an unfeeling — and indestructible — cyborg.",
-    "vote_average": 7.038,
-    "release_date": "2024-08-29",
-    "genre_ids": [
-      16,
-      10765,
-      10759
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "135349",
     "title": "Once We Get Married",
     "overview": "Fashion buyer Gu Xixi bought Alex's couture wedding dresses for her clients. During a private reception, she got acquainted with Yin Sichen, the black-bellied president who came to discuss business cooperation with Alex. An incident occured leading to the two people to temporarily maintain a contract cooperative relationship for a win-win situation pertaining to Alex. The two with opposite personalities gradually found love in this contract marriage. Adapted from novel \"Flash Marriage CEO's Contract Wife\" by Xiang Wang.",
@@ -785,23 +695,6 @@
     "is_local": true
   },
   {
-    "id": "217800",
-    "title": "Last Twilight",
-    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
-    "release_date": "2023-11-10",
-    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
-    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
-    "vote_average": 9.528,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278162",
     "title": "My Magic Prophecy",
     "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
@@ -815,6 +708,23 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217800",
+    "title": "Last Twilight",
+    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
+    "release_date": "2023-11-10",
+    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
+    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
+    "vote_average": 9.528,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -930,23 +840,6 @@
     "is_local": true
   },
   {
-    "id": "223618",
-    "title": "Venus in the Sky",
-    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
-    "release_date": "2023-09-02",
-    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
-    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "247207",
     "title": "Ski into Love",
     "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
@@ -956,6 +849,23 @@
     "vote_average": 7,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "223618",
+    "title": "Venus in the Sky",
+    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
+    "release_date": "2023-09-02",
+    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
+    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -1019,15 +929,19 @@
     "is_local": true
   },
   {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.607,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1831,24 +1745,6 @@
     "is_local": true
   },
   {
-    "id": "233219",
-    "title": "ONE: High School Heroes",
-    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
-    "release_date": "2025-05-30",
-    "poster_path": "/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
-    "backdrop_path": "/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
-    "vote_average": 8.023,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "228689",
     "title": "Genie, Make a Wish",
     "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
@@ -1861,6 +1757,24 @@
     "genre_ids": [
       10765,
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233219",
+    "title": "ONE: High School Heroes",
+    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
+    "release_date": "2025-05-30",
+    "poster_path": "/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
+    "backdrop_path": "/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
+    "vote_average": 8.023,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
       18
     ],
     "video_url": "",
@@ -2690,7 +2604,7 @@
     "release_date": "2026-04-17",
     "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
     "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.825,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2933,7 +2847,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
     "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.556,
     "media_type": "tv",
     "original_language": "cn",
     "genre_ids": [
@@ -4295,7 +4209,7 @@
     "release_date": "2024-11-22",
     "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
     "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "vote_average": 8.304,
+    "vote_average": 8.309,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4652,7 +4566,7 @@
     "release_date": "2022-04-02",
     "poster_path": "/hdPLe50HbZHsETXQRcIP8gw7cKz.jpg",
     "backdrop_path": "/wTgDY1izbDCbdgsNS1ujLk7lepG.jpg",
-    "vote_average": 8.696,
+    "vote_average": 8.703,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4792,13 +4706,13 @@
     "is_local": true
   },
   {
-    "id": "228547",
-    "title": "When I Fly Towards You",
-    "overview": "Set off by a sweet chance encounter, 16-year-old Su Zaizai finds herself helplessly drawn to Zhang Lurang — her smart, charming yet distant schoolmate.",
-    "release_date": "2023-06-13",
-    "poster_path": "/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
-    "backdrop_path": "/3nWfjIBUyYUCABI7Fsl1AhNhDAr.jpg",
-    "vote_average": 8.759,
+    "id": "233194",
+    "title": "Only for Love",
+    "overview": "Zheng Shuyi, a reporter who excels at her job and is determined to land a front-page story, has tried very hard to earn an exclusive interview with top financial executive Shi Yan. Their love story then blossoms due to a mistake. Zheng Shuyi has written numerous reports through her in-depth research of various industries while Shi Yan is constantly looking for socially responsible start-ups to invest in as he hopes to give back to society as much as he can. Shi Yan finds that Zheng Shuyi's opinions conveyed through her reports coincide with his own, so he agrees to let her write a series of reports on their company. The two eventually open up new opportunities in their career and also find love.",
+    "release_date": "2023-11-03",
+    "poster_path": "/bNsoWp0rrfkpYXcedsPnOG0PUs.jpg",
+    "backdrop_path": "/tchhr4PIgdILmgUqbfm2fbi9b26.jpg",
+    "vote_average": 8.05,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4810,13 +4724,13 @@
     "is_local": true
   },
   {
-    "id": "233194",
-    "title": "Only for Love",
-    "overview": "Zheng Shuyi, a reporter who excels at her job and is determined to land a front-page story, has tried very hard to earn an exclusive interview with top financial executive Shi Yan. Their love story then blossoms due to a mistake. Zheng Shuyi has written numerous reports through her in-depth research of various industries while Shi Yan is constantly looking for socially responsible start-ups to invest in as he hopes to give back to society as much as he can. Shi Yan finds that Zheng Shuyi's opinions conveyed through her reports coincide with his own, so he agrees to let her write a series of reports on their company. The two eventually open up new opportunities in their career and also find love.",
-    "release_date": "2023-11-03",
-    "poster_path": "/bNsoWp0rrfkpYXcedsPnOG0PUs.jpg",
-    "backdrop_path": "/tchhr4PIgdILmgUqbfm2fbi9b26.jpg",
-    "vote_average": 8.05,
+    "id": "228547",
+    "title": "When I Fly Towards You",
+    "overview": "Set off by a sweet chance encounter, 16-year-old Su Zaizai finds herself helplessly drawn to Zhang Lurang — her smart, charming yet distant schoolmate.",
+    "release_date": "2023-06-13",
+    "poster_path": "/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
+    "backdrop_path": "/3nWfjIBUyYUCABI7Fsl1AhNhDAr.jpg",
+    "vote_average": 8.759,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5131,7 +5045,7 @@
     "release_date": "2025-02-18",
     "poster_path": "/ywkwBd65CMvC33DDVFOQqr4mrVQ.jpg",
     "backdrop_path": "/lO2CqipALTHkRblLIRDKgtMgwxX.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.415,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5262,6 +5176,110 @@
     "genre_ids": [
       18
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": 1320660,
+    "title": "Pati Patni Aur Woh Do",
+    "poster_path": "/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+    "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "vote_average": 5.3,
+    "release_date": "2026-05-15",
+    "genre_ids": [
+      35
+    ],
+    "original_language": "hi",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 496450,
+    "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+    "poster_path": "/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+    "overview": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.",
+    "vote_average": 7.6,
+    "release_date": "2023-07-05",
+    "genre_ids": [
+      16,
+      14,
+      28,
+      10749,
+      10751
+    ],
+    "original_language": "fr",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 236235,
+    "title": "The Gentlemen",
+    "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+    "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+    "vote_average": 7.821,
+    "release_date": "2024-03-07",
+    "genre_ids": [
+      35,
+      18,
+      80
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 111111,
+    "title": "Blood of Zeus",
+    "poster_path": "/zXRR5tgGLtKrRmuN4ko9SLAdCiZ.jpg",
+    "overview": "In a brewing war between the gods of Olympus and the titans, Heron, a commoner living on the outskirts of ancient Greece, becomes mankind's best hope of surviving an evil demon army, when he discovers the secrets of his past.",
+    "vote_average": 7.753,
+    "release_date": "2020-10-27",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 239287,
+    "title": "Terminator Zero",
+    "poster_path": "/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg",
+    "overview": "A warrior from a post-apocalyptic future travels to 1997 to protect an AI scientist being hunted by an unfeeling — and indestructible — cyborg.",
+    "vote_average": 7.038,
+    "release_date": "2024-08-29",
+    "genre_ids": [
+      16,
+      10765,
+      10759
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -5455,24 +5473,6 @@
     "original_language": "th",
     "genre_ids": [
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.607,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
     ],
     "video_url": "",
     "subtitle_file": null,
