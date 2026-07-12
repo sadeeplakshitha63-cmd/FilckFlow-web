@@ -1,15 +1,17 @@
 [
   {
-    "id": 1722713,
-    "title": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
-    "poster_path": "/y8PN5CRJZf6PSbY5teEMR4eBHcw.jpg",
-    "overview": "This documentary explores how Miguel Ángel Blanco's 1997 abduction turned fear into collective resistance and shaped Spain's fright Against ETA terrorism.",
-    "vote_average": 7.5,
-    "release_date": "2026-07-10",
+    "id": 1626170,
+    "title": "Sing Geetham",
+    "poster_path": "/2UVWJ0zkPzuUlKHs7ZaTfQ2GLpk.jpg",
+    "overview": "In an isolated village, young Prathap seeks opportunity but enters a world of deception. Drawn into uncontrollable forces, he's caught between progress and preservation, testing his beliefs and purpose.",
+    "vote_average": 6,
+    "release_date": "2026-06-10",
     "genre_ids": [
-      99
+      35,
+      10402,
+      18
     ],
-    "original_language": "es",
+    "original_language": "te",
     "media_type": "movie",
     "is_local": false,
     "video_url": "",
@@ -3901,7 +3903,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
     "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.577,
+    "vote_average": 8.578,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5195,6 +5197,22 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1722713,
+    "title": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
+    "poster_path": "/y8PN5CRJZf6PSbY5teEMR4eBHcw.jpg",
+    "overview": "This documentary explores how Miguel Ángel Blanco's 1997 abduction turned fear into collective resistance and shaped Spain's fright Against ETA terrorism.",
+    "vote_average": 7.5,
+    "release_date": "2026-07-10",
+    "genre_ids": [
+      99
+    ],
+    "original_language": "es",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "240437",
