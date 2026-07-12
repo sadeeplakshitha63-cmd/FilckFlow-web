@@ -1,21 +1,20 @@
 [
   {
-    "id": 1626170,
-    "title": "Sing Geetham",
-    "poster_path": "/2UVWJ0zkPzuUlKHs7ZaTfQ2GLpk.jpg",
-    "overview": "In an isolated village, young Prathap seeks opportunity but enters a world of deception. Drawn into uncontrollable forces, he's caught between progress and preservation, testing his beliefs and purpose.",
-    "vote_average": 6,
-    "release_date": "2026-06-10",
+    "id": "251600",
+    "title": "The Eternal Fragrance",
+    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
+    "release_date": "2026-06-27",
+    "poster_path": "/yLm2X0pReuUFZrbrRkndupF9GeN.jpg",
+    "backdrop_path": "/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
+    "vote_average": 6.2,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
-      35,
-      10402,
       18
     ],
-    "original_language": "te",
-    "media_type": "movie",
-    "is_local": false,
     "video_url": "",
-    "subtitle_file": null
+    "subtitle_file": null,
+    "is_local": true
   },
   {
     "id": "135349",
@@ -749,24 +748,6 @@
     "is_local": true
   },
   {
-    "id": "278176",
-    "title": "MuTeLuv",
-    "overview": "This anthology tells seven stories of people who attempt to use supernatural forces to meet their goals, and their unique journeys to finding love along the way.",
-    "release_date": "2025-08-25",
-    "poster_path": "/mnod6OPewIavXr9pIBi2sJalhnh.jpg",
-    "backdrop_path": "/1CYB1Q9KCOPTkNORHr4yVmMJmAN.jpg",
-    "vote_average": 8.444,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "258280",
     "title": "Dashing Youth",
     "overview": "Baili Dongjun, the young master of the Marquis of Zhenxi's mansion, has little interest in practicing martial arts but throws himself into brewing liquor, only because he promised to be the Liquor Deity while his childhood friend Ye Yun becomes the Sword Deity. As fate would have it, he becomes a disciple of the top martial arts master Li Changsheng to start learning martial arts. Later, he meets his confidante Yueyao, reunites with Ye Yun, who has changed his name to Ye Dingzhi, and travels with Sikong Changfeng, a wandering adventurer. Together, these youths embark on their own adventures in the martial world.",
@@ -778,6 +759,24 @@
     "original_language": "zh",
     "genre_ids": [
       18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278176",
+    "title": "MuTeLuv",
+    "overview": "This anthology tells seven stories of people who attempt to use supernatural forces to meet their goals, and their unique journeys to finding love along the way.",
+    "release_date": "2025-08-25",
+    "poster_path": "/mnod6OPewIavXr9pIBi2sJalhnh.jpg",
+    "backdrop_path": "/1CYB1Q9KCOPTkNORHr4yVmMJmAN.jpg",
+    "vote_average": 8.444,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
       10765
     ],
     "video_url": "",
@@ -1332,7 +1331,7 @@
     "release_date": "2024-12-28",
     "poster_path": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
     "backdrop_path": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
-    "vote_average": 7.439,
+    "vote_average": 7.4,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3776,23 +3775,6 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 7.281,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "74204",
     "title": "Big Mouth",
     "overview": "Teenage friends find their lives upended by the wonders and horrors of puberty in this edgy comedy from real-life pals Nick Kroll and Andrew Goldberg.",
@@ -3805,6 +3787,23 @@
     "genre_ids": [
       35,
       16
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 7.281,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5197,6 +5196,24 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1626170,
+    "title": "Sing Geetham",
+    "poster_path": "/2UVWJ0zkPzuUlKHs7ZaTfQ2GLpk.jpg",
+    "overview": "In an isolated village, young Prathap seeks opportunity but enters a world of deception. Drawn into uncontrollable forces, he's caught between progress and preservation, testing his beliefs and purpose.",
+    "vote_average": 6,
+    "release_date": "2026-06-10",
+    "genre_ids": [
+      35,
+      10402,
+      18
+    ],
+    "original_language": "te",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 1722713,
