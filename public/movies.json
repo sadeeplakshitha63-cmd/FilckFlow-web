@@ -1277,7 +1277,7 @@
     "release_date": "2010-03-18",
     "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
     "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.851,
+    "vote_average": 6.852,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -1647,7 +1647,7 @@
     "release_date": "2021-12-06",
     "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
     "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.429,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1717,7 +1717,7 @@
     "release_date": "2025-02-26",
     "poster_path": "/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
     "backdrop_path": "/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
-    "vote_average": 8.225,
+    "vote_average": 8.214,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1950,7 +1950,7 @@
     "release_date": "2020-09-27",
     "poster_path": "/k52mSqO1sXLhuRjNoSMsj1qJ7kD.jpg",
     "backdrop_path": "/kxfuHytN7j4FV6bpbPvw0CbS1eU.jpg",
-    "vote_average": 7.89,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2211,26 +2211,6 @@
     "is_local": true
   },
   {
-    "id": "223911",
-    "title": "Renegade Immortal",
-    "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
-    "release_date": "2023-09-25",
-    "poster_path": "/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
-    "backdrop_path": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
-    "vote_average": 8.211,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      10759,
-      16,
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "301031",
     "title": "The Secrets of Hotel 88",
     "overview": "Two estranged families reunite at the reopening of Hotel 88, until the former best friends behind it are found dead. Forced to share the inheritance, their children uncover buried secrets and the truth behind their fathers' mysterious deaths.",
@@ -2245,6 +2225,26 @@
       10759,
       10751,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "223911",
+    "title": "Renegade Immortal",
+    "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+    "release_date": "2023-09-25",
+    "poster_path": "/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
+    "backdrop_path": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
+    "vote_average": 8.211,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      10759,
+      16,
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2401,7 +2401,7 @@
     "release_date": "2021-04-23",
     "poster_path": "/qy60bm9admmgpkmcPeW4BvRjjVm.jpg",
     "backdrop_path": "/qgTHKXeje3iInDXFaIBsIHpJQzu.jpg",
-    "vote_average": 8.48,
+    "vote_average": 8.192,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3460,7 +3460,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.289,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3622,7 +3622,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/ahCX6yRk5rtk2r1rmJt3C8z5Ijb.jpg",
     "backdrop_path": "/v6G5vmzmuicPxdlceK5IUJnWpx3.jpg",
-    "vote_average": 8.186,
+    "vote_average": 8.227,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3711,7 +3711,7 @@
     "release_date": "2026-02-20",
     "poster_path": "/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
     "backdrop_path": "/xhpUS8NKvvE0UCLGWiIOBiHFb5y.jpg",
-    "vote_average": 8.106,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
