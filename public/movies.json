@@ -1,38 +1,22 @@
 [
   {
-    "id": 212907,
-    "title": "La promesa",
-    "poster_path": "/y656ZhHU2Hh3bmC5vBtMa2vKpUM.jpg",
-    "overview": "In 1913 Spain, a woman gets a job at the palace of La Promesa as a reward for saving the marquesses' son - but nobody knows that she has her own plans, which involve avenging her mother's death and finding her missing brother.",
-    "vote_average": 8.2,
-    "release_date": "2023-01-12",
+    "id": 923939,
+    "title": "The Wonderful Story of Henry Sugar",
+    "poster_path": "/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg",
+    "overview": "A rich man learns about a guru who can see without using his eyes. He sets out to master the skill in order to cheat at gambling.",
+    "vote_average": 7.25,
+    "release_date": "2023-09-20",
     "genre_ids": [
-      18,
-      9648,
-      10766
+      35,
+      14,
+      12,
+      18
     ],
-    "original_language": "es",
-    "media_type": "tv",
+    "original_language": "en",
+    "media_type": "movie",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "227192",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "release_date": "2024-02-29",
-    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "vote_average": 8.031,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "1311031",
@@ -54,18 +38,18 @@
     "is_local": true
   },
   {
-    "id": "278299",
-    "title": "Me and Who",
-    "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
-    "release_date": "2025-10-17",
-    "poster_path": "/alXsCHfn0juldrKtLQD6M7BrBPU.jpg",
-    "backdrop_path": "/48tHN3lJhH4ev3f5xBxNEe6gWPt.jpg",
-    "vote_average": 8.5,
+    "id": "289763",
+    "title": "See You at Work Tomorrow!",
+    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+    "release_date": "2026-06-22",
+    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+    "vote_average": 9.045,
     "media_type": "tv",
-    "original_language": "th",
+    "original_language": "ko",
     "genre_ids": [
-      18,
-      10765
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -83,6 +67,24 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278299",
+    "title": "Me and Who",
+    "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
+    "release_date": "2025-10-17",
+    "poster_path": "/alXsCHfn0juldrKtLQD6M7BrBPU.jpg",
+    "backdrop_path": "/48tHN3lJhH4ev3f5xBxNEe6gWPt.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -160,23 +162,6 @@
     "is_local": true
   },
   {
-    "id": "251600",
-    "title": "The Eternal Fragrance",
-    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
-    "release_date": "2026-06-27",
-    "poster_path": "/yLm2X0pReuUFZrbrRkndupF9GeN.jpg",
-    "backdrop_path": "/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
-    "vote_average": 6.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1536501",
     "title": "Untitled KPop Demon Hunters Sequel",
     "overview": "The second installment in the franchise. Plot TBA.",
@@ -191,6 +176,23 @@
       12,
       16,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "251600",
+    "title": "The Eternal Fragrance",
+    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
+    "release_date": "2026-06-27",
+    "poster_path": "/yLm2X0pReuUFZrbrRkndupF9GeN.jpg",
+    "backdrop_path": "/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
+    "vote_average": 6.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -388,7 +390,7 @@
     "release_date": "2024-08-26",
     "poster_path": "/ru3ZYJpzbmv2VpGsj1rmO5Hcpky.jpg",
     "backdrop_path": "/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.484,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -876,6 +878,20 @@
     "is_local": true
   },
   {
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "217804",
     "title": "Hidden Agenda",
     "overview": "University student Zo finally decides to pursue his longtime crush, Nita. To win her over, he seeks help from her ex, Joke, who has his own secret motives.",
@@ -888,24 +904,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.607,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1242,31 +1240,13 @@
     "release_date": "2020-02-07",
     "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
     "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
-    "vote_average": 6.992,
+    "vote_average": 6.991,
     "media_type": "movie",
     "original_language": "pl",
     "genre_ids": [
       10749,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "127493",
-    "title": "You Are My Glory",
-    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
-    "release_date": "2021-07-26",
-    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
-    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1286,6 +1266,24 @@
       18,
       10749,
       878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "127493",
+    "title": "You Are My Glory",
+    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
+    "release_date": "2021-07-26",
+    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
+    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2379,24 +2377,6 @@
     "is_local": true
   },
   {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.094,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "124003",
     "title": "Perfect World",
     "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
@@ -2410,6 +2390,24 @@
       10765,
       10759,
       16
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 8.094,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3319,7 +3317,7 @@
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.508,
+    "vote_average": 8.53,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3548,17 +3546,20 @@
     "is_local": true
   },
   {
-    "id": "301345",
-    "title": "Cases Between Us",
-    "overview": "Zhao Shaoshang and Yuan Hong, two young men from vastly different backgrounds, join forces to solve one case after another. Through their shared experiences, they learn from each other, grow together, and become an unstoppable crime-fighting duo in a tumultuous era.",
-    "release_date": "2026-07-05",
-    "poster_path": "/58yoREQFwqKyyfLAV0ejntG6gEC.jpg",
-    "backdrop_path": "/i7luBPrkMrGrBZda2BK02ZF1S3m.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
+    "id": "1550164",
+    "title": "Between Us",
+    "overview": "Marina and David, two young artists, no longer feel the same passion that they've had for one another upon the early stages of their relationship. As time goes on, tensions grow and it all reaches a powerful breaking point.",
+    "release_date": "2026-07-12",
+    "poster_path": "/pI13bt1PVUMj2wn9HtCNTKUxhy0.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "hr",
     "genre_ids": [
-      18
+      10749,
+      18,
+      35,
+      28
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4083,7 +4084,7 @@
     "release_date": "2025-03-20",
     "poster_path": "/5cDIWdKQX3V6Gcf75H7PQcFV1an.jpg",
     "backdrop_path": "/iOZ4hgeQqQ4b4Bs0ibppG8ZRPVe.jpg",
-    "vote_average": 8.969,
+    "vote_average": 9,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4889,7 +4890,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/epgr7n61vVIniyAghz2GYj22DkC.jpg",
     "backdrop_path": "/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-    "vote_average": 8.751,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5183,6 +5184,76 @@
     "is_local": true
   },
   {
+    "id": 212907,
+    "title": "La promesa",
+    "poster_path": "/y656ZhHU2Hh3bmC5vBtMa2vKpUM.jpg",
+    "overview": "In 1913 Spain, a woman gets a job at the palace of La Promesa as a reward for saving the marquesses' son - but nobody knows that she has her own plans, which involve avenging her mother's death and finding her missing brother.",
+    "vote_average": 8.2,
+    "release_date": "2023-01-12",
+    "genre_ids": [
+      18,
+      9648,
+      10766
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "227192",
+    "title": "Pyramid Game",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "release_date": "2024-02-29",
+    "poster_path": "/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop_path": "/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "vote_average": 8.031,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.607,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "301345",
+    "title": "Cases Between Us",
+    "overview": "Zhao Shaoshang and Yuan Hong, two young men from vastly different backgrounds, join forces to solve one case after another. Through their shared experiences, they learn from each other, grow together, and become an unstoppable crime-fighting duo in a tumultuous era.",
+    "release_date": "2026-07-05",
+    "poster_path": "/58yoREQFwqKyyfLAV0ejntG6gEC.jpg",
+    "backdrop_path": "/i7luBPrkMrGrBZda2BK02ZF1S3m.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "237338",
     "title": "High School Frenemy",
     "overview": "When two rival school campuses merge, former best friends Saint and Shin's lingering feud ignites a classroom war, forcing teachers to reconcile the stubborn pair and end the fighting.",
@@ -5195,20 +5266,6 @@
     "genre_ids": [
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
