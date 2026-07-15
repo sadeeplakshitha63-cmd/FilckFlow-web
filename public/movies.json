@@ -1,75 +1,5 @@
 [
   {
-    "id": 1303236,
-    "title": "GATAO: Like Father Like Son",
-    "poster_path": "/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
-    "overview": "Michael and his right-hand man Scorpion, who find themselves embroiled in their father Ko's turf war against rival gangs in Taipei, setting off a conflict between old and new generations of gangsters. The film is the latest installment in the Gatao franchise, following the narrative of a young successor trying to expand his power while navigating the volatile underworld.",
-    "vote_average": 7.4,
-    "release_date": "2024-08-16",
-    "genre_ids": [
-      80,
-      28
-    ],
-    "original_language": "zh",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 695721,
-    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-    "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
-    "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
-    "vote_average": 6.976,
-    "release_date": "2023-11-15",
-    "genre_ids": [
-      878,
-      28
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 131631,
-    "title": "The Hunger Games: Mockingjay - Part 1",
-    "poster_path": "/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
-    "overview": "After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resistance, she must navigate fragile alliances while trying to protect those she loves. As propaganda battles rage and Panem moves closer to full-scale war, Katniss is forced to confront the true cost of revolution.",
-    "vote_average": 6.818,
-    "release_date": "2014-11-19",
-    "genre_ids": [
-      878,
-      12,
-      53
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 101299,
-    "title": "The Hunger Games: Catching Fire",
-    "poster_path": "/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
-    "overview": "After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.",
-    "vote_average": 7.427,
-    "release_date": "2013-11-15",
-    "genre_ids": [
-      12,
-      28,
-      878
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "1311031",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
@@ -250,6 +180,24 @@
     "is_local": true
   },
   {
+    "id": "133060",
+    "title": "Cute Programmer",
+    "overview": "Lu Li admires genius programmer Jiang Yicheng and follows his path, excelling in school. After graduation, she disguises herself as a man to join his company, which doesn’t hire women. Balancing work and her secret, she strikes a deal with Jiang Yicheng to become a \"contract couple\" for a year.",
+    "release_date": "2021-09-10",
+    "poster_path": "/g7Crp1NOdTMgD5Bx6Q2Y9mi4aiE.jpg",
+    "backdrop_path": "/9ZFkaznt6yKi5SvMBib6ChNRK6I.jpg",
+    "vote_average": 7.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "310800",
     "title": "Siren's Kiss",
     "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
@@ -263,24 +211,6 @@
       18,
       80,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "133060",
-    "title": "Cute Programmer",
-    "overview": "Lu Li admires genius programmer Jiang Yicheng and follows his path, excelling in school. After graduation, she disguises herself as a man to join his company, which doesn’t hire women. Balancing work and her secret, she strikes a deal with Jiang Yicheng to become a \"contract couple\" for a year.",
-    "release_date": "2021-09-10",
-    "poster_path": "/g7Crp1NOdTMgD5Bx6Q2Y9mi4aiE.jpg",
-    "backdrop_path": "/9ZFkaznt6yKi5SvMBib6ChNRK6I.jpg",
-    "vote_average": 7.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -442,7 +372,7 @@
     "release_date": "2025-09-29",
     "poster_path": "/jG0hr4bvJM1iOEcScgav7zmMF5P.jpg",
     "backdrop_path": "/aAjm3w7Gnjw7HDe5UQ0BbTec7S2.jpg",
-    "vote_average": 7.143,
+    "vote_average": 7.571,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3527,7 +3457,7 @@
     "release_date": "2025-10-31",
     "poster_path": "/6oJfgHENTx0WOoXrzfOvIJDpwpd.jpg",
     "backdrop_path": "/ex8tr0HjFIsOWf968DuJwTKAZjg.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.273,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -5231,6 +5161,76 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1303236,
+    "title": "GATAO: Like Father Like Son",
+    "poster_path": "/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
+    "overview": "Michael and his right-hand man Scorpion, who find themselves embroiled in their father Ko's turf war against rival gangs in Taipei, setting off a conflict between old and new generations of gangsters. The film is the latest installment in the Gatao franchise, following the narrative of a young successor trying to expand his power while navigating the volatile underworld.",
+    "vote_average": 7.4,
+    "release_date": "2024-08-16",
+    "genre_ids": [
+      80,
+      28
+    ],
+    "original_language": "zh",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 695721,
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+    "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+    "vote_average": 6.976,
+    "release_date": "2023-11-15",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 131631,
+    "title": "The Hunger Games: Mockingjay - Part 1",
+    "poster_path": "/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+    "overview": "After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resistance, she must navigate fragile alliances while trying to protect those she loves. As propaganda battles rage and Panem moves closer to full-scale war, Katniss is forced to confront the true cost of revolution.",
+    "vote_average": 6.818,
+    "release_date": "2014-11-19",
+    "genre_ids": [
+      878,
+      12,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 101299,
+    "title": "The Hunger Games: Catching Fire",
+    "poster_path": "/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+    "overview": "After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.",
+    "vote_average": 7.427,
+    "release_date": "2013-11-15",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "10683",
