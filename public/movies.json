@@ -6,7 +6,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.737,
+    "vote_average": 7.739,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -557,24 +557,6 @@
     "is_local": true
   },
   {
-    "id": "289763",
-    "title": "See You at Work Tomorrow!",
-    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
-    "release_date": "2026-06-22",
-    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
-    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "254821",
     "title": "Perfect Match",
     "overview": "In the bustling capital of Bianjing during the Northern Song Dynasty, Madam Li moves her family in search of better marriage prospects for her five beautiful but quirky daughters, whose love lives have long been her worry. Each daughter, though famous for her beauty and wit, comes with unique quirks: the eldest, Shou Hua, has no interest in remarrying after early widowhood; the third, Kang Ning, is fierce and headstrong; the fourth, Hao De, is well-meaning but blunt; and the youngest, Le Shan, is spoiled and selective.  Challenges abound as they face unexpected setbacks, including a cold reception from the already-married sister they came to visit. As the family reestablishes their business, they navigate a series of humorous and heartwarming misadventures, ultimately finding love and fulfilling their mother’s hopes in this lively tale of family and romance.",
@@ -601,6 +583,24 @@
     "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289763",
+    "title": "See You at Work Tomorrow!",
+    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+    "release_date": "2026-06-22",
+    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -1702,7 +1702,7 @@
     "release_date": "2025-02-26",
     "poster_path": "/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
     "backdrop_path": "/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
-    "vote_average": 8.214,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1736,7 +1736,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.724,
+    "vote_average": 7.742,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2385,7 +2385,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.093,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3061,18 +3061,19 @@
     "is_local": true
   },
   {
-    "id": "10683",
+    "id": "292318",
     "title": "Happiness",
-    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
-    "release_date": "1998-10-11",
-    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
-    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
-    "vote_average": 7.426,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
+    "release_date": "2025-05-30",
+    "poster_path": "/srMI72cod1UetnSYzQk9ROt9Vkx.jpg",
+    "backdrop_path": "/hVOx3nfWoVgYUYcIp90eMZOdFeB.jpg",
+    "vote_average": 5,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
-      35,
-      18
+      18,
+      10759,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3778,23 +3779,6 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 7.441,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "208336",
     "title": "Revenge of Others",
     "overview": "A boy falls to his death at school, but Ok Chan-mi does not believe that her twin brother, Park Won-seok, committed suicide. Chan-mi transfers to her brother's school, Yongtan High, and meets Ji Soo-heon, who witnessed her brother's death. A \"hero,\" who avenges bullied students, appears at Yongtan High. Chan-mi speculates that it may be connected to her brother and starts looking for this hero.",
@@ -3807,6 +3791,23 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 7.441,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4509,6 +4510,113 @@
     "is_local": true
   },
   {
+    "id": "955675",
+    "title": "The Greatest TV Shows of the Noughties",
+    "overview": "Channel 4 has conducted a survey with the leading TV critics and industry figures, and asked the public in a YouGov national poll, to tell us what they think was the greatest television of the last ten years.",
+    "release_date": "2009-12-27",
+    "poster_path": "/oLpzHSjCL618lFNaYMlX1AktEMt.jpg",
+    "backdrop_path": "",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "980431",
+    "title": "Avatar Aang: The Last Airbender",
+    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+    "release_date": "2026-07-25",
+    "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+    "backdrop_path": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      14
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1662432",
+    "title": "Finding Harry: The Craft Behind the Magic",
+    "overview": "Featuring interviews from members of the casting, production design, costume design, and creature effects teams, follow the behind-the-scenes journey of bringing the Harry Potter books to the small screen. Find out how the new Golden Trio were found, and celebrate the commitment to detail of the artists, craftspeople, and technicians who have come together to bring the wizarding world to life.",
+    "release_date": "2026-04-05",
+    "poster_path": "/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
+    "backdrop_path": "/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg",
+    "vote_average": 7.708,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "20013",
+    "title": "My Name Is Modesty: A Modesty Blaise Adventure",
+    "overview": "Modesty, raised by a casino owner after being abandoned by her parents, has become skilled in the ways of fighting and now acts as the casino owner's bodyguard. When she's unable to prevent the owner's murder at the hands of an old foe, Modesty is hell-bent on seeking revenge. --- An adaptation of the Modesty Blaise novels and comic strip by Peter O'Donnell.",
+    "release_date": "2004-09-28",
+    "poster_path": "/k2xL9z1Bwh7s4WLE9uNF6CE27Mo.jpg",
+    "backdrop_path": "/vR1Eo684Izugtn6JkonRe1Bq78f.jpg",
+    "vote_average": 4.3,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1103621",
+    "title": "How to Make Millions Before Grandma Dies",
+    "overview": "M, a university dropout low on money and luck, volunteers to take care of his terminally ill grandmother, in the hope of pocketing an inheritance.",
+    "release_date": "2024-04-04",
+    "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
+    "backdrop_path": "/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
+    "vote_average": 8.118,
+    "media_type": "movie",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "10683",
+    "title": "Happiness",
+    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+    "release_date": "1998-10-11",
+    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
+    "vote_average": 7.426,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "259015",
     "title": "My Dearest Nemesis",
     "overview": "Baek Su-jeong leads a planning team at a renowned department store. She meets her new boss, Ban Ju-yeon, her first love from an online game 16 years ago, stirring up memories of when he confessed his feelings but she rejected him.",
@@ -5077,95 +5185,6 @@
     "is_local": true
   },
   {
-    "id": "955675",
-    "title": "The Greatest TV Shows of the Noughties",
-    "overview": "Channel 4 has conducted a survey with the leading TV critics and industry figures, and asked the public in a YouGov national poll, to tell us what they think was the greatest television of the last ten years.",
-    "release_date": "2009-12-27",
-    "poster_path": "/oLpzHSjCL618lFNaYMlX1AktEMt.jpg",
-    "backdrop_path": "",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      99
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "980431",
-    "title": "Avatar Aang: The Last Airbender",
-    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-    "release_date": "2026-07-25",
-    "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-    "backdrop_path": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      16,
-      28,
-      12,
-      14
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1662432",
-    "title": "Finding Harry: The Craft Behind the Magic",
-    "overview": "Featuring interviews from members of the casting, production design, costume design, and creature effects teams, follow the behind-the-scenes journey of bringing the Harry Potter books to the small screen. Find out how the new Golden Trio were found, and celebrate the commitment to detail of the artists, craftspeople, and technicians who have come together to bring the wizarding world to life.",
-    "release_date": "2026-04-05",
-    "poster_path": "/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
-    "backdrop_path": "/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg",
-    "vote_average": 7.708,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      99
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "20013",
-    "title": "My Name Is Modesty: A Modesty Blaise Adventure",
-    "overview": "Modesty, raised by a casino owner after being abandoned by her parents, has become skilled in the ways of fighting and now acts as the casino owner's bodyguard. When she's unable to prevent the owner's murder at the hands of an old foe, Modesty is hell-bent on seeking revenge. --- An adaptation of the Modesty Blaise novels and comic strip by Peter O'Donnell.",
-    "release_date": "2004-09-28",
-    "poster_path": "/k2xL9z1Bwh7s4WLE9uNF6CE27Mo.jpg",
-    "backdrop_path": "/vR1Eo684Izugtn6JkonRe1Bq78f.jpg",
-    "vote_average": 4.3,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1103621",
-    "title": "How to Make Millions Before Grandma Dies",
-    "overview": "M, a university dropout low on money and luck, volunteers to take care of his terminally ill grandmother, in the hope of pocketing an inheritance.",
-    "release_date": "2024-04-04",
-    "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
-    "backdrop_path": "/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
-    "vote_average": 8.118,
-    "media_type": "movie",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": 322640,
     "title": "Last Meals",
     "poster_path": "/Ac18Q0jf42TfkWHoaMSdnGSc27q.jpg",
@@ -5243,25 +5262,6 @@
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "292318",
-    "title": "Happiness",
-    "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
-    "release_date": "2025-05-30",
-    "poster_path": "/srMI72cod1UetnSYzQk9ROt9Vkx.jpg",
-    "backdrop_path": "/hVOx3nfWoVgYUYcIp90eMZOdFeB.jpg",
-    "vote_average": 5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10759,
-      9648
-    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
