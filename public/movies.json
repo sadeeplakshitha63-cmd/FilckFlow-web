@@ -1,21 +1,5 @@
 [
   {
-    "id": 314006,
-    "title": "DOC",
-    "poster_path": "/pG7oNCHSjuajUFXpqjJ76fac5J7.jpg",
-    "overview": "After an attack wipes 12 years of memories, a brilliant doctor must relearn his past, navigate tangled romances and a looming scandal over a new medication.",
-    "vote_average": 9.259,
-    "release_date": "2026-03-04",
-    "genre_ids": [
-      18
-    ],
-    "original_language": "es",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "1311031",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
@@ -59,7 +43,7 @@
     "release_date": "2025-12-04",
     "poster_path": "/2lt4ZRGElT9uG4TEM1bkOjN86nk.jpg",
     "backdrop_path": "/cAJDWfx0V82FzDwQl6y3QlGOuQY.jpg",
-    "vote_average": 6.7,
+    "vote_average": 6.714,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4885,7 +4869,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/epgr7n61vVIniyAghz2GYj22DkC.jpg",
     "backdrop_path": "/iS76c29IrS3lKI2X5CFySguiAWU.jpg",
-    "vote_average": 8.752,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5177,6 +5161,22 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 314006,
+    "title": "DOC",
+    "poster_path": "/pG7oNCHSjuajUFXpqjJ76fac5J7.jpg",
+    "overview": "After an attack wipes 12 years of memories, a brilliant doctor must relearn his past, navigate tangled romances and a looming scandal over a new medication.",
+    "vote_average": 9.259,
+    "release_date": "2026-03-04",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 1303236,
