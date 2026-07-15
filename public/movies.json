@@ -1,12 +1,82 @@
 [
   {
+    "id": 1303236,
+    "title": "GATAO: Like Father Like Son",
+    "poster_path": "/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
+    "overview": "Michael and his right-hand man Scorpion, who find themselves embroiled in their father Ko's turf war against rival gangs in Taipei, setting off a conflict between old and new generations of gangsters. The film is the latest installment in the Gatao franchise, following the narrative of a young successor trying to expand his power while navigating the volatile underworld.",
+    "vote_average": 7.4,
+    "release_date": "2024-08-16",
+    "genre_ids": [
+      80,
+      28
+    ],
+    "original_language": "zh",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 695721,
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+    "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+    "vote_average": 6.976,
+    "release_date": "2023-11-15",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 131631,
+    "title": "The Hunger Games: Mockingjay - Part 1",
+    "poster_path": "/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+    "overview": "After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resistance, she must navigate fragile alliances while trying to protect those she loves. As propaganda battles rage and Panem moves closer to full-scale war, Katniss is forced to confront the true cost of revolution.",
+    "vote_average": 6.818,
+    "release_date": "2014-11-19",
+    "genre_ids": [
+      878,
+      12,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 101299,
+    "title": "The Hunger Games: Catching Fire",
+    "poster_path": "/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+    "overview": "After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.",
+    "vote_average": 7.427,
+    "release_date": "2013-11-15",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "1311031",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 7.739,
+    "vote_average": 7.7,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -512,7 +582,7 @@
     "release_date": "2025-07-20",
     "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
     "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.571,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -530,23 +600,6 @@
     "poster_path": "/pautvgifD5ggwjlNOIrjHYicN32.jpg",
     "backdrop_path": "/umXVak2iJA5l0IT6HXOMb1jhOpz.jpg",
     "vote_average": 7.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "251600",
-    "title": "The Eternal Fragrance",
-    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
-    "release_date": "2026-06-27",
-    "poster_path": "/yLm2X0pReuUFZrbrRkndupF9GeN.jpg",
-    "backdrop_path": "/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
-    "vote_average": 6.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -585,6 +638,23 @@
     "original_language": "th",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "251600",
+    "title": "The Eternal Fragrance",
+    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
+    "release_date": "2026-06-27",
+    "poster_path": "/yLm2X0pReuUFZrbrRkndupF9GeN.jpg",
+    "backdrop_path": "/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
+    "vote_average": 6.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -788,24 +858,6 @@
     "is_local": true
   },
   {
-    "id": "289763",
-    "title": "See You at Work Tomorrow!",
-    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
-    "release_date": "2026-06-22",
-    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
-    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215001",
     "title": "Destined with You",
     "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
@@ -819,6 +871,24 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289763",
+    "title": "See You at Work Tomorrow!",
+    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+    "release_date": "2026-06-22",
+    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -873,24 +943,6 @@
     "is_local": true
   },
   {
-    "id": "217804",
-    "title": "Hidden Agenda",
-    "overview": "University student Zo finally decides to pursue his longtime crush, Nita. To win her over, he seeks help from her ex, Joke, who has his own secret motives.",
-    "release_date": "2023-07-09",
-    "poster_path": "/30ZApQjC28XNAGGiqgHvFp4PyUT.jpg",
-    "backdrop_path": "/aOWeObc5rNh6nPYWJybfyau9gRM.jpg",
-    "vote_average": 8.021,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237411",
     "title": "The Sign",
     "overview": "Two men join a high-stakes special ops team to solve supernatural crimes, while a hidden connection from their past lives complicates everything.",
@@ -905,6 +957,24 @@
       18,
       10759,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217804",
+    "title": "Hidden Agenda",
+    "overview": "University student Zo finally decides to pursue his longtime crush, Nita. To win her over, he seeks help from her ex, Joke, who has his own secret motives.",
+    "release_date": "2023-07-09",
+    "poster_path": "/30ZApQjC28XNAGGiqgHvFp4PyUT.jpg",
+    "backdrop_path": "/aOWeObc5rNh6nPYWJybfyau9gRM.jpg",
+    "vote_average": 8.021,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1215,6 +1285,24 @@
     "is_local": true
   },
   {
+    "id": "127493",
+    "title": "You Are My Glory",
+    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
+    "release_date": "2021-07-26",
+    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
+    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "664413",
     "title": "365 Days",
     "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
@@ -1228,24 +1316,6 @@
       10749,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "127493",
-    "title": "You Are My Glory",
-    "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
-    "release_date": "2021-07-26",
-    "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
-    "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1435,7 +1505,7 @@
     "release_date": "2025-07-26",
     "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
     "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
-    "vote_average": 7.778,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2430,6 +2500,23 @@
     "is_local": true
   },
   {
+    "id": "273418",
+    "title": "Law and the City",
+    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+    "release_date": "2025-07-05",
+    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
+    "vote_average": 7.645,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "198182",
     "title": "Throne of Seal",
     "overview": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. The mankind created six Temples to fight the demons. Long Haochen joins the Knights Temple. As he grows, an adventure unfolds. He wins the recognition of others and fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people. Could Long win the Throne of Seal and be granted the highest honor in the Knights' Temple? All remained to be revealed.",
@@ -2444,23 +2531,6 @@
       10759,
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "273418",
-    "title": "Law and the City",
-    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
-    "release_date": "2025-07-05",
-    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
-    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
-    "vote_average": 7.645,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3057,18 +3127,19 @@
     "is_local": true
   },
   {
-    "id": "10683",
+    "id": "292318",
     "title": "Happiness",
-    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
-    "release_date": "1998-10-11",
-    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
-    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
-    "vote_average": 7.426,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
+    "release_date": "2025-05-30",
+    "poster_path": "/srMI72cod1UetnSYzQk9ROt9Vkx.jpg",
+    "backdrop_path": "/hVOx3nfWoVgYUYcIp90eMZOdFeB.jpg",
+    "vote_average": 5,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
-      35,
-      18
+      18,
+      10759,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3745,7 +3816,7 @@
     "release_date": "2023-11-07",
     "poster_path": "/idcVj88MODVdBkaKpxNMiXwffLk.jpg",
     "backdrop_path": "/3OLeiLbTdNFovd2zyBn2xgR8UWY.jpg",
-    "vote_average": 7.3,
+    "vote_average": 7.367,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5162,6 +5233,24 @@
     "is_local": true
   },
   {
+    "id": "10683",
+    "title": "Happiness",
+    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+    "release_date": "1998-10-11",
+    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
+    "vote_average": 7.426,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "254821",
     "title": "Perfect Match",
     "overview": "In the bustling capital of Bianjing during the Northern Song Dynasty, Madam Li moves her family in search of better marriage prospects for her five beautiful but quirky daughters, whose love lives have long been her worry. Each daughter, though famous for her beauty and wit, comes with unique quirks: the eldest, Shou Hua, has no interest in remarrying after early widowhood; the third, Kang Ning, is fierce and headstrong; the fourth, Hao De, is well-meaning but blunt; and the youngest, Le Shan, is spoiled and selective.  Challenges abound as they face unexpected setbacks, including a cold reception from the already-married sister they came to visit. As the family reestablishes their business, they navigate a series of humorous and heartwarming misadventures, ultimately finding love and fulfilling their mother’s hopes in this lively tale of family and romance.",
@@ -5191,25 +5280,6 @@
     "genre_ids": [
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "292318",
-    "title": "Happiness",
-    "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
-    "release_date": "2025-05-30",
-    "poster_path": "/srMI72cod1UetnSYzQk9ROt9Vkx.jpg",
-    "backdrop_path": "/hVOx3nfWoVgYUYcIp90eMZOdFeB.jpg",
-    "vote_average": 5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10759,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
