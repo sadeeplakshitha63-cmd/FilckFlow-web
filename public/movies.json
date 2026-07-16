@@ -645,23 +645,6 @@
     "is_local": true
   },
   {
-    "id": "217800",
-    "title": "Last Twilight",
-    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
-    "release_date": "2023-11-10",
-    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
-    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
-    "vote_average": 9.528,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278162",
     "title": "My Magic Prophecy",
     "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
@@ -675,6 +658,23 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217800",
+    "title": "Last Twilight",
+    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
+    "release_date": "2023-11-10",
+    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
+    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
+    "vote_average": 9.528,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4715,7 +4715,7 @@
     "release_date": "2023-06-13",
     "poster_path": "/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
     "backdrop_path": "/3nWfjIBUyYUCABI7Fsl1AhNhDAr.jpg",
-    "vote_average": 8.759,
+    "vote_average": 8.77,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
