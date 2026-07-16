@@ -1,5 +1,109 @@
 [
   {
+    "id": 567748,
+    "title": "The Guilty",
+    "poster_path": "/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg",
+    "overview": "A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.",
+    "vote_average": 6.425,
+    "release_date": "2021-09-24",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1580803,
+    "title": "Susana and Elvira: No Plan B",
+    "poster_path": "/amqNq4a3cugpf48nfpZFJwnFzbb.jpg",
+    "overview": "Susana and Elvira, two former best friends, reunite after two years apart to organize the celebrity wedding of the year.",
+    "vote_average": 0,
+    "release_date": "2026-05-28",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "original_language": "es",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 70781,
+    "title": "Samurai Gourmet",
+    "poster_path": "/6qieWfVYOAB0FRX5w4YSDaEdWfT.jpg",
+    "overview": "Recent retiree Takeshi rediscovers his passion for food and life by getting in touch with his inner warrior and eating what he truly desires.",
+    "vote_average": 7.663,
+    "release_date": "2017-03-17",
+    "genre_ids": [
+      35
+    ],
+    "original_language": "ja",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 96659,
+    "title": "He-Man and the Masters of the Universe",
+    "poster_path": "/khU0nt0PAbX0t6IpBBvTxm1uzoZ.jpg",
+    "overview": "Mighty teen Adam and his heroic squad of misfits discover the legendary power of Grayskull — and their destiny to defend Eternia from sinister Skeletor.",
+    "vote_average": 7.1,
+    "release_date": "2021-09-16",
+    "genre_ids": [
+      16,
+      10765,
+      10751,
+      10759
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 27562,
+    "title": "The Actor Awards Presented by SAG-AFTRA",
+    "poster_path": "/tWcVlqq310tjlt1fMnssZkP9E7r.jpg",
+    "overview": "One of awards season's premier events, the Actor Awards annually celebrates the outstanding motion picture and television performances of the year, as voted on by SAG-AFTRA's robust and diverse membership of 122,000+ performers.",
+    "vote_average": 6,
+    "release_date": "1995-02-25",
+    "genre_ids": [],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 93310,
+    "title": "Archibald's Next Big Thing",
+    "poster_path": "/ojqEPDUwkpLBwIvDIQqVeeWwklJ.jpg",
+    "overview": "Happy-go-lucky chicken Archibald may not remember to do his chores, but he never forgets to have fun. After all, life's an adventure!",
+    "vote_average": 6.1,
+    "release_date": "2019-09-06",
+    "genre_ids": [
+      10762,
+      16,
+      35,
+      10759,
+      10765
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "1311031",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
@@ -859,24 +963,6 @@
     "is_local": true
   },
   {
-    "id": "217804",
-    "title": "Hidden Agenda",
-    "overview": "University student Zo finally decides to pursue his longtime crush, Nita. To win her over, he seeks help from her ex, Joke, who has his own secret motives.",
-    "release_date": "2023-07-09",
-    "poster_path": "/30ZApQjC28XNAGGiqgHvFp4PyUT.jpg",
-    "backdrop_path": "/aOWeObc5rNh6nPYWJybfyau9gRM.jpg",
-    "vote_average": 8.021,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237411",
     "title": "The Sign",
     "overview": "Two men join a high-stakes special ops team to solve supernatural crimes, while a hidden connection from their past lives complicates everything.",
@@ -891,6 +977,24 @@
       18,
       10759,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217804",
+    "title": "Hidden Agenda",
+    "overview": "University student Zo finally decides to pursue his longtime crush, Nita. To win her over, he seeks help from her ex, Joke, who has his own secret motives.",
+    "release_date": "2023-07-09",
+    "poster_path": "/30ZApQjC28XNAGGiqgHvFp4PyUT.jpg",
+    "backdrop_path": "/aOWeObc5rNh6nPYWJybfyau9gRM.jpg",
+    "vote_average": 8.021,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1201,24 +1305,6 @@
     "is_local": true
   },
   {
-    "id": "68349",
-    "title": "Weightlifting Fairy Kim Bok-joo",
-    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
-    "release_date": "2016-11-16",
-    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
-    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.499,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "127493",
     "title": "You Are My Glory",
     "overview": "Qiao Jingjing, a celebrity, and Yu Tu, an aerospace engineer were high school classmates. Qiao Jingjing confessed to Yu Tu twice but was rejected both times. Ten years later, Qiao Jingjing became a top celebrity. She wants to become the endorser of a video game but was exposed that her gaming skills are super bad. By chance, she meets Yu Tu, who is now an aerospace engineer and is currently feeling lost about his career. Under Qiao Jingjing's set-up, Yu Tu becomes her gaming coach. They slowly fall in love over time.",
@@ -1228,6 +1314,24 @@
     "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68349",
+    "title": "Weightlifting Fairy Kim Bok-joo",
+    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
+    "release_date": "2016-11-16",
+    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
+    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
+    "vote_average": 8.499,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -1493,7 +1597,7 @@
     "release_date": "2021-08-28",
     "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
     "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
-    "vote_average": 8.182,
+    "vote_average": 8.185,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1826,7 +1930,7 @@
     "release_date": "2016-08-29",
     "poster_path": "/sTW7wLyD95JRCyUEdTfxCWQWsvd.jpg",
     "backdrop_path": "/yBmqsAFjJJtdHkptwlCy0WMsfKA.jpg",
-    "vote_average": 8.497,
+    "vote_average": 8.496,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1879,7 +1983,7 @@
     "release_date": "2016-12-02",
     "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
     "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.611,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2617,24 +2721,6 @@
     "is_local": true
   },
   {
-    "id": "247453",
-    "title": "Everyone Loves Me",
-    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
-    "release_date": "2024-03-01",
-    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
-    "backdrop_path": "/cT0BHScPLuvpWywZ04gLxF7q3K5.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "93657",
     "title": "Extraordinary You",
     "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
@@ -2648,6 +2734,24 @@
       10765,
       35,
       10759,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "247453",
+    "title": "Everyone Loves Me",
+    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
+    "release_date": "2024-03-01",
+    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
+    "backdrop_path": "/cT0BHScPLuvpWywZ04gLxF7q3K5.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -3437,24 +3541,6 @@
     "is_local": true
   },
   {
-    "id": "239385",
-    "title": "The Manipulated",
-    "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
-    "release_date": "2025-11-05",
-    "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
-    "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.229,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252739",
     "title": "Goddess Bless You from Death",
     "overview": "A gifted young man and a rational detective investigate brutal forest murders, uncovering ancient beliefs and dangers that defy all logic.",
@@ -3468,6 +3554,24 @@
       18,
       9648,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "239385",
+    "title": "The Manipulated",
+    "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
+    "release_date": "2025-11-05",
+    "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
+    "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
+    "vote_average": 8.229,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3662,7 +3766,7 @@
     "release_date": "2023-10-28",
     "poster_path": "/5iqVjyWAfXAFMim0Fi5QS6jUNPq.jpg",
     "backdrop_path": "/9ijZyKSdaRR6zUUe7hhEzNE0Yxm.jpg",
-    "vote_average": 8.006,
+    "vote_average": 8.032,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
