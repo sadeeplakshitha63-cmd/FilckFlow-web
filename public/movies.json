@@ -1,5 +1,53 @@
 [
   {
+    "id": 1616674,
+    "title": "Me Before Me",
+    "poster_path": "/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
+    "overview": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth — not trophies — might finally set him free.",
+    "vote_average": 2.75,
+    "release_date": "2026-07-11",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "id",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 274380,
+    "title": "The Black Box",
+    "poster_path": "/jaAnpT21nEGEeRFdTiseWmfw0dE.jpg",
+    "overview": "Human nature is like aircraft black box. No matter what it has gone through, it looks the same from outside. The secret within can never be known.",
+    "vote_average": 8.2,
+    "release_date": "2025-10-31",
+    "genre_ids": [
+      10765
+    ],
+    "original_language": "zh",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 254528,
+    "title": "The Hawk",
+    "poster_path": "/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
+    "overview": "On the back nine of his career, golf legend Lonnie \"The Hawk\" Hawkins chases one final major — and drags everyone he loves into the chaos.",
+    "vote_average": 3,
+    "release_date": "2026-07-16",
+    "genre_ids": [
+      35
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "1311031",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
@@ -401,23 +449,6 @@
     "is_local": true
   },
   {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
-    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "245292",
     "title": "The Spirealm",
     "overview": "Jiu Shi’s skills are pushed to the edge as he faces life-or-death challenges inside a brutal VR maze.",
@@ -430,6 +461,23 @@
     "genre_ids": [
       18,
       9648,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+    "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
       35
     ],
     "video_url": "",
@@ -472,23 +520,6 @@
     "is_local": true
   },
   {
-    "id": "253946",
-    "title": "Bad Guy My Boss",
-    "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
-    "release_date": "2024-09-15",
-    "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
-    "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252640",
     "title": "Legend of Zang Hai",
     "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
@@ -513,6 +544,23 @@
     "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
     "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
     "vote_average": 7.571,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253946",
+    "title": "Bad Guy My Boss",
+    "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
+    "release_date": "2024-09-15",
+    "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
+    "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
+    "vote_average": 7.1,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -628,23 +676,6 @@
     "is_local": true
   },
   {
-    "id": "83073",
-    "title": "A Hot Night With My Boss in a Capsule Hotel",
-    "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
-    "release_date": "2018-10-08",
-    "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
-    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
-    "vote_average": 4.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278162",
     "title": "My Magic Prophecy",
     "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
@@ -664,13 +695,30 @@
     "is_local": true
   },
   {
+    "id": "83073",
+    "title": "A Hot Night With My Boss in a Capsule Hotel",
+    "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
+    "release_date": "2018-10-08",
+    "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
+    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
+    "vote_average": 4.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "217800",
     "title": "Last Twilight",
     "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
     "release_date": "2023-11-10",
     "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
     "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
-    "vote_average": 9.528,
+    "vote_average": 9.459,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1898,7 +1946,7 @@
     "release_date": "2021-10-29",
     "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
     "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.468,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2397,24 +2445,6 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 8.846,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "31910",
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
@@ -2427,6 +2457,24 @@
     "genre_ids": [
       16,
       10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 8.846,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
       10765
     ],
     "video_url": "",
@@ -2570,7 +2618,7 @@
     "release_date": "2023-08-11",
     "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
     "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
-    "vote_average": 7.903,
+    "vote_average": 7.905,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3406,7 +3454,7 @@
     "release_date": "2025-05-16",
     "poster_path": "/iDRm2U656Z91DyiD8FnKvQPcBCt.jpg",
     "backdrop_path": "/iLYLcW5G761ePELtkvxgse8hwRm.jpg",
-    "vote_average": 7.824,
+    "vote_average": 7.667,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3926,7 +3974,7 @@
     "release_date": "2023-08-11",
     "poster_path": "/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
     "backdrop_path": "/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
-    "vote_average": 7.6,
+    "vote_average": 7.554,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4014,7 +4062,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
     "backdrop_path": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
-    "vote_average": 8.719,
+    "vote_average": 8.721,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4231,7 +4279,7 @@
     "release_date": "2024-10-27",
     "poster_path": "/1ZmjzDN2f7ZxzMluOTO5aPztI9e.jpg",
     "backdrop_path": "/3iIPUMjUuR0dKhKsC4n9zF7isPu.jpg",
-    "vote_average": 8.857,
+    "vote_average": 8.759,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4644,7 +4692,7 @@
     "release_date": "2025-07-12",
     "poster_path": "/fKmsS7HRGvhSNiLysVIj1zoBHnt.jpg",
     "backdrop_path": "/s2GQUEJApbOVZL3vASbm5FWGdYN.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.375,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
