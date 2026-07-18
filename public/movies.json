@@ -1,5 +1,23 @@
 [
   {
+    "id": 114868,
+    "title": "Record of Ragnarok",
+    "poster_path": "/t6GEKms3JgLhC6pXjFHhDvPP65y.jpg",
+    "overview": "Before eradicating humankind from the world, the gods give them one last chance to prove themselves worthy of survival. Let the Ragnarok battles begin.",
+    "vote_average": 8.402,
+    "release_date": "2021-06-17",
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "original_language": "ja",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "278299",
     "title": "Me and Who",
     "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
@@ -12,23 +30,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
-    "backdrop_path": "/AcNgNI4HtZHeepeSI5nATqtPemZ.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -100,6 +101,23 @@
       9648,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
+    "backdrop_path": "/AcNgNI4HtZHeepeSI5nATqtPemZ.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -662,23 +680,6 @@
     "is_local": true
   },
   {
-    "id": "83073",
-    "title": "A Hot Night With My Boss in a Capsule Hotel",
-    "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
-    "release_date": "2018-10-08",
-    "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
-    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
-    "vote_average": 4.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "258280",
     "title": "Dashing Youth",
     "overview": "Baili Dongjun, the young master of the Marquis of Zhenxi's mansion, has little interest in practicing martial arts but throws himself into brewing liquor, only because he promised to be the Liquor Deity while his childhood friend Ye Yun becomes the Sword Deity. As fate would have it, he becomes a disciple of the top martial arts master Li Changsheng to start learning martial arts. Later, he meets his confidante Yueyao, reunites with Ye Yun, who has changed his name to Ye Dingzhi, and travels with Sikong Changfeng, a wandering adventurer. Together, these youths embark on their own adventures in the martial world.",
@@ -691,6 +692,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "83073",
+    "title": "A Hot Night With My Boss in a Capsule Hotel",
+    "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
+    "release_date": "2018-10-08",
+    "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
+    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
+    "vote_average": 4.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3553,7 +3571,7 @@
     "release_date": "2025-02-21",
     "poster_path": "/vKf5h2xEtmTSp4GcYXPOUWdocQ7.jpg",
     "backdrop_path": "/vJMoMgjavkgkaUBDGQVVv4OjTjf.jpg",
-    "vote_average": 8.088,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3748,7 +3766,7 @@
     "release_date": "2023-11-07",
     "poster_path": "/idcVj88MODVdBkaKpxNMiXwffLk.jpg",
     "backdrop_path": "/3OLeiLbTdNFovd2zyBn2xgR8UWY.jpg",
-    "vote_average": 7.367,
+    "vote_average": 7.452,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4871,7 +4889,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/epgr7n61vVIniyAghz2GYj22DkC.jpg",
     "backdrop_path": "/iS76c29IrS3lKI2X5CFySguiAWU.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.755,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
