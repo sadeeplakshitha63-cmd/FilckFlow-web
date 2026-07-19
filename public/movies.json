@@ -1,35 +1,90 @@
 [
   {
-    "id": 63522,
-    "title": "F is for Family",
-    "poster_path": "/3gkdyR58Hm0gMkItqvyNz7zSTWH.jpg",
-    "overview": "Follow the Murphy family back to the 1970s, when kids roamed wild, beer flowed freely and nothing came between a man and his TV.",
-    "vote_average": 7.394,
-    "release_date": "2015-12-18",
+    "id": 493623,
+    "title": "Hichki",
+    "poster_path": "/awN7MPVHcubWEqfo7T5jidx3xYY.jpg",
+    "overview": "After finally landing a teaching job, a kindhearted woman with Tourette Syndrome faces a flawed system to provide an education to her forgotten students.",
+    "vote_average": 7.597,
+    "release_date": "2018-03-23",
     "genre_ids": [
-      35,
-      16
+      18,
+      35
     ],
-    "original_language": "en",
-    "media_type": "tv",
+    "original_language": "hi",
+    "media_type": "movie",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
   },
   {
-    "id": 67242,
-    "title": "Home: Adventures with Tip & Oh",
-    "poster_path": "/y2z8SFDZxFllkTgUJZs2R4glVSl.jpg",
-    "overview": "Picking up where the 2015 film left off, this coming-of-age buddy comedy follows fearless Tip and overenthusiastic Oh, as they navigate the crazily combined human and alien culture they live in, finding adventure everywhere they go.",
-    "vote_average": 6.6,
-    "release_date": "2016-07-29",
+    "id": 1171462,
+    "title": "Golden Kamuy",
+    "poster_path": "/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg",
+    "overview": "On the Hokkaido frontier, a war veteran and Ainu girl race against misfits and military renegades to find treasure mapped out on tattooed outlaws.",
+    "vote_average": 7.005,
+    "release_date": "2024-01-19",
     "genre_ids": [
-      10751,
+      28,
+      12,
+      35
+    ],
+    "original_language": "ja",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 395834,
+    "title": "Wind River",
+    "poster_path": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+    "overview": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.",
+    "vote_average": 7.438,
+    "release_date": "2017-08-03",
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 501929,
+    "title": "The Mitchells vs. the Machines",
+    "poster_path": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+    "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+    "vote_average": 7.834,
+    "release_date": "2021-04-22",
+    "genre_ids": [
       16,
+      12,
       35
     ],
     "original_language": "en",
-    "media_type": "tv",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 159824,
+    "title": "Hotel Transylvania 2",
+    "poster_path": "/3nFnrivNgipSKZ8LZJJbRSlAcTR.jpg",
+    "overview": "When the old-old-old-fashioned vampire Vlad arrives at the hotel for an impromptu family get-together, Hotel Transylvania is in for a collision of supernatural old-school and modern day cool.",
+    "vote_average": 6.764,
+    "release_date": "2015-09-21",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      14
+    ],
+    "original_language": "en",
+    "media_type": "movie",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
@@ -276,7 +331,7 @@
     "release_date": "1996-01-08",
     "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
     "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8.018,
+    "vote_average": 8.017,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -1147,7 +1202,7 @@
     "release_date": "2015-01-08",
     "poster_path": "/4OiM6apNckkqo04I7TO5VmQl65R.jpg",
     "backdrop_path": "/5z7xXgrURj6Df0GYYGagoyPJm8J.jpg",
-    "vote_average": 8.021,
+    "vote_average": 8.02,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -1481,6 +1536,23 @@
     "is_local": true
   },
   {
+    "id": "104925",
+    "title": "2gether: The Series",
+    "overview": "The fictional boy band goes behind the scenes of the world of pop music.",
+    "release_date": "2000-08-15",
+    "poster_path": "/ag8sOpxOJXKPGKtMnmSGPm76h0g.jpg",
+    "backdrop_path": "",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "289763",
     "title": "See You at Work Tomorrow!",
     "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
@@ -1493,23 +1565,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "104925",
-    "title": "2gether: The Series",
-    "overview": "The fictional boy band goes behind the scenes of the world of pop music.",
-    "release_date": "2000-08-15",
-    "poster_path": "/ag8sOpxOJXKPGKtMnmSGPm76h0g.jpg",
-    "backdrop_path": "",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2610,24 +2665,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
-    "vote_average": 8.881,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "240901",
     "title": "Safe Skies, Archer",
     "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
@@ -2640,6 +2677,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
+    "vote_average": 8.881,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4403,7 +4458,7 @@
     "release_date": "2025-02-10",
     "poster_path": "/eRwNhjpizV7up8KrCmiI94is1bl.jpg",
     "backdrop_path": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
-    "vote_average": 8.724,
+    "vote_average": 8.712,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5194,6 +5249,41 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 63522,
+    "title": "F is for Family",
+    "poster_path": "/3gkdyR58Hm0gMkItqvyNz7zSTWH.jpg",
+    "overview": "Follow the Murphy family back to the 1970s, when kids roamed wild, beer flowed freely and nothing came between a man and his TV.",
+    "vote_average": 7.394,
+    "release_date": "2015-12-18",
+    "genre_ids": [
+      35,
+      16
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 67242,
+    "title": "Home: Adventures with Tip & Oh",
+    "poster_path": "/y2z8SFDZxFllkTgUJZs2R4glVSl.jpg",
+    "overview": "Picking up where the 2015 film left off, this coming-of-age buddy comedy follows fearless Tip and overenthusiastic Oh, as they navigate the crazily combined human and alien culture they live in, finding adventure everywhere they go.",
+    "vote_average": 6.6,
+    "release_date": "2016-07-29",
+    "genre_ids": [
+      10751,
+      16,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "229203",
