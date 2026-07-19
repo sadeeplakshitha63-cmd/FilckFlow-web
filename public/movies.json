@@ -1,5 +1,21 @@
 [
   {
+    "id": 199001,
+    "title": "My Life with the Walter Boys",
+    "poster_path": "/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
+    "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+    "vote_average": 7.762,
+    "release_date": "2023-12-07",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "278299",
     "title": "Me and Who",
     "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
@@ -217,6 +233,24 @@
     "is_local": true
   },
   {
+    "id": "237918",
+    "title": "Derailment",
+    "overview": "Do you believe that there exist countless parallel universes that are exactly like the world you live in? Jiang Xiaoyuan finds herself struggling with her identity as she travels across parallel universes that never seem to intersect. In her original world, she is an invincible wealthy daughter, but in another place, she becomes an ordinary working girl who has absolutely nothing. Along the way, she meets the mysterious Qi Lian and together, they search for the truth involving the mystery surrounding her. Stripped of wealth, family background, appearance, and education, Jiang Xiaoyuan sets herself on a journey to find pieces of her \"real\" identity.",
+    "release_date": "2023-12-14",
+    "poster_path": "/83pJZW0Ui79o5oD1YYRNaSJhapF.jpg",
+    "backdrop_path": "/xzp1qssjzGwhjynTSSreIZyvfoZ.jpg",
+    "vote_average": 6.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -231,24 +265,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237918",
-    "title": "Derailment",
-    "overview": "Do you believe that there exist countless parallel universes that are exactly like the world you live in? Jiang Xiaoyuan finds herself struggling with her identity as she travels across parallel universes that never seem to intersect. In her original world, she is an invincible wealthy daughter, but in another place, she becomes an ordinary working girl who has absolutely nothing. Along the way, she meets the mysterious Qi Lian and together, they search for the truth involving the mystery surrounding her. Stripped of wealth, family background, appearance, and education, Jiang Xiaoyuan sets herself on a journey to find pieces of her \"real\" identity.",
-    "release_date": "2023-12-14",
-    "poster_path": "/83pJZW0Ui79o5oD1YYRNaSJhapF.jpg",
-    "backdrop_path": "/xzp1qssjzGwhjynTSSreIZyvfoZ.jpg",
-    "vote_average": 6.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -364,23 +380,6 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "214172",
     "title": "New Life Begins",
     "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
@@ -392,6 +391,23 @@
     "original_language": "zh",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1944,6 +1960,23 @@
     "is_local": true
   },
   {
+    "id": "291753",
+    "title": "Boys II Planet",
+    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
+    "release_date": "2025-07-17",
+    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
+    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
+    "vote_average": 7.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "113268",
     "title": "The Uncanny Counter",
     "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
@@ -1957,23 +1990,6 @@
       18,
       9648,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "291753",
-    "title": "Boys II Planet",
-    "overview": "Boys II Planet is a survival show broadcasted on Mnet. It is a sequel to Girls Planet 999 and Boys Planet. Planet K premiered on July 17 while Planet C started airing on July 18, 2025.\n\nBoys II Planet is based on the themes and aesthetics of space. It consists of two programs, K and C, produced in Korean and Chinese respectively, with both programs following the same format for each contest. The show will create a twin group project, with both groups debuting at the same time. The final line-up will work in two different groups, K and C, and will also work as a complete group.",
-    "release_date": "2025-07-17",
-    "poster_path": "/cKc9kw4UGwPejtFx3WHVeNPgGk3.jpg",
-    "backdrop_path": "/9DdeHcGLuH88wXNi6OQc6DekaBV.jpg",
-    "vote_average": 7.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4445,7 +4461,7 @@
     "release_date": "2026-04-11",
     "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
     "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 0,
+    "vote_average": 0.5,
     "media_type": "tv",
     "original_language": "tl",
     "genre_ids": [
