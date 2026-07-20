@@ -1,17 +1,18 @@
 [
   {
-    "id": 94252,
-    "title": "Human Resources",
-    "poster_path": "/9uEmYSgYIMBEIN82VAlqZnatpxJ.jpg",
-    "overview": "Lovebugs, Hormone Monsters and a parade of other creatures juggle romance, workplace drama and their human clients' needs in this \"Big Mouth\" spinoff.",
-    "vote_average": 6.52,
-    "release_date": "2022-03-18",
+    "id": 11006,
+    "title": "Smokey and the Bandit",
+    "poster_path": "/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg",
+    "overview": "A race car driver tries to transport an illegal beer shipment from Texas to Atlanta in under 28 hours, picking up a reluctant bride-to-be on the way.",
+    "vote_average": 6.989,
+    "release_date": "1977-05-27",
     "genre_ids": [
-      16,
+      28,
+      12,
       35
     ],
     "original_language": "en",
-    "media_type": "tv",
+    "media_type": "movie",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
@@ -315,7 +316,7 @@
     "release_date": "2024-08-26",
     "poster_path": "/ru3ZYJpzbmv2VpGsj1rmO5Hcpky.jpg",
     "backdrop_path": "/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
-    "vote_average": 8.49,
+    "vote_average": 8.488,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -442,7 +443,7 @@
     "release_date": "2015-11-06",
     "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
     "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
-    "vote_average": 8.755,
+    "vote_average": 8.756,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1125,23 +1126,6 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "93975",
     "title": "TharnType",
     "overview": "Type hated the idea of sharing a room with a gay guy. But now, he's starting to question what he thought he knew.",
@@ -1151,6 +1135,23 @@
     "vote_average": 7.778,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -1356,23 +1357,6 @@
     "is_local": true
   },
   {
-    "id": "253357",
-    "title": "See Your Love",
-    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
-    "release_date": "2024-10-23",
-    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
-    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
-    "vote_average": 8.696,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "259486",
     "title": "The Haunted Palace",
     "overview": "In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption",
@@ -1384,6 +1368,23 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253357",
+    "title": "See Your Love",
+    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
+    "release_date": "2024-10-23",
+    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
+    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
+    "vote_average": 8.696,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1619,24 +1620,6 @@
     "is_local": true
   },
   {
-    "id": "289763",
-    "title": "See You at Work Tomorrow!",
-    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
-    "release_date": "2026-06-22",
-    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
-    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281004",
     "title": "Beyond the Bar",
     "overview": "A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
@@ -1661,6 +1644,24 @@
     "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
     "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
     "vote_average": 8.428,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289763",
+    "title": "See You at Work Tomorrow!",
+    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+    "release_date": "2026-06-22",
+    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+    "vote_average": 9.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1908,7 +1909,7 @@
     "release_date": "2016-12-02",
     "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
     "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "vote_average": 8.611,
+    "vote_average": 8.612,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1980,7 +1981,7 @@
     "release_date": "2020-11-28",
     "poster_path": "/bsbuXbQqryQ8aJlwXFkFXbrYko1.jpg",
     "backdrop_path": "/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "vote_average": 8.34,
+    "vote_average": 8.341,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3097,7 +3098,7 @@
     "release_date": "2001-04-21",
     "poster_path": "/88ucpY4QXb8E80Q1QoIlUoKE1Ct.jpg",
     "backdrop_path": "/nhQx2xS2ng1Uo30uunqH9RK3bQs.jpg",
-    "vote_average": 7.12,
+    "vote_average": 7.1,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3880,7 +3881,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
     "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.579,
+    "vote_average": 8.578,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3917,7 +3918,7 @@
     "release_date": "2023-06-17",
     "poster_path": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
     "backdrop_path": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "vote_average": 8.204,
+    "vote_average": 8.21,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4186,7 +4187,7 @@
     "release_date": "2025-11-12",
     "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
     "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 8.19,
+    "vote_average": 8.179,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4276,7 +4277,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.387,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5145,7 +5146,7 @@
     "release_date": "2024-04-04",
     "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
     "backdrop_path": "/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
-    "vote_average": 8.117,
+    "vote_average": 8.119,
     "media_type": "movie",
     "original_language": "th",
     "genre_ids": [
@@ -5174,6 +5175,23 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 94252,
+    "title": "Human Resources",
+    "poster_path": "/9uEmYSgYIMBEIN82VAlqZnatpxJ.jpg",
+    "overview": "Lovebugs, Hormone Monsters and a parade of other creatures juggle romance, workplace drama and their human clients' needs in this \"Big Mouth\" spinoff.",
+    "vote_average": 6.52,
+    "release_date": "2022-03-18",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 244890,
