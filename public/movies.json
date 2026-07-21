@@ -1,5 +1,42 @@
 [
   {
+    "id": 967941,
+    "title": "Wicked: For Good",
+    "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+    "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+    "vote_average": 6.624,
+    "release_date": "2025-11-19",
+    "genre_ids": [
+      14,
+      12,
+      10749
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 406990,
+    "title": "What Happened to Monday",
+    "poster_path": "/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
+    "overview": "In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.",
+    "vote_average": 7.144,
+    "release_date": "2017-08-18",
+    "genre_ids": [
+      878,
+      53,
+      9648,
+      28
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "278299",
     "title": "Me and Who",
     "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
@@ -310,6 +347,24 @@
     "is_local": true
   },
   {
+    "id": "275593",
+    "title": "Ms. Incognito",
+    "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
+    "release_date": "2025-09-29",
+    "poster_path": "/jG0hr4bvJM1iOEcScgav7zmMF5P.jpg",
+    "backdrop_path": "/aAjm3w7Gnjw7HDe5UQ0BbTec7S2.jpg",
+    "vote_average": 7.571,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -323,24 +378,6 @@
       10759,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "275593",
-    "title": "Ms. Incognito",
-    "overview": "A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!",
-    "release_date": "2025-09-29",
-    "poster_path": "/jG0hr4bvJM1iOEcScgav7zmMF5P.jpg",
-    "backdrop_path": "/aAjm3w7Gnjw7HDe5UQ0BbTec7S2.jpg",
-    "vote_average": 7.571,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1153,7 +1190,7 @@
     "release_date": "2023-09-02",
     "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
     "backdrop_path": "/h58XZvo62zOmwV35N2LRon9JPcd.jpg",
-    "vote_average": 7.6,
+    "vote_average": 7.677,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1569,23 +1606,6 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1634,6 +1654,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1895,7 +1932,7 @@
     "release_date": "2016-12-02",
     "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
     "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "vote_average": 8.612,
+    "vote_average": 8.615,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1986,7 +2023,7 @@
     "release_date": "2023-08-12",
     "poster_path": "/rZitZNGABZ221cXzxhcRK7IgAvn.jpg",
     "backdrop_path": "/lHQLSn49qq8QsPZcH4i0YFWvSlK.jpg",
-    "vote_average": 7.643,
+    "vote_average": 7.69,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2330,7 +2367,7 @@
     "release_date": "2016-02-24",
     "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
     "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "vote_average": 8.342,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2506,24 +2543,6 @@
     "is_local": true
   },
   {
-    "id": "237327",
-    "title": "My Golden Blood",
-    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
-    "release_date": "2025-03-12",
-    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
-    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
-    "vote_average": 8.96,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "108261",
     "title": "Mr. Queen",
     "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
@@ -2536,6 +2555,24 @@
     "genre_ids": [
       18,
       35,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237327",
+    "title": "My Golden Blood",
+    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
+    "release_date": "2025-03-12",
+    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
+    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
+    "vote_average": 8.96,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
       10765
     ],
     "video_url": "",
@@ -3587,7 +3624,7 @@
     "release_date": "2025-08-16",
     "poster_path": "/15yDwRPWsI75RdJaBVgb4K5m94I.jpg",
     "backdrop_path": "/7VxcQrVD2POXg29q5wIFOGD7AY7.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.429,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3827,23 +3864,6 @@
     "is_local": true
   },
   {
-    "id": "297710",
-    "title": "School Trip: Joined a Group I'm Not Close To",
-    "overview": "An awkward teen joins a group of popular classmates on a school trip, sparking an unexpected romance with the most popular and charming boy in school.",
-    "release_date": "2025-10-19",
-    "poster_path": "/hlgLNj2vg7XHixFpg2EJRf9JIsZ.jpg",
-    "backdrop_path": "/3YXRu9tLvpAfaNYuNswaBDpSALU.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "279580",
     "title": "Secret Lover",
     "overview": "During a campus play, a 'relationship training' game turns real as lifelong friends cross boundaries and slip into a secret romance.",
@@ -3861,20 +3881,17 @@
     "is_local": true
   },
   {
-    "id": "135157",
-    "title": "Alchemy of Souls",
-    "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
-    "release_date": "2022-06-18",
-    "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
-    "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.578,
+    "id": "297710",
+    "title": "School Trip: Joined a Group I'm Not Close To",
+    "overview": "An awkward teen joins a group of popular classmates on a school trip, sparking an unexpected romance with the most popular and charming boy in school.",
+    "release_date": "2025-10-19",
+    "poster_path": "/hlgLNj2vg7XHixFpg2EJRf9JIsZ.jpg",
+    "backdrop_path": "/3YXRu9tLvpAfaNYuNswaBDpSALU.jpg",
+    "vote_average": 8.5,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "ja",
     "genre_ids": [
-      18,
-      10765,
-      10759,
-      9648
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3892,6 +3909,26 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "135157",
+    "title": "Alchemy of Souls",
+    "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
+    "release_date": "2022-06-18",
+    "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
+    "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
+    "vote_average": 8.58,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765,
+      10759,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3933,6 +3970,23 @@
     "is_local": true
   },
   {
+    "id": "293391",
+    "title": "To My Shore",
+    "overview": "After a car accident, a ruthless Thai heir and a reserved company executive become trapped in a dangerous game of desire that spirals into obsession.",
+    "release_date": "2025-11-15",
+    "poster_path": "/w1iU3Ak0HaJfMeIVGVgvOWLuYx3.jpg",
+    "backdrop_path": "/AtclgGgnqR7SipnTpd0CvzzK3PH.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "232510",
     "title": "MIGNON",
     "overview": "In a brutal underground world, a vampire medic and a wounded young fighter form a fragile bond—one built on pain, longing, and forbidden desire.",
@@ -3944,23 +3998,6 @@
     "original_language": "ko",
     "genre_ids": [
       16,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "293391",
-    "title": "To My Shore",
-    "overview": "After a car accident, a ruthless Thai heir and a reserved company executive become trapped in a dangerous game of desire that spirals into obsession.",
-    "release_date": "2025-11-15",
-    "poster_path": "/w1iU3Ak0HaJfMeIVGVgvOWLuYx3.jpg",
-    "backdrop_path": "/AtclgGgnqR7SipnTpd0CvzzK3PH.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3992,7 +4029,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.403,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4263,7 +4300,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.388,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4712,7 +4749,7 @@
     "release_date": "2023-06-13",
     "poster_path": "/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
     "backdrop_path": "/3nWfjIBUyYUCABI7Fsl1AhNhDAr.jpg",
-    "vote_average": 8.77,
+    "vote_average": 8.781,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4766,7 +4803,7 @@
     "release_date": "2023-11-24",
     "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
     "backdrop_path": "/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
-    "vote_average": 8.45,
+    "vote_average": 8.451,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5027,7 +5064,7 @@
     "release_date": "2025-02-18",
     "poster_path": "/ywkwBd65CMvC33DDVFOQqr4mrVQ.jpg",
     "backdrop_path": "/lO2CqipALTHkRblLIRDKgtMgwxX.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.434,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5132,7 +5169,7 @@
     "release_date": "2024-04-04",
     "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
     "backdrop_path": "/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
-    "vote_average": 8.119,
+    "vote_average": 8.114,
     "media_type": "movie",
     "original_language": "th",
     "genre_ids": [
