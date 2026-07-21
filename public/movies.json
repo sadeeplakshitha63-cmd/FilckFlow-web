@@ -179,25 +179,6 @@
     "is_local": true
   },
   {
-    "id": "234534",
-    "title": "Back to Seventeen",
-    "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
-    "release_date": "2023-08-30",
-    "poster_path": "/2lBGlRbpNv7eA9wAnpDGO9zBKzU.jpg",
-    "backdrop_path": "/6BH0qWbp5JRIYrbcGRuqNghhi16.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "310800",
     "title": "Siren's Kiss",
     "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
@@ -211,6 +192,25 @@
       18,
       80,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "234534",
+    "title": "Back to Seventeen",
+    "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
+    "release_date": "2023-08-30",
+    "poster_path": "/2lBGlRbpNv7eA9wAnpDGO9zBKzU.jpg",
+    "backdrop_path": "/6BH0qWbp5JRIYrbcGRuqNghhi16.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      10765,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -316,7 +316,7 @@
     "release_date": "2016-09-23",
     "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
     "backdrop_path": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.807,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1153,7 +1153,7 @@
     "release_date": "2023-09-02",
     "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
     "backdrop_path": "/h58XZvo62zOmwV35N2LRon9JPcd.jpg",
-    "vote_average": 7.6,
+    "vote_average": 7.677,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1170,7 +1170,7 @@
     "release_date": "2021-07-26",
     "poster_path": "/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
     "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.225,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1519,23 +1519,6 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "301810",
     "title": "Tempest (2025)",
     "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
@@ -1579,6 +1562,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1841,7 +1841,7 @@
     "release_date": "2016-08-29",
     "poster_path": "/sTW7wLyD95JRCyUEdTfxCWQWsvd.jpg",
     "backdrop_path": "/yBmqsAFjJJtdHkptwlCy0WMsfKA.jpg",
-    "vote_average": 8.493,
+    "vote_average": 8.494,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2039,7 +2039,7 @@
     "release_date": "2025-06-11",
     "poster_path": "/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
     "backdrop_path": "/xPFmxUuZnmYAlpoO5QI9AdYegxt.jpg",
-    "vote_average": 8,
+    "vote_average": 7.97,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2250,23 +2250,6 @@
     "is_local": true
   },
   {
-    "id": "262741",
-    "title": "Youthful Glory",
-    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
-    "release_date": "2025-05-19",
-    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
-    "backdrop_path": "/tLewxYU1m43DS2Man8GRtHYQExI.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223911",
     "title": "Renegade Immortal",
     "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
@@ -2280,6 +2263,23 @@
       16,
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "262741",
+    "title": "Youthful Glory",
+    "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
+    "release_date": "2025-05-19",
+    "poster_path": "/qnvUc7dlsvRj807HbmkReWYJ77t.jpg",
+    "backdrop_path": "/tLewxYU1m43DS2Man8GRtHYQExI.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2418,7 +2418,7 @@
     "release_date": "2022-04-28",
     "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
     "backdrop_path": "/9fOsc3Hmvy6G5Hw8tTOGRFGWp73.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.609,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2530,7 +2530,7 @@
     "release_date": "2020-12-12",
     "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
     "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "vote_average": 8.494,
+    "vote_average": 8.507,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2579,24 +2579,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
-    "vote_average": 8.881,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "240901",
     "title": "Safe Skies, Archer",
     "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
@@ -2615,6 +2597,24 @@
     "is_local": true
   },
   {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
+    "vote_average": 8.881,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "247453",
     "title": "Everyone Loves Me",
     "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
@@ -2626,25 +2626,6 @@
     "original_language": "zh",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278146",
-    "title": "Dare You to Death",
-    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
-    "release_date": "2025-12-18",
-    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
-    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 7.778,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
-      80,
       18
     ],
     "video_url": "",
@@ -2672,13 +2653,32 @@
     "is_local": true
   },
   {
+    "id": "278146",
+    "title": "Dare You to Death",
+    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
+    "release_date": "2025-12-18",
+    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
+    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
+    "vote_average": 7.778,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281016",
     "title": "Boyfriend on Demand",
     "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.33,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3208,7 +3208,7 @@
     "release_date": "2023-04-06",
     "poster_path": "/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
     "backdrop_path": "/5fhS6Bh4VnF0SOZyZnhNpc0XHDb.jpg",
-    "vote_average": 8.254,
+    "vote_average": 8.281,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4245,7 +4245,7 @@
     "release_date": "2025-10-08",
     "poster_path": "/1eOek63acPohNgvXog4uYnJT6fh.jpg",
     "backdrop_path": "/lAJCsUD3f6KhwdtbnevSAI1E9EU.jpg",
-    "vote_average": 8.864,
+    "vote_average": 8.889,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4849,7 +4849,7 @@
     "release_date": "2024-04-08",
     "poster_path": "/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
     "backdrop_path": "/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-    "vote_average": 8.575,
+    "vote_average": 8.58,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4992,7 +4992,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.051,
+    "vote_average": 9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5027,7 +5027,7 @@
     "release_date": "2025-02-18",
     "poster_path": "/ywkwBd65CMvC33DDVFOQqr4mrVQ.jpg",
     "backdrop_path": "/lO2CqipALTHkRblLIRDKgtMgwxX.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.434,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
