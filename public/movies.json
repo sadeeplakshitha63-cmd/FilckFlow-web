@@ -179,25 +179,6 @@
     "is_local": true
   },
   {
-    "id": "310800",
-    "title": "Siren's Kiss",
-    "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
-    "release_date": "2026-03-02",
-    "poster_path": "/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
-    "backdrop_path": "/dWSR0GpWsgnLZCEe6bGZZIzw8YP.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      80,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "234534",
     "title": "Back to Seventeen",
     "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
@@ -211,6 +192,25 @@
       35,
       10765,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "310800",
+    "title": "Siren's Kiss",
+    "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
+    "release_date": "2026-03-02",
+    "poster_path": "/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "backdrop_path": "/dWSR0GpWsgnLZCEe6bGZZIzw8YP.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      80,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1491,7 +1491,7 @@
     "release_date": "2025-06-05",
     "poster_path": "/A7SrIG3PnTCd2PeZawdgxqpxrUY.jpg",
     "backdrop_path": "/hXiVeUUAWWxebEL7dj8nC6geuJj.jpg",
-    "vote_average": 7.739,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1624,23 +1624,6 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "224030",
     "title": "High School Return of a Gangster",
     "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
@@ -1668,6 +1651,23 @@
     "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -1853,15 +1853,15 @@
     "is_local": true
   },
   {
-    "id": "289763",
-    "title": "See You at Work Tomorrow!",
-    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
-    "release_date": "2026-06-22",
-    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
-    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 9.121,
+    "id": "122009",
+    "title": "Bad Buddy",
+    "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
+    "release_date": "2021-10-29",
+    "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
+    "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
+    "vote_average": 8.463,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "th",
     "genre_ids": [
       35,
       18
@@ -1871,15 +1871,15 @@
     "is_local": true
   },
   {
-    "id": "122009",
-    "title": "Bad Buddy",
-    "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
-    "release_date": "2021-10-29",
-    "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
-    "backdrop_path": "/tABOj9SXHuWqWW3BNXozLGM7GO1.jpg",
-    "vote_average": 8.468,
+    "id": "289763",
+    "title": "See You at Work Tomorrow!",
+    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+    "release_date": "2026-06-22",
+    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+    "vote_average": 9.121,
     "media_type": "tv",
-    "original_language": "th",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -2148,7 +2148,7 @@
     "release_date": "2022-06-29",
     "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
     "backdrop_path": "/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
-    "vote_average": 8.481,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2457,7 +2457,7 @@
     "release_date": "2026-03-27",
     "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
     "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 8.846,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2506,6 +2506,24 @@
     "is_local": true
   },
   {
+    "id": "237327",
+    "title": "My Golden Blood",
+    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
+    "release_date": "2025-03-12",
+    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
+    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
+    "vote_average": 8.96,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "108261",
     "title": "Mr. Queen",
     "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
@@ -2518,24 +2536,6 @@
     "genre_ids": [
       18,
       35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237327",
-    "title": "My Golden Blood",
-    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
-    "release_date": "2025-03-12",
-    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
-    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
-    "vote_average": 8.96,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
       10765
     ],
     "video_url": "",
@@ -2678,7 +2678,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.342,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3225,7 +3225,7 @@
     "release_date": "2023-08-09",
     "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
     "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
-    "vote_average": 8.51,
+    "vote_average": 8.515,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3904,7 +3904,7 @@
     "release_date": "2023-06-17",
     "poster_path": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
     "backdrop_path": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "vote_average": 8.21,
+    "vote_average": 8.213,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4153,7 +4153,7 @@
     "release_date": "2024-09-21",
     "poster_path": "/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
     "backdrop_path": "/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.577,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4939,7 +4939,7 @@
     "release_date": "2021-06-23",
     "poster_path": "/ka19734c2ENU74uykVqt1tVTjJI.jpg",
     "backdrop_path": "/l3QyCntq6m4E7WTCLsq4DC7NLW1.jpg",
-    "vote_average": 7.925,
+    "vote_average": 7.916,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4974,7 +4974,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.12,
+    "vote_average": 8.119,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
