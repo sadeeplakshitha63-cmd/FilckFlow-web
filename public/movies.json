@@ -1276,23 +1276,6 @@
     "is_local": true
   },
   {
-    "id": "255095",
-    "title": "Eat Run Love",
-    "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
-    "release_date": "2025-04-08",
-    "poster_path": "/ksZiJ8IbByqFxOTszZjdPmcRlP5.jpg",
-    "backdrop_path": "/33Bg4EM7Oqpran2WjE8y4dv2Syr.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "262828",
     "title": "Crushology 101",
     "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
@@ -1321,6 +1304,23 @@
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "255095",
+    "title": "Eat Run Love",
+    "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
+    "release_date": "2025-04-08",
+    "poster_path": "/ksZiJ8IbByqFxOTszZjdPmcRlP5.jpg",
+    "backdrop_path": "/33Bg4EM7Oqpran2WjE8y4dv2Syr.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1575,7 +1575,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
     "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
-    "vote_average": 7.521,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1949,7 +1949,7 @@
     "release_date": "2020-11-28",
     "poster_path": "/bsbuXbQqryQ8aJlwXFkFXbrYko1.jpg",
     "backdrop_path": "/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "vote_average": 8.345,
+    "vote_average": 8.349,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1972,24 +1972,6 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "289763",
-    "title": "See You at Work Tomorrow!",
-    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
-    "release_date": "2026-06-22",
-    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
-    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -2027,6 +2009,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289763",
+    "title": "See You at Work Tomorrow!",
+    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+    "release_date": "2026-06-22",
+    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2148,7 +2148,7 @@
     "release_date": "2022-06-29",
     "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
     "backdrop_path": "/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
-    "vote_average": 8.482,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2438,30 +2438,12 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.532,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
       16,
       10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
       10765
     ],
     "video_url": "",
@@ -2481,6 +2463,24 @@
     "genre_ids": [
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2560,6 +2560,24 @@
     "is_local": true
   },
   {
+    "id": "240901",
+    "title": "Safe Skies, Archer",
+    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+    "release_date": "2023-11-20",
+    "poster_path": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
+    "backdrop_path": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
+    "vote_average": 9.7,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "158258",
     "title": "Duty After School",
     "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
@@ -2573,24 +2591,6 @@
       18,
       10765,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240901",
-    "title": "Safe Skies, Archer",
-    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
-    "release_date": "2023-11-20",
-    "poster_path": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
-    "backdrop_path": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
-    "vote_average": 9.7,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2821,6 +2821,25 @@
     "is_local": true
   },
   {
+    "id": "236033",
+    "title": "The Double",
+    "overview": "Xue Fangfei, the daughter of a well-off county magistrate lost everything after a major upheaval. Saved by Jiang Li, the daughter of the Secretariat Director, she took on the identity of Jiang Li and returned to the capital.  With the help of Duke Xiao Heng and others, she overcame numerous hardships, tirelessly fought against injustice, rescued her father who had been wrongly imprisoned, assisted Xiao Heng in upholding justice, protecting the common people, and ultimately regained a beautiful life.",
+    "release_date": "2024-06-02",
+    "poster_path": "/u4zFeoSUlqp18yPbzppi5oZRlgH.jpg",
+    "backdrop_path": "/8zIi5neowf6iu7dK6tlLPvOAC5y.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "259837",
     "title": "The WONDERfools",
     "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
@@ -2835,25 +2854,6 @@
       35,
       10765,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "236033",
-    "title": "The Double",
-    "overview": "Xue Fangfei, the daughter of a well-off county magistrate lost everything after a major upheaval. Saved by Jiang Li, the daughter of the Secretariat Director, she took on the identity of Jiang Li and returned to the capital.  With the help of Duke Xiao Heng and others, she overcame numerous hardships, tirelessly fought against injustice, rescued her father who had been wrongly imprisoned, assisted Xiao Heng in upholding justice, protecting the common people, and ultimately regained a beautiful life.",
-    "release_date": "2024-06-02",
-    "poster_path": "/u4zFeoSUlqp18yPbzppi5oZRlgH.jpg",
-    "backdrop_path": "/8zIi5neowf6iu7dK6tlLPvOAC5y.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3310,23 +3310,6 @@
     "is_local": true
   },
   {
-    "id": "13700",
-    "title": "Indian Idol",
-    "overview": "The Indian version of the Pop Idol format.",
-    "release_date": "2004-10-28",
-    "poster_path": "/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
-    "backdrop_path": "/qlnDrGpDmvKPQEnpge8yY3XTm0F.jpg",
-    "vote_average": 5.706,
-    "media_type": "tv",
-    "original_language": "hi",
-    "genre_ids": [
-      10764
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "238680",
     "title": "Moonlight Mystique",
     "overview": "Bai Shuo, the youngest daughter of the General's Mansion, aspires to cultivate immortality in order to repay a favor. On her journey to seek immortality, she accidentally rescues the great demon god Fan Yue. As the saying goes, healthy fights strengthen relationships, and they go from mutual manipulation to mutual affection as they fall in love with each other, navigating a love affair intertwined with sweetness and cruelty. Even though they face countless difficulties, their love is strong enough to overcome all limitations, allowing them to truly embrace each other.",
@@ -3339,6 +3322,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "13700",
+    "title": "Indian Idol",
+    "overview": "The Indian version of the Pop Idol format.",
+    "release_date": "2004-10-28",
+    "poster_path": "/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
+    "backdrop_path": "/qlnDrGpDmvKPQEnpge8yY3XTm0F.jpg",
+    "vote_average": 5.706,
+    "media_type": "tv",
+    "original_language": "hi",
+    "genre_ids": [
+      10764
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3793,13 +3793,13 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 7.441,
+    "id": "225178",
+    "title": "The Love You Give Me",
+    "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
+    "release_date": "2023-04-24",
+    "poster_path": "/vxeau4Z27cXeCCGV0QWMhVTlt4I.jpg",
+    "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
+    "vote_average": 8.269,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3810,13 +3810,13 @@
     "is_local": true
   },
   {
-    "id": "225178",
-    "title": "The Love You Give Me",
-    "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
-    "release_date": "2023-04-24",
-    "poster_path": "/vxeau4Z27cXeCCGV0QWMhVTlt4I.jpg",
-    "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
-    "vote_average": 8.269,
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 7.441,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4974,7 +4974,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.12,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
