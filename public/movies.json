@@ -1,23 +1,5 @@
 [
   {
-    "id": 281281,
-    "title": "Elite Force",
-    "poster_path": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
-    "overview": "Following an unprecedented attack on the GIGN, an officer—just as he is leaving the force—will carry out a mission that rivals the intensity of that attack.",
-    "vote_average": 6.938,
-    "release_date": "2026-07-22",
-    "genre_ids": [
-      10759,
-      80,
-      18
-    ],
-    "original_language": "fr",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "278299",
     "title": "Me and Who",
     "overview": "After waking up in a billionaire heir’s body, a broke man’s secret unravels when his mind-reading fiancé discovers the truth on their first date.",
@@ -759,7 +741,7 @@
     "release_date": "2018-10-08",
     "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
     "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
-    "vote_average": 4.8,
+    "vote_average": 4.786,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -956,7 +938,7 @@
     "release_date": "2023-03-29",
     "poster_path": "/uoHehNNiO8lWpmaKmlx8icDESbm.jpg",
     "backdrop_path": "/dNZCo6UVbig6Les5exI6iiMDHOl.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.156,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2053,23 +2035,6 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "290054",
     "title": "The Seven Relics of ill Omen",
     "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
@@ -2100,6 +2065,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2578,25 +2560,6 @@
     "is_local": true
   },
   {
-    "id": "158258",
-    "title": "Duty After School",
-    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
-    "release_date": "2023-03-31",
-    "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
-    "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
-    "vote_average": 8.152,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "240901",
     "title": "Safe Skies, Archer",
     "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
@@ -2627,6 +2590,25 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "158258",
+    "title": "Duty After School",
+    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
+    "release_date": "2023-03-31",
+    "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
+    "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
+    "vote_average": 8.152,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2902,7 +2884,7 @@
     "release_date": "2024-08-06",
     "poster_path": "/dGBg7KKsNRNzeVeKePrgwfKw1m5.jpg",
     "backdrop_path": "/bKLWC6ppultOZk0qPyYGWRqoQNm.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.788,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3588,7 +3570,7 @@
     "release_date": "2026-06-09",
     "poster_path": "/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
     "backdrop_path": "/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.375,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4992,7 +4974,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.12,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5167,7 +5149,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
     "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
-    "vote_average": 7.722,
+    "vote_average": 7.475,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5179,6 +5161,24 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 281281,
+    "title": "Elite Force",
+    "poster_path": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+    "overview": "Following an unprecedented attack on the GIGN, an officer—just as he is leaving the force—will carry out a mission that rivals the intensity of that attack.",
+    "vote_average": 6.938,
+    "release_date": "2026-07-22",
+    "genre_ids": [
+      10759,
+      80,
+      18
+    ],
+    "original_language": "fr",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 915935,
