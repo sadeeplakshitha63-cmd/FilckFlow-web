@@ -42,7 +42,7 @@
     "release_date": "2022-09-26",
     "poster_path": "/2U1TfKVvSSLn8U6WJWgDYZpzKya.jpg",
     "backdrop_path": "/jw7x8IW7BNLFGonyIddaJd640q7.jpg",
-    "vote_average": 7.688,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -556,6 +556,23 @@
     "is_local": true
   },
   {
+    "id": "278157",
+    "title": "My Romance Scammer",
+    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
+    "release_date": "2026-02-01",
+    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
+    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
+    "vote_average": 7.286,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "233100",
     "title": "Love Scout",
     "overview": "Yoo Eun-ho, a single dad armed with perfection, becomes the secretary of Kang Ji-yun, the CEO of a popular headhunter company, who doesn't do anything except work.",
@@ -568,23 +585,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278157",
-    "title": "My Romance Scammer",
-    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
-    "release_date": "2026-02-01",
-    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
-    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
-    "vote_average": 7.286,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -805,19 +805,15 @@
     "is_local": true
   },
   {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.607,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -878,24 +874,6 @@
     "is_local": true
   },
   {
-    "id": "278275",
-    "title": "Veil of Shadows",
-    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
-    "release_date": "2026-04-01",
-    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
-    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "312381",
     "title": "Project Loki",
     "overview": "One of Wattpad’s top mystery-crime thrillers comes alive with Viva One stars Dylan Menor, Marco Gallo, and Jayda Avanzado. Join Loki and Lorelei as they crack puzzles, solve cases, and uncover dark secrets within the halls of Clark University.",
@@ -909,6 +887,24 @@
       80,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278275",
+    "title": "Veil of Shadows",
+    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
+    "release_date": "2026-04-01",
+    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
+    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1665,26 +1661,9 @@
     "release_date": "2021-08-10",
     "poster_path": "/gg7Z57buTLxhshathhfza8Lkt57.jpg",
     "backdrop_path": "/vE8OPTULzuyvgrM0yoFbn2VYisq.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.571,
     "media_type": "tv",
     "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "276257",
-    "title": "Secret Relationships",
-    "overview": "Trapped in an escalating love square, a salaryman must navigate his tumultuous feelings for a colleague, a former tutor, and an heir.",
-    "release_date": "2025-02-26",
-    "poster_path": "/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
-    "backdrop_path": "/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
-    "vote_average": 8.205,
-    "media_type": "tv",
-    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -1705,6 +1684,23 @@
     "genre_ids": [
       10765,
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "276257",
+    "title": "Secret Relationships",
+    "overview": "Trapped in an escalating love square, a salaryman must navigate his tumultuous feelings for a colleague, a former tutor, and an heir.",
+    "release_date": "2025-02-26",
+    "poster_path": "/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
+    "backdrop_path": "/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
+    "vote_average": 8.205,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2142,24 +2138,6 @@
     "is_local": true
   },
   {
-    "id": "289763",
-    "title": "See You at Work Tomorrow!",
-    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
-    "release_date": "2026-06-22",
-    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
-    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 9.161,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252320",
     "title": "FEUD",
     "overview": "Li Qingyue, the Four Spirit Immortal, and Bai Jiusi, the powerful Dacheng Lord, are caught in a turbulent love-hate relationship. As hidden truths come to light, they overcome their misunderstandings and join forces to protect the world from impending danger.",
@@ -2170,6 +2148,24 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289763",
+    "title": "See You at Work Tomorrow!",
+    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+    "release_date": "2026-06-22",
+    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+    "vote_average": 9.176,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -2233,23 +2229,6 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "262741",
     "title": "Youthful Glory",
     "overview": "When General Jiang Xu returns to the capital after eight years to investigate military corruption, he enters a strategic marriage with a strong-willed noblewoman, Ming Tan. As they navigate political intrigue and work to protect their families, an unexpected romance gradually blossoms between them.",
@@ -2280,6 +2259,23 @@
       16,
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3516,7 +3512,7 @@
     "release_date": "2026-05-21",
     "poster_path": "/3kWEtUGI9pp18fviLOcCAwGOZco.jpg",
     "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
-    "vote_average": 6.1,
+    "vote_average": 6.091,
     "media_type": "movie",
     "original_language": "es",
     "genre_ids": [
@@ -3904,7 +3900,7 @@
     "release_date": "2023-06-17",
     "poster_path": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
     "backdrop_path": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "vote_average": 8.213,
+    "vote_average": 8.212,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3956,7 +3952,7 @@
     "release_date": "2023-08-11",
     "poster_path": "/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
     "backdrop_path": "/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
-    "vote_average": 7.463,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4992,7 +4988,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9,
+    "vote_average": 9.008,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5163,6 +5159,24 @@
     "is_local": true
   },
   {
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.607,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 222935,
     "title": "The Fault in Our Stars",
     "poster_path": "/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg",
@@ -5323,20 +5337,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 11006,
