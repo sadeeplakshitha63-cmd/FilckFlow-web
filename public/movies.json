@@ -1,5 +1,23 @@
 [
   {
+    "id": 1659155,
+    "title": "The Truthers",
+    "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+    "overview": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.",
+    "vote_average": 5,
+    "release_date": "2026-07-24",
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "original_language": "es",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "1311031",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
@@ -279,7 +297,7 @@
     "release_date": "1996-01-08",
     "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
     "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8.017,
+    "vote_average": 8.015,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -346,6 +364,24 @@
     "is_local": true
   },
   {
+    "id": "214172",
+    "title": "New Life Begins",
+    "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
+    "release_date": "2022-11-10",
+    "poster_path": "/2LSRCKg68ktB5sBtFbOkXwDQTan.jpg",
+    "backdrop_path": "/ytMqU90MI12y8YHS4tqtFGYIWMl.jpg",
+    "vote_average": 6.84,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -359,24 +395,6 @@
       10759,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "214172",
-    "title": "New Life Begins",
-    "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
-    "release_date": "2022-11-10",
-    "poster_path": "/2LSRCKg68ktB5sBtFbOkXwDQTan.jpg",
-    "backdrop_path": "/ytMqU90MI12y8YHS4tqtFGYIWMl.jpg",
-    "vote_average": 6.84,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1004,23 +1022,6 @@
     "is_local": true
   },
   {
-    "id": "253093",
-    "title": "Shadow Love",
-    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
-    "release_date": "2025-08-24",
-    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
-    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "243028",
     "title": "Love Song in Winter",
     "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
@@ -1033,6 +1034,23 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253093",
+    "title": "Shadow Love",
+    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
+    "release_date": "2025-08-24",
+    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
+    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1241,24 +1259,6 @@
     "is_local": true
   },
   {
-    "id": "68349",
-    "title": "Weightlifting Fairy Kim Bok-joo",
-    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
-    "release_date": "2016-11-16",
-    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
-    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "255095",
     "title": "Eat Run Love",
     "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
@@ -1283,6 +1283,24 @@
     "poster_path": "/rWe7VuLKqJZSe1uwPRblLuOgIBB.jpg",
     "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
     "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68349",
+    "title": "Weightlifting Fairy Kim Bok-joo",
+    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
+    "release_date": "2016-11-16",
+    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
+    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2258,7 +2276,7 @@
     "release_date": "2026-06-22",
     "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
     "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 9.2,
+    "vote_average": 9.222,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2289,6 +2307,23 @@
     "is_local": true
   },
   {
+    "id": "261980",
+    "title": "Our Unwritten Seoul",
+    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
+    "release_date": "2025-05-24",
+    "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
+    "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "68814",
     "title": "Strong Woman Do Bong-Soon",
     "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
@@ -2301,23 +2336,6 @@
     "genre_ids": [
       35,
       10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "261980",
-    "title": "Our Unwritten Seoul",
-    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
-    "release_date": "2025-05-24",
-    "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
-    "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2693,23 +2711,6 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/dIHTHoiEJwjQRpYaaP2d50Nyggv.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "274559",
     "title": "The Wicked Game",
     "overview": "An abandoned heir wages war to expose his ruthless father and seize control of the family empire, but treachery—and desire—threaten his plan.",
@@ -2723,6 +2724,23 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/dIHTHoiEJwjQRpYaaP2d50Nyggv.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3885,7 +3903,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
     "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.587,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3993,7 +4011,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "vote_average": 8.422,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4148,6 +4166,24 @@
     "is_local": true
   },
   {
+    "id": "281013",
+    "title": "Dynamite Kiss",
+    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
+    "release_date": "2025-11-12",
+    "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
+    "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "235577",
     "title": "The Judge from Hell",
     "overview": "A cruel and vicious judge, who wields power only for herself, meets a warm and cheerful detective who puts the victims first.",
@@ -4162,24 +4198,6 @@
       10765,
       80,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "281013",
-    "title": "Dynamite Kiss",
-    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
-    "release_date": "2025-11-12",
-    "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
-    "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4282,7 +4300,7 @@
     "release_date": "2024-08-17",
     "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
     "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "vote_average": 7.887,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
