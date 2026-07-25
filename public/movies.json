@@ -969,23 +969,6 @@
     "is_local": true
   },
   {
-    "id": "251600",
-    "title": "The Eternal Fragrance",
-    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
-    "release_date": "2026-06-27",
-    "poster_path": "/hW9WvgtXk9Bf58bB4TZ1Dy0WquB.jpg",
-    "backdrop_path": "/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
-    "vote_average": 6.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "283952",
     "title": "A Splendid Match",
     "overview": "After years away from her family, Gu Jinzhao returns home and begins a remarkable transformation, from a carefree young woman into a poised and influential noble lady. As questions of marriage arise, she refuses to follow tradition and holds firmly to her own beliefs about love. But when multiple men enter her life, each offering a different future, who will Gu Jinzhao choose?",
@@ -1004,18 +987,17 @@
     "is_local": true
   },
   {
-    "id": "243028",
-    "title": "Love Song in Winter",
-    "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
-    "release_date": "2024-12-20",
-    "poster_path": "/73FWssGQ7eKrWIrPMJ0MBoQ0T45.jpg",
-    "backdrop_path": "/hEI6PtKQFR5ihOE9bwZfDqESW2.jpg",
-    "vote_average": 8.188,
+    "id": "251600",
+    "title": "The Eternal Fragrance",
+    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
+    "release_date": "2026-06-27",
+    "poster_path": "/hW9WvgtXk9Bf58bB4TZ1Dy0WquB.jpg",
+    "backdrop_path": "/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
+    "vote_average": 6.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18,
-      9648
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1033,6 +1015,24 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "243028",
+    "title": "Love Song in Winter",
+    "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
+    "release_date": "2024-12-20",
+    "poster_path": "/73FWssGQ7eKrWIrPMJ0MBoQ0T45.jpg",
+    "backdrop_path": "/hEI6PtKQFR5ihOE9bwZfDqESW2.jpg",
+    "vote_average": 8.188,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2841,24 +2841,6 @@
     "is_local": true
   },
   {
-    "id": "136732",
-    "title": "Shooting Stars",
-    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
-    "release_date": "2022-04-22",
-    "poster_path": "/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
-    "backdrop_path": "/2u9M2WTPM6Olqh3JO0tt0OmmJnB.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "254993",
     "title": "Embrace in the Dark Night",
     "overview": "Wen Xi is drawn into an underground fight club and becomes the prize for champion Xu Zheqing, who is secretly a security consultant tasked with saving her. Three years later, after her twin sister’s mysterious death, Wen Xi assumes her sister’s identity at a company, where she reunites with Xu. Now on opposite sides, can they reconcile their feelings and uncover the truth?",
@@ -2891,6 +2873,24 @@
       10759,
       35,
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "136732",
+    "title": "Shooting Stars",
+    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
+    "release_date": "2022-04-22",
+    "poster_path": "/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
+    "backdrop_path": "/2u9M2WTPM6Olqh3JO0tt0OmmJnB.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -3499,7 +3499,7 @@
     "release_date": "2025-02-01",
     "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
     "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
-    "vote_average": 8.981,
+    "vote_average": 9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3517,7 +3517,7 @@
     "release_date": "2026-05-21",
     "poster_path": "/3kWEtUGI9pp18fviLOcCAwGOZco.jpg",
     "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
-    "vote_average": 5.5,
+    "vote_average": 5.267,
     "media_type": "movie",
     "original_language": "es",
     "genre_ids": [
@@ -3782,7 +3782,7 @@
     "release_date": "2022-11-09",
     "poster_path": "/ccej6D8J81DDJWqhP7OG6PA6xcl.jpg",
     "backdrop_path": "/zbzldNycqQy1O9gP5vwJf9HECwk.jpg",
-    "vote_average": 8.256,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4011,7 +4011,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
     "backdrop_path": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
-    "vote_average": 8.711,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
