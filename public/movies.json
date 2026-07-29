@@ -1896,7 +1896,7 @@
     "release_date": "2020-11-28",
     "poster_path": "/bsbuXbQqryQ8aJlwXFkFXbrYko1.jpg",
     "backdrop_path": "/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "vote_average": 8.349,
+    "vote_average": 8.343,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3138,7 +3138,7 @@
     "release_date": "2023-04-06",
     "poster_path": "/xcKDmUKEzysLjJEJTjonNoMraht.jpg",
     "backdrop_path": "/5fhS6Bh4VnF0SOZyZnhNpc0XHDb.jpg",
-    "vote_average": 8.281,
+    "vote_average": 8.308,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3399,24 +3399,6 @@
     "is_local": true
   },
   {
-    "id": "239385",
-    "title": "The Manipulated",
-    "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
-    "release_date": "2025-11-05",
-    "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
-    "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.328,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252774",
     "title": "The White Olive Tree",
     "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
@@ -3435,16 +3417,17 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/dIHTHoiEJwjQRpYaaP2d50Nyggv.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 8,
+    "id": "239385",
+    "title": "The Manipulated",
+    "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
+    "release_date": "2025-11-05",
+    "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
+    "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
+    "vote_average": 8.328,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "ko",
     "genre_ids": [
+      80,
       18
     ],
     "video_url": "",
@@ -3466,6 +3449,23 @@
       35,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/dIHTHoiEJwjQRpYaaP2d50Nyggv.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
