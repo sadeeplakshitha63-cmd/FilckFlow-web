@@ -261,7 +261,7 @@
     "release_date": "2026-07-11",
     "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
     "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
-    "vote_average": 8.3,
+    "vote_average": 6.375,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -607,6 +607,23 @@
     "is_local": true
   },
   {
+    "id": "290342",
+    "title": "The Love Never Sets",
+    "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
+    "release_date": "2025-10-14",
+    "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
+    "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "219651",
     "title": "Welcome to Samdal-ri",
     "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
@@ -619,23 +636,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "290342",
-    "title": "The Love Never Sets",
-    "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
-    "release_date": "2025-10-14",
-    "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
-    "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1151,7 +1151,7 @@
     "release_date": "2020-02-07",
     "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
     "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
-    "vote_average": 6.993,
+    "vote_average": 6.992,
     "media_type": "movie",
     "original_language": "pl",
     "genre_ids": [
@@ -1237,6 +1237,21 @@
     "is_local": true
   },
   {
+    "id": "1519202",
+    "title": "TNA Bound for Glory 2025",
+    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
+    "release_date": "2025-10-12",
+    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
+    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
+    "vote_average": 6.7,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "284430",
     "title": "Deep Affection Eyes",
     "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
@@ -1250,21 +1265,6 @@
       18,
       9648
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1519202",
-    "title": "TNA Bound for Glory 2025",
-    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
-    "release_date": "2025-10-12",
-    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
-    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
-    "vote_average": 6.7,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2717,7 +2717,7 @@
     "release_date": "2026-06-22",
     "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
     "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 9.1,
+    "vote_average": 9.023,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3509,13 +3509,13 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/dIHTHoiEJwjQRpYaaP2d50Nyggv.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 8,
+    "id": "254476",
+    "title": "When Destiny Brings the Demon",
+    "overview": "Modern-day office drone Zou Yan accidentally stumbles into the world of cultivation and wakes up as Liao Tingyan, a disciple of the Qinggutian Sect. She's soon selected to serve the reclusive Grandmaster Sima Jiao, a powerful cultivator who's been secretly sealed inside a mountain for 500 years. Twisted by isolation and rage, he's cold, hot-tempered, and bent on revenge. Liao Tingyan doesn't know that \"her\" original identity is a demonic assassin. But to his surprise, she shows no ill will, no ambition, and no desire at all. Her nature fascinates him. Thus begins an unlikely romance between a villainous immortal and a healing-type \"slacker,\" a connection that defies fate and spans lifetimes.",
+    "release_date": "2025-08-16",
+    "poster_path": "/15yDwRPWsI75RdJaBVgb4K5m94I.jpg",
+    "backdrop_path": "/7VxcQrVD2POXg29q5wIFOGD7AY7.jpg",
+    "vote_average": 8.429,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3526,13 +3526,13 @@
     "is_local": true
   },
   {
-    "id": "254476",
-    "title": "When Destiny Brings the Demon",
-    "overview": "Modern-day office drone Zou Yan accidentally stumbles into the world of cultivation and wakes up as Liao Tingyan, a disciple of the Qinggutian Sect. She's soon selected to serve the reclusive Grandmaster Sima Jiao, a powerful cultivator who's been secretly sealed inside a mountain for 500 years. Twisted by isolation and rage, he's cold, hot-tempered, and bent on revenge. Liao Tingyan doesn't know that \"her\" original identity is a demonic assassin. But to his surprise, she shows no ill will, no ambition, and no desire at all. Her nature fascinates him. Thus begins an unlikely romance between a villainous immortal and a healing-type \"slacker,\" a connection that defies fate and spans lifetimes.",
-    "release_date": "2025-08-16",
-    "poster_path": "/15yDwRPWsI75RdJaBVgb4K5m94I.jpg",
-    "backdrop_path": "/7VxcQrVD2POXg29q5wIFOGD7AY7.jpg",
-    "vote_average": 8.429,
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/dIHTHoiEJwjQRpYaaP2d50Nyggv.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
