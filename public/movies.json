@@ -37,23 +37,6 @@
     "is_local": true
   },
   {
-    "id": "319037",
-    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
-    "release_date": "2026-06-12",
-    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
-    "backdrop_path": "/s9Eg3PUfBbGi6AFFjT07hTuMhpd.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "241613",
     "title": "The On1y One",
     "overview": "When their parents marry, two high school students become stepbrothers and navigate their relationship, turning from enemies into something more special.",
@@ -66,6 +49,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "319037",
+    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+    "release_date": "2026-06-12",
+    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+    "backdrop_path": "/s9Eg3PUfBbGi6AFFjT07hTuMhpd.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -200,23 +200,6 @@
     "is_local": true
   },
   {
-    "id": "289139",
-    "title": "Overdo",
-    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-    "release_date": "2026-07-19",
-    "poster_path": "/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
-    "backdrop_path": "/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
-    "vote_average": 7.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -249,6 +232,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289139",
+    "title": "Overdo",
+    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
+    "release_date": "2026-07-19",
+    "poster_path": "/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
+    "backdrop_path": "/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
+    "vote_average": 7.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1073,24 +1073,6 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
-    "release_date": "2022-12-02",
-    "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
-    "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
-    "vote_average": 8.265,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "226186",
     "title": "My Journey To You",
     "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
@@ -1117,6 +1099,24 @@
     "vote_average": 8.225,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
+    "release_date": "2022-12-02",
+    "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
+    "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
+    "vote_average": 8.265,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       35,
       18
@@ -1164,6 +1164,24 @@
     "is_local": true
   },
   {
+    "id": "230311",
+    "title": "Love Has Fireworks",
+    "overview": "Qian Fei, an employee in a bank, was planning a fulfilling life. But after being abandoned by her fiancé, she had to redefine her life. Li Yifei, from a rich family, always prioritized his career. His girlfriend couldn't endure poverty and left. To cover her mortgage, Fei rent out a room to Yifei, and they became collaborators. Fei bravely faced challenges and grew through the process. Their journey was marked by collisions, but they fell in love and decided to face the future together.",
+    "release_date": "2026-06-15",
+    "poster_path": "/sf03Na288VAQqriAnwkRuE3nKmI.jpg",
+    "backdrop_path": "/xEUcPKH4Nfm6XSuyzgkox6mh775.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "233912",
     "title": "Guardians of the Dafeng",
     "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
@@ -1178,24 +1196,6 @@
       10759,
       35,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "230311",
-    "title": "Love Has Fireworks",
-    "overview": "Qian Fei, an employee in a bank, was planning a fulfilling life. But after being abandoned by her fiancé, she had to redefine her life. Li Yifei, from a rich family, always prioritized his career. His girlfriend couldn't endure poverty and left. To cover her mortgage, Fei rent out a room to Yifei, and they became collaborators. Fei bravely faced challenges and grew through the process. Their journey was marked by collisions, but they fell in love and decided to face the future together.",
-    "release_date": "2026-06-15",
-    "poster_path": "/sf03Na288VAQqriAnwkRuE3nKmI.jpg",
-    "backdrop_path": "/xEUcPKH4Nfm6XSuyzgkox6mh775.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1548,6 +1548,24 @@
     "is_local": true
   },
   {
+    "id": "135897",
+    "title": "Our Beloved Summer",
+    "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
+    "release_date": "2021-12-06",
+    "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
+    "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1562,24 +1580,6 @@
       10765,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "135897",
-    "title": "Our Beloved Summer",
-    "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
-    "release_date": "2021-12-06",
-    "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
-    "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2476,7 +2476,7 @@
     "release_date": "2023-08-11",
     "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
     "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
-    "vote_average": 7.905,
+    "vote_average": 7.934,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2965,20 +2965,19 @@
     "is_local": true
   },
   {
-    "id": "1357633",
-    "title": "Solo Leveling -ReAwakening-",
-    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
-    "release_date": "2024-11-26",
-    "poster_path": "/dblIFen0bNZAq8icJXHwrjfymDW.jpg",
-    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-    "vote_average": 7.178,
-    "media_type": "movie",
+    "id": "127532",
+    "title": "Solo Leveling",
+    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "release_date": "2024-01-07",
+    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "vote_average": 8.665,
+    "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
-      28,
-      12,
-      14,
-      16
+      16,
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3952,7 +3951,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "vote_average": 8.427,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5113,7 +5112,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.39,
+    "vote_average": 9.398,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5140,6 +5139,26 @@
       16,
       28,
       14
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1357633",
+    "title": "Solo Leveling -ReAwakening-",
+    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+    "release_date": "2024-11-26",
+    "poster_path": "/dblIFen0bNZAq8icJXHwrjfymDW.jpg",
+    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "vote_average": 7.178,
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
