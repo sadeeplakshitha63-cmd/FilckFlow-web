@@ -1,5 +1,22 @@
 [
   {
+    "id": 292533,
+    "title": "Wrath",
+    "poster_path": "/sg4QZgXllPD3WgXRhgruIzQfl0U.jpg",
+    "overview": "A wounded amnesiac finds refuge with an MMA coach and steps into the ring, torn between hope for a new future and a dangerous past that keeps closing in.",
+    "vote_average": 5.5,
+    "release_date": "2026-07-29",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "original_language": "pt",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "278927",
     "title": "The Unclouded Soul",
     "overview": "For centuries, humans and demons have battled over the legendary Yuli Spring, a symbol of desire. Free-spirited Xiao Yao unexpectedly enters Ten Thousand Demons Valley, disrupting the demon world. There, she meets the powerful Demon King Hong Ye, who grows to admire her pure heart. Together, they face mysterious cases and formidable enemies, uncovering hidden truths along the way.",
@@ -55,23 +72,6 @@
     "is_local": true
   },
   {
-    "id": "319037",
-    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
-    "release_date": "2026-06-12",
-    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
-    "backdrop_path": "/s9Eg3PUfBbGi6AFFjT07hTuMhpd.jpg",
-    "vote_average": 10,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "133060",
     "title": "Cute Programmer",
     "overview": "Lu Li admires genius programmer Jiang Yicheng and follows his path, excelling in school. After graduation, she disguises herself as a man to join his company, which doesn’t hire women. Balancing work and her secret, she strikes a deal with Jiang Yicheng to become a \"contract couple\" for a year.",
@@ -99,6 +99,23 @@
     "vote_average": 8.48,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "319037",
+    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+    "release_date": "2026-06-12",
+    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+    "backdrop_path": "/s9Eg3PUfBbGi6AFFjT07hTuMhpd.jpg",
+    "vote_average": 10,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -273,23 +290,6 @@
     "is_local": true
   },
   {
-    "id": "295558",
-    "title": "Key to the Phoenix Heart",
-    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
-    "release_date": "2026-07-11",
-    "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
-    "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
-    "vote_average": 6.375,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278142",
     "title": "Burnout Syndrome",
     "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
@@ -299,6 +299,23 @@
     "vote_average": 8,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295558",
+    "title": "Key to the Phoenix Heart",
+    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
+    "release_date": "2026-07-11",
+    "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
+    "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
+    "vote_average": 6.375,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -344,6 +361,23 @@
     "is_local": true
   },
   {
+    "id": "252640",
+    "title": "Legend of Zang Hai",
+    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+    "release_date": "2025-05-18",
+    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+    "vote_average": 6.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -363,15 +397,15 @@
     "is_local": true
   },
   {
-    "id": "252640",
-    "title": "Legend of Zang Hai",
-    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
-    "release_date": "2025-05-18",
-    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 6.8,
+    "id": "253946",
+    "title": "Bad Guy My Boss",
+    "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
+    "release_date": "2024-09-15",
+    "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
+    "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
+    "vote_average": 7.1,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -391,23 +425,6 @@
     "original_language": "zh",
     "genre_ids": [
       10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253946",
-    "title": "Bad Guy My Boss",
-    "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
-    "release_date": "2024-09-15",
-    "poster_path": "/ni2zYEjUwz04s1GfyTYJCDdKza7.jpg",
-    "backdrop_path": "/zNAutONJqfe2sGFPCdoQnnzJYHv.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -840,24 +857,6 @@
     "is_local": true
   },
   {
-    "id": "278275",
-    "title": "Veil of Shadows",
-    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
-    "release_date": "2026-04-01",
-    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
-    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "312381",
     "title": "Project Loki",
     "overview": "One of Wattpad’s top mystery-crime thrillers comes alive with Viva One stars Dylan Menor, Marco Gallo, and Jayda Avanzado. Join Loki and Lorelei as they crack puzzles, solve cases, and uncover dark secrets within the halls of Clark University.",
@@ -871,6 +870,24 @@
       80,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278275",
+    "title": "Veil of Shadows",
+    "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
+    "release_date": "2026-04-01",
+    "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
+    "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -948,6 +965,23 @@
     "is_local": true
   },
   {
+    "id": "253093",
+    "title": "Shadow Love",
+    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
+    "release_date": "2025-08-24",
+    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
+    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
+    "vote_average": 8.375,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "283952",
     "title": "A Splendid Match",
     "overview": "After years away from her family, Gu Jinzhao returns home and begins a remarkable transformation, from a carefree young woman into a poised and influential noble lady. As questions of marriage arise, she refuses to follow tradition and holds firmly to her own beliefs about love. But when multiple men enter her life, each offering a different future, who will Gu Jinzhao choose?",
@@ -960,23 +994,6 @@
     "genre_ids": [
       18,
       10768
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253093",
-    "title": "Shadow Love",
-    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
-    "release_date": "2025-08-24",
-    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
-    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
-    "vote_average": 8.375,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1164,24 +1181,6 @@
     "is_local": true
   },
   {
-    "id": "230311",
-    "title": "Love Has Fireworks",
-    "overview": "Qian Fei, an employee in a bank, was planning a fulfilling life. But after being abandoned by her fiancé, she had to redefine her life. Li Yifei, from a rich family, always prioritized his career. His girlfriend couldn't endure poverty and left. To cover her mortgage, Fei rent out a room to Yifei, and they became collaborators. Fei bravely faced challenges and grew through the process. Their journey was marked by collisions, but they fell in love and decided to face the future together.",
-    "release_date": "2026-06-15",
-    "poster_path": "/sf03Na288VAQqriAnwkRuE3nKmI.jpg",
-    "backdrop_path": "/xEUcPKH4Nfm6XSuyzgkox6mh775.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233912",
     "title": "Guardians of the Dafeng",
     "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
@@ -1196,6 +1195,24 @@
       10759,
       35,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230311",
+    "title": "Love Has Fireworks",
+    "overview": "Qian Fei, an employee in a bank, was planning a fulfilling life. But after being abandoned by her fiancé, she had to redefine her life. Li Yifei, from a rich family, always prioritized his career. His girlfriend couldn't endure poverty and left. To cover her mortgage, Fei rent out a room to Yifei, and they became collaborators. Fei bravely faced challenges and grew through the process. Their journey was marked by collisions, but they fell in love and decided to face the future together.",
+    "release_date": "2026-06-15",
+    "poster_path": "/sf03Na288VAQqriAnwkRuE3nKmI.jpg",
+    "backdrop_path": "/xEUcPKH4Nfm6XSuyzgkox6mh775.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1548,24 +1565,6 @@
     "is_local": true
   },
   {
-    "id": "135897",
-    "title": "Our Beloved Summer",
-    "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
-    "release_date": "2021-12-06",
-    "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
-    "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1580,6 +1579,24 @@
       10765,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "135897",
+    "title": "Our Beloved Summer",
+    "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
+    "release_date": "2021-12-06",
+    "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
+    "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1646,7 +1663,7 @@
     "release_date": "2021-08-10",
     "poster_path": "/gg7Z57buTLxhshathhfza8Lkt57.jpg",
     "backdrop_path": "/vE8OPTULzuyvgrM0yoFbn2VYisq.jpg",
-    "vote_average": 7.571,
+    "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3180,17 +3197,19 @@
     "is_local": true
   },
   {
-    "id": "18632",
-    "title": "Moving On",
-    "overview": "Moving On is a British television series set in contemporary Britain consisting of standalone dramas all sharing the theme of someone going through some kind of change in their life and moving on. ",
-    "release_date": "2009-05-18",
-    "poster_path": "/4eb1lb2lkaMi5DLqxZQwHW1D6bg.jpg",
-    "backdrop_path": "/mdgDziNKuZ7HwDLeaAw3sd5Am7p.jpg",
-    "vote_average": 7.35,
+    "id": "126485",
+    "title": "Moving",
+    "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
+    "release_date": "2023-08-09",
+    "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
+    "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
+    "vote_average": 8.5,
     "media_type": "tv",
-    "original_language": "en",
+    "original_language": "ko",
     "genre_ids": [
-      18
+      9648,
+      18,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3458,7 +3477,7 @@
     "release_date": "2026-05-21",
     "poster_path": "/3kWEtUGI9pp18fviLOcCAwGOZco.jpg",
     "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
-    "vote_average": 5.444,
+    "vote_average": 5.263,
     "media_type": "movie",
     "original_language": "es",
     "genre_ids": [
@@ -3786,13 +3805,13 @@
     "is_local": true
   },
   {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 7.441,
+    "id": "219915",
+    "title": "As Beautiful As You",
+    "overview": "Ji Xing, a technical talent who works diligently in a technology company, resigned resolutely in order to realize her dream and embarked on the road of entrepreneurship. The team formed by Ji Xing and her younger brother was in jeopardy at the beginning of the business. Just when there was no hope, Ji Xing won the support of Han Ting, President of Dongyang Technology, with his unique insights. With Han Ting's investment, the startup Xingchen is finally on the right track. But Ji Xing \"lost\" her first boyfriend who she had been in love with for seven years. The difficulties of starting a business and the pain of breaking up with her love almost destroyed her. Fortunately, she has the close protection of the sister group.",
+    "release_date": "2024-07-02",
+    "poster_path": "/bA4beN83d67IHvZzQXO29d9mLHp.jpg",
+    "backdrop_path": "/g2IyljMEp9HcFEUKudIsoVkG0JG.jpg",
+    "vote_average": 8.125,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3803,13 +3822,13 @@
     "is_local": true
   },
   {
-    "id": "219915",
-    "title": "As Beautiful As You",
-    "overview": "Ji Xing, a technical talent who works diligently in a technology company, resigned resolutely in order to realize her dream and embarked on the road of entrepreneurship. The team formed by Ji Xing and her younger brother was in jeopardy at the beginning of the business. Just when there was no hope, Ji Xing won the support of Han Ting, President of Dongyang Technology, with his unique insights. With Han Ting's investment, the startup Xingchen is finally on the right track. But Ji Xing \"lost\" her first boyfriend who she had been in love with for seven years. The difficulties of starting a business and the pain of breaking up with her love almost destroyed her. Fortunately, she has the close protection of the sister group.",
-    "release_date": "2024-07-02",
-    "poster_path": "/bA4beN83d67IHvZzQXO29d9mLHp.jpg",
-    "backdrop_path": "/g2IyljMEp9HcFEUKudIsoVkG0JG.jpg",
-    "vote_average": 8.125,
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 7.441,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4471,7 +4490,7 @@
     "release_date": "2025-02-17",
     "poster_path": "/ifvFJ9xaKPJX2Il78lXMoeUQbMn.jpg",
     "backdrop_path": "/4Xer0oaXautbLRfJQOrlmPSCfN1.jpg",
-    "vote_average": 8.117,
+    "vote_average": 8.056,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4845,7 +4864,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.271,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5145,6 +5164,23 @@
     "is_local": true
   },
   {
+    "id": "18632",
+    "title": "Moving On",
+    "overview": "Moving On is a British television series set in contemporary Britain consisting of standalone dramas all sharing the theme of someone going through some kind of change in their life and moving on. ",
+    "release_date": "2009-05-18",
+    "poster_path": "/4eb1lb2lkaMi5DLqxZQwHW1D6bg.jpg",
+    "backdrop_path": "/mdgDziNKuZ7HwDLeaAw3sd5Am7p.jpg",
+    "vote_average": 7.35,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1357633",
     "title": "Solo Leveling -ReAwakening-",
     "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
@@ -5179,25 +5215,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "126485",
-    "title": "Moving",
-    "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
-    "release_date": "2023-08-09",
-    "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
-    "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "263048",
