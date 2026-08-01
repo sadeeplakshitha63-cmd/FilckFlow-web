@@ -1,5 +1,22 @@
 [
   {
+    "id": 1509599,
+    "title": "Gatta Kusthi 2",
+    "poster_path": "/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+    "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+    "vote_average": 1.2,
+    "release_date": "2026-07-03",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "original_language": "ta",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "278927",
     "title": "The Unclouded Soul",
     "overview": "For centuries, humans and demons have battled over the legendary Yuli Spring, a symbol of desire. Free-spirited Xiao Yao unexpectedly enters Ten Thousand Demons Valley, disrupting the demon world. There, she meets the powerful Demon King Hong Ye, who grows to admire her pure heart. Together, they face mysterious cases and formidable enemies, uncovering hidden truths along the way.",
@@ -310,25 +327,6 @@
     "is_local": true
   },
   {
-    "id": "67391",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "release_date": "2016-09-23",
-    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
-    "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237882",
     "title": "Are You The One",
     "overview": "The clever and decisive Liu Miantang, as the first lord of Mount Yang, led the people of Mount Yang to punish the wicked, promote goodness, and uphold justice. However, she suffered serious injuries under the attack of various evil forces and was rescued by Cui Xingzhou, the Prince of Huai Yang. When Liu Miantang woke up, she had no memory of Mount Yang, mistaking Cui Xingzhou for her husband, Cui Jiu. However, if their identities were exposed, can they face it honestly while enduring hardships?",
@@ -364,17 +362,19 @@
     "is_local": true
   },
   {
-    "id": "319037",
-    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
-    "release_date": "2026-06-12",
-    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
-    "backdrop_path": "/s9Eg3PUfBbGi6AFFjT07hTuMhpd.jpg",
-    "vote_average": 10,
+    "id": "67391",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "release_date": "2016-09-23",
+    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
+    "vote_average": 7.8,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "ko",
     "genre_ids": [
-      18
+      10759,
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -390,6 +390,23 @@
     "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "262493",
+    "title": "Doctor's Mine",
+    "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
+    "release_date": "2025-07-20",
+    "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
+    "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
+    "vote_average": 7.571,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -415,15 +432,15 @@
     "is_local": true
   },
   {
-    "id": "262493",
-    "title": "Doctor's Mine",
-    "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
-    "release_date": "2025-07-20",
-    "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
-    "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
-    "vote_average": 7.571,
+    "id": "319037",
+    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+    "release_date": "2026-06-12",
+    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+    "backdrop_path": "/s9Eg3PUfBbGi6AFFjT07hTuMhpd.jpg",
+    "vote_average": 10,
     "media_type": "tv",
-    "original_language": "th",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -555,23 +572,6 @@
     "is_local": true
   },
   {
-    "id": "289139",
-    "title": "Overdo",
-    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-    "release_date": "2026-07-19",
-    "poster_path": "/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
-    "backdrop_path": "/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
-    "vote_average": 7.75,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "290342",
     "title": "The Love Never Sets",
     "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
@@ -636,6 +636,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289139",
+    "title": "Overdo",
+    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
+    "release_date": "2026-07-19",
+    "poster_path": "/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
+    "backdrop_path": "/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
+    "vote_average": 7.75,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1548,6 +1565,24 @@
     "is_local": true
   },
   {
+    "id": "135897",
+    "title": "Our Beloved Summer",
+    "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
+    "release_date": "2021-12-06",
+    "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
+    "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1562,24 +1597,6 @@
       10765,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "135897",
-    "title": "Our Beloved Summer",
-    "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
-    "release_date": "2021-12-06",
-    "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
-    "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
