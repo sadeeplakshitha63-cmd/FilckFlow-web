@@ -1,5 +1,38 @@
 [
   {
+    "id": 218191,
+    "title": "Trailer Park Boys: Park After Dark",
+    "poster_path": "/wOjKiJGqHcMJTYtf8Fv5D4UrXuV.jpg",
+    "overview": "Hang out with Ricky, Julian and Bubbles in Ricky's kitchen, smoking, drinking and talking about whatever the hell pops up in their fucked up brains.",
+    "vote_average": 10,
+    "release_date": "2019-04-05",
+    "genre_ids": [
+      35
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 69450,
+    "title": "Edgar Rice Burroughs' Tarzan and Jane",
+    "poster_path": "/60IcVtP9l8tDjt9toY6Sfo5jZ25.jpg",
+    "overview": "Saved from a plane crash and given supernatural powers, teen Tarzan joins forces with brave city girl Jane to protect his jungle home from threats.",
+    "vote_average": 7.2,
+    "release_date": "2017-01-05",
+    "genre_ids": [
+      10759,
+      16
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "278927",
     "title": "The Unclouded Soul",
     "overview": "For centuries, humans and demons have battled over the legendary Yuli Spring, a symbol of desire. Free-spirited Xiao Yao unexpectedly enters Ten Thousand Demons Valley, disrupting the demon world. There, she meets the powerful Demon King Hong Ye, who grows to admire her pure heart. Together, they face mysterious cases and formidable enemies, uncovering hidden truths along the way.",
@@ -643,25 +676,6 @@
     "is_local": true
   },
   {
-    "id": "209502",
-    "title": "A Good Day to be a Dog",
-    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
-    "release_date": "2023-10-11",
-    "poster_path": "/5w68XVoHs3hetvBMhOvguLbvikf.jpg",
-    "backdrop_path": "/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
-    "vote_average": 8.34,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "232948",
     "title": "Best Choice Ever",
     "overview": "Mai Chenghuan, a post-95 girl born into an ordinary family in Shanghai, agrees to marry her boyfriend, Xin Jialiang, under her mother’s urging. However, the economic gap between them creates an imbalance in their relationship, ultimately leading to its end. Mai Chenghuan then gains her grandmother's approval and is entrusted with the heavy responsibility of managing a hotel. Through cooperation, Mai Chenghuan and the professional hotel manager Yao Zhiming become working partners and go hand in hand. Mai Chenghuan transitions from being under her family's control to achieving self-fulfillment, forging her own path.",
@@ -674,6 +688,25 @@
     "genre_ids": [
       18,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "209502",
+    "title": "A Good Day to be a Dog",
+    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
+    "release_date": "2023-10-11",
+    "poster_path": "/5w68XVoHs3hetvBMhOvguLbvikf.jpg",
+    "backdrop_path": "/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
+    "vote_average": 8.327,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -860,23 +893,6 @@
     "is_local": true
   },
   {
-    "id": "289139",
-    "title": "Overdo",
-    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-    "release_date": "2026-07-19",
-    "poster_path": "/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
-    "backdrop_path": "/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
-    "vote_average": 7.75,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223440",
     "title": "The Eighth Sense",
     "overview": "A rural freshman and a returning vet face a new kind of challenge: finding meaning in a crowded, fast-moving world.",
@@ -886,6 +902,23 @@
     "vote_average": 8.182,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289139",
+    "title": "Overdo",
+    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
+    "release_date": "2026-07-19",
+    "poster_path": "/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
+    "backdrop_path": "/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
+    "vote_average": 7.75,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -2605,7 +2638,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.33,
+    "vote_average": 8.342,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2860,6 +2893,23 @@
     "is_local": true
   },
   {
+    "id": "217807",
+    "title": "Only Friends",
+    "overview": "Mew, Ray, Boston, and Namchueam, a group of business students running a hostel together blur the lines between friendship and romance.  Mew has been focusing on his studies, setting aside no time for sex and relationships. To help them with their business's design, Boston introduces the group to Top. Boston didn't anticipate Top's interest in Mew, and he isn't happy with the turn of events. Economics student Sand wants an exclusive relationship with Ray, but Ray has feelings for Mew, and he's not interested in settling. IT guy Nick finds a sex tape in Boston's phone and ends up in a friends-with-benefits relationship with him. However, Nick wants something more.",
+    "release_date": "2023-08-12",
+    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
+    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
+    "vote_average": 8.322,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "289763",
     "title": "See You at Work Tomorrow!",
     "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
@@ -2871,23 +2921,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "217807",
-    "title": "Only Friends",
-    "overview": "Mew, Ray, Boston, and Namchueam, a group of business students running a hostel together blur the lines between friendship and romance.  Mew has been focusing on his studies, setting aside no time for sex and relationships. To help them with their business's design, Boston introduces the group to Top. Boston didn't anticipate Top's interest in Mew, and he isn't happy with the turn of events. Economics student Sand wants an exclusive relationship with Ray, but Ray has feelings for Mew, and he's not interested in settling. IT guy Nick finds a sex tape in Boston's phone and ends up in a friends-with-benefits relationship with him. However, Nick wants something more.",
-    "release_date": "2023-08-12",
-    "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
-    "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.322,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2952,7 +2985,7 @@
     "release_date": "2026-02-22",
     "poster_path": "/gKaa3F5dvrkRTq0h94SipCLGK5m.jpg",
     "backdrop_path": "/6640A10Z0aysTCroNQQPK8ZB4FH.jpg",
-    "vote_average": 7.1,
+    "vote_average": 7.188,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3613,23 +3646,6 @@
     "is_local": true
   },
   {
-    "id": "286506",
-    "title": "Blossoms of Power",
-    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-    "release_date": "2026-07-09",
-    "poster_path": "/dIHTHoiEJwjQRpYaaP2d50Nyggv.jpg",
-    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "231299",
     "title": "My Universe",
     "overview": "An anthology of 12 stories exploring the diverse journeys of 11 couples, blending romance, drama, comedy, and thrills to create unforgettable tales.",
@@ -3639,6 +3655,23 @@
     "vote_average": 5.7,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "286506",
+    "title": "Blossoms of Power",
+    "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+    "release_date": "2026-07-09",
+    "poster_path": "/x7ENbberEtM1sOrTJbfK8RubvB.jpg",
+    "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -5136,7 +5169,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.535,
+    "vote_average": 8.542,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
