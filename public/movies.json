@@ -1,76 +1,5 @@
 [
   {
-    "id": 974635,
-    "title": "Hit Man",
-    "poster_path": "/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
-    "overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
-    "vote_average": 6.783,
-    "release_date": "2024-05-16",
-    "genre_ids": [
-      35,
-      10749,
-      80
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 4233,
-    "title": "Scream 2",
-    "poster_path": "/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
-    "overview": "Two years after the Woodsboro murders, Sidney Prescott acclimates to college life while someone donning the Ghostface costume begins a new string of killings.",
-    "vote_average": 6.519,
-    "release_date": "1997-12-12",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 242582,
-    "title": "Nightcrawler",
-    "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
-    "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
-    "vote_average": 7.708,
-    "release_date": "2014-10-23",
-    "genre_ids": [
-      80,
-      18,
-      53
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 168259,
-    "title": "Furious 7",
-    "poster_path": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
-    "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
-    "vote_average": 7.216,
-    "release_date": "2015-04-01",
-    "genre_ids": [
-      28,
-      80,
-      53
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "278927",
     "title": "The Unclouded Soul",
     "overview": "For centuries, humans and demons have battled over the legendary Yuli Spring, a symbol of desire. Free-spirited Xiao Yao unexpectedly enters Ten Thousand Demons Valley, disrupting the demon world. There, she meets the powerful Demon King Hong Ye, who grows to admire her pure heart. Together, they face mysterious cases and formidable enemies, uncovering hidden truths along the way.",
@@ -1787,7 +1716,7 @@
     "release_date": "2022-02-19",
     "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
     "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
-    "vote_average": 7.771,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3935,7 +3864,7 @@
     "release_date": "2023-06-17",
     "poster_path": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
     "backdrop_path": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "vote_average": 8.216,
+    "vote_average": 8.219,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4779,7 +4708,7 @@
     "release_date": "2010-07-11",
     "poster_path": "/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
     "backdrop_path": "/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "vote_average": 8.21,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5145,7 +5074,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
     "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
-    "vote_average": 7.543,
+    "vote_average": 7.74,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5215,6 +5144,77 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 974635,
+    "title": "Hit Man",
+    "poster_path": "/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+    "overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+    "vote_average": 6.783,
+    "release_date": "2024-05-16",
+    "genre_ids": [
+      35,
+      10749,
+      80
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 4233,
+    "title": "Scream 2",
+    "poster_path": "/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+    "overview": "Two years after the Woodsboro murders, Sidney Prescott acclimates to college life while someone donning the Ghostface costume begins a new string of killings.",
+    "vote_average": 6.519,
+    "release_date": "1997-12-12",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 242582,
+    "title": "Nightcrawler",
+    "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+    "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+    "vote_average": 7.708,
+    "release_date": "2014-10-23",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 168259,
+    "title": "Furious 7",
+    "poster_path": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+    "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+    "vote_average": 7.216,
+    "release_date": "2015-04-01",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 947,
