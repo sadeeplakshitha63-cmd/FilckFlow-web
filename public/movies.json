@@ -1,23 +1,5 @@
 [
   {
-    "id": 512195,
-    "title": "Red Notice",
-    "poster_path": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
-    "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
-    "vote_average": 6.727,
-    "release_date": "2021-11-04",
-    "genre_ids": [
-      28,
-      35,
-      80
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "1536501",
     "title": "Untitled KPop Demon Hunters Sequel",
     "overview": "The second installment in the franchise. Plot TBA.",
@@ -615,7 +597,7 @@
     "release_date": "2024-04-09",
     "poster_path": "/kHosEyMUhgrAKu3TsuBIepP5vCN.jpg",
     "backdrop_path": "/4mi2FoPWCvwkuF9go5qNIif890M.jpg",
-    "vote_average": 7.375,
+    "vote_average": 7.333,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1053,24 +1035,6 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
-    "release_date": "2022-12-02",
-    "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
-    "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
-    "vote_average": 8.222,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "42188",
     "title": "Never Let Me Go",
     "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
@@ -1116,6 +1080,24 @@
     "vote_average": 8.225,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
+    "release_date": "2022-12-02",
+    "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
+    "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
+    "vote_average": 8.222,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       35,
       18
@@ -1444,6 +1426,21 @@
     "is_local": true
   },
   {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "/o9jmLOQ9K5H9W0hiSmMNzzLqnVJ.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "289139",
     "title": "Overdo",
     "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
@@ -1456,21 +1453,6 @@
     "genre_ids": [
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "/o9jmLOQ9K5H9W0hiSmMNzzLqnVJ.jpg",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2880,7 +2862,7 @@
     "release_date": "2026-06-22",
     "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
     "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 8.98,
+    "vote_average": 9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3706,7 +3688,7 @@
     "release_date": "2017-09-29",
     "poster_path": "/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
     "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
-    "vote_average": 7.616,
+    "vote_average": 7.618,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4094,7 +4076,7 @@
     "release_date": "2025-11-12",
     "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
     "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 8.22,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5144,6 +5126,24 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 512195,
+    "title": "Red Notice",
+    "poster_path": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+    "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+    "vote_average": 6.727,
+    "release_date": "2021-11-04",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 247522,
