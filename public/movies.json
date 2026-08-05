@@ -1,40 +1,5 @@
 [
   {
-    "id": 1228246,
-    "title": "Five Nights at Freddy's 2",
-    "poster_path": "/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-    "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
-    "vote_average": 6.621,
-    "release_date": "2025-12-03",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 436270,
-    "title": "Black Adam",
-    "poster_path": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
-    "overview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
-    "vote_average": 6.8,
-    "release_date": "2022-10-19",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "1536501",
     "title": "Untitled KPop Demon Hunters Sequel",
     "overview": "The second installment in the franchise. Plot TBA.",
@@ -293,6 +258,23 @@
     "is_local": true
   },
   {
+    "id": "252640",
+    "title": "Legend of Zang Hai",
+    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+    "release_date": "2025-05-18",
+    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+    "vote_average": 6.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "214172",
     "title": "New Life Begins",
     "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
@@ -304,23 +286,6 @@
     "original_language": "zh",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252640",
-    "title": "Legend of Zang Hai",
-    "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
-    "release_date": "2025-05-18",
-    "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
-    "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 6.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -4951,7 +4916,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.116,
+    "vote_average": 8.117,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -5176,6 +5141,41 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1228246,
+    "title": "Five Nights at Freddy's 2",
+    "poster_path": "/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+    "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
+    "vote_average": 6.621,
+    "release_date": "2025-12-03",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 436270,
+    "title": "Black Adam",
+    "poster_path": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+    "overview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+    "vote_average": 6.8,
+    "release_date": "2022-10-19",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "1397201",
