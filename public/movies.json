@@ -385,7 +385,7 @@
     "release_date": "2015-11-06",
     "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
     "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.762,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -699,19 +699,15 @@
     "is_local": true
   },
   {
-    "id": "229203",
-    "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.621,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
+    "id": "631895",
+    "title": "Stay with Me",
+    "overview": "",
+    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
+    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2218,7 +2214,7 @@
     "release_date": "2017-02-24",
     "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
     "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.132,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2928,6 +2924,23 @@
     "is_local": true
   },
   {
+    "id": "221112",
+    "title": "Amidst a Snowstorm of Love",
+    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
+    "release_date": "2024-02-02",
+    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
+    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
+    "vote_average": 8.226,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "4545",
     "title": "Blossom",
     "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
@@ -2941,23 +2954,6 @@
       18,
       35,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "221112",
-    "title": "Amidst a Snowstorm of Love",
-    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
-    "release_date": "2024-02-02",
-    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
-    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
-    "vote_average": 8.226,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3422,7 +3418,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.341,
+    "vote_average": 8.353,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3755,7 +3751,7 @@
     "title": "Blossoms of Power",
     "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
     "release_date": "2026-07-09",
-    "poster_path": "/x7ENbberEtM1sOrTJbfK8RubvB.jpg",
+    "poster_path": "/g8Af8gOu7bZlvjoQ7St9WolzaI9.jpg",
     "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
     "vote_average": 8,
     "media_type": "tv",
@@ -5112,13 +5108,31 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.635,
+    "vote_average": 8.641,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
       16,
       28,
       14
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.621,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5173,20 +5187,6 @@
       18,
       10759
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "631895",
-    "title": "Stay with Me",
-    "overview": "",
-    "poster_path": "/q1gNJuwpscGv1GTH436qiWxQF0D.jpg",
-    "backdrop_path": "/h6njT0kL7RsOkdg7oKRigajPEnf.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
