@@ -795,7 +795,7 @@
     "release_date": "2023-03-29",
     "poster_path": "/uoHehNNiO8lWpmaKmlx8icDESbm.jpg",
     "backdrop_path": "/dNZCo6UVbig6Les5exI6iiMDHOl.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.206,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2433,6 +2433,23 @@
     "is_local": true
   },
   {
+    "id": "230735",
+    "title": "My Personal Weatherman",
+    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
+    "release_date": "2023-08-11",
+    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
+    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "247453",
     "title": "Everyone Loves Me",
     "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
@@ -2444,23 +2461,6 @@
     "original_language": "zh",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "230735",
-    "title": "My Personal Weatherman",
-    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
-    "release_date": "2023-08-11",
-    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
-    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
       18
     ],
     "video_url": "",
