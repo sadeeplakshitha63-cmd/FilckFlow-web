@@ -501,23 +501,6 @@
     "is_local": true
   },
   {
-    "id": "217800",
-    "title": "Last Twilight",
-    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
-    "release_date": "2023-11-10",
-    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
-    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
-    "vote_average": 9.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "258280",
     "title": "Dashing Youth",
     "overview": "Baili Dongjun, the young master of the Marquis of Zhenxi's mansion, has little interest in practicing martial arts but throws himself into brewing liquor, only because he promised to be the Liquor Deity while his childhood friend Ye Yun becomes the Sword Deity. As fate would have it, he becomes a disciple of the top martial arts master Li Changsheng to start learning martial arts. Later, he meets his confidante Yueyao, reunites with Ye Yun, who has changed his name to Ye Dingzhi, and travels with Sikong Changfeng, a wandering adventurer. Together, these youths embark on their own adventures in the martial world.",
@@ -530,6 +513,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217800",
+    "title": "Last Twilight",
+    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
+    "release_date": "2023-11-10",
+    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
+    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
+    "vote_average": 9.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1512,6 +1512,23 @@
     "is_local": true
   },
   {
+    "id": "280946",
+    "title": "Typhoon Family",
+    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
+    "release_date": "2025-10-11",
+    "poster_path": "/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
+    "backdrop_path": "/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1526,23 +1543,6 @@
       10765,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "280946",
-    "title": "Typhoon Family",
-    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
-    "release_date": "2025-10-11",
-    "poster_path": "/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
-    "backdrop_path": "/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2038,7 +2038,7 @@
     "release_date": "2022-06-29",
     "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
     "backdrop_path": "/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
-    "vote_average": 8.486,
+    "vote_average": 8.488,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2310,7 +2310,7 @@
     "release_date": "2023-08-22",
     "poster_path": "/eZhHNVFaT0YSylVZJVSljmAh1fs.jpg",
     "backdrop_path": "/qXd2fqz9KdL8BOtzXU4C1LlLU5T.jpg",
-    "vote_average": 8,
+    "vote_average": 8.045,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2543,25 +2543,6 @@
     "is_local": true
   },
   {
-    "id": "158258",
-    "title": "Duty After School",
-    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
-    "release_date": "2023-03-31",
-    "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
-    "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
-    "vote_average": 8.152,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "259857",
     "title": "Be Passionately in Love",
     "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
@@ -2593,6 +2574,25 @@
       35,
       10765,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "158258",
+    "title": "Duty After School",
+    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
+    "release_date": "2023-03-31",
+    "poster_path": "/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
+    "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
+    "vote_average": 8.152,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2928,6 +2928,23 @@
     "is_local": true
   },
   {
+    "id": "221112",
+    "title": "Amidst a Snowstorm of Love",
+    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
+    "release_date": "2024-02-02",
+    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
+    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
+    "vote_average": 8.226,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "4545",
     "title": "Blossom",
     "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
@@ -2941,23 +2958,6 @@
       18,
       35,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "221112",
-    "title": "Amidst a Snowstorm of Love",
-    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
-    "release_date": "2024-02-02",
-    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
-    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
-    "vote_average": 8.226,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3239,7 +3239,7 @@
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.593,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4545,7 +4545,7 @@
     "release_date": "2024-01-01",
     "poster_path": "/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
     "backdrop_path": "/qHCXeAM13OYvcmjXeOhtvXfc8uo.jpg",
-    "vote_average": 8.478,
+    "vote_average": 8.476,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5015,6 +5015,23 @@
     "is_local": true
   },
   {
+    "id": "1103621",
+    "title": "How to Make Millions Before Grandma Dies",
+    "overview": "M, a university dropout low on money and luck, volunteers to take care of his terminally ill grandmother, in the hope of pocketing an inheritance.",
+    "release_date": "2024-04-04",
+    "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
+    "backdrop_path": "/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
+    "vote_average": 8.096,
+    "media_type": "movie",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1397201",
     "title": "Golden Kamuy -The Abashiri Prison Raid-",
     "overview": "As each group pursues their mission, a fierce battle unfolds over the tattooed prisoners. Who is friend, and who is foe? The fight leads them all to Abashiri Prison, where Noppera-bo, the man who holds all the answers, is locked away...",
@@ -5060,7 +5077,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.302,
+    "vote_average": 9.299,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5087,23 +5104,6 @@
       16,
       28,
       14
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1103621",
-    "title": "How to Make Millions Before Grandma Dies",
-    "overview": "M, a university dropout low on money and luck, volunteers to take care of his terminally ill grandmother, in the hope of pocketing an inheritance.",
-    "release_date": "2024-04-04",
-    "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
-    "backdrop_path": "/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
-    "vote_average": 8.096,
-    "media_type": "movie",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
