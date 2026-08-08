@@ -36,6 +36,23 @@
     "is_local": true
   },
   {
+    "id": "157208",
+    "title": "Semantic Error",
+    "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
+    "release_date": "2022-02-16",
+    "poster_path": "/pe3w2PnXAdGyilHNuyLHNFVASnp.jpg",
+    "backdrop_path": "/n9WXAeHkkQ1f3ZaXXpneVcXRX1j.jpg",
+    "vote_average": 8.49,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "234534",
     "title": "Back to Seventeen",
     "overview": "27-year-old Zhong Xiaoxiao’s life changes when a DV recording sends her back to age 17. Her high school crush, Xu Yang, was a distant academic genius, but she soon discovers that time only flows normally when she’s near him. As Xu Yang moves into her home, their growing connection leads to a series of unexpected and ironic events.",
@@ -48,23 +65,6 @@
     "genre_ids": [
       35,
       10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "157208",
-    "title": "Semantic Error",
-    "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
-    "release_date": "2022-02-16",
-    "poster_path": "/pe3w2PnXAdGyilHNuyLHNFVASnp.jpg",
-    "backdrop_path": "/n9WXAeHkkQ1f3ZaXXpneVcXRX1j.jpg",
-    "vote_average": 8.49,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1043,7 +1043,7 @@
     "release_date": "2010-03-18",
     "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
     "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.8,
+    "vote_average": 6.85,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -1573,7 +1573,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.898,
+    "vote_average": 7.846,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1889,24 +1889,6 @@
     "is_local": true
   },
   {
-    "id": "252318",
-    "title": "Melody of Golden Age",
-    "overview": "It tells the story of a pair of mortal enemies who accidentally became a couple but fell in love with each other in a series of bizarre cases and finally chose to fight side by side.",
-    "release_date": "2024-08-26",
-    "poster_path": "/864xVZaoWOWmfVSInVuPXgAwIV5.jpg",
-    "backdrop_path": "/5MKItvWyYYEjbbZdj9sYtchyI8l.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "242762",
     "title": "Moonlit Reunion",
     "overview": "Mei Zhuyu, a calm and reserved nobleman from a lesser branch of the Mei family, arrives in Chang'an as an official at the Bureau of Mystic Investigations. During a banquet, he meets Wu Zhen, the bold and unruly younger sister of the Empress and secret Guardian of the Demon Underworld. Both hide their true identities. Wu, a half-demon striving to keep peace, and Mei, a skilled demon slayer, seek the truth behind the fire 18 years ago. As bone demons rise and unrest grows, they fight side by side, forming a bond that deepens into love until the Changxi Palace launches a purge, forcing them to face each other's secrets and the past they share.",
@@ -1919,6 +1901,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "252318",
+    "title": "Melody of Golden Age",
+    "overview": "It tells the story of a pair of mortal enemies who accidentally became a couple but fell in love with each other in a series of bizarre cases and finally chose to fight side by side.",
+    "release_date": "2024-08-26",
+    "poster_path": "/864xVZaoWOWmfVSInVuPXgAwIV5.jpg",
+    "backdrop_path": "/5MKItvWyYYEjbbZdj9sYtchyI8l.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4169,7 +4169,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.388,
+    "vote_average": 8.387,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4417,7 +4417,7 @@
     "release_date": "2025-02-17",
     "poster_path": "/ifvFJ9xaKPJX2Il78lXMoeUQbMn.jpg",
     "backdrop_path": "/4Xer0oaXautbLRfJQOrlmPSCfN1.jpg",
-    "vote_average": 8.087,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4933,7 +4933,7 @@
     "release_date": "2025-12-12",
     "poster_path": "/x1pblSVT4xtiZMN0sjn0ql5NMuA.jpg",
     "backdrop_path": "/pmt5MR3L60wfQvD1Gyp8tckBhvV.jpg",
-    "vote_average": 8.283,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
