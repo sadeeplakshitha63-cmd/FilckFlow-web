@@ -1,5 +1,24 @@
 [
   {
+    "id": 211672,
+    "title": "Minions",
+    "poster_path": "/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+    "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+    "vote_average": 6.423,
+    "release_date": "2015-06-17",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "133060",
     "title": "Cute Programmer",
     "overview": "Lu Li admires genius programmer Jiang Yicheng and follows his path, excelling in school. After graduation, she disguises herself as a man to join his company, which doesn’t hire women. Balancing work and her secret, she strikes a deal with Jiang Yicheng to become a \"contract couple\" for a year.",
@@ -1981,7 +2000,7 @@
     "release_date": "2024-01-27",
     "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
     "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8,
+    "vote_average": 8.048,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2209,6 +2228,23 @@
     "is_local": true
   },
   {
+    "id": "273418",
+    "title": "Law and the City",
+    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+    "release_date": "2025-07-05",
+    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "65143",
     "title": "Descendants of the Sun",
     "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
@@ -2221,23 +2257,6 @@
     "genre_ids": [
       18,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "273418",
-    "title": "Law and the City",
-    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
-    "release_date": "2025-07-05",
-    "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
-    "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
