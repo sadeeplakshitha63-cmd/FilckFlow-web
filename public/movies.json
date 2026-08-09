@@ -969,7 +969,7 @@
     "release_date": "2010-03-18",
     "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
     "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.85,
+    "vote_average": 6.8,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -1023,7 +1023,7 @@
     "release_date": "2022-12-02",
     "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
     "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
-    "vote_average": 8.222,
+    "vote_average": 8.081,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1999,7 +1999,7 @@
     "release_date": "2022-06-29",
     "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
     "backdrop_path": "/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
-    "vote_average": 8.488,
+    "vote_average": 8.489,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4036,7 +4036,7 @@
     "release_date": "2025-11-12",
     "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
     "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.153,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4464,24 +4464,6 @@
     "is_local": true
   },
   {
-    "id": "316278",
-    "title": "My Husband Is a Mafia Boss",
-    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
-    "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
-    "vote_average": 5.25,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "280945",
     "title": "Bon Appétit, Your Majesty",
     "overview": "After time traveling to the Joseon era, a talented chef meets a tyrant king. Her modern dishes captivate his palate, but royal challenges await her.",
@@ -4494,6 +4476,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "316278",
+    "title": "My Husband Is a Mafia Boss",
+    "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
+    "release_date": "2026-04-11",
+    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
+    "backdrop_path": "/5VXfvo2i5ah9z2Du7DhhRXVtbod.jpg",
+    "vote_average": 5.25,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
