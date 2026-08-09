@@ -969,7 +969,7 @@
     "release_date": "2010-03-18",
     "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
     "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.8,
+    "vote_average": 6.85,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -1283,6 +1283,23 @@
     "is_local": true
   },
   {
+    "id": "257010",
+    "title": "The Princess's Gambit",
+    "overview": "In a world divided into three kingdoms, Princess Jiang Taohua of Zhao escapes Empress Lv's control through a marriage alliance in Wei, a kingdom fraught with political intrigue. An unexpected encounter with Chancellor Shen Zaiye draws her into his world, where their complex relationship unfolds as they navigate personal ambitions and the turbulence of court politics.",
+    "release_date": "2025-06-25",
+    "poster_path": "/vNrl7jdDTbHu99ids73Bd438FKo.jpg",
+    "backdrop_path": "/10J39yDKJtpnHKn3jzzNbkhUlKb.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "68349",
     "title": "Weightlifting Fairy Kim Bok-joo",
     "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
@@ -1294,23 +1311,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "257010",
-    "title": "The Princess's Gambit",
-    "overview": "In a world divided into three kingdoms, Princess Jiang Taohua of Zhao escapes Empress Lv's control through a marriage alliance in Wei, a kingdom fraught with political intrigue. An unexpected encounter with Chancellor Shen Zaiye draws her into his world, where their complex relationship unfolds as they navigate personal ambitions and the turbulence of court politics.",
-    "release_date": "2025-06-25",
-    "poster_path": "/vNrl7jdDTbHu99ids73Bd438FKo.jpg",
-    "backdrop_path": "/10J39yDKJtpnHKn3jzzNbkhUlKb.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1999,7 +1999,7 @@
     "release_date": "2022-06-29",
     "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
     "backdrop_path": "/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
-    "vote_average": 8.489,
+    "vote_average": 8.488,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2343,7 +2343,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.154,
+    "vote_average": 8.159,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2948,7 +2948,7 @@
     "release_date": "2001-04-21",
     "poster_path": "/88ucpY4QXb8E80Q1QoIlUoKE1Ct.jpg",
     "backdrop_path": "/nhQx2xS2ng1Uo30uunqH9RK3bQs.jpg",
-    "vote_average": 7.1,
+    "vote_average": 7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3192,23 +3192,6 @@
     "is_local": true
   },
   {
-    "id": "261128",
-    "title": "Our Generation",
-    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
-    "release_date": "2025-07-14",
-    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
-    "backdrop_path": "/o0Grq4cdBwI5iYgg0JfeUDeAOaV.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1566920",
     "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
     "overview": "The story follows Maomao and Jinshi as they travel to the hometown of a concubine who died five years ago in the imperial harem, to return her remains to her homeland. There, they encounter pirates, hidden treasures, the secret of the Empress' remains, and a mysterious boy who holds the key to the story.",
@@ -3222,6 +3205,23 @@
       16,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261128",
+    "title": "Our Generation",
+    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
+    "release_date": "2025-07-14",
+    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
+    "backdrop_path": "/o0Grq4cdBwI5iYgg0JfeUDeAOaV.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4876,7 +4876,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.113,
+    "vote_average": 8.112,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
