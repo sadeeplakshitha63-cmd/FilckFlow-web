@@ -1,23 +1,5 @@
 [
   {
-    "id": 1885,
-    "title": "The Karate Kid",
-    "poster_path": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
-    "overview": "New Jersey teen Daniel LaRusso moves to Los Angeles with his mother, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of thugs, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
-    "vote_average": 7.227,
-    "release_date": "1984-06-22",
-    "genre_ids": [
-      28,
-      18,
-      10751
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "133060",
     "title": "Cute Programmer",
     "overview": "Lu Li admires genius programmer Jiang Yicheng and follows his path, excelling in school. After graduation, she disguises herself as a man to join his company, which doesn’t hire women. Balancing work and her secret, she strikes a deal with Jiang Yicheng to become a \"contract couple\" for a year.",
@@ -2923,24 +2905,6 @@
     "is_local": true
   },
   {
-    "id": "289763",
-    "title": "See You at Work Tomorrow!",
-    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
-    "release_date": "2026-06-22",
-    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
-    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "8082",
     "title": "Meteor Garden",
     "overview": "Shan Cai, whose parents are far from wealthy, attends Ying De University, the private school established exclusively for rich students. Besides being looked down by rich classmates, she has angered the leader of F4, Dao Ming Si.",
@@ -2954,6 +2918,24 @@
       18,
       35,
       10766
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289763",
+    "title": "See You at Work Tomorrow!",
+    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+    "release_date": "2026-06-22",
+    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5074,7 +5056,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.271,
+    "vote_average": 9.273,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5105,6 +5087,24 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1885,
+    "title": "The Karate Kid",
+    "poster_path": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+    "overview": "New Jersey teen Daniel LaRusso moves to Los Angeles with his mother, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of thugs, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
+    "vote_average": 7.227,
+    "release_date": "1984-06-22",
+    "genre_ids": [
+      28,
+      18,
+      10751
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "229203",
