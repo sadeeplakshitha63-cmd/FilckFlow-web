@@ -1,5 +1,60 @@
 [
   {
+    "id": 1487864,
+    "title": "Nando Between Two Worlds - A Sintonia Film",
+    "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+    "overview": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie.",
+    "vote_average": 2.6,
+    "release_date": "2026-08-12",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "original_language": "pt",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 61886,
+    "title": "The Adventures of Puss in Boots",
+    "poster_path": "/uHpUlyWCqXXUDY7zekQdJmf6QkP.jpg",
+    "overview": "The world's greatest feline fighter, lover and milk connoisseur is back in this original series filled with daring adventures, great boots, and laugh-out-loud fun! The entire family will be entranced by Puss' fantastical CG world filled with new characters, exotic locations and mystical tales that make up the stuff of legends. There's nothing that can get in this celebrated swashbuckling kitty's way...except maybe a hairball.",
+    "vote_average": 7.126,
+    "release_date": "2015-01-16",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10762
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 131721,
+    "title": "Oggy Oggy",
+    "poster_path": "/5vbdCcX3HVwo9fj40aRplGpblOF.jpg",
+    "overview": "Join adorable kitten Oggy and his cast of cat pals in a bright and colorful kitty world. They're always on the go for fun times and fantastic adventures!",
+    "vote_average": 6,
+    "release_date": "2021-08-24",
+    "genre_ids": [
+      16,
+      10762,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "133060",
     "title": "Cute Programmer",
     "overview": "Lu Li admires genius programmer Jiang Yicheng and follows his path, excelling in school. After graduation, she disguises herself as a man to join his company, which doesn’t hire women. Balancing work and her secret, she strikes a deal with Jiang Yicheng to become a \"contract couple\" for a year.",
@@ -1477,23 +1532,6 @@
     "is_local": true
   },
   {
-    "id": "319037",
-    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
-    "release_date": "2026-06-12",
-    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
-    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "280946",
     "title": "Typhoon Family",
     "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
@@ -1503,6 +1541,23 @@
     "vote_average": 8.375,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "319037",
+    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+    "release_date": "2026-06-12",
+    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -3214,24 +3269,6 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.593,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1566920",
     "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
     "overview": "The story follows Maomao and Jinshi as they travel to the hometown of a concubine who died five years ago in the imperial harem, to return her remains to her homeland. There, they encounter pirates, hidden treasures, the secret of the Empress' remains, and a mysterious boy who holds the key to the story.",
@@ -3245,6 +3282,24 @@
       16,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 8.593,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3952,7 +4007,7 @@
     "release_date": "2021-12-18",
     "poster_path": "/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg",
     "backdrop_path": "/dyBkTBcRIw5BC78zCauyrRm5EhJ.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.491,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
