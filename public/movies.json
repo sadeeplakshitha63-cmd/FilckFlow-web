@@ -1,60 +1,5 @@
 [
   {
-    "id": 1487864,
-    "title": "Nando Between Two Worlds - A Sintonia Film",
-    "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-    "overview": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie.",
-    "vote_average": 2.6,
-    "release_date": "2026-08-12",
-    "genre_ids": [
-      18,
-      53,
-      80
-    ],
-    "original_language": "pt",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 61886,
-    "title": "The Adventures of Puss in Boots",
-    "poster_path": "/uHpUlyWCqXXUDY7zekQdJmf6QkP.jpg",
-    "overview": "The world's greatest feline fighter, lover and milk connoisseur is back in this original series filled with daring adventures, great boots, and laugh-out-loud fun! The entire family will be entranced by Puss' fantastical CG world filled with new characters, exotic locations and mystical tales that make up the stuff of legends. There's nothing that can get in this celebrated swashbuckling kitty's way...except maybe a hairball.",
-    "vote_average": 7.126,
-    "release_date": "2015-01-16",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 131721,
-    "title": "Oggy Oggy",
-    "poster_path": "/5vbdCcX3HVwo9fj40aRplGpblOF.jpg",
-    "overview": "Join adorable kitten Oggy and his cast of cat pals in a bright and colorful kitty world. They're always on the go for fun times and fantastic adventures!",
-    "vote_average": 6,
-    "release_date": "2021-08-24",
-    "genre_ids": [
-      16,
-      10762,
-      35
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "133060",
     "title": "Cute Programmer",
     "overview": "Lu Li admires genius programmer Jiang Yicheng and follows his path, excelling in school. After graduation, she disguises herself as a man to join his company, which doesn’t hire women. Balancing work and her secret, she strikes a deal with Jiang Yicheng to become a \"contract couple\" for a year.",
@@ -1076,24 +1021,6 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
-    "release_date": "2022-12-02",
-    "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
-    "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
-    "vote_average": 8.081,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "255095",
     "title": "Eat Run Love",
     "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
@@ -1120,6 +1047,24 @@
     "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
+    "release_date": "2022-12-02",
+    "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
+    "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
+    "vote_average": 8.081,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       35,
       18
@@ -2294,7 +2239,7 @@
     "release_date": "2016-02-24",
     "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
     "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "vote_average": 8.32,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2403,7 +2348,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.151,
+    "vote_average": 8.137,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5147,6 +5092,61 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1487864,
+    "title": "Nando Between Two Worlds - A Sintonia Film",
+    "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+    "overview": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie.",
+    "vote_average": 2.6,
+    "release_date": "2026-08-12",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "original_language": "pt",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 61886,
+    "title": "The Adventures of Puss in Boots",
+    "poster_path": "/uHpUlyWCqXXUDY7zekQdJmf6QkP.jpg",
+    "overview": "The world's greatest feline fighter, lover and milk connoisseur is back in this original series filled with daring adventures, great boots, and laugh-out-loud fun! The entire family will be entranced by Puss' fantastical CG world filled with new characters, exotic locations and mystical tales that make up the stuff of legends. There's nothing that can get in this celebrated swashbuckling kitty's way...except maybe a hairball.",
+    "vote_average": 7.126,
+    "release_date": "2015-01-16",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10762
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 131721,
+    "title": "Oggy Oggy",
+    "poster_path": "/5vbdCcX3HVwo9fj40aRplGpblOF.jpg",
+    "overview": "Join adorable kitten Oggy and his cast of cat pals in a bright and colorful kitty world. They're always on the go for fun times and fantastic adventures!",
+    "vote_average": 6,
+    "release_date": "2021-08-24",
+    "genre_ids": [
+      16,
+      10762,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "124003",
