@@ -180,26 +180,6 @@
     "is_local": true
   },
   {
-    "id": "30983",
-    "title": "Detective Conan",
-    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
-    "release_date": "1996-01-08",
-    "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
-    "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8.015,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      80,
-      9648,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253946",
     "title": "Bad Guy My Boss",
     "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
@@ -228,6 +208,26 @@
     "original_language": "zh",
     "genre_ids": [
       18,
+      9648,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "30983",
+    "title": "Detective Conan",
+    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+    "release_date": "1996-01-08",
+    "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
+    "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+    "vote_average": 8.015,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      80,
       9648,
       35
     ],
@@ -1360,7 +1360,7 @@
     "release_date": "2021-08-28",
     "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
     "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.196,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1767,7 +1767,7 @@
     "release_date": "2021-10-29",
     "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
     "backdrop_path": "/st764ocddhbsflFdkMblEMxGejS.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.415,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2270,6 +2270,23 @@
     "is_local": true
   },
   {
+    "id": "289139",
+    "title": "Overdo",
+    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
+    "release_date": "2026-07-19",
+    "poster_path": "/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
+    "backdrop_path": "/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1598732",
     "title": "Perfect World Movie: Ninefold The Burning Sky",
     "overview": "The story centers on the final war of the Immortal Ancient Era. Ancestral Sacrifice Liu Shen steps up, leading all in search of hope. Desolate Heavenly Emperor Shi Hao sends a drop of true blood. It transforms into a clone, reversing time to Immortal Ancient. Through life-and-death bonds, he seeks the ultimate way to root out darkness. The great calamity of darkness descends. The finale of Immortal Ancient begins.",
@@ -2282,23 +2299,6 @@
     "genre_ids": [
       16,
       12,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "289139",
-    "title": "Overdo",
-    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-    "release_date": "2026-07-19",
-    "poster_path": "/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
-    "backdrop_path": "/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2756,7 +2756,7 @@
     "release_date": "2026-04-25",
     "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
     "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.054,
+    "vote_average": 8.121,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3027,7 +3027,7 @@
     "release_date": "2006-10-07",
     "poster_path": "/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
     "backdrop_path": "/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-    "vote_average": 8.145,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3628,6 +3628,23 @@
     "is_local": true
   },
   {
+    "id": "225178",
+    "title": "The Love You Give Me",
+    "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
+    "release_date": "2023-04-24",
+    "poster_path": "/vxeau4Z27cXeCCGV0QWMhVTlt4I.jpg",
+    "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
+    "vote_average": 8.269,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "208336",
     "title": "Revenge of Others",
     "overview": "A boy falls to his death at school, but Ok Chan-mi does not believe that her twin brother, Park Won-seok, committed suicide. Chan-mi transfers to her brother's school, Yongtan High, and meets Ji Soo-heon, who witnessed her brother's death. A \"hero,\" who avenges bullied students, appears at Yongtan High. Chan-mi speculates that it may be connected to her brother and starts looking for this hero.",
@@ -3640,23 +3657,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "225178",
-    "title": "The Love You Give Me",
-    "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
-    "release_date": "2023-04-24",
-    "poster_path": "/vxeau4Z27cXeCCGV0QWMhVTlt4I.jpg",
-    "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
-    "vote_average": 8.269,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4510,7 +4510,7 @@
     "release_date": "2024-01-01",
     "poster_path": "/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
     "backdrop_path": "/qHCXeAM13OYvcmjXeOhtvXfc8uo.jpg",
-    "vote_average": 8.486,
+    "vote_average": 8.484,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4846,7 +4846,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/39iGAvtISyMYquZOGKxqSsya8GA.jpg",
     "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-    "vote_average": 8,
+    "vote_average": 8.038,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5043,7 +5043,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.282,
+    "vote_average": 9.27,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
