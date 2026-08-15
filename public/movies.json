@@ -949,7 +949,7 @@
     "release_date": "2019-06-27",
     "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
     "backdrop_path": "/ampkwvfwO7o5YMwYAVPKx1PLDaB.jpg",
-    "vote_average": 8.598,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2392,24 +2392,6 @@
     "is_local": true
   },
   {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "31910",
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
@@ -2423,6 +2405,24 @@
       16,
       10759,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3894,7 +3894,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "vote_average": 8.38,
+    "vote_average": 8.39,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
