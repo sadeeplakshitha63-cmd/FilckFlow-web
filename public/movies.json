@@ -803,13 +803,13 @@
     "is_local": true
   },
   {
-    "id": "295558",
-    "title": "Key to the Phoenix Heart",
-    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
-    "release_date": "2026-07-11",
-    "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
-    "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
-    "vote_average": 8.2,
+    "id": "253093",
+    "title": "Shadow Love",
+    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
+    "release_date": "2025-08-24",
+    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
+    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -820,13 +820,13 @@
     "is_local": true
   },
   {
-    "id": "253093",
-    "title": "Shadow Love",
-    "overview": "General Li Shuang of Taijin finds a man who has lost his memory and names him Jin'an. Jin'an devotes himself to accompanying Li Shuang; however, as he gradually regains his memories, he discovers that he is actually a prince from an enemy nation. Once bound by love, the two are forced into battle. Together, they confront challenges that test their loyalties and beliefs, striving to resolve the conflict and uphold the justice they both believe in.",
-    "release_date": "2025-08-24",
-    "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
-    "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
-    "vote_average": 8.4,
+    "id": "295558",
+    "title": "Key to the Phoenix Heart",
+    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
+    "release_date": "2026-07-11",
+    "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
+    "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1402,6 +1402,23 @@
     "is_local": true
   },
   {
+    "id": "281004",
+    "title": "Beyond the Bar",
+    "overview": "A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
+    "release_date": "2025-08-02",
+    "poster_path": "/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
+    "backdrop_path": "/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "230448",
     "title": "Mr. Plankton",
     "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
@@ -1413,23 +1430,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "281004",
-    "title": "Beyond the Bar",
-    "overview": "A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
-    "release_date": "2025-08-02",
-    "poster_path": "/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
-    "backdrop_path": "/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1691,7 +1691,7 @@
     "release_date": "2016-08-29",
     "poster_path": "/sTW7wLyD95JRCyUEdTfxCWQWsvd.jpg",
     "backdrop_path": "/yBmqsAFjJJtdHkptwlCy0WMsfKA.jpg",
-    "vote_average": 8.504,
+    "vote_average": 8.505,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2029,24 +2029,6 @@
     "is_local": true
   },
   {
-    "id": "94796",
-    "title": "Crash Landing on You",
-    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
-    "release_date": "2019-12-14",
-    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.53,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "258865",
     "title": "Love Beyond the Grave",
     "overview": "The exceptionally gifted Ghost King, He Simu, unexpectedly encounters the young general, Duan Xu, while out on a break, searching for food. This young general, who carries an item belonging to someone from He Simu's past, seems not to be the real Duan Xu. As they test each other through subtle exchanges, He Simu gradually uncovers the dark past and aspirations hidden within Duan Xu’s heart. In turn, Duan Xu discovers the steadfastness and loneliness that He Simu has endured. Despite the fleeting lifespan of a mortal, no more than a hundred years, and the four-hundred-year-old ghost who still retains the appearance of a young girl, they resist the relentless passage of time through their love.",
@@ -2059,6 +2041,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "94796",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "release_date": "2019-12-14",
+    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "vote_average": 8.53,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2153,25 +2153,6 @@
     "is_local": true
   },
   {
-    "id": "68814",
-    "title": "Strong Girl Bong-soon",
-    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
-    "release_date": "2017-02-24",
-    "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
-    "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "198182",
     "title": "Throne of Seal",
     "overview": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. The mankind created six Temples to fight the demons. Long Haochen joins the Knights Temple. As he grows, an adventure unfolds. He wins the recognition of others and fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people. Could Long win the Throne of Seal and be granted the highest honor in the Knights' Temple? All remained to be revealed.",
@@ -2186,6 +2167,25 @@
       10759,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68814",
+    "title": "Strong Girl Bong-soon",
+    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
+    "release_date": "2017-02-24",
+    "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+    "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      10759,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
