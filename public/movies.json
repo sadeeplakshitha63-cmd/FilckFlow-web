@@ -110,23 +110,6 @@
     "is_local": true
   },
   {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-    "backdrop_path": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "229480",
     "title": "No Gain No Love",
     "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
@@ -139,6 +122,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+    "backdrop_path": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2395,6 +2395,24 @@
     "is_local": true
   },
   {
+    "id": "314784",
+    "title": "Absolute Value of Romance",
+    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
+    "release_date": "2026-04-17",
+    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "31910",
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
@@ -2408,24 +2426,6 @@
       16,
       10759,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "314784",
-    "title": "Absolute Value of Romance",
-    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
-    "release_date": "2026-04-17",
-    "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2897,7 +2897,7 @@
     "release_date": "2024-02-02",
     "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
     "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.167,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
