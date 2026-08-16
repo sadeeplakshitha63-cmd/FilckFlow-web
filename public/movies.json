@@ -627,18 +627,17 @@
     "is_local": true
   },
   {
-    "id": "229203",
+    "id": "1748271",
     "title": "Stay With Me",
-    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
-    "release_date": "2023-07-07",
-    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
-    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
+    "overview": "On an intimate third date, Miles struggles to connect with new flame Ben as he’s plagued by ghostly visions from his past. As their passion builds, the hauntings become impossible to ignore.",
+    "release_date": "2026-08-16",
+    "poster_path": "/xfq8a1TFHYC4TOHZtU94wXig64l.jpg",
+    "backdrop_path": "/8smkQQpNOY5XRT4Gh8ZLiMxfnXQ.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      18,
-      10751
+      27
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2127,7 +2126,7 @@
     "release_date": "2025-05-24",
     "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
     "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.436,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5087,6 +5086,24 @@
       16,
       28,
       14
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "229203",
+    "title": "Stay With Me",
+    "overview": "Su Yu’s simple high school life is turned upside down when his aloof stepbrother Wu Bi enters the scene—and a sudden accident unveils long-hidden secrets.",
+    "release_date": "2023-07-07",
+    "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
+    "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
