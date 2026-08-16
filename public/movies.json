@@ -1,21 +1,5 @@
 [
   {
-    "id": 1616131,
-    "title": "A Child of My Own",
-    "poster_path": "/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
-    "overview": "Desperate for a baby and burdened by family and societal expectations, a woman fakes a pregnancy and gets tangled in a crime.",
-    "vote_average": 6.5,
-    "release_date": "2026-07-30",
-    "genre_ids": [
-      99
-    ],
-    "original_language": "es",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "157208",
     "title": "Semantic Error",
     "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
@@ -3518,6 +3502,23 @@
     "is_local": true
   },
   {
+    "id": "231299",
+    "title": "My Universe",
+    "overview": "An anthology of 12 stories exploring the diverse journeys of 11 couples, blending romance, drama, comedy, and thrills to create unforgettable tales.",
+    "release_date": "2023-08-20",
+    "poster_path": "/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg",
+    "backdrop_path": "/eFS47PfTc8Jae9FF1pvUe15tuDA.jpg",
+    "vote_average": 5.7,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "223896",
     "title": "Spirit Fingers",
     "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
@@ -3529,23 +3530,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "231299",
-    "title": "My Universe",
-    "overview": "An anthology of 12 stories exploring the diverse journeys of 11 couples, blending romance, drama, comedy, and thrills to create unforgettable tales.",
-    "release_date": "2023-08-20",
-    "poster_path": "/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg",
-    "backdrop_path": "/eFS47PfTc8Jae9FF1pvUe15tuDA.jpg",
-    "vote_average": 5.7,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3576,7 +3560,7 @@
     "release_date": "2023-10-28",
     "poster_path": "/5iqVjyWAfXAFMim0Fi5QS6jUNPq.jpg",
     "backdrop_path": "/9ijZyKSdaRR6zUUe7hhEzNE0Yxm.jpg",
-    "vote_average": 8.104,
+    "vote_average": 8.018,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5087,6 +5071,22 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1616131,
+    "title": "A Child of My Own",
+    "poster_path": "/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
+    "overview": "Desperate for a baby and burdened by family and societal expectations, a woman fakes a pregnancy and gets tangled in a crime.",
+    "vote_average": 6.5,
+    "release_date": "2026-07-30",
+    "genre_ids": [
+      99
+    ],
+    "original_language": "es",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "234534",
