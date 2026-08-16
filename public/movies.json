@@ -3502,23 +3502,6 @@
     "is_local": true
   },
   {
-    "id": "231299",
-    "title": "My Universe",
-    "overview": "An anthology of 12 stories exploring the diverse journeys of 11 couples, blending romance, drama, comedy, and thrills to create unforgettable tales.",
-    "release_date": "2023-08-20",
-    "poster_path": "/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg",
-    "backdrop_path": "/eFS47PfTc8Jae9FF1pvUe15tuDA.jpg",
-    "vote_average": 5.7,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223896",
     "title": "Spirit Fingers",
     "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
@@ -3530,6 +3513,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "231299",
+    "title": "My Universe",
+    "overview": "An anthology of 12 stories exploring the diverse journeys of 11 couples, blending romance, drama, comedy, and thrills to create unforgettable tales.",
+    "release_date": "2023-08-20",
+    "poster_path": "/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg",
+    "backdrop_path": "/eFS47PfTc8Jae9FF1pvUe15tuDA.jpg",
+    "vote_average": 5.7,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3607,23 +3607,6 @@
     "is_local": true
   },
   {
-    "id": "225178",
-    "title": "The Love You Give Me",
-    "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
-    "release_date": "2023-04-24",
-    "poster_path": "/vxeau4Z27cXeCCGV0QWMhVTlt4I.jpg",
-    "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
-    "vote_average": 8.269,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "74204",
     "title": "Big Mouth",
     "overview": "Teenage friends find their lives upended by the wonders and horrors of puberty in this edgy comedy from real-life pals Nick Kroll and Andrew Goldberg.",
@@ -3636,6 +3619,23 @@
     "genre_ids": [
       35,
       16
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "225178",
+    "title": "The Love You Give Me",
+    "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
+    "release_date": "2023-04-24",
+    "poster_path": "/vxeau4Z27cXeCCGV0QWMhVTlt4I.jpg",
+    "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
+    "vote_average": 8.269,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5060,7 +5060,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.719,
+    "vote_average": 8.7,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
