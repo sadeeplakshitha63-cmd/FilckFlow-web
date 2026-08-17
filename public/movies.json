@@ -2908,25 +2908,6 @@
     "is_local": true
   },
   {
-    "id": "4545",
-    "title": "Blossom",
-    "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
-    "release_date": "1990-07-05",
-    "poster_path": "/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg",
-    "backdrop_path": "/eDnrGNNMD8IyitmRojrRomY9vtW.jpg",
-    "vote_average": 6.177,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      18,
-      35,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "292318",
     "title": "Happiness",
     "overview": "In a post-COVID world, a mysterious drug called “Next” sparks a terrifying outbreak of madness. As violent deaths rise, detective Prap reveals a chilling link between the chaos and the drug—uncovering a conspiracy far darker than expected.",
@@ -2940,6 +2921,25 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "4545",
+    "title": "Blossom",
+    "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
+    "release_date": "1990-07-05",
+    "poster_path": "/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg",
+    "backdrop_path": "/eDnrGNNMD8IyitmRojrRomY9vtW.jpg",
+    "vote_average": 6.177,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      35,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3543,7 +3543,7 @@
     "release_date": "2024-06-09",
     "poster_path": "/nV6AWBI0aCN41rx6vFdwaAmmoPl.jpg",
     "backdrop_path": "/lk8UclTf2RdE0uRhQ90RIYUCO7v.jpg",
-    "vote_average": 7.54,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4020,7 +4020,7 @@
     "release_date": "2025-11-12",
     "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
     "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.143,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5060,7 +5060,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.726,
+    "vote_average": 8.7,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
