@@ -287,23 +287,6 @@
     "is_local": true
   },
   {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-    "backdrop_path": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237337",
     "title": "Wandee Goodday",
     "overview": "Because of a broken heart and drunkenness, Dr. Wandee goes from darling to daring, entangling himself with Muay Thai fighter Yoryak Phadetseuk. A one-night stand somehow turns into a fake boyfriends with benefits relationship.",
@@ -315,6 +298,23 @@
     "original_language": "th",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+    "backdrop_path": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2983,6 +2983,23 @@
     "is_local": true
   },
   {
+    "id": "217735",
+    "title": "Bed Friend",
+    "overview": "After an unexpected hook-up, two rival coworkers try to keep their fling purely physical, but growing feelings threaten their fragile arrangement.",
+    "release_date": "2023-02-17",
+    "poster_path": "/rrLKRmz0gnaKMi7O7qcVlzEHr9H.jpg",
+    "backdrop_path": "/jf2BNiZEHZuCm5jTn6OZ5WMcaFM.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "289763",
     "title": "See You at Work Tomorrow!",
     "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
@@ -2994,23 +3011,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "217735",
-    "title": "Bed Friend",
-    "overview": "After an unexpected hook-up, two rival coworkers try to keep their fling purely physical, but growing feelings threaten their fragile arrangement.",
-    "release_date": "2023-02-17",
-    "poster_path": "/rrLKRmz0gnaKMi7O7qcVlzEHr9H.jpg",
-    "backdrop_path": "/jf2BNiZEHZuCm5jTn6OZ5WMcaFM.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -5060,7 +5060,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.719,
+    "vote_average": 8.725,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
