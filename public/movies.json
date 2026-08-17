@@ -1,22 +1,5 @@
 [
   {
-    "id": 293703,
-    "title": "Dr. Seuss's Red Fish, Blue Fish",
-    "poster_path": "/fhtkX44A4cTYMNKNcosEFYX7zfq.jpg",
-    "overview": "One fish, two fish, meet Red Fish and Blue Fish! From there to here — and from here to there — these friends find opposites everywhere!",
-    "vote_average": 6,
-    "release_date": "2025-09-08",
-    "genre_ids": [
-      16,
-      10762
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "157208",
     "title": "Semantic Error",
     "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
@@ -322,23 +305,6 @@
     "is_local": true
   },
   {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-    "backdrop_path": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -382,6 +348,23 @@
     "poster_path": "/vbh685TBLEfQKXjYomVEmVztmJ9.jpg",
     "backdrop_path": "/pg4xOroBDlxIhRK1m5xFyLgXrVD.jpg",
     "vote_average": 8.109,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+    "backdrop_path": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1176,23 +1159,6 @@
     "is_local": true
   },
   {
-    "id": "284488",
-    "title": "Harmony Secret",
-    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
-    "release_date": "2025-07-26",
-    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
-    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "230311",
     "title": "Love Has Fireworks",
     "overview": "Qian Fei, an employee in a bank, was planning a fulfilling life. But after being abandoned by her fiancé, she had to redefine her life. Li Yifei, from a rich family, always prioritized his career. His girlfriend couldn't endure poverty and left. To cover her mortgage, Fei rent out a room to Yifei, and they became collaborators. Fei bravely faced challenges and grew through the process. Their journey was marked by collisions, but they fell in love and decided to face the future together.",
@@ -1222,6 +1188,23 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "284488",
+    "title": "Harmony Secret",
+    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
+    "release_date": "2025-07-26",
+    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
+    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3383,7 +3366,7 @@
     "release_date": "2025-02-01",
     "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
     "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
-    "vote_average": 8.679,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5088,6 +5071,23 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 293703,
+    "title": "Dr. Seuss's Red Fish, Blue Fish",
+    "poster_path": "/fhtkX44A4cTYMNKNcosEFYX7zfq.jpg",
+    "overview": "One fish, two fish, meet Red Fish and Blue Fish! From there to here — and from here to there — these friends find opposites everywhere!",
+    "vote_average": 6,
+    "release_date": "2025-09-08",
+    "genre_ids": [
+      16,
+      10762
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 322428,
