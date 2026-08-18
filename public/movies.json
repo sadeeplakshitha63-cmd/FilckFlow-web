@@ -329,7 +329,7 @@
     "release_date": "2016-09-23",
     "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
     "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.847,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1436,23 +1436,6 @@
     "is_local": true
   },
   {
-    "id": "280946",
-    "title": "Typhoon Family",
-    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
-    "release_date": "2025-10-11",
-    "poster_path": "/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
-    "backdrop_path": "/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
-    "vote_average": 8.375,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "135897",
     "title": "Our Beloved Summer",
     "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
@@ -1464,6 +1447,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "280946",
+    "title": "Typhoon Family",
+    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
+    "release_date": "2025-10-11",
+    "poster_path": "/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
+    "backdrop_path": "/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
+    "vote_average": 8.375,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1846,24 +1846,6 @@
     "is_local": true
   },
   {
-    "id": "241506",
-    "title": "It's Okay to Not Be Okay",
-    "overview": "An author with severe antisocial tendencies learns to confront her deep emotional wounds when she meets a stranger who challenges her cold facade.",
-    "release_date": "2025-07-21",
-    "poster_path": "/7rQ7E7u0y8VJgnUeDT6oF1J32Gu.jpg",
-    "backdrop_path": "/dNAp924hXUYxaGxGJRLlB0dvu8e.jpg",
-    "vote_average": 9.7,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "117549",
     "title": "Please Feel At Ease Mr. Ling",
     "overview": "A story of how the 'rabbit' brings home a 'big bad wolf' follows a young woman named Gu An Xin who chances upon the hotshot executive Ling Yue after he encountered an accident. Gu An Xin picked up a man. At first, she thought he was stupid, but after a few days of interaction, he proves himself to be a genius. As it turns out, Ling Yue got into an accident after being caught in the ugly fight for succession of a powerful conglomerate.",
@@ -1873,6 +1855,24 @@
     "vote_average": 7,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "241506",
+    "title": "It's Okay to Not Be Okay",
+    "overview": "An author with severe antisocial tendencies learns to confront her deep emotional wounds when she meets a stranger who challenges her cold facade.",
+    "release_date": "2025-07-21",
+    "poster_path": "/7rQ7E7u0y8VJgnUeDT6oF1J32Gu.jpg",
+    "backdrop_path": "/dNAp924hXUYxaGxGJRLlB0dvu8e.jpg",
+    "vote_average": 9.7,
+    "media_type": "tv",
+    "original_language": "tl",
     "genre_ids": [
       18,
       35
@@ -4876,7 +4876,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.108,
+    "vote_average": 9.112,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
