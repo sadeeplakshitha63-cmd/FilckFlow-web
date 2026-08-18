@@ -1,5 +1,40 @@
 [
   {
+    "id": 22803,
+    "title": "Law Abiding Citizen",
+    "poster_path": "/fcEXcip7v0O1ndV4VUdFqJSqbOg.jpg",
+    "overview": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.",
+    "vote_average": 7.397,
+    "release_date": "2009-10-15",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1392469,
+    "title": "Cocktail 2",
+    "poster_path": "/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+    "overview": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally.",
+    "vote_average": 5.9,
+    "release_date": "2026-06-19",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "original_language": "hi",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "157208",
     "title": "Semantic Error",
     "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
@@ -464,23 +499,6 @@
     "is_local": true
   },
   {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-    "backdrop_path": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
-    "vote_average": 8.375,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "217800",
     "title": "Last Twilight",
     "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
@@ -490,6 +508,23 @@
     "vote_average": 9.5,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+    "backdrop_path": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
+    "vote_average": 8.375,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -541,7 +576,7 @@
     "release_date": "2023-12-02",
     "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
     "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.151,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -981,23 +1016,6 @@
     "is_local": true
   },
   {
-    "id": "215356",
-    "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "226186",
     "title": "My Journey To You",
     "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
@@ -1027,6 +1045,25 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "42188",
+    "title": "Never Let Me Go",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.848,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      10749,
+      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1332,23 +1369,6 @@
     "is_local": true
   },
   {
-    "id": "104925",
-    "title": "2gether: The Series",
-    "overview": "The fictional boy band goes behind the scenes of the world of pop music.",
-    "release_date": "2000-08-15",
-    "poster_path": "/ag8sOpxOJXKPGKtMnmSGPm76h0g.jpg",
-    "backdrop_path": "",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "254474",
     "title": "The Princess Royal",
     "overview": "Because of political reasons, princess Li Rong and Pei Wenxuan got married at the age of 18. In the end they drifted further and further afar from each other. After 20 years of a loveless marriage, they were manipulated into turning against each other, leading to their deaths. However, they wake up back at 18, before their marriage, facing the hardest time of their lives. The two of them are given second change together, to save those around them.",
@@ -1360,6 +1380,23 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "104925",
+    "title": "2gether: The Series",
+    "overview": "The fictional boy band goes behind the scenes of the world of pop music.",
+    "release_date": "2000-08-15",
+    "poster_path": "/ag8sOpxOJXKPGKtMnmSGPm76h0g.jpg",
+    "backdrop_path": "",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2215,7 +2252,7 @@
     "release_date": "2016-02-24",
     "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
     "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.321,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2509,7 +2546,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.344,
+    "vote_average": 8.355,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5071,6 +5108,23 @@
     "is_local": true
   },
   {
+    "id": "215356",
+    "title": "Never Let Me Go",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 311324,
     "title": "The Great Wall",
     "poster_path": "/p70dq1YxabemdZDm5K6Q8G10wSn.jpg",
@@ -5102,25 +5156,6 @@
       16,
       18,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "42188",
-    "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.848,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      18,
-      10749,
-      878
     ],
     "video_url": "",
     "subtitle_file": null,
