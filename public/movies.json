@@ -1233,7 +1233,7 @@
     "release_date": "2025-02-07",
     "poster_path": "/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
     "backdrop_path": "/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
-    "vote_average": 7.958,
+    "vote_average": 7.967,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3376,24 +3376,6 @@
     "is_local": true
   },
   {
-    "id": "239385",
-    "title": "The Manipulated",
-    "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
-    "release_date": "2025-11-05",
-    "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
-    "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.331,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "271309",
     "title": "Buried Hearts",
     "overview": "Seo Dong-ju, who hacked a political slush fund worth two trillion won, risks it all for revenge.",
@@ -3406,6 +3388,24 @@
     "genre_ids": [
       80,
       9648,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "239385",
+    "title": "The Manipulated",
+    "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
+    "release_date": "2025-11-05",
+    "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
+    "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
+    "vote_average": 8.331,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      80,
       18
     ],
     "video_url": "",
