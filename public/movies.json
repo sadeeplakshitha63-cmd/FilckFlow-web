@@ -1,21 +1,5 @@
 [
   {
-    "id": 329274,
-    "title": "MOURINHO",
-    "poster_path": "/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
-    "overview": "This trophy-packed, insider-fuelled documentary charts José Mourinho's iconic rise as one of the world's top footballing managers of the most elite clubs.",
-    "vote_average": 7.583,
-    "release_date": "2026-08-11",
-    "genre_ids": [
-      99
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "157208",
     "title": "Semantic Error",
     "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
@@ -3750,7 +3734,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
     "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.582,
+    "vote_average": 8.584,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5054,7 +5038,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.227,
+    "vote_average": 9.228,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5085,6 +5069,22 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 329274,
+    "title": "MOURINHO",
+    "poster_path": "/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
+    "overview": "This trophy-packed, insider-fuelled documentary charts José Mourinho's iconic rise as one of the world's top footballing managers of the most elite clubs.",
+    "vote_average": 7.583,
+    "release_date": "2026-08-11",
+    "genre_ids": [
+      99
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "42188",
