@@ -1,22 +1,5 @@
 [
   {
-    "id": "157208",
-    "title": "Semantic Error",
-    "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
-    "release_date": "2022-02-16",
-    "poster_path": "/pe3w2PnXAdGyilHNuyLHNFVASnp.jpg",
-    "backdrop_path": "/n9WXAeHkkQ1f3ZaXXpneVcXRX1j.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "155229",
     "title": "Cheer Up",
     "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
@@ -1479,7 +1462,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
     "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
-    "vote_average": 7.731,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1517,7 +1500,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.84,
+    "vote_average": 7.871,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2048,24 +2031,6 @@
     "is_local": true
   },
   {
-    "id": "94796",
-    "title": "Crash Landing on You",
-    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
-    "release_date": "2019-12-14",
-    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "226670",
     "title": "Cherry Magic",
     "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
@@ -2078,6 +2043,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "94796",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "release_date": "2019-12-14",
+    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2454,7 +2437,7 @@
     "release_date": "2025-05-28",
     "poster_path": "/g5tirILrUcgHh1RLUDhunIVBLF1.jpg",
     "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
-    "vote_average": 9.083,
+    "vote_average": 9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4037,7 +4020,7 @@
     "release_date": "2024-09-21",
     "poster_path": "/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
     "backdrop_path": "/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
-    "vote_average": 8.562,
+    "vote_average": 8.57,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4255,7 +4238,7 @@
     "release_date": "2025-02-10",
     "poster_path": "/qBQl7x6qSqeuYdgq7rkctm1L4gW.jpg",
     "backdrop_path": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.671,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5059,13 +5042,30 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.729,
+    "vote_average": 8.73,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
       16,
       28,
       14
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "157208",
+    "title": "Semantic Error",
+    "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
+    "release_date": "2022-02-16",
+    "poster_path": "/pe3w2PnXAdGyilHNuyLHNFVASnp.jpg",
+    "backdrop_path": "/n9WXAeHkkQ1f3ZaXXpneVcXRX1j.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
