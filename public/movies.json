@@ -323,6 +323,23 @@
     "is_local": true
   },
   {
+    "id": "283543",
+    "title": "My Safe Zone",
+    "overview": "Alin leaves her best friend Jane to study abroad. Years later, a broken engagement brings her home, where they face feelings long unspoken.",
+    "release_date": "2025-10-24",
+    "poster_path": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
+    "backdrop_path": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
+    "vote_average": 6.615,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -336,23 +353,6 @@
       10759,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "283543",
-    "title": "My Safe Zone",
-    "overview": "Alin leaves her best friend Jane to study abroad. Years later, a broken engagement brings her home, where they face feelings long unspoken.",
-    "release_date": "2025-10-24",
-    "poster_path": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
-    "backdrop_path": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
-    "vote_average": 6.615,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -608,23 +608,6 @@
     "is_local": true
   },
   {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/a8OJNu3bZZ9ui8ekbi57G4Vvjvu.jpg",
-    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215001",
     "title": "Destined with You",
     "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
@@ -638,6 +621,23 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/a8OJNu3bZZ9ui8ekbi57G4Vvjvu.jpg",
+    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1462,7 +1462,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
     "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
-    "vote_average": 7.7,
+    "vote_average": 7.731,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1500,7 +1500,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.871,
+    "vote_average": 7.84,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2393,25 +2393,6 @@
     "is_local": true
   },
   {
-    "id": "278146",
-    "title": "Dare You to Death",
-    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
-    "release_date": "2025-12-18",
-    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
-    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 7.793,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "31910",
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
@@ -2431,13 +2412,32 @@
     "is_local": true
   },
   {
+    "id": "278146",
+    "title": "Dare You to Death",
+    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
+    "release_date": "2025-12-18",
+    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
+    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
+    "vote_average": 7.793,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "259857",
     "title": "Be Passionately in Love",
     "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
     "release_date": "2025-05-28",
     "poster_path": "/g5tirILrUcgHh1RLUDhunIVBLF1.jpg",
     "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
-    "vote_average": 9,
+    "vote_average": 9.083,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4238,7 +4238,7 @@
     "release_date": "2025-02-10",
     "poster_path": "/qBQl7x6qSqeuYdgq7rkctm1L4gW.jpg",
     "backdrop_path": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
-    "vote_average": 8.671,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4842,7 +4842,7 @@
     "release_date": "2023-08-31",
     "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.11,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
