@@ -312,7 +312,7 @@
     "release_date": "2025-01-25",
     "poster_path": "/vbh685TBLEfQKXjYomVEmVztmJ9.jpg",
     "backdrop_path": "/pg4xOroBDlxIhRK1m5xFyLgXrVD.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.109,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -346,7 +346,7 @@
     "release_date": "2016-09-23",
     "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
     "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.847,
+    "vote_average": 7.857,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1042,7 +1042,7 @@
     "release_date": "2020-02-07",
     "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
     "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
-    "vote_average": 6.99,
+    "vote_average": 7,
     "media_type": "movie",
     "original_language": "pl",
     "genre_ids": [
@@ -2304,23 +2304,6 @@
     "is_local": true
   },
   {
-    "id": "289139",
-    "title": "Overdo",
-    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-    "release_date": "2026-07-19",
-    "poster_path": "/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
-    "backdrop_path": "/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "247453",
     "title": "Everyone Loves Me",
     "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
@@ -2332,6 +2315,23 @@
     "original_language": "zh",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289139",
+    "title": "Overdo",
+    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
+    "release_date": "2026-07-19",
+    "poster_path": "/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
+    "backdrop_path": "/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2412,6 +2412,24 @@
     "is_local": true
   },
   {
+    "id": "259857",
+    "title": "Be Passionately in Love",
+    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
+    "release_date": "2025-05-28",
+    "poster_path": "/g5tirILrUcgHh1RLUDhunIVBLF1.jpg",
+    "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
+    "vote_average": 9.083,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "31910",
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
@@ -2425,24 +2443,6 @@
       16,
       10759,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259857",
-    "title": "Be Passionately in Love",
-    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
-    "release_date": "2025-05-28",
-    "poster_path": "/g5tirILrUcgHh1RLUDhunIVBLF1.jpg",
-    "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
-    "vote_average": 9.083,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10766
     ],
     "video_url": "",
     "subtitle_file": null,
