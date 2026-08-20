@@ -1462,7 +1462,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
     "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
-    "vote_average": 7.731,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1470,6 +1470,25 @@
       10765,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "228689",
+    "title": "Genie, Make a Wish",
+    "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+    "release_date": "2025-10-03",
+    "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+    "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+    "vote_average": 7.871,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1487,25 +1506,6 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "228689",
-    "title": "Genie, Make a Wish",
-    "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
-    "release_date": "2025-10-03",
-    "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
-    "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.84,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
       18
     ],
     "video_url": "",
@@ -3088,23 +3088,6 @@
     "is_local": true
   },
   {
-    "id": "18632",
-    "title": "Moving On",
-    "overview": "Moving On is a British television series set in contemporary Britain consisting of standalone dramas all sharing the theme of someone going through some kind of change in their life and moving on. ",
-    "release_date": "2009-05-18",
-    "poster_path": "/4eb1lb2lkaMi5DLqxZQwHW1D6bg.jpg",
-    "backdrop_path": "/mdgDziNKuZ7HwDLeaAw3sd5Am7p.jpg",
-    "vote_average": 7.35,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "13700",
     "title": "Indian Idol",
     "overview": "The Indian version of the Pop Idol format.",
@@ -3116,6 +3099,23 @@
     "original_language": "hi",
     "genre_ids": [
       10764
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "18632",
+    "title": "Moving On",
+    "overview": "Moving On is a British television series set in contemporary Britain consisting of standalone dramas all sharing the theme of someone going through some kind of change in their life and moving on. ",
+    "release_date": "2009-05-18",
+    "poster_path": "/4eb1lb2lkaMi5DLqxZQwHW1D6bg.jpg",
+    "backdrop_path": "/mdgDziNKuZ7HwDLeaAw3sd5Am7p.jpg",
+    "vote_average": 7.35,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4238,7 +4238,7 @@
     "release_date": "2025-02-10",
     "poster_path": "/qBQl7x6qSqeuYdgq7rkctm1L4gW.jpg",
     "backdrop_path": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.671,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4983,7 +4983,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
     "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.517,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
