@@ -1,23 +1,5 @@
 [
   {
-    "id": 284445,
-    "title": "Takopi's Original Sin",
-    "poster_path": "/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
-    "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
-    "vote_average": 8.8,
-    "release_date": "2025-06-28",
-    "genre_ids": [
-      16,
-      18,
-      10765
-    ],
-    "original_language": "ja",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "155229",
     "title": "Cheer Up",
     "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
@@ -2049,24 +2031,6 @@
     "is_local": true
   },
   {
-    "id": "226670",
-    "title": "Cherry Magic",
-    "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
-    "release_date": "2023-12-09",
-    "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
-    "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
-    "vote_average": 8.778,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "94796",
     "title": "Crash Landing on You",
     "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
@@ -2079,6 +2043,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "226670",
+    "title": "Cherry Magic",
+    "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
+    "release_date": "2023-12-09",
+    "poster_path": "/q3PaIEPemFf3w4jGohaohFtnogm.jpg",
+    "backdrop_path": "/1e3FcJ7iesPUlulkmoZOWN4olYg.jpg",
+    "vote_average": 8.778,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2304,23 +2286,6 @@
     "is_local": true
   },
   {
-    "id": "289139",
-    "title": "Overdo",
-    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-    "release_date": "2026-07-19",
-    "poster_path": "/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
-    "backdrop_path": "/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "285838",
     "title": "If Wishes Could Kill",
     "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
@@ -2350,6 +2315,23 @@
     "original_language": "zh",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289139",
+    "title": "Overdo",
+    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
+    "release_date": "2026-07-19",
+    "poster_path": "/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
+    "backdrop_path": "/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2805,7 +2787,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 8.877,
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5060,7 +5042,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.73,
+    "vote_average": 8.731,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5071,6 +5053,24 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 284445,
+    "title": "Takopi's Original Sin",
+    "poster_path": "/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+    "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
+    "vote_average": 8.8,
+    "release_date": "2025-06-28",
+    "genre_ids": [
+      16,
+      18,
+      10765
+    ],
+    "original_language": "ja",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 1418582,
