@@ -1924,23 +1924,6 @@
     "is_local": true
   },
   {
-    "id": "319037",
-    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
-    "release_date": "2026-06-12",
-    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
-    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252318",
     "title": "Melody of Golden Age",
     "overview": "It tells the story of a pair of mortal enemies who accidentally became a couple but fell in love with each other in a series of bizarre cases and finally chose to fight side by side.",
@@ -1953,6 +1936,23 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "319037",
+    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+    "release_date": "2026-06-12",
+    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2031,24 +2031,6 @@
     "is_local": true
   },
   {
-    "id": "94796",
-    "title": "Crash Landing on You",
-    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
-    "release_date": "2019-12-14",
-    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "226670",
     "title": "Cherry Magic",
     "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
@@ -2061,6 +2043,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "94796",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "release_date": "2019-12-14",
+    "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2436,7 +2436,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.532,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3054,23 +3054,6 @@
     "is_local": true
   },
   {
-    "id": "235355",
-    "title": "Resident Playbook",
-    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
-    "release_date": "2025-04-12",
-    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
-    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252649",
     "title": "ThamePo: Heart That Skips A Beat",
     "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
@@ -3080,6 +3063,23 @@
     "vote_average": 9,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "235355",
+    "title": "Resident Playbook",
+    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
+    "release_date": "2025-04-12",
+    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -3218,7 +3218,7 @@
     "release_date": "2025-07-11",
     "poster_path": "/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
     "backdrop_path": "/buA9gM0cEcBmIcQX79o6QpTYUPT.jpg",
-    "vote_average": 7.518,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3913,7 +3913,7 @@
     "release_date": "2021-12-18",
     "poster_path": "/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg",
     "backdrop_path": "/dyBkTBcRIw5BC78zCauyrRm5EhJ.jpg",
-    "vote_average": 8.495,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5022,7 +5022,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.226,
+    "vote_average": 9.227,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
