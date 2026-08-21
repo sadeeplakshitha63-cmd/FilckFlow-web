@@ -876,23 +876,6 @@
     "is_local": true
   },
   {
-    "id": "295558",
-    "title": "Key to the Phoenix Heart",
-    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
-    "release_date": "2026-07-11",
-    "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
-    "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "93975",
     "title": "TharnType",
     "overview": "Type hated the idea of sharing a room with a gay guy. But now, he's starting to question what he thought he knew.",
@@ -902,6 +885,23 @@
     "vote_average": 7.658,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295558",
+    "title": "Key to the Phoenix Heart",
+    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
+    "release_date": "2026-07-11",
+    "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
+    "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -1284,6 +1284,21 @@
     "is_local": true
   },
   {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "/o9jmLOQ9K5H9W0hiSmMNzzLqnVJ.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "68349",
     "title": "Weightlifting Fairy Kim Bok-joo",
     "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
@@ -1297,21 +1312,6 @@
       35,
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "/o9jmLOQ9K5H9W0hiSmMNzzLqnVJ.jpg",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -3285,26 +3285,6 @@
     "is_local": true
   },
   {
-    "id": "210781",
-    "title": "My Lovely Liar",
-    "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
-    "release_date": "2023-07-31",
-    "poster_path": "/msYlN0cIpuTKlWYnEStdoBuHmvX.jpg",
-    "backdrop_path": "/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
-    "vote_average": 7.702,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      35,
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252739",
     "title": "Goddess Bless You from Death",
     "overview": "A gifted young man and a rational detective investigate brutal forest murders, uncovering ancient beliefs and dangers that defy all logic.",
@@ -3336,6 +3316,26 @@
     "genre_ids": [
       10749,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "210781",
+    "title": "My Lovely Liar",
+    "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
+    "release_date": "2023-07-31",
+    "poster_path": "/msYlN0cIpuTKlWYnEStdoBuHmvX.jpg",
+    "backdrop_path": "/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
+    "vote_average": 7.702,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      35,
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
