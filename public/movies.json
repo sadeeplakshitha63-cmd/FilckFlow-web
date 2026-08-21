@@ -1,5 +1,23 @@
 [
   {
+    "id": 275,
+    "title": "Fargo",
+    "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+    "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+    "vote_average": 7.85,
+    "release_date": "1996-03-08",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "155229",
     "title": "Cheer Up",
     "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
@@ -2341,23 +2359,6 @@
     "is_local": true
   },
   {
-    "id": "289139",
-    "title": "Overdo",
-    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-    "release_date": "2026-07-19",
-    "poster_path": "/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
-    "backdrop_path": "/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "314784",
     "title": "Absolute Value of Romance",
     "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
@@ -2370,6 +2371,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289139",
+    "title": "Overdo",
+    "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
+    "release_date": "2026-07-19",
+    "poster_path": "/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
+    "backdrop_path": "/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3024,7 +3042,7 @@
     "release_date": "2026-06-22",
     "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
     "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 8.921,
+    "vote_average": 8.938,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3054,23 +3072,6 @@
     "is_local": true
   },
   {
-    "id": "235355",
-    "title": "Resident Playbook",
-    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
-    "release_date": "2025-04-12",
-    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
-    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "252649",
     "title": "ThamePo: Heart That Skips A Beat",
     "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
@@ -3080,6 +3081,23 @@
     "vote_average": 9,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "235355",
+    "title": "Resident Playbook",
+    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
+    "release_date": "2025-04-12",
+    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
