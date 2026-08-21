@@ -1006,7 +1006,7 @@
     "release_date": "2021-07-26",
     "poster_path": "/oL1FhXHsDs7yFPEnlooY9fGgaNA.jpg",
     "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.218,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3054,23 +3054,6 @@
     "is_local": true
   },
   {
-    "id": "252649",
-    "title": "ThamePo: Heart That Skips A Beat",
-    "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
-    "release_date": "2024-12-13",
-    "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
-    "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "235355",
     "title": "Resident Playbook",
     "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
@@ -3080,6 +3063,23 @@
     "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "252649",
+    "title": "ThamePo: Heart That Skips A Beat",
+    "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
+    "release_date": "2024-12-13",
+    "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
+    "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -3285,24 +3285,6 @@
     "is_local": true
   },
   {
-    "id": "1632812",
-    "title": "Nothing Between Us",
-    "overview": "Living in Mexico City, Guillermo and Mechi, in Buenos Aires, are separated by over 4,000 miles and their marriages, both having structured family lives. Working for the same multinational food manufacturer they meet by chance at a corporate offsite. The attraction between them proves immediate and irresistible. The sudden spark makes them face their own desires and changes them in deeper ways than they thought possible.",
-    "release_date": "2026-05-21",
-    "poster_path": "/3kWEtUGI9pp18fviLOcCAwGOZco.jpg",
-    "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
-    "vote_average": 5.435,
-    "media_type": "movie",
-    "original_language": "es",
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "210781",
     "title": "My Lovely Liar",
     "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
@@ -3336,6 +3318,24 @@
       18,
       9648,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1632812",
+    "title": "Nothing Between Us",
+    "overview": "Living in Mexico City, Guillermo and Mechi, in Buenos Aires, are separated by over 4,000 miles and their marriages, both having structured family lives. Working for the same multinational food manufacturer they meet by chance at a corporate offsite. The attraction between them proves immediate and irresistible. The sudden spark makes them face their own desires and changes them in deeper ways than they thought possible.",
+    "release_date": "2026-05-21",
+    "poster_path": "/3kWEtUGI9pp18fviLOcCAwGOZco.jpg",
+    "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
+    "vote_average": 5.435,
+    "media_type": "movie",
+    "original_language": "es",
+    "genre_ids": [
+      10749,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3403,7 +3403,7 @@
     "release_date": "2026-08-03",
     "poster_path": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
     "backdrop_path": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-    "vote_average": 6.7,
+    "vote_average": 7.25,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5022,7 +5022,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.227,
+    "vote_average": 9.214,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
