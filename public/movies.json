@@ -1,5 +1,23 @@
 [
   {
+    "id": 303351,
+    "title": "Blood Sacrifice",
+    "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+    "overview": "Following the brutal murder of two police officers, a tenacious detective reluctantly joins forces with his estranged ex-cop father to catch the killer.",
+    "vote_average": 4.7,
+    "release_date": "2026-08-20",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "original_language": "sv",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "155229",
     "title": "Cheer Up",
     "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
@@ -1006,7 +1024,7 @@
     "release_date": "2021-07-26",
     "poster_path": "/oL1FhXHsDs7yFPEnlooY9fGgaNA.jpg",
     "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.218,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2467,6 +2485,25 @@
     "is_local": true
   },
   {
+    "id": "281016",
+    "title": "Boyfriend on Demand",
+    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
+    "release_date": "2026-03-06",
+    "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
+    "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
+    "vote_average": 8.355,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "93657",
     "title": "Extraordinary You",
     "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
@@ -2480,25 +2517,6 @@
       10765,
       35,
       10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "281016",
-    "title": "Boyfriend on Demand",
-    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
-    "release_date": "2026-03-06",
-    "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
-    "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.355,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      10765,
       18
     ],
     "video_url": "",
@@ -3403,7 +3421,7 @@
     "release_date": "2026-08-03",
     "poster_path": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
     "backdrop_path": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-    "vote_average": 6.7,
+    "vote_average": 7.25,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5022,7 +5040,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.227,
+    "vote_average": 9.214,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
