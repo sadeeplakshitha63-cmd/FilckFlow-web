@@ -1351,23 +1351,6 @@
     "is_local": true
   },
   {
-    "id": "272512",
-    "title": "Our Youth",
-    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
-    "release_date": "2024-11-05",
-    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
-    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
-    "vote_average": 8.588,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "128883",
     "title": "Hometown Cha-Cha-Cha",
     "overview": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
@@ -1379,6 +1362,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "272512",
+    "title": "Our Youth",
+    "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
+    "release_date": "2024-11-05",
+    "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
+    "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
+    "vote_average": 8.588,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1869,6 +1869,24 @@
     "is_local": true
   },
   {
+    "id": "238618",
+    "title": "Love of the Divine Tree",
+    "overview": "Su Yishui, a talented young cultivator, had his destiny changed by his master Mu Qingge eighteen years ago. Mu Qingge, known as the \"female demon,\" was also branded with a bad reputation and presumed dead. Eighteen years later, Mu Qingge transforms into Xue Ranran, and Su Yishui, now the head of the West Mountain Sect, takes the critically ill Ranran as his disciple, vowing to protect her for life. Thus, the roles of master and disciple are swapped, and various amusing and unusual stories unfold between them.",
+    "release_date": "2025-02-07",
+    "poster_path": "/1XRiwCvZPlx8iWGy1BWOCHRgY0a.jpg",
+    "backdrop_path": "/h5Z7JutfjTOETDg86YMex28F2se.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "113268",
     "title": "The Uncanny Counter",
     "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
@@ -1882,24 +1900,6 @@
       18,
       9648,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "238618",
-    "title": "Love of the Divine Tree",
-    "overview": "Su Yishui, a talented young cultivator, had his destiny changed by his master Mu Qingge eighteen years ago. Mu Qingge, known as the \"female demon,\" was also branded with a bad reputation and presumed dead. Eighteen years later, Mu Qingge transforms into Xue Ranran, and Su Yishui, now the head of the West Mountain Sect, takes the critically ill Ranran as his disciple, vowing to protect her for life. Thus, the roles of master and disciple are swapped, and various amusing and unusual stories unfold between them.",
-    "release_date": "2025-02-07",
-    "poster_path": "/1XRiwCvZPlx8iWGy1BWOCHRgY0a.jpg",
-    "backdrop_path": "/h5Z7JutfjTOETDg86YMex28F2se.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4966,7 +4966,7 @@
     "release_date": "2024-04-04",
     "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
     "backdrop_path": "/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.095,
     "media_type": "movie",
     "original_language": "th",
     "genre_ids": [
