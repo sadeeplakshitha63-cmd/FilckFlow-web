@@ -482,24 +482,6 @@
     "is_local": true
   },
   {
-    "id": "219651",
-    "title": "Welcome to Samdal-ri",
-    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
-    "release_date": "2023-12-02",
-    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
-    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278176",
     "title": "MuTeLuv",
     "overview": "This anthology tells seven stories of people who attempt to use supernatural forces to meet their goals, and their unique journeys to finding love along the way.",
@@ -512,6 +494,24 @@
     "genre_ids": [
       35,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "219651",
+    "title": "Welcome to Samdal-ri",
+    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
+    "release_date": "2023-12-02",
+    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
+    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2448,6 +2448,25 @@
     "is_local": true
   },
   {
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+    "release_date": "2007-02-15",
+    "poster_path": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
+    "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "93657",
     "title": "Extraordinary You",
     "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
@@ -2462,25 +2481,6 @@
       35,
       10759,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
-    "release_date": "2007-02-15",
-    "poster_path": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
-    "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      10759,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3310,7 +3310,7 @@
     "release_date": "2025-10-31",
     "poster_path": "/6oJfgHENTx0WOoXrzfOvIJDpwpd.jpg",
     "backdrop_path": "/ex8tr0HjFIsOWf968DuJwTKAZjg.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.28,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4788,7 +4788,7 @@
     "release_date": "2023-09-25",
     "poster_path": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
     "backdrop_path": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.81,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
