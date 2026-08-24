@@ -876,23 +876,6 @@
     "is_local": true
   },
   {
-    "id": "83073",
-    "title": "A Hot Night With My Boss in a Capsule Hotel",
-    "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
-    "release_date": "2018-10-08",
-    "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
-    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
-    "vote_average": 4.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "255095",
     "title": "Eat Run Love",
     "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
@@ -922,6 +905,23 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "83073",
+    "title": "A Hot Night With My Boss in a Capsule Hotel",
+    "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
+    "release_date": "2018-10-08",
+    "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
+    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
+    "vote_average": 4.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2357,6 +2357,24 @@
     "is_local": true
   },
   {
+    "id": "259857",
+    "title": "Be Passionately in Love",
+    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
+    "release_date": "2025-05-28",
+    "poster_path": "/g5tirILrUcgHh1RLUDhunIVBLF1.jpg",
+    "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
+    "vote_average": 9.083,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278146",
     "title": "Dare You to Death",
     "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
@@ -2370,24 +2388,6 @@
       9648,
       80,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259857",
-    "title": "Be Passionately in Love",
-    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
-    "release_date": "2025-05-28",
-    "poster_path": "/g5tirILrUcgHh1RLUDhunIVBLF1.jpg",
-    "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
-    "vote_average": 9.083,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10766
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3288,9 +3288,9 @@
     "title": "My Lovely Liar",
     "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
     "release_date": "2023-07-31",
-    "poster_path": "/msYlN0cIpuTKlWYnEStdoBuHmvX.jpg",
+    "poster_path": "/lDxDrALYgBFKyr2xTY9EHZ7GaW6.jpg",
     "backdrop_path": "/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
-    "vote_average": 7.702,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3540,7 +3540,7 @@
     "release_date": "2026-02-20",
     "poster_path": "/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
     "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.153,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
