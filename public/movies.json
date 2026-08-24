@@ -1,23 +1,5 @@
 [
   {
-    "id": 41498,
-    "title": "One Piece Film: Strong World",
-    "poster_path": "/z9S39hH4IOX9Hmtn3zho3Wdqem8.jpg",
-    "overview": "20 years after his escape from Impel Down, the legendary pirate Shiki, the Golden Lion, reappears causing massive upheaval to the Marines. During his long seclusion, he was able to come up with a scheme to bring the World Government to his knees. On his way to execute the plan, Shiki crosses paths with the Straw Hat Pirates and becomes so impressed with Nami's knowledge of meteorology that he abducts her to forcedly enlist her into his crew. Luffy and the gang end up on a strange land populated with monstrous beasts as they desperately search for Shiki and Nami.",
-    "vote_average": 7.4,
-    "release_date": "2009-12-12",
-    "genre_ids": [
-      16,
-      14,
-      12
-    ],
-    "original_language": "ja",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "237918",
     "title": "Derailment",
     "overview": "Do you believe that there exist countless parallel universes that are exactly like the world you live in? Jiang Xiaoyuan finds herself struggling with her identity as she travels across parallel universes that never seem to intersect. In her original world, she is an invincible wealthy daughter, but in another place, she becomes an ordinary working girl who has absolutely nothing. Along the way, she meets the mysterious Qi Lian and together, they search for the truth involving the mystery surrounding her. Stripped of wealth, family background, appearance, and education, Jiang Xiaoyuan sets herself on a journey to find pieces of her \"real\" identity.",
@@ -2089,7 +2071,7 @@
     "release_date": "2026-06-12",
     "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
     "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
-    "vote_average": 9.25,
+    "vote_average": 9.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2505,24 +2487,6 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "158258",
     "title": "Duty After School",
     "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
@@ -2536,6 +2500,24 @@
       18,
       10765,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2786,7 +2768,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 8.874,
+    "vote_average": 8.871,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4130,7 +4112,7 @@
     "release_date": "2025-10-10",
     "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
     "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
-    "vote_average": 8.142,
+    "vote_average": 8.165,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5052,6 +5034,24 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 41498,
+    "title": "One Piece Film: Strong World",
+    "poster_path": "/z9S39hH4IOX9Hmtn3zho3Wdqem8.jpg",
+    "overview": "20 years after his escape from Impel Down, the legendary pirate Shiki, the Golden Lion, reappears causing massive upheaval to the Marines. During his long seclusion, he was able to come up with a scheme to bring the World Government to his knees. On his way to execute the plan, Shiki crosses paths with the Straw Hat Pirates and becomes so impressed with Nami's knowledge of meteorology that he abducts her to forcedly enlist her into his crew. Luffy and the gang end up on a strange land populated with monstrous beasts as they desperately search for Shiki and Nami.",
+    "vote_average": 7.4,
+    "release_date": "2009-12-12",
+    "genre_ids": [
+      16,
+      14,
+      12
+    ],
+    "original_language": "ja",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 1272166,
