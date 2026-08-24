@@ -1,22 +1,5 @@
 [
   {
-    "id": 1272166,
-    "title": "Ballad of a Small Player",
-    "poster_path": "/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
-    "overview": "Amid the glittering casinos of Macau, a gambler running from his past—and his debts—becomes fascinated by an enigmatic woman at the baccarat table.",
-    "vote_average": 5.772,
-    "release_date": "2025-10-15",
-    "genre_ids": [
-      80,
-      18
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "237918",
     "title": "Derailment",
     "overview": "Do you believe that there exist countless parallel universes that are exactly like the world you live in? Jiang Xiaoyuan finds herself struggling with her identity as she travels across parallel universes that never seem to intersect. In her original world, she is an invincible wealthy daughter, but in another place, she becomes an ordinary working girl who has absolutely nothing. Along the way, she meets the mysterious Qi Lian and together, they search for the truth involving the mystery surrounding her. Stripped of wealth, family background, appearance, and education, Jiang Xiaoyuan sets herself on a journey to find pieces of her \"real\" identity.",
@@ -1454,25 +1437,6 @@
     "is_local": true
   },
   {
-    "id": "228689",
-    "title": "Genie, Make a Wish",
-    "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
-    "release_date": "2025-10-03",
-    "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
-    "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.871,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1487,6 +1451,25 @@
       10765,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "228689",
+    "title": "Genie, Make a Wish",
+    "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+    "release_date": "2025-10-03",
+    "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+    "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+    "vote_average": 7.871,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2327,7 +2310,7 @@
     "release_date": "2026-04-17",
     "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
     "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
-    "vote_average": 8.886,
+    "vote_average": 8.889,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4129,7 +4112,7 @@
     "release_date": "2025-10-10",
     "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
     "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
-    "vote_average": 8.142,
+    "vote_average": 8.165,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5051,6 +5034,23 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1272166,
+    "title": "Ballad of a Small Player",
+    "poster_path": "/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
+    "overview": "Amid the glittering casinos of Macau, a gambler running from his past—and his debts—becomes fascinated by an enigmatic woman at the baccarat table.",
+    "vote_average": 5.772,
+    "release_date": "2025-10-15",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 100042,
