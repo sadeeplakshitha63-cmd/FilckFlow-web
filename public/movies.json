@@ -775,7 +775,7 @@
     "release_date": "2026-01-20",
     "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
     "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
-    "vote_average": 6.958,
+    "vote_average": 7,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2156,25 +2156,6 @@
     "is_local": true
   },
   {
-    "id": "68814",
-    "title": "Strong Girl Bong-soon",
-    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
-    "release_date": "2017-02-24",
-    "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
-    "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
-    "vote_average": 8.149,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "270420",
     "title": "No Tail to Tell",
     "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
@@ -2187,6 +2168,25 @@
     "genre_ids": [
       10765,
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68814",
+    "title": "Strong Girl Bong-soon",
+    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
+    "release_date": "2017-02-24",
+    "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+    "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
+    "vote_average": 8.149,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      10759,
       18
     ],
     "video_url": "",
@@ -2474,7 +2474,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.532,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3266,24 +3266,6 @@
     "is_local": true
   },
   {
-    "id": "1632812",
-    "title": "Nothing Between Us",
-    "overview": "Living in Mexico City, Guillermo and Mechi, in Buenos Aires, are separated by over 4,000 miles and their marriages, both having structured family lives. Working for the same multinational food manufacturer they meet by chance at a corporate offsite. The attraction between them proves immediate and irresistible. The sudden spark makes them face their own desires and changes them in deeper ways than they thought possible.",
-    "release_date": "2026-05-21",
-    "poster_path": "/3kWEtUGI9pp18fviLOcCAwGOZco.jpg",
-    "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
-    "vote_average": 5.5,
-    "media_type": "movie",
-    "original_language": "es",
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "210781",
     "title": "My Lovely Liar",
     "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
@@ -3298,6 +3280,24 @@
       35,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1632812",
+    "title": "Nothing Between Us",
+    "overview": "Living in Mexico City, Guillermo and Mechi, in Buenos Aires, are separated by over 4,000 miles and their marriages, both having structured family lives. Working for the same multinational food manufacturer they meet by chance at a corporate offsite. The attraction between them proves immediate and irresistible. The sudden spark makes them face their own desires and changes them in deeper ways than they thought possible.",
+    "release_date": "2026-05-21",
+    "poster_path": "/3kWEtUGI9pp18fviLOcCAwGOZco.jpg",
+    "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
+    "vote_average": 5.5,
+    "media_type": "movie",
+    "original_language": "es",
+    "genre_ids": [
+      10749,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3646,7 +3646,7 @@
     "release_date": "2026-05-11",
     "poster_path": "/nmYgPJiZebWUtL6D72D0Qp9ce0H.jpg",
     "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
