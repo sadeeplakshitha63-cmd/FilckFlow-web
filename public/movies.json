@@ -310,7 +310,7 @@
     "release_date": "2025-10-24",
     "poster_path": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
     "backdrop_path": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
-    "vote_average": 6.615,
+    "vote_average": 6.6,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -327,7 +327,7 @@
     "release_date": "2016-09-23",
     "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
     "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.847,
+    "vote_average": 7.853,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -346,7 +346,7 @@
     "release_date": "2015-11-06",
     "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
     "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
-    "vote_average": 8.762,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -469,7 +469,7 @@
     "release_date": "2023-10-11",
     "poster_path": "/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
     "backdrop_path": "/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.343,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -786,24 +786,6 @@
     "is_local": true
   },
   {
-    "id": "283952",
-    "title": "A Splendid Match",
-    "overview": "After years away from her family, Gu Jinzhao returns home and begins a remarkable transformation, from a carefree young woman into a poised and influential noble lady. As questions of marriage arise, she refuses to follow tradition and holds firmly to her own beliefs about love. But when multiple men enter her life, each offering a different future, who will Gu Jinzhao choose?",
-    "release_date": "2026-05-03",
-    "poster_path": "/qTNqnHvikP7aqGn5FVSIkFd1vIa.jpg",
-    "backdrop_path": "/h1INd1oy5YIkH4aSermOk3xwDsA.jpg",
-    "vote_average": 9.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "61833",
     "title": "Expedition Unknown",
     "overview": "The adventures of Josh Gates as he investigates unsolved iconic stories across the globe.",
@@ -823,17 +805,18 @@
     "is_local": true
   },
   {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
-    "vote_average": 8.4,
+    "id": "283952",
+    "title": "A Splendid Match",
+    "overview": "After years away from her family, Gu Jinzhao returns home and begins a remarkable transformation, from a carefree young woman into a poised and influential noble lady. As questions of marriage arise, she refuses to follow tradition and holds firmly to her own beliefs about love. But when multiple men enter her life, each offering a different future, who will Gu Jinzhao choose?",
+    "release_date": "2026-05-03",
+    "poster_path": "/qTNqnHvikP7aqGn5FVSIkFd1vIa.jpg",
+    "backdrop_path": "/h1INd1oy5YIkH4aSermOk3xwDsA.jpg",
+    "vote_average": 9.4,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18
+      18,
+      10768
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -857,17 +840,16 @@
     "is_local": true
   },
   {
-    "id": "262828",
-    "title": "Crushology 101",
-    "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
-    "release_date": "2025-04-11",
-    "poster_path": "/rWe7VuLKqJZSe1uwPRblLuOgIBB.jpg",
-    "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
-    "vote_average": 7.6,
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
+    "vote_average": 8.4,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "zh",
     "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -885,6 +867,24 @@
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "262828",
+    "title": "Crushology 101",
+    "overview": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
+    "release_date": "2025-04-11",
+    "poster_path": "/rWe7VuLKqJZSe1uwPRblLuOgIBB.jpg",
+    "backdrop_path": "/oQor5Njbut53tVMa5YBrBZa3Duj.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -928,19 +928,17 @@
     "is_local": true
   },
   {
-    "id": "42188",
+    "id": "215356",
     "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.85,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
-      18,
-      10749,
-      878
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1106,23 +1104,6 @@
     "is_local": true
   },
   {
-    "id": "253357",
-    "title": "See Your Love",
-    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
-    "release_date": "2024-10-23",
-    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
-    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
-    "vote_average": 8.696,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "259486",
     "title": "The Haunted Palace",
     "overview": "In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption",
@@ -1134,6 +1115,23 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253357",
+    "title": "See Your Love",
+    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
+    "release_date": "2024-10-23",
+    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
+    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
+    "vote_average": 8.696,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1315,23 +1313,6 @@
     "is_local": true
   },
   {
-    "id": "104925",
-    "title": "2gether: The Series",
-    "overview": "The fictional boy band goes behind the scenes of the world of pop music.",
-    "release_date": "2000-08-15",
-    "poster_path": "/ag8sOpxOJXKPGKtMnmSGPm76h0g.jpg",
-    "backdrop_path": "",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "272512",
     "title": "Our Youth",
     "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
@@ -1343,6 +1324,23 @@
     "original_language": "ja",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "104925",
+    "title": "2gether: The Series",
+    "overview": "The fictional boy band goes behind the scenes of the world of pop music.",
+    "release_date": "2000-08-15",
+    "poster_path": "/ag8sOpxOJXKPGKtMnmSGPm76h0g.jpg",
+    "backdrop_path": "",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1456,26 +1454,6 @@
     "is_local": true
   },
   {
-    "id": "281010",
-    "title": "Phantom Lawyer",
-    "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
-    "release_date": "2026-03-13",
-    "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
-    "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
-    "vote_average": 7.741,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765,
-      9648,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "130822",
     "title": "Our Secret",
     "overview": "Zhou Siyue, a rebellious genius, and Ding Xian, a strong-willed and charming “Cinderella,” start off as unlikely seatmates. But through daily interactions, they slowly come to understand and support each other, forming a bond that stands the test of time.",
@@ -1505,6 +1483,26 @@
     "genre_ids": [
       10765,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "281010",
+    "title": "Phantom Lawyer",
+    "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
+    "release_date": "2026-03-13",
+    "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
+    "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
+    "vote_average": 7.741,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765,
+      9648,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1622,7 +1620,7 @@
     "release_date": "2025-10-27",
     "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
     "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-    "vote_average": 8.353,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1729,7 +1727,7 @@
     "release_date": "2025-06-11",
     "poster_path": "/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
     "backdrop_path": "/xPFmxUuZnmYAlpoO5QI9AdYegxt.jpg",
-    "vote_average": 8.043,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2177,23 +2175,6 @@
     "is_local": true
   },
   {
-    "id": "319037",
-    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
-    "release_date": "2026-06-12",
-    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
-    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "65143",
     "title": "Descendants of the Sun",
     "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
@@ -2206,6 +2187,23 @@
     "genre_ids": [
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "319037",
+    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+    "release_date": "2026-06-12",
+    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2394,24 +2392,6 @@
     "is_local": true
   },
   {
-    "id": "240901",
-    "title": "Safe Skies, Archer",
-    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
-    "release_date": "2023-11-20",
-    "poster_path": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
-    "backdrop_path": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
-    "vote_average": 9.7,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281016",
     "title": "Boyfriend on Demand",
     "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
@@ -2424,6 +2404,24 @@
     "genre_ids": [
       35,
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240901",
+    "title": "Safe Skies, Archer",
+    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+    "release_date": "2023-11-20",
+    "poster_path": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
+    "backdrop_path": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
+    "vote_average": 9.7,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -2599,25 +2597,6 @@
     "is_local": true
   },
   {
-    "id": "307624",
-    "title": "Sammy's Children's Day",
-    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
-    "release_date": "2026-03-13",
-    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
-    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 7.952,
-    "media_type": "tv",
-    "original_language": "cn",
-    "genre_ids": [
-      18,
-      80,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "236033",
     "title": "The Double",
     "overview": "Xue Fangfei, the daughter of a well-off county magistrate lost everything after a major upheaval. Saved by Jiang Li, the daughter of the Secretariat Director, she took on the identity of Jiang Li and returned to the capital.  With the help of Duke Xiao Heng and others, she overcame numerous hardships, tirelessly fought against injustice, rescued her father who had been wrongly imprisoned, assisted Xiao Heng in upholding justice, protecting the common people, and ultimately regained a beautiful life.",
@@ -2631,6 +2610,25 @@
       18,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "307624",
+    "title": "Sammy's Children's Day",
+    "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
+    "release_date": "2026-03-13",
+    "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
+    "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
+    "vote_average": 7.952,
+    "media_type": "tv",
+    "original_language": "cn",
+    "genre_ids": [
+      18,
+      80,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3017,6 +3015,23 @@
     "is_local": true
   },
   {
+    "id": "235355",
+    "title": "Resident Playbook",
+    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
+    "release_date": "2025-04-12",
+    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+    "vote_average": 8.131,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "289763",
     "title": "See You at Work Tomorrow!",
     "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
@@ -3028,23 +3043,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "235355",
-    "title": "Resident Playbook",
-    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
-    "release_date": "2025-04-12",
-    "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
-    "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
-    "vote_average": 8.131,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3156,24 +3154,6 @@
     "is_local": true
   },
   {
-    "id": "287011",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "release_date": "2026-04-22",
-    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.384,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "232402",
     "title": "S Line",
     "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
@@ -3187,6 +3167,24 @@
       10765,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "287011",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "release_date": "2026-04-22",
+    "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "vote_average": 8.384,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3266,24 +3264,6 @@
     "is_local": true
   },
   {
-    "id": "1632812",
-    "title": "Nothing Between Us",
-    "overview": "Living in Mexico City, Guillermo and Mechi, in Buenos Aires, are separated by over 4,000 miles and their marriages, both having structured family lives. Working for the same multinational food manufacturer they meet by chance at a corporate offsite. The attraction between them proves immediate and irresistible. The sudden spark makes them face their own desires and changes them in deeper ways than they thought possible.",
-    "release_date": "2026-05-21",
-    "poster_path": "/3kWEtUGI9pp18fviLOcCAwGOZco.jpg",
-    "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
-    "vote_average": 5.5,
-    "media_type": "movie",
-    "original_language": "es",
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "210781",
     "title": "My Lovely Liar",
     "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
@@ -3304,18 +3284,18 @@
     "is_local": true
   },
   {
-    "id": "252774",
-    "title": "The White Olive Tree",
-    "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
-    "release_date": "2025-02-01",
-    "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
-    "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
-    "vote_average": 8.724,
-    "media_type": "tv",
-    "original_language": "zh",
+    "id": "1632812",
+    "title": "Nothing Between Us",
+    "overview": "Living in Mexico City, Guillermo and Mechi, in Buenos Aires, are separated by over 4,000 miles and their marriages, both having structured family lives. Working for the same multinational food manufacturer they meet by chance at a corporate offsite. The attraction between them proves immediate and irresistible. The sudden spark makes them face their own desires and changes them in deeper ways than they thought possible.",
+    "release_date": "2026-05-21",
+    "poster_path": "/3kWEtUGI9pp18fviLOcCAwGOZco.jpg",
+    "backdrop_path": "/mwfmOOWbchS1cY68zr5aFr21Hhx.jpg",
+    "vote_average": 5.5,
+    "media_type": "movie",
+    "original_language": "es",
     "genre_ids": [
-      18,
-      10759
+      10749,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3334,6 +3314,24 @@
     "genre_ids": [
       18,
       9648,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "252774",
+    "title": "The White Olive Tree",
+    "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
+    "release_date": "2025-02-01",
+    "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
+    "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
+    "vote_average": 8.724,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
       10759
     ],
     "video_url": "",
@@ -3384,7 +3382,7 @@
     "release_date": "2026-08-03",
     "poster_path": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
     "backdrop_path": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-    "vote_average": 7.4,
+    "vote_average": 7.833,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3859,7 +3857,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.693,
+    "vote_average": 8.692,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4001,7 +3999,7 @@
     "release_date": "2024-09-21",
     "poster_path": "/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
     "backdrop_path": "/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
-    "vote_average": 8.592,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4112,7 +4110,7 @@
     "release_date": "2025-10-10",
     "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
     "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
-    "vote_average": 8.165,
+    "vote_average": 8.187,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4166,7 +4164,7 @@
     "release_date": "2024-08-17",
     "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
     "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "vote_average": 7.897,
+    "vote_average": 7.904,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4292,7 +4290,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "vote_average": 8.784,
+    "vote_average": 8.787,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4648,7 +4646,7 @@
     "release_date": "2020-07-08",
     "poster_path": "/bE71f9A3eztjcd5JT3MmHB8MbzA.jpg",
     "backdrop_path": "/9qq8LpOoBLYq8MxiMugn0gf9qJd.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.226,
     "media_type": "tv",
     "original_language": "tr",
     "genre_ids": [
@@ -4698,7 +4696,7 @@
     "release_date": "2024-04-08",
     "poster_path": "/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
     "backdrop_path": "/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.619,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4718,7 +4716,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/iS76c29IrS3lKI2X5CFySguiAWU.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.743,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4735,7 +4733,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.276,
+    "vote_average": 8.277,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4894,7 +4892,7 @@
     "release_date": "2025-06-16",
     "poster_path": "/kJTSJ6X9zjL4nYM8Oje21sTuoOZ.jpg",
     "backdrop_path": "/aKvbFRFOzbaMB59575O5vUVaFyr.jpg",
-    "vote_average": 8.313,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4947,7 +4945,7 @@
     "release_date": "2024-04-04",
     "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
     "backdrop_path": "/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
-    "vote_average": 8.101,
+    "vote_average": 8.106,
     "media_type": "movie",
     "original_language": "th",
     "genre_ids": [
@@ -5003,7 +5001,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.201,
+    "vote_average": 9.2,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5023,13 +5021,32 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.77,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
       16,
       28,
       14
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "42188",
+    "title": "Never Let Me Go",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.85,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      10749,
+      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5069,23 +5086,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "215356",
-    "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 1481955,
