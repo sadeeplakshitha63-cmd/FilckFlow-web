@@ -1,38 +1,5 @@
 [
   {
-    "id": 1741201,
-    "title": "Chompoo: Lost​ &​ Forgotten​",
-    "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
-    "overview": "When a young girl vanishes from a remote village, the frantic police hunt become a media frenzy. But who turned a suspected criminal into a celebrity?",
-    "vote_average": 5.222,
-    "release_date": "2026-08-20",
-    "genre_ids": [
-      99
-    ],
-    "original_language": "th",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 292558,
-    "title": "All the Truth in My Lies",
-    "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-    "overview": "Two roommates join a bachelorette road trip, where unspoken feelings ignite and shake up their entire friend group.",
-    "vote_average": 7,
-    "release_date": "2026-08-28",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "original_language": "es",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "310800",
     "title": "Siren's Kiss",
     "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
@@ -264,6 +231,24 @@
     "is_local": true
   },
   {
+    "id": "233100",
+    "title": "Love Scout",
+    "overview": "Yoo Eun-ho, a single dad armed with perfection, becomes the secretary of Kang Ji-yun, the CEO of a popular headhunter company, who doesn't do anything except work.",
+    "release_date": "2025-01-03",
+    "poster_path": "/sp7OIpJl6uLiPqTgsc2wwrO9P8c.jpg",
+    "backdrop_path": "/lzidnBhiOCJdtKkUBD2TOfYLE8d.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -277,24 +262,6 @@
       16,
       80,
       9648,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "233100",
-    "title": "Love Scout",
-    "overview": "Yoo Eun-ho, a single dad armed with perfection, becomes the secretary of Kang Ji-yun, the CEO of a popular headhunter company, who doesn't do anything except work.",
-    "release_date": "2025-01-03",
-    "poster_path": "/sp7OIpJl6uLiPqTgsc2wwrO9P8c.jpg",
-    "backdrop_path": "/lzidnBhiOCJdtKkUBD2TOfYLE8d.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
       35
     ],
     "video_url": "",
@@ -731,23 +698,6 @@
     "is_local": true
   },
   {
-    "id": "299952",
-    "title": "The Early Spring",
-    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-    "release_date": "2026-08-26",
-    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 6.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "216264",
     "title": "The Last Immortal",
     "overview": "Yin, a hardworking Shuining Beast, and Gu Jin, the son of the true God whose magic has been sealed, meet by chance and embark on a quest to find Feng Yin's Immortal Essence. Alongside their companions, Hong Yi of the Fox Clan and Yan Shuang of the Eagle Clan, they face numerous challenges to collect the essence. Battling the villain Qing Lin and his followers, they overcome obstacles and, in the end, not only fulfill their mission to restore peace but also find love, friendship, and family.",
@@ -849,6 +799,23 @@
     "genre_ids": [
       18,
       10768
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "299952",
+    "title": "The Early Spring",
+    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+    "release_date": "2026-08-26",
+    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "vote_average": 6.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1015,23 +982,6 @@
     "is_local": true
   },
   {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233912",
     "title": "Guardians of the Dafeng",
     "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
@@ -1046,6 +996,23 @@
       10759,
       35,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1634,7 +1601,7 @@
     "release_date": "2022-02-19",
     "poster_path": "/wErkJHHVjxezm6unGOSXYwIInQm.jpg",
     "backdrop_path": "/c6GCsPVMPosoutu8CFCpeGuZzFD.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.704,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1807,24 +1774,6 @@
     "is_local": true
   },
   {
-    "id": "242762",
-    "title": "Moonlit Reunion",
-    "overview": "Mei Zhuyu, a calm and reserved nobleman from a lesser branch of the Mei family, arrives in Chang'an as an official at the Bureau of Mystic Investigations. During a banquet, he meets Wu Zhen, the bold and unruly younger sister of the Empress and secret Guardian of the Demon Underworld. Both hide their true identities. Wu, a half-demon striving to keep peace, and Mei, a skilled demon slayer, seek the truth behind the fire 18 years ago. As bone demons rise and unrest grows, they fight side by side, forming a bond that deepens into love until the Changxi Palace launches a purge, forcing them to face each other's secrets and the past they share.",
-    "release_date": "2025-08-18",
-    "poster_path": "/16o0xknWshrIbFPvWybgnOaz46o.jpg",
-    "backdrop_path": "/u4uUe0rnjx2UOegZFiwwKPlxDBX.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "117549",
     "title": "Please Feel At Ease Mr. Ling",
     "overview": "A story of how the 'rabbit' brings home a 'big bad wolf' follows a young woman named Gu An Xin who chances upon the hotshot executive Ling Yue after he encountered an accident. Gu An Xin picked up a man. At first, she thought he was stupid, but after a few days of interaction, he proves himself to be a genius. As it turns out, Ling Yue got into an accident after being caught in the ugly fight for succession of a powerful conglomerate.",
@@ -1837,6 +1786,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "242762",
+    "title": "Moonlit Reunion",
+    "overview": "Mei Zhuyu, a calm and reserved nobleman from a lesser branch of the Mei family, arrives in Chang'an as an official at the Bureau of Mystic Investigations. During a banquet, he meets Wu Zhen, the bold and unruly younger sister of the Empress and secret Guardian of the Demon Underworld. Both hide their true identities. Wu, a half-demon striving to keep peace, and Mei, a skilled demon slayer, seek the truth behind the fire 18 years ago. As bone demons rise and unrest grows, they fight side by side, forming a bond that deepens into love until the Changxi Palace launches a purge, forcing them to face each other's secrets and the past they share.",
+    "release_date": "2025-08-18",
+    "poster_path": "/16o0xknWshrIbFPvWybgnOaz46o.jpg",
+    "backdrop_path": "/u4uUe0rnjx2UOegZFiwwKPlxDBX.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2333,6 +2300,24 @@
     "is_local": true
   },
   {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 8.124,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "108261",
     "title": "Mr. Queen",
     "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
@@ -2346,24 +2331,6 @@
       18,
       35,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.124,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2430,12 +2397,30 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.366,
+    "vote_average": 8.364,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
       35,
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "240901",
+    "title": "Safe Skies, Archer",
+    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+    "release_date": "2023-11-20",
+    "poster_path": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
+    "backdrop_path": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
+    "vote_average": 9.7,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -2456,24 +2441,6 @@
       10765,
       35,
       10759,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240901",
-    "title": "Safe Skies, Archer",
-    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
-    "release_date": "2023-11-20",
-    "poster_path": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
-    "backdrop_path": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
-    "vote_average": 9.7,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -2746,7 +2713,7 @@
     "release_date": "2026-04-25",
     "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
     "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.117,
+    "vote_average": 8.048,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3888,7 +3855,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.697,
+    "vote_average": 8.694,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5052,7 +5019,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.78,
+    "vote_average": 8.782,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5063,6 +5030,39 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1741201,
+    "title": "Chompoo: Lost​ &​ Forgotten​",
+    "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+    "overview": "When a young girl vanishes from a remote village, the frantic police hunt become a media frenzy. But who turned a suspected criminal into a celebrity?",
+    "vote_average": 5.222,
+    "release_date": "2026-08-20",
+    "genre_ids": [
+      99
+    ],
+    "original_language": "th",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 292558,
+    "title": "All the Truth in My Lies",
+    "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+    "overview": "Two roommates join a bachelorette road trip, where unspoken feelings ignite and shake up their entire friend group.",
+    "vote_average": 7,
+    "release_date": "2026-08-28",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "1632812",
