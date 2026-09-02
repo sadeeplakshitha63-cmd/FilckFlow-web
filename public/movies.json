@@ -125,23 +125,6 @@
     "is_local": true
   },
   {
-    "id": "278142",
-    "title": "Burnout Syndrome",
-    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
-    "release_date": "2025-11-26",
-    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
-    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "286445",
     "title": "Marry Me Again",
     "overview": "When a young woman wants to revive her deceased fiancé's jewelry brand, she partners with an influencer – who happens to look just like him!",
@@ -151,6 +134,23 @@
     "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278142",
+    "title": "Burnout Syndrome",
+    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
+    "release_date": "2025-11-26",
+    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
+    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -271,7 +271,7 @@
     "title": "Perfect Match",
     "overview": "In the bustling capital of Bianjing during the Northern Song Dynasty, Madam Li moves her family in search of better marriage prospects for her five beautiful but quirky daughters, whose love lives have long been her worry. Each daughter, though famous for her beauty and wit, comes with unique quirks: the eldest, Shou Hua, has no interest in remarrying after early widowhood; the third, Kang Ning, is fierce and headstrong; the fourth, Hao De, is well-meaning but blunt; and the youngest, Le Shan, is spoiled and selective.  Challenges abound as they face unexpected setbacks, including a cold reception from the already-married sister they came to visit. As the family reestablishes their business, they navigate a series of humorous and heartwarming misadventures, ultimately finding love and fulfilling their mother’s hopes in this lively tale of family and romance.",
     "release_date": "2025-01-25",
-    "poster_path": "/vbh685TBLEfQKXjYomVEmVztmJ9.jpg",
+    "poster_path": "/pAPupcfdOmTu1T0IS6cy3cmNYp1.jpg",
     "backdrop_path": "/pg4xOroBDlxIhRK1m5xFyLgXrVD.jpg",
     "vote_average": 8.1,
     "media_type": "tv",
@@ -740,7 +740,7 @@
     "release_date": "2025-08-24",
     "poster_path": "/qOxfpvyXtbV31ruLIAYAtxfu4OW.jpg",
     "backdrop_path": "/j5JnT97TKs9OCXzjt5a0fgOIjvz.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.536,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -911,17 +911,19 @@
     "is_local": true
   },
   {
-    "id": "215356",
+    "id": "42188",
     "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "th",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.851,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      18
+      18,
+      10749,
+      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2302,6 +2304,24 @@
     "is_local": true
   },
   {
+    "id": "259857",
+    "title": "Be Passionately in Love",
+    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
+    "release_date": "2025-05-28",
+    "poster_path": "/g5tirILrUcgHh1RLUDhunIVBLF1.jpg",
+    "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "108261",
     "title": "Mr. Queen",
     "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
@@ -2315,24 +2335,6 @@
       18,
       35,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "259857",
-    "title": "Be Passionately in Love",
-    "overview": "After her college entrance examination, Xu Zhi became the greatest winner in Ruijun Middle School, but she didn't expect that she was about to be defeated in love.",
-    "release_date": "2025-05-28",
-    "poster_path": "/g5tirILrUcgHh1RLUDhunIVBLF1.jpg",
-    "backdrop_path": "/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10766
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2453,9 +2455,9 @@
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
     "release_date": "2007-02-15",
-    "poster_path": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
+    "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.53,
+    "vote_average": 8.531,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2708,30 +2710,13 @@
     "is_local": true
   },
   {
-    "id": "299952",
-    "title": "The Early Spring",
-    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-    "release_date": "2026-08-26",
-    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 6.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "297640",
     "title": "Filing for Love",
     "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
     "release_date": "2026-04-25",
     "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
     "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.048,
+    "vote_average": 8.078,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2769,6 +2754,23 @@
     "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "299952",
+    "title": "The Early Spring",
+    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+    "release_date": "2026-08-26",
+    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "vote_average": 6.7,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -2911,7 +2913,7 @@
     "release_date": "1990-07-05",
     "poster_path": "/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg",
     "backdrop_path": "/eDnrGNNMD8IyitmRojrRomY9vtW.jpg",
-    "vote_average": 6.177,
+    "vote_average": 6.176,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -3588,9 +3590,9 @@
     "title": "The Love You Give Me",
     "overview": "Years after a painful breakup caused by illness and misunderstanding, former lovers Min Hui and Xin Qi reunite in the business world, only for a paternity test to reveal that Min Hui’s son may be Xin Qi’s — forcing them to navigate past wounds, parenthood, and the possibility of rekindled love.",
     "release_date": "2023-04-24",
-    "poster_path": "/vxeau4Z27cXeCCGV0QWMhVTlt4I.jpg",
+    "poster_path": "/6w9jtCSLEBnL95LTMFyMmXKqTwr.jpg",
     "backdrop_path": "/wDzN04z2SUx0nODtLTmW7XHrj7t.jpg",
-    "vote_average": 8.269,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3733,11 +3735,12 @@
     "release_date": "2025-11-15",
     "poster_path": "/w1iU3Ak0HaJfMeIVGVgvOWLuYx3.jpg",
     "backdrop_path": "/AtclgGgnqR7SipnTpd0CvzzK3PH.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
-      18
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4147,7 +4150,7 @@
     "release_date": "2025-10-08",
     "poster_path": "/1eOek63acPohNgvXog4uYnJT6fh.jpg",
     "backdrop_path": "/lAJCsUD3f6KhwdtbnevSAI1E9EU.jpg",
-    "vote_average": 8.98,
+    "vote_average": 9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4752,7 +4755,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.277,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5005,7 +5008,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.195,
+    "vote_average": 9.194,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5025,7 +5028,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.788,
+    "vote_average": 8.789,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5050,6 +5053,23 @@
     "genre_ids": [
       35,
       10751,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "215356",
+    "title": "Never Let Me Go",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -5122,25 +5142,6 @@
     "original_language": "th",
     "genre_ids": [
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "42188",
-    "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.85,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      18,
-      10749,
-      878
     ],
     "video_url": "",
     "subtitle_file": null,
