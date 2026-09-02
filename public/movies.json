@@ -1034,24 +1034,6 @@
     "is_local": true
   },
   {
-    "id": "284430",
-    "title": "Deep Affection Eyes",
-    "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
-    "release_date": "2025-07-21",
-    "poster_path": "/9m3VFGSZwEJukjzGD340GcXfEzQ.jpg",
-    "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "259486",
     "title": "The Haunted Palace",
     "overview": "In a world of folklore and mysticism, a vengeful spirit and a devoted shaman cross paths, sparking a journey of love and redemption",
@@ -1064,6 +1046,24 @@
     "genre_ids": [
       10765,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "284430",
+    "title": "Deep Affection Eyes",
+    "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
+    "release_date": "2025-07-21",
+    "poster_path": "/9m3VFGSZwEJukjzGD340GcXfEzQ.jpg",
+    "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1549,7 +1549,7 @@
     "release_date": "2025-05-30",
     "poster_path": "/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
     "backdrop_path": "/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
-    "vote_average": 8.057,
+    "vote_average": 8.085,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2266,23 +2266,6 @@
     "is_local": true
   },
   {
-    "id": "319037",
-    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
-    "release_date": "2026-06-12",
-    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
-    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "285838",
     "title": "If Wishes Could Kill",
     "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
@@ -2294,6 +2277,23 @@
     "original_language": "ko",
     "genre_ids": [
       9648,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "319037",
+    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+    "release_date": "2026-06-12",
+    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2486,24 +2486,6 @@
     "is_local": true
   },
   {
-    "id": "217838",
-    "title": "Love Upon a Time",
-    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
-    "release_date": "2026-03-27",
-    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
-    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "274559",
     "title": "The Wicked Game",
     "overview": "An abandoned heir wages war to expose his ruthless father and seize control of the family empire, but treachery—and desire—threaten his plan.",
@@ -2517,6 +2499,24 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217838",
+    "title": "Love Upon a Time",
+    "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
+    "release_date": "2026-03-27",
+    "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+    "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2547,7 +2547,7 @@
     "release_date": "2026-08-26",
     "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
     "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 6.1,
+    "vote_average": 6.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3263,6 +3263,26 @@
     "is_local": true
   },
   {
+    "id": "210781",
+    "title": "My Lovely Liar",
+    "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
+    "release_date": "2023-07-31",
+    "poster_path": "/lDxDrALYgBFKyr2xTY9EHZ7GaW6.jpg",
+    "backdrop_path": "/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
+    "vote_average": 7.728,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      35,
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "17892",
     "title": "Between Us",
     "overview": "Unter uns is a German television soap opera, first broadcast on RTL on 28 November 1994. Centered around the lives of the people in a residential house, which is set in the fictional Schillerallee in Cologne. Since the show debuted the baker's family Weigel is the series core family. Unter uns isn't based on a foreign soap opera like Verbotene Liebe or Gute Zeiten, schlechte Zeiten. After Gute Zeiten, schlechte Zeiten, the show was the second daily soap for RTL, followed years later in 2006 by Alles was zählt. The show aired its 3,500th episode on 30 December 2008.",
@@ -3274,26 +3294,6 @@
     "original_language": "de",
     "genre_ids": [
       10766
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "210781",
-    "title": "My Lovely Liar",
-    "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
-    "release_date": "2023-07-31",
-    "poster_path": "/lDxDrALYgBFKyr2xTY9EHZ7GaW6.jpg",
-    "backdrop_path": "/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      35,
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4289,7 +4289,7 @@
     "title": "When Life Gives You Tangerines",
     "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
     "release_date": "2025-03-07",
-    "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+    "poster_path": "/Afrz3QAcQcsT6w4S5wrKUxmYPWM.jpg",
     "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
     "vote_average": 8.8,
     "media_type": "tv",
@@ -4769,7 +4769,7 @@
     "release_date": "2021-06-23",
     "poster_path": "/tUZIA55rA44TazA11urdbHRtYJK.jpg",
     "backdrop_path": "/l3QyCntq6m4E7WTCLsq4DC7NLW1.jpg",
-    "vote_average": 7.907,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5007,7 +5007,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.785,
+    "vote_average": 8.788,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
