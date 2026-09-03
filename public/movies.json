@@ -147,7 +147,7 @@
     "release_date": "2024-02-02",
     "poster_path": "/9fg3f2OW0yDnx6SfBWctYCs4ZU7.jpg",
     "backdrop_path": "/pmUWKAxTWyo9JsKQskECPpWwYrn.jpg",
-    "vote_average": 9,
+    "vote_average": 8.893,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -371,26 +371,6 @@
     "is_local": true
   },
   {
-    "id": "30983",
-    "title": "Detective Conan",
-    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
-    "release_date": "1996-01-08",
-    "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
-    "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      80,
-      9648,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "232948",
     "title": "Best Choice Ever",
     "overview": "Mai Chenghuan, a post-95 girl born into an ordinary family in Shanghai, agrees to marry her boyfriend, Xin Jialiang, under her mother’s urging. However, the economic gap between them creates an imbalance in their relationship, ultimately leading to its end. Mai Chenghuan then gains her grandmother's approval and is entrusted with the heavy responsibility of managing a hotel. Through cooperation, Mai Chenghuan and the professional hotel manager Yao Zhiming become working partners and go hand in hand. Mai Chenghuan transitions from being under her family's control to achieving self-fulfillment, forging her own path.",
@@ -421,6 +401,26 @@
     "genre_ids": [
       18,
       10765,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "30983",
+    "title": "Detective Conan",
+    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+    "release_date": "1996-01-08",
+    "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
+    "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      80,
+      9648,
       35
     ],
     "video_url": "",
@@ -787,6 +787,23 @@
     "is_local": true
   },
   {
+    "id": "93975",
+    "title": "TharnType",
+    "overview": "Type hated the idea of sharing a room with a gay guy. But now, he's starting to question what he thought he knew.",
+    "release_date": "2019-10-07",
+    "poster_path": "/ofK4Z2zGyLfjKqSTQyQhtdrU43O.jpg",
+    "backdrop_path": "/cpPykwg5yE4vTIHHXiCRFdQDh1l.jpg",
+    "vote_average": 7.658,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "243028",
     "title": "Love Song in Winter",
     "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
@@ -799,23 +816,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "93975",
-    "title": "TharnType",
-    "overview": "Type hated the idea of sharing a room with a gay guy. But now, he's starting to question what he thought he knew.",
-    "release_date": "2019-10-07",
-    "poster_path": "/ofK4Z2zGyLfjKqSTQyQhtdrU43O.jpg",
-    "backdrop_path": "/cpPykwg5yE4vTIHHXiCRFdQDh1l.jpg",
-    "vote_average": 7.658,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -863,7 +863,7 @@
     "release_date": "2019-06-27",
     "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
     "backdrop_path": "/ampkwvfwO7o5YMwYAVPKx1PLDaB.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.608,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -893,19 +893,17 @@
     "is_local": true
   },
   {
-    "id": "42188",
+    "id": "215356",
     "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.851,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.109,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
-      18,
-      10749,
-      878
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1037,6 +1035,23 @@
     "is_local": true
   },
   {
+    "id": "253357",
+    "title": "See Your Love",
+    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
+    "release_date": "2024-10-23",
+    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
+    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
+    "vote_average": 8.696,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "284430",
     "title": "Deep Affection Eyes",
     "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
@@ -1049,23 +1064,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253357",
-    "title": "See Your Love",
-    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
-    "release_date": "2024-10-23",
-    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
-    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
-    "vote_average": 8.696,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1166,24 +1164,7 @@
     "release_date": "2026-06-27",
     "poster_path": "/hW9WvgtXk9Bf58bB4TZ1Dy0WquB.jpg",
     "backdrop_path": "/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
-    "vote_average": 7.286,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "295558",
-    "title": "Key to the Phoenix Heart",
-    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
-    "release_date": "2026-07-11",
-    "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
-    "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
-    "vote_average": 8.333,
+    "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1206,6 +1187,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295558",
+    "title": "Key to the Phoenix Heart",
+    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
+    "release_date": "2026-07-11",
+    "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
+    "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
+    "vote_average": 8.333,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2346,7 +2344,7 @@
     "release_date": "2025-12-18",
     "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
     "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 7.793,
+    "vote_average": 7.767,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2698,7 +2696,7 @@
     "release_date": "2026-04-25",
     "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
     "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.078,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2800,6 +2798,23 @@
     "is_local": true
   },
   {
+    "id": "221112",
+    "title": "Amidst a Snowstorm of Love",
+    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
+    "release_date": "2024-02-02",
+    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
+    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
+    "vote_average": 8.167,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "8082",
     "title": "Meteor Garden",
     "overview": "Shan Cai, whose parents are far from wealthy, attends Ying De University, the private school established exclusively for rich students. Besides being looked down by rich classmates, she has angered the leader of F4, Dao Ming Si.",
@@ -2813,23 +2828,6 @@
       18,
       35,
       10766
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "221112",
-    "title": "Amidst a Snowstorm of Love",
-    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
-    "release_date": "2024-02-02",
-    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
-    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
-    "vote_average": 8.167,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3022,7 +3020,7 @@
     "release_date": "2024-12-13",
     "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
     "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
-    "vote_average": 9,
+    "vote_average": 9.024,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3039,7 +3037,7 @@
     "release_date": "2026-06-22",
     "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
     "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 8.943,
+    "vote_average": 8.903,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3138,23 +3136,6 @@
     "is_local": true
   },
   {
-    "id": "299952",
-    "title": "The Early Spring",
-    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-    "release_date": "2026-08-26",
-    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 6.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "232402",
     "title": "S Line",
     "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
@@ -3247,6 +3228,23 @@
     "is_local": true
   },
   {
+    "id": "299952",
+    "title": "The Early Spring",
+    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+    "release_date": "2026-08-26",
+    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "vote_average": 7.25,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "240975",
     "title": "Knock Out",
     "overview": "After losing everything, Keen finds refuge in a Muay Thai gym and forms a bond with Than, a silent fighter carrying deep scars.",
@@ -3259,23 +3257,6 @@
     "genre_ids": [
       18,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "17892",
-    "title": "Between Us",
-    "overview": "Unter uns is a German television soap opera, first broadcast on RTL on 28 November 1994. Centered around the lives of the people in a residential house, which is set in the fictional Schillerallee in Cologne. Since the show debuted the baker's family Weigel is the series core family. Unter uns isn't based on a foreign soap opera like Verbotene Liebe or Gute Zeiten, schlechte Zeiten. After Gute Zeiten, schlechte Zeiten, the show was the second daily soap for RTL, followed years later in 2006 by Alles was zählt. The show aired its 3,500th episode on 30 December 2008.",
-    "release_date": "1994-11-28",
-    "poster_path": "/aD1QIba9mohAsdPHCjpWtrlumyp.jpg",
-    "backdrop_path": "/4Kw16UfxZ4jTOmlXIBMOtgVpAM2.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "de",
-    "genre_ids": [
-      10766
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3296,6 +3277,23 @@
       35,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "17892",
+    "title": "Between Us",
+    "overview": "Unter uns is a German television soap opera, first broadcast on RTL on 28 November 1994. Centered around the lives of the people in a residential house, which is set in the fictional Schillerallee in Cologne. Since the show debuted the baker's family Weigel is the series core family. Unter uns isn't based on a foreign soap opera like Verbotene Liebe or Gute Zeiten, schlechte Zeiten. After Gute Zeiten, schlechte Zeiten, the show was the second daily soap for RTL, followed years later in 2006 by Alles was zählt. The show aired its 3,500th episode on 30 December 2008.",
+    "release_date": "1994-11-28",
+    "poster_path": "/aD1QIba9mohAsdPHCjpWtrlumyp.jpg",
+    "backdrop_path": "/4Kw16UfxZ4jTOmlXIBMOtgVpAM2.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "de",
+    "genre_ids": [
+      10766
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3345,7 +3343,7 @@
     "release_date": "2025-02-21",
     "poster_path": "/vKf5h2xEtmTSp4GcYXPOUWdocQ7.jpg",
     "backdrop_path": "/vJMoMgjavkgkaUBDGQVVv4OjTjf.jpg",
-    "vote_average": 8.352,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3681,7 +3679,7 @@
     "release_date": "2025-10-19",
     "poster_path": "/hlgLNj2vg7XHixFpg2EJRf9JIsZ.jpg",
     "backdrop_path": "/3YXRu9tLvpAfaNYuNswaBDpSALU.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.421,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4116,7 +4114,7 @@
     "release_date": "2025-10-10",
     "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
     "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
-    "vote_average": 8.187,
+    "vote_average": 8.208,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4224,7 +4222,7 @@
     "release_date": "2025-02-10",
     "poster_path": "/qBQl7x6qSqeuYdgq7rkctm1L4gW.jpg",
     "backdrop_path": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
-    "vote_average": 8.717,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4297,7 +4295,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/Afrz3QAcQcsT6w4S5wrKUxmYPWM.jpg",
     "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.788,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4457,7 +4455,7 @@
     "release_date": "2024-01-01",
     "poster_path": "/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
     "backdrop_path": "/qHCXeAM13OYvcmjXeOhtvXfc8uo.jpg",
-    "vote_average": 8.489,
+    "vote_average": 8.492,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4830,7 +4828,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.114,
+    "vote_average": 9.119,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5045,6 +5043,25 @@
     "is_local": true
   },
   {
+    "id": "42188",
+    "title": "Never Let Me Go",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.851,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      10749,
+      878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 290234,
     "title": "Lovesick",
     "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
@@ -5197,23 +5214,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "215356",
-    "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 254,
