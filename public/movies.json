@@ -1,5 +1,21 @@
 [
   {
+    "id": 290234,
+    "title": "Lovesick",
+    "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+    "overview": "Set during the Mexican Revolution, follow Emilia Sauri, a woman torn between two passionate loves while navigating a world dominated by violence and revolution.",
+    "vote_average": 8,
+    "release_date": "2026-09-02",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "237918",
     "title": "Derailment",
     "overview": "Do you believe that there exist countless parallel universes that are exactly like the world you live in? Jiang Xiaoyuan finds herself struggling with her identity as she travels across parallel universes that never seem to intersect. In her original world, she is an invincible wealthy daughter, but in another place, she becomes an ordinary working girl who has absolutely nothing. Along the way, she meets the mysterious Qi Lian and together, they search for the truth involving the mystery surrounding her. Stripped of wealth, family background, appearance, and education, Jiang Xiaoyuan sets herself on a journey to find pieces of her \"real\" identity.",
@@ -353,6 +369,25 @@
     "is_local": true
   },
   {
+    "id": "67391",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "release_date": "2016-09-23",
+    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
+    "vote_average": 7.882,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      18,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -367,25 +402,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "67391",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "release_date": "2016-09-23",
-    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
-    "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.882,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18,
-      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -433,7 +449,7 @@
     "release_date": "2025-07-27",
     "poster_path": "/wJXLfURFsU1Ga67QLMQbk8TBmHv.jpg",
     "backdrop_path": "/b0nB5uwh7yjubFmXKVTxETzaR8K.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.412,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -572,13 +588,13 @@
     "is_local": true
   },
   {
-    "id": "223618",
-    "title": "Venus in the Sky",
-    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
-    "release_date": "2023-09-02",
-    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
-    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
-    "vote_average": 7.8,
+    "id": "217861",
+    "title": "Dangerous Romance",
+    "overview": "Sailom, a poor and studious student, has worked several odd jobs along with his elder brother in an effort to keep them afloat. One day, a misunderstanding causes him to hate school bully Kanghan. However, fate plays its hand when Sailom, offered a sum of money too great to refuse, takes on the role of Kanghan's private tutor. Despite their difference, the two develop an irrefutable connection.",
+    "release_date": "2023-08-18",
+    "poster_path": "/h6dbV84GgqOnWsTEJAqzPJ5sYql.jpg",
+    "backdrop_path": "/7e9AuNZ5N0JB5Chdqo9ETSRn05K.jpg",
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -589,13 +605,13 @@
     "is_local": true
   },
   {
-    "id": "217861",
-    "title": "Dangerous Romance",
-    "overview": "Sailom, a poor and studious student, has worked several odd jobs along with his elder brother in an effort to keep them afloat. One day, a misunderstanding causes him to hate school bully Kanghan. However, fate plays its hand when Sailom, offered a sum of money too great to refuse, takes on the role of Kanghan's private tutor. Despite their difference, the two develop an irrefutable connection.",
-    "release_date": "2023-08-18",
-    "poster_path": "/h6dbV84GgqOnWsTEJAqzPJ5sYql.jpg",
-    "backdrop_path": "/7e9AuNZ5N0JB5Chdqo9ETSRn05K.jpg",
-    "vote_average": 8.3,
+    "id": "223618",
+    "title": "Venus in the Sky",
+    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
+    "release_date": "2023-09-02",
+    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
+    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2213,6 +2229,24 @@
     "is_local": true
   },
   {
+    "id": "237327",
+    "title": "My Golden Blood",
+    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
+    "release_date": "2025-03-12",
+    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
+    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
+    "vote_average": 8.96,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1599191",
     "title": "Renegade Immortal: Battle of the Immortal Slayer",
     "overview": "",
@@ -2226,24 +2260,6 @@
       28,
       12,
       14
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "237327",
-    "title": "My Golden Blood",
-    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
-    "release_date": "2025-03-12",
-    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
-    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
-    "vote_average": 8.96,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2400,7 +2416,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.375,
+    "vote_average": 8.386,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3017,23 +3033,6 @@
     "is_local": true
   },
   {
-    "id": "299952",
-    "title": "The Early Spring",
-    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-    "release_date": "2026-08-26",
-    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 6.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "235355",
     "title": "Resident Playbook",
     "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
@@ -3060,6 +3059,23 @@
     "vote_average": 9,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "299952",
+    "title": "The Early Spring",
+    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+    "release_date": "2026-08-26",
+    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "vote_average": 6.7,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -3930,7 +3946,7 @@
     "release_date": "2025-03-20",
     "poster_path": "/5cDIWdKQX3V6Gcf75H7PQcFV1an.jpg",
     "backdrop_path": "/iOZ4hgeQqQ4b4Bs0ibppG8ZRPVe.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.639,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4116,7 +4132,7 @@
     "release_date": "2024-10-27",
     "poster_path": "/1ZmjzDN2f7ZxzMluOTO5aPztI9e.jpg",
     "backdrop_path": "/3iIPUMjUuR0dKhKsC4n9zF7isPu.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.645,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4242,7 +4258,7 @@
     "release_date": "2025-02-10",
     "poster_path": "/qBQl7x6qSqeuYdgq7rkctm1L4gW.jpg",
     "backdrop_path": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.717,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5011,7 +5027,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.195,
+    "vote_average": 9.196,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
