@@ -1,22 +1,5 @@
 [
   {
-    "id": 1100782,
-    "title": "Smile 2",
-    "poster_path": "/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
-    "overview": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
-    "vote_average": 6.583,
-    "release_date": "2024-10-16",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "310800",
     "title": "Siren's Kiss",
     "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
@@ -96,7 +79,7 @@
     "release_date": "2025-05-18",
     "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
     "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 6.833,
+    "vote_average": 6.881,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -533,6 +516,24 @@
     "is_local": true
   },
   {
+    "id": "219651",
+    "title": "Welcome to Samdal-ri",
+    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
+    "release_date": "2023-12-02",
+    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
+    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -546,24 +547,6 @@
       16,
       80,
       9648,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "219651",
-    "title": "Welcome to Samdal-ri",
-    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
-    "release_date": "2023-12-02",
-    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
-    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
       35
     ],
     "video_url": "",
@@ -2119,25 +2102,6 @@
     "is_local": true
   },
   {
-    "id": "270420",
-    "title": "No Tail to Tell",
-    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
-    "release_date": "2026-01-16",
-    "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
-    "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "vote_average": 7.91,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "107329",
     "title": "Go Ahead",
     "overview": "Three school students develop a sibling-like bond. But could the pressures of adulthood deepen – or shatter – their relationships?",
@@ -2151,6 +2115,25 @@
       18,
       10751,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "270420",
+    "title": "No Tail to Tell",
+    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
+    "release_date": "2026-01-16",
+    "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
+    "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+    "vote_average": 7.91,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5011,7 +4994,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.196,
+    "vote_average": 9.197,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5061,6 +5044,23 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1100782,
+    "title": "Smile 2",
+    "poster_path": "/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+    "overview": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+    "vote_average": 6.583,
+    "release_date": "2024-10-16",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 536554,
