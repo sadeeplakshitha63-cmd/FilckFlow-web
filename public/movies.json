@@ -1,5 +1,41 @@
 [
   {
+    "id": 80278,
+    "title": "The Impossible",
+    "poster_path": "/k0DLCiDbnYywOHiISALbl2EH2NE.jpg",
+    "overview": "In December 2004, close-knit family Maria, Henry and their three sons begin their winter vacation in Thailand. But the day after Christmas, the idyllic holiday turns into an incomprehensible nightmare when a terrifying roar rises from the depths of the sea, followed by a wall of black water that devours everything in its path. Though Maria and her family face their darkest hour, unexpected displays of kindness and courage ameliorate their terror.",
+    "vote_average": 7.376,
+    "release_date": "2012-09-09",
+    "genre_ids": [
+      18,
+      53,
+      36
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 299687,
+    "title": "The 5th Wave",
+    "poster_path": "/ja34BV577dtjWl2S5G1tB93IjYb.jpg",
+    "overview": "16-year-old Cassie Sullivan tries to survive in a world devastated by the waves of an alien invasion that has already decimated the population and knocked mankind back to the Stone Age.",
+    "vote_average": 5.939,
+    "release_date": "2016-01-14",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "310800",
     "title": "Siren's Kiss",
     "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
@@ -318,6 +354,23 @@
     "is_local": true
   },
   {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
+    "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -331,23 +384,6 @@
       10759,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
-    "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -928,24 +964,6 @@
     "is_local": true
   },
   {
-    "id": "214873",
-    "title": "My School President",
-    "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
-    "release_date": "2022-12-02",
-    "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
-    "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
-    "vote_average": 8.171,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "664413",
     "title": "365 Days",
     "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
@@ -959,6 +977,24 @@
       10749,
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "214873",
+    "title": "My School President",
+    "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
+    "release_date": "2022-12-02",
+    "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
+    "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
+    "vote_average": 8.171,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1072,6 +1108,23 @@
     "is_local": true
   },
   {
+    "id": "257010",
+    "title": "The Princess's Gambit",
+    "overview": "In a world divided into three kingdoms, Princess Jiang Taohua of Zhao escapes Empress Lv's control through a marriage alliance in Wei, a kingdom fraught with political intrigue. An unexpected encounter with Chancellor Shen Zaiye draws her into his world, where their complex relationship unfolds as they navigate personal ambitions and the turbulence of court politics.",
+    "release_date": "2025-06-25",
+    "poster_path": "/7fG5NDepZyqYDSm0J78Dn78CruR.jpg",
+    "backdrop_path": "/10J39yDKJtpnHKn3jzzNbkhUlKb.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "284430",
     "title": "Deep Affection Eyes",
     "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
@@ -1084,23 +1137,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "257010",
-    "title": "The Princess's Gambit",
-    "overview": "In a world divided into three kingdoms, Princess Jiang Taohua of Zhao escapes Empress Lv's control through a marriage alliance in Wei, a kingdom fraught with political intrigue. An unexpected encounter with Chancellor Shen Zaiye draws her into his world, where their complex relationship unfolds as they navigate personal ambitions and the turbulence of court politics.",
-    "release_date": "2025-06-25",
-    "poster_path": "/7fG5NDepZyqYDSm0J78Dn78CruR.jpg",
-    "backdrop_path": "/10J39yDKJtpnHKn3jzzNbkhUlKb.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1141,23 +1177,6 @@
     "is_local": true
   },
   {
-    "id": "251600",
-    "title": "The Eternal Fragrance",
-    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
-    "release_date": "2026-06-27",
-    "poster_path": "/hW9WvgtXk9Bf58bB4TZ1Dy0WquB.jpg",
-    "backdrop_path": "/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
-    "vote_average": 7.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "239386",
     "title": "Kiseki Miracle Season",
     "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
@@ -1170,6 +1189,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "251600",
+    "title": "The Eternal Fragrance",
+    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
+    "release_date": "2026-06-27",
+    "poster_path": "/hW9WvgtXk9Bf58bB4TZ1Dy0WquB.jpg",
+    "backdrop_path": "/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
+    "vote_average": 7.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1829,24 +1865,6 @@
     "is_local": true
   },
   {
-    "id": "222233",
-    "title": "Doctor Slump",
-    "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
-    "release_date": "2024-01-27",
-    "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
-    "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "67915",
     "title": "Guardian: The Lonely and Great God",
     "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
@@ -1859,6 +1877,24 @@
     "genre_ids": [
       18,
       10765,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "222233",
+    "title": "Doctor Slump",
+    "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
+    "release_date": "2024-01-27",
+    "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
+    "backdrop_path": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
       35
     ],
     "video_url": "",
@@ -2859,7 +2895,7 @@
     "release_date": "2006-10-07",
     "poster_path": "/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
     "backdrop_path": "/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-    "vote_average": 8.144,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3066,6 +3102,23 @@
     "is_local": true
   },
   {
+    "id": "261128",
+    "title": "Our Generation",
+    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
+    "release_date": "2025-07-14",
+    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
+    "backdrop_path": "/o0Grq4cdBwI5iYgg0JfeUDeAOaV.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "238680",
     "title": "Moonlight Mystique",
     "overview": "Bai Shuo, the youngest daughter of the General's Mansion, aspires to cultivate immortality in order to repay a favor. On her journey to seek immortality, she accidentally rescues the great demon god Fan Yue. As the saying goes, healthy fights strengthen relationships, and they go from mutual manipulation to mutual affection as they fall in love with each other, navigating a love affair intertwined with sweetness and cruelty. Even though they face countless difficulties, their love is strong enough to overcome all limitations, allowing them to truly embrace each other.",
@@ -3078,23 +3131,6 @@
     "genre_ids": [
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "261128",
-    "title": "Our Generation",
-    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
-    "release_date": "2025-07-14",
-    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
-    "backdrop_path": "/o0Grq4cdBwI5iYgg0JfeUDeAOaV.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3462,23 +3498,6 @@
     "is_local": true
   },
   {
-    "id": "236300",
-    "title": "Love Sea",
-    "overview": "Tongrak, a romance novelist, meets Mahasamut, a quirky southern man, during his travels. Their unexpected encounter leaves Tongrak captivated.",
-    "release_date": "2024-06-09",
-    "poster_path": "/nV6AWBI0aCN41rx6vFdwaAmmoPl.jpg",
-    "backdrop_path": "/lk8UclTf2RdE0uRhQ90RIYUCO7v.jpg",
-    "vote_average": 7.537,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223896",
     "title": "Spirit Fingers",
     "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
@@ -3490,6 +3509,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "236300",
+    "title": "Love Sea",
+    "overview": "Tongrak, a romance novelist, meets Mahasamut, a quirky southern man, during his travels. Their unexpected encounter leaves Tongrak captivated.",
+    "release_date": "2024-06-09",
+    "poster_path": "/nV6AWBI0aCN41rx6vFdwaAmmoPl.jpg",
+    "backdrop_path": "/lk8UclTf2RdE0uRhQ90RIYUCO7v.jpg",
+    "vote_average": 7.537,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -5012,7 +5048,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.785,
+    "vote_average": 8.786,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
