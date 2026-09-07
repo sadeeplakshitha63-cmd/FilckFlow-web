@@ -1,39 +1,5 @@
 [
   {
-    "id": 95665,
-    "title": "Inventing Anna",
-    "poster_path": "/aZraQSnS9Dbvipv4WLJQ5xrhG3g.jpg",
-    "overview": "Audacious entrepreneur or con artist? A journalist chases down the story of Anna Delvey, who convinced New York's elite she was a German heiress.",
-    "vote_average": 6.842,
-    "release_date": "2022-02-11",
-    "genre_ids": [
-      18
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 71809,
-    "title": "The Dark Crystal: Age of Resistance",
-    "poster_path": "/xnMJ7mBC8Jx4emaj7TE4TU0Qm92.jpg",
-    "overview": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power and set out to ignite the fires of rebellion and save their world.",
-    "vote_average": 7.831,
-    "release_date": "2019-08-30",
-    "genre_ids": [
-      10765,
-      10759,
-      10751
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "146393",
     "title": "Back From the Brink",
     "overview": "Tian Yao is a dragon spirit who was betrayed by his lover and stripped of his dragon bones. He meets Yan Hui, a free-spirited young maiden who holds the key to help him regain his powers and his faith in love. Mysteries will abound as Yan Hui come to learn of her true origin.",
@@ -890,19 +856,17 @@
     "is_local": true
   },
   {
-    "id": "42188",
+    "id": "215356",
     "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.9,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.109,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
-      18,
-      10749,
-      878
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1370,7 +1334,7 @@
     "release_date": "2021-08-28",
     "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
     "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
-    "vote_average": 8.199,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1756,24 +1720,6 @@
     "is_local": true
   },
   {
-    "id": "117549",
-    "title": "Please Feel At Ease Mr. Ling",
-    "overview": "A story of how the 'rabbit' brings home a 'big bad wolf' follows a young woman named Gu An Xin who chances upon the hotshot executive Ling Yue after he encountered an accident. Gu An Xin picked up a man. At first, she thought he was stupid, but after a few days of interaction, he proves himself to be a genius. As it turns out, Ling Yue got into an accident after being caught in the ugly fight for succession of a powerful conglomerate.",
-    "release_date": "2021-05-20",
-    "poster_path": "/uX4jtDrKkhWkrHNWOELZ9iJNLpO.jpg",
-    "backdrop_path": "/pdCKtMARtuwqj8zpCPLXLrg8Y2t.jpg",
-    "vote_average": 7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "290054",
     "title": "The Seven Relics of ill Omen",
     "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
@@ -1786,6 +1732,24 @@
     "genre_ids": [
       10759,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "117549",
+    "title": "Please Feel At Ease Mr. Ling",
+    "overview": "A story of how the 'rabbit' brings home a 'big bad wolf' follows a young woman named Gu An Xin who chances upon the hotshot executive Ling Yue after he encountered an accident. Gu An Xin picked up a man. At first, she thought he was stupid, but after a few days of interaction, he proves himself to be a genius. As it turns out, Ling Yue got into an accident after being caught in the ugly fight for succession of a powerful conglomerate.",
+    "release_date": "2021-05-20",
+    "poster_path": "/uX4jtDrKkhWkrHNWOELZ9iJNLpO.jpg",
+    "backdrop_path": "/pdCKtMARtuwqj8zpCPLXLrg8Y2t.jpg",
+    "vote_average": 7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2908,23 +2872,6 @@
     "is_local": true
   },
   {
-    "id": "253193",
-    "title": "A Dream Within a Dream",
-    "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
-    "release_date": "2025-06-26",
-    "poster_path": "/iGPTJ9RS5hnVhH3hs53x8qieBRV.jpg",
-    "backdrop_path": "/hznQvZZXABPjYz6aUWoonpLYhmx.jpg",
-    "vote_average": 8.25,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "298567",
     "title": "Thundercloud Rainstorm",
     "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
@@ -2934,6 +2881,23 @@
     "vote_average": 7.325,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "253193",
+    "title": "A Dream Within a Dream",
+    "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
+    "release_date": "2025-06-26",
+    "poster_path": "/iGPTJ9RS5hnVhH3hs53x8qieBRV.jpg",
+    "backdrop_path": "/hznQvZZXABPjYz6aUWoonpLYhmx.jpg",
+    "vote_average": 8.25,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -3159,7 +3123,7 @@
     "release_date": "2025-07-11",
     "poster_path": "/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
     "backdrop_path": "/buA9gM0cEcBmIcQX79o6QpTYUPT.jpg",
-    "vote_average": 7.526,
+    "vote_average": 7.529,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3479,23 +3443,6 @@
     "is_local": true
   },
   {
-    "id": "236300",
-    "title": "Love Sea",
-    "overview": "Tongrak, a romance novelist, meets Mahasamut, a quirky southern man, during his travels. Their unexpected encounter leaves Tongrak captivated.",
-    "release_date": "2024-06-09",
-    "poster_path": "/nV6AWBI0aCN41rx6vFdwaAmmoPl.jpg",
-    "backdrop_path": "/lk8UclTf2RdE0uRhQ90RIYUCO7v.jpg",
-    "vote_average": 7.537,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223896",
     "title": "Spirit Fingers",
     "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
@@ -3507,6 +3454,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "236300",
+    "title": "Love Sea",
+    "overview": "Tongrak, a romance novelist, meets Mahasamut, a quirky southern man, during his travels. Their unexpected encounter leaves Tongrak captivated.",
+    "release_date": "2024-06-09",
+    "poster_path": "/nV6AWBI0aCN41rx6vFdwaAmmoPl.jpg",
+    "backdrop_path": "/lk8UclTf2RdE0uRhQ90RIYUCO7v.jpg",
+    "vote_average": 7.537,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3927,7 +3891,7 @@
     "release_date": "2026-08-26",
     "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
     "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 7.688,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5060,6 +5024,59 @@
     "is_local": true
   },
   {
+    "id": 95665,
+    "title": "Inventing Anna",
+    "poster_path": "/aZraQSnS9Dbvipv4WLJQ5xrhG3g.jpg",
+    "overview": "Audacious entrepreneur or con artist? A journalist chases down the story of Anna Delvey, who convinced New York's elite she was a German heiress.",
+    "vote_average": 6.842,
+    "release_date": "2022-02-11",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 71809,
+    "title": "The Dark Crystal: Age of Resistance",
+    "poster_path": "/xnMJ7mBC8Jx4emaj7TE4TU0Qm92.jpg",
+    "overview": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power and set out to ignite the fires of rebellion and save their world.",
+    "vote_average": 7.831,
+    "release_date": "2019-08-30",
+    "genre_ids": [
+      10765,
+      10759,
+      10751
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "42188",
+    "title": "Never Let Me Go",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.9,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      10749,
+      878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "310800",
     "title": "Siren's Kiss",
     "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
@@ -5073,23 +5090,6 @@
       18,
       80,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "215356",
-    "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.109,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
