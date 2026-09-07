@@ -875,17 +875,19 @@
     "is_local": true
   },
   {
-    "id": "215356",
+    "id": "42188",
     "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.109,
-    "media_type": "tv",
-    "original_language": "th",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.9,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      18
+      18,
+      10749,
+      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2897,7 +2899,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
     "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
-    "vote_average": 7.395,
+    "vote_average": 7.325,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3462,23 +3464,6 @@
     "is_local": true
   },
   {
-    "id": "236300",
-    "title": "Love Sea",
-    "overview": "Tongrak, a romance novelist, meets Mahasamut, a quirky southern man, during his travels. Their unexpected encounter leaves Tongrak captivated.",
-    "release_date": "2024-06-09",
-    "poster_path": "/nV6AWBI0aCN41rx6vFdwaAmmoPl.jpg",
-    "backdrop_path": "/lk8UclTf2RdE0uRhQ90RIYUCO7v.jpg",
-    "vote_average": 7.537,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223896",
     "title": "Spirit Fingers",
     "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
@@ -3490,6 +3475,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "236300",
+    "title": "Love Sea",
+    "overview": "Tongrak, a romance novelist, meets Mahasamut, a quirky southern man, during his travels. Their unexpected encounter leaves Tongrak captivated.",
+    "release_date": "2024-06-09",
+    "poster_path": "/nV6AWBI0aCN41rx6vFdwaAmmoPl.jpg",
+    "backdrop_path": "/lk8UclTf2RdE0uRhQ90RIYUCO7v.jpg",
+    "vote_average": 7.537,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -4952,7 +4954,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
     "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
-    "vote_average": 7.379,
+    "vote_average": 7.368,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5036,6 +5038,23 @@
     "genre_ids": [
       35,
       10751,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "215356",
+    "title": "Never Let Me Go",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.109,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -5130,25 +5149,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "42188",
-    "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.9,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      18,
-      10749,
-      878
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 1355228,
