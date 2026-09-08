@@ -334,6 +334,23 @@
     "is_local": true
   },
   {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
+    "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
+    "vote_average": 8.768,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -347,23 +364,6 @@
       10759,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
-    "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
-    "vote_average": 8.768,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -462,6 +462,23 @@
     "is_local": true
   },
   {
+    "id": "1748271",
+    "title": "Stay With Me",
+    "overview": "On an intimate third date, Miles struggles to connect with new flame Ben as he’s plagued by ghostly visions from his past. As their passion builds, the hauntings become impossible to ignore.",
+    "release_date": "2026-08-16",
+    "poster_path": "/xfq8a1TFHYC4TOHZtU94wXig64l.jpg",
+    "backdrop_path": "/8smkQQpNOY5XRT4Gh8ZLiMxfnXQ.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      27
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278176",
     "title": "MuTeLuv",
     "overview": "This anthology tells seven stories of people who attempt to use supernatural forces to meet their goals, and their unique journeys to finding love along the way.",
@@ -474,23 +491,6 @@
     "genre_ids": [
       35,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1748271",
-    "title": "Stay With Me",
-    "overview": "On an intimate third date, Miles struggles to connect with new flame Ben as he’s plagued by ghostly visions from his past. As their passion builds, the hauntings become impossible to ignore.",
-    "release_date": "2026-08-16",
-    "poster_path": "/xfq8a1TFHYC4TOHZtU94wXig64l.jpg",
-    "backdrop_path": "/8smkQQpNOY5XRT4Gh8ZLiMxfnXQ.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      27
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -532,6 +532,23 @@
     "is_local": true
   },
   {
+    "id": "223618",
+    "title": "Venus in the Sky",
+    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
+    "release_date": "2023-09-02",
+    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
+    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -546,23 +563,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "223618",
-    "title": "Venus in the Sky",
-    "overview": "Venus returns home for a break from work, only to reunite with Sky, the doctor who once rejected him and now wants to make amends.",
-    "release_date": "2023-09-02",
-    "poster_path": "/8GuWQvLhBaRRazGZpKtYtpxn8LX.jpg",
-    "backdrop_path": "/o1ipHXUgi6xMhtF1u2gXRxThQ27.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -856,17 +856,19 @@
     "is_local": true
   },
   {
-    "id": "215356",
+    "id": "42188",
     "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.109,
-    "media_type": "tv",
-    "original_language": "th",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.85,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      18
+      18,
+      10749,
+      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1196,7 +1198,7 @@
     "release_date": "2026-08-02",
     "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
     "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1230,7 +1232,7 @@
     "release_date": "2026-07-11",
     "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
     "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
-    "vote_average": 8.333,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2872,23 +2874,6 @@
     "is_local": true
   },
   {
-    "id": "298567",
-    "title": "Thundercloud Rainstorm",
-    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
-    "release_date": "2025-11-28",
-    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
-    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
-    "vote_average": 7.325,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253193",
     "title": "A Dream Within a Dream",
     "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
@@ -2898,6 +2883,23 @@
     "vote_average": 8.25,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "298567",
+    "title": "Thundercloud Rainstorm",
+    "overview": "Bound by a debt, an illegitimate son moves in with his aloof cousin, unaware that their uneasy deal will spiral into a deep and dangerous obsession.",
+    "release_date": "2025-11-28",
+    "poster_path": "/fskuKS2wG3IlynvxPHTudpgcUam.jpg",
+    "backdrop_path": "/a4iuWhgZhvtHlBzozkNggciOjV8.jpg",
+    "vote_average": 7.325,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -3885,23 +3887,6 @@
     "is_local": true
   },
   {
-    "id": "299952",
-    "title": "The Early Spring",
-    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-    "release_date": "2026-08-26",
-    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "272484",
     "title": "Fated Hearts",
     "overview": "After losing her memory in battle, skilled archer Fu Yixiao is taken in by a noble family and unexpectedly reunited with her former enemy, Prince Feng Suige—the man she once struck with an arrow. As they face the dangers of Yujing together, trust replaces suspicion and a deep bond begins to form. Caught in a web of past betrayals and political intrigue, the two must confront their shared history while fighting for survival, freedom, and each other.",
@@ -3914,6 +3899,23 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "299952",
+    "title": "The Early Spring",
+    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+    "release_date": "2026-08-26",
+    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4382,7 +4384,7 @@
     "release_date": "2025-08-23",
     "poster_path": "/exUXEOierAwZ597010TLQka9TFy.jpg",
     "backdrop_path": "/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
-    "vote_average": 8.628,
+    "vote_average": 8.634,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4563,7 +4565,7 @@
     "release_date": "2026-04-11",
     "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
     "backdrop_path": "/9rR8xpMLJhJvLtae85WCrwIkRZQ.jpg",
-    "vote_average": 5.2,
+    "vote_average": 5.833,
     "media_type": "tv",
     "original_language": "tl",
     "genre_ids": [
@@ -4809,7 +4811,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.127,
+    "vote_average": 9.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4972,7 +4974,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.2,
+    "vote_average": 9.169,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -4992,7 +4994,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.782,
+    "vote_average": 8.785,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5011,12 +5013,29 @@
     "release_date": "2026-05-28",
     "poster_path": "/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg",
     "backdrop_path": "/2Lu1jb8kv93ciXYhmUlsj0E2RK1.jpg",
-    "vote_average": 6,
+    "vote_average": 8,
     "media_type": "movie",
     "original_language": "hi",
     "genre_ids": [
       35,
       10751,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "215356",
+    "title": "Never Let Me Go",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.109,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -5056,25 +5075,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "42188",
-    "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.9,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      18,
-      10749,
-      878
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "310800",
