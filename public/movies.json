@@ -1,24 +1,5 @@
 [
   {
-    "id": 44833,
-    "title": "Battleship",
-    "poster_path": "/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg",
-    "overview": "When mankind beams a radio signal into space, a reply comes from ‘Planet G’, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential that his brother, and his fiancée's father—an Admiral—expect of him.",
-    "vote_average": 5.935,
-    "release_date": "2012-04-11",
-    "genre_ids": [
-      53,
-      28,
-      12,
-      878
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "146393",
     "title": "Back From the Brink",
     "overview": "Tian Yao is a dragon spirit who was betrayed by his lover and stripped of his dragon bones. He meets Yan Hui, a free-spirited young maiden who holds the key to help him regain his powers and his faith in love. Mysteries will abound as Yan Hui come to learn of her true origin.",
@@ -353,6 +334,23 @@
     "is_local": true
   },
   {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
+    "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -366,23 +364,6 @@
       10759,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
-    "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3124,7 +3105,7 @@
     "release_date": "2023-12-04",
     "poster_path": "/ah8TT3algh20oiQUWUgxbqX35bn.jpg",
     "backdrop_path": "/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
-    "vote_average": 7.882,
+    "vote_average": 7.851,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4000,9 +3981,9 @@
     "title": "The Early Spring",
     "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
     "release_date": "2026-08-26",
-    "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "poster_path": "/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
     "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 7.944,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4078,7 +4059,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.386,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5041,6 +5022,25 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 44833,
+    "title": "Battleship",
+    "poster_path": "/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg",
+    "overview": "When mankind beams a radio signal into space, a reply comes from ‘Planet G’, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential that his brother, and his fiancée's father—an Admiral—expect of him.",
+    "vote_average": 5.935,
+    "release_date": "2012-04-11",
+    "genre_ids": [
+      53,
+      28,
+      12,
+      878
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 11619,
