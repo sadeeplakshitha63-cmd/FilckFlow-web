@@ -353,23 +353,6 @@
     "is_local": true
   },
   {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
-    "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278162",
     "title": "My Magic Prophecy",
     "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
@@ -382,6 +365,23 @@
     "genre_ids": [
       18,
       10765,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
+    "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
       35
     ],
     "video_url": "",
@@ -1300,7 +1300,7 @@
     "release_date": "2016-11-16",
     "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
     "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.498,
+    "vote_average": 8.499,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1929,7 +1929,7 @@
     "release_date": "2022-06-29",
     "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
     "backdrop_path": "/39owosjolYd3gKufgM9jMdSSk9t.jpg",
-    "vote_average": 8.488,
+    "vote_average": 8.489,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2034,7 +2034,7 @@
     "release_date": "2025-07-05",
     "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
     "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
-    "vote_average": 7.638,
+    "vote_average": 7.671,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2164,7 +2164,7 @@
     "release_date": "2016-02-24",
     "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
     "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "vote_average": 8.317,
+    "vote_average": 8.318,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3328,7 +3328,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.34,
+    "vote_average": 8.352,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3399,7 +3399,7 @@
     "release_date": "2025-01-02",
     "poster_path": "/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
     "backdrop_path": "/zecxlBpLx0aLIjNjX1IOZuaSgo0.jpg",
-    "vote_average": 8.341,
+    "vote_average": 8.34,
     "media_type": "movie",
     "original_language": "ko",
     "genre_ids": [
@@ -3680,7 +3680,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
     "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.584,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4117,7 +4117,7 @@
     "release_date": "2026-08-26",
     "poster_path": "/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
     "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 8.227,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4329,7 +4329,7 @@
     "release_date": "2025-02-17",
     "poster_path": "/84ZP2lykuGBwG13wgtLzVKtfBS.jpg",
     "backdrop_path": "/4Xer0oaXautbLRfJQOrlmPSCfN1.jpg",
-    "vote_average": 8.115,
+    "vote_average": 8.114,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
