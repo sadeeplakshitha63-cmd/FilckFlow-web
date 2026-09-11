@@ -1,33 +1,33 @@
 [
   {
-    "id": 211079,
-    "title": "Supersex",
-    "poster_path": "/9tSS4VeR5lYzny2c6Fj6lgYszRP.jpg",
-    "overview": "Inspired by true events, this is the story of how Rocco Siffredi escaped a humble life and emerged as the world's greatest porn star.",
-    "vote_average": 6.708,
-    "release_date": "2024-03-06",
+    "id": 365620,
+    "title": "Ferrari",
+    "poster_path": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+    "overview": "Set during the summer of 1957. Ex-racecar driver, Enzo Ferrari, is in crisis. Bankruptcy stalks the company he and his wife, Laura, built from nothing ten years earlier. Their tempestuous marriage struggles with the mourning for one son and the acknowledgement of another.",
+    "vote_average": 6.36,
+    "release_date": "2023-12-14",
     "genre_ids": [
+      36,
       18
     ],
-    "original_language": "it",
-    "media_type": "tv",
+    "original_language": "en",
+    "media_type": "movie",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
   },
   {
-    "id": 314478,
-    "title": "DANG!",
-    "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-    "overview": "Follow a brother and sister whose fun, messy lives in New York City are interrupted when their worst nightmare comes true: Their high-achieving older sister shows up and wants to hang out with them.",
-    "vote_average": 8.25,
-    "release_date": "2026-09-08",
+    "id": 618162,
+    "title": "The Harder They Fall",
+    "poster_path": "/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
+    "overview": "Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck, a ruthless crime boss who just got sprung from prison.",
+    "vote_average": 6.617,
+    "release_date": "2021-10-22",
     "genre_ids": [
-      16,
-      35
+      37
     ],
     "original_language": "en",
-    "media_type": "tv",
+    "media_type": "movie",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
@@ -1687,7 +1687,7 @@
     "release_date": "2025-06-11",
     "poster_path": "/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
     "backdrop_path": "/xPFmxUuZnmYAlpoO5QI9AdYegxt.jpg",
-    "vote_average": 8.042,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1777,7 +1777,7 @@
     "release_date": "2021-10-29",
     "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
     "backdrop_path": "/st764ocddhbsflFdkMblEMxGejS.jpg",
-    "vote_average": 8.417,
+    "vote_average": 8.412,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2867,17 +2867,19 @@
     "is_local": true
   },
   {
-    "id": "27984",
-    "title": "2900 Happiness",
-    "overview": "Zip code 2900 equals wealth, power and beauty. They got it all but what is the price.",
-    "release_date": "2007-09-18",
-    "poster_path": "/1Y6QdyqoVkypvDJkS80kLrXNx74.jpg",
-    "backdrop_path": "/tCpIQPxz6nMPHEoJSWMBcJYZNEu.jpg",
-    "vote_average": 4,
+    "id": "135340",
+    "title": "Happiness",
+    "overview": "A new type of deadly virus spread throughout the city, and the apartment where has different social classes of people is sealed off. With the fear of the virus, and the conflicts of the different classes, the residents have to spend and survive in the new habitation.",
+    "release_date": "2021-11-05",
+    "poster_path": "/tU1naKQs9Q0r5Uw9dy0PPUre0hq.jpg",
+    "backdrop_path": "/i7l9C11wZ44e7nUqqlBIxbv3GcN.jpg",
+    "vote_average": 8.084,
     "media_type": "tv",
-    "original_language": "da",
+    "original_language": "ko",
     "genre_ids": [
-      18
+      18,
+      9648,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3819,7 +3821,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "vote_average": 8.413,
+    "vote_average": 8.422,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5050,6 +5052,56 @@
     "genre_ids": [
       35,
       10751,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": 211079,
+    "title": "Supersex",
+    "poster_path": "/9tSS4VeR5lYzny2c6Fj6lgYszRP.jpg",
+    "overview": "Inspired by true events, this is the story of how Rocco Siffredi escaped a humble life and emerged as the world's greatest porn star.",
+    "vote_average": 6.708,
+    "release_date": "2024-03-06",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "it",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 314478,
+    "title": "DANG!",
+    "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+    "overview": "Follow a brother and sister whose fun, messy lives in New York City are interrupted when their worst nightmare comes true: Their high-achieving older sister shows up and wants to hang out with them.",
+    "vote_average": 8.25,
+    "release_date": "2026-09-08",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "27984",
+    "title": "2900 Happiness",
+    "overview": "Zip code 2900 equals wealth, power and beauty. They got it all but what is the price.",
+    "release_date": "2007-09-18",
+    "poster_path": "/1Y6QdyqoVkypvDJkS80kLrXNx74.jpg",
+    "backdrop_path": "/tCpIQPxz6nMPHEoJSWMBcJYZNEu.jpg",
+    "vote_average": 4,
+    "media_type": "tv",
+    "original_language": "da",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -9839,25 +9891,6 @@
     "original_language": "zh",
     "genre_ids": [
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "135340",
-    "title": "Happiness",
-    "overview": "A new type of deadly virus spread throughout the city, and the apartment where has different social classes of people is sealed off. With the fear of the virus, and the conflicts of the different classes, the residents have to spend and survive in the new habitation.",
-    "release_date": "2021-11-05",
-    "poster_path": "/eSwjwn8CtNLLBSMLR9DWf1n5G1D.jpg",
-    "backdrop_path": "/i7l9C11wZ44e7nUqqlBIxbv3GcN.jpg",
-    "vote_average": 8.081,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      9648,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
