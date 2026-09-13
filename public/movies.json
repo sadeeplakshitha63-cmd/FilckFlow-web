@@ -1,104 +1,5 @@
 [
   {
-    "id": 1739206,
-    "title": "Untold Mr. T: I Pity the Fool",
-    "poster_path": "/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
-    "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
-    "vote_average": 7.7,
-    "release_date": "2026-09-08",
-    "genre_ids": [
-      99
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 578701,
-    "title": "Those Who Wish Me Dead",
-    "poster_path": "/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
-    "overview": "A young boy finds himself pursued by two assassins in the Montana wilderness, with a survival expert determined to protect him, and a forest fire threatening to consume them all.",
-    "vote_average": 6.594,
-    "release_date": "2021-05-05",
-    "genre_ids": [
-      53,
-      28
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 999722,
-    "title": "Old People",
-    "poster_path": "/2JKKheLcrpXXYSUD3mkmdq8I9p3.jpg",
-    "overview": "A woman who's returned home with her two kids to attend her sister's wedding must suddenly defend their lives against older people on a killing spree.",
-    "vote_average": 5.655,
-    "release_date": "2022-10-07",
-    "genre_ids": [
-      27
-    ],
-    "original_language": "de",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 155421,
-    "title": "All the Light We Cannot See",
-    "poster_path": "/5vctOvdEXakZWTJrP8bgPEoCbqS.jpg",
-    "overview": "A blind French girl and a young German soldier's paths collide during WWII.",
-    "vote_average": 7.398,
-    "release_date": "2023-11-02",
-    "genre_ids": [
-      18
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 59717,
-    "title": "Comedians in Cars Getting Coffee",
-    "poster_path": "/hpK5MsFa7k7RQdClvRglBo0wAoT.jpg",
-    "overview": "Jerry takes his comedy pals out for coffee in a selection of his classic automobiles. Larry David sums it up best when he says, 'You've finally made a show about nothing.'",
-    "vote_average": 7.09,
-    "release_date": "2012-07-19",
-    "genre_ids": [
-      35,
-      10767
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 313172,
-    "title": "Chumbak",
-    "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
-    "overview": "Five quirky families navigate life as neighbors in Chumbak Colony, where chaotic conflicts and hilarious antics turn each day into a new chapter.",
-    "vote_average": 0,
-    "release_date": "2026-09-10",
-    "genre_ids": [
-      35,
-      10751
-    ],
-    "original_language": "hi",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "146393",
     "title": "Back From the Brink",
     "overview": "Tian Yao is a dragon spirit who was betrayed by his lover and stripped of his dragon bones. He meets Yan Hui, a free-spirited young maiden who holds the key to help him regain his powers and his faith in love. Mysteries will abound as Yan Hui come to learn of her true origin.",
@@ -159,7 +60,7 @@
     "release_date": "2025-05-18",
     "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
     "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 6.881,
+    "vote_average": 6.912,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -452,25 +353,6 @@
     "is_local": true
   },
   {
-    "id": "67391",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "release_date": "2016-09-23",
-    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
-    "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.892,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
@@ -507,6 +389,25 @@
     "is_local": true
   },
   {
+    "id": "67391",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "release_date": "2016-09-23",
+    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
+    "vote_average": 7.892,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      18,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "237411",
     "title": "The Sign",
     "overview": "Two men join a high-stakes special ops team to solve supernatural crimes, while a hidden connection from their past lives complicates everything.",
@@ -533,7 +434,7 @@
     "release_date": "2023-11-10",
     "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
     "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
-    "vote_average": 9.421,
+    "vote_average": 9.41,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1119,13 +1020,13 @@
     "is_local": true
   },
   {
-    "id": "257010",
-    "title": "The Princess's Gambit",
-    "overview": "In a world divided into three kingdoms, Princess Jiang Taohua of Zhao escapes Empress Lv's control through a marriage alliance in Wei, a kingdom fraught with political intrigue. An unexpected encounter with Chancellor Shen Zaiye draws her into his world, where their complex relationship unfolds as they navigate personal ambitions and the turbulence of court politics.",
-    "release_date": "2025-06-25",
-    "poster_path": "/7fG5NDepZyqYDSm0J78Dn78CruR.jpg",
-    "backdrop_path": "/10J39yDKJtpnHKn3jzzNbkhUlKb.jpg",
-    "vote_average": 8,
+    "id": "253357",
+    "title": "See Your Love",
+    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
+    "release_date": "2024-10-23",
+    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
+    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
+    "vote_average": 8.696,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1136,13 +1037,13 @@
     "is_local": true
   },
   {
-    "id": "253357",
-    "title": "See Your Love",
-    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
-    "release_date": "2024-10-23",
-    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
-    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
-    "vote_average": 8.696,
+    "id": "257010",
+    "title": "The Princess's Gambit",
+    "overview": "In a world divided into three kingdoms, Princess Jiang Taohua of Zhao escapes Empress Lv's control through a marriage alliance in Wei, a kingdom fraught with political intrigue. An unexpected encounter with Chancellor Shen Zaiye draws her into his world, where their complex relationship unfolds as they navigate personal ambitions and the turbulence of court politics.",
+    "release_date": "2025-06-25",
+    "poster_path": "/7fG5NDepZyqYDSm0J78Dn78CruR.jpg",
+    "backdrop_path": "/10J39yDKJtpnHKn3jzzNbkhUlKb.jpg",
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1188,24 +1089,6 @@
     "is_local": true
   },
   {
-    "id": "284430",
-    "title": "Deep Affection Eyes",
-    "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
-    "release_date": "2025-07-21",
-    "poster_path": "/9m3VFGSZwEJukjzGD340GcXfEzQ.jpg",
-    "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "239386",
     "title": "Kiseki Miracle Season",
     "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
@@ -1218,6 +1101,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "284430",
+    "title": "Deep Affection Eyes",
+    "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
+    "release_date": "2025-07-21",
+    "poster_path": "/9m3VFGSZwEJukjzGD340GcXfEzQ.jpg",
+    "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2347,6 +2248,23 @@
     "is_local": true
   },
   {
+    "id": "230735",
+    "title": "My Personal Weatherman",
+    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
+    "release_date": "2023-08-11",
+    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
+    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
+    "vote_average": 7.913,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1599191",
     "title": "Renegade Immortal: Battle of the Immortal Slayer",
     "overview": "",
@@ -2360,23 +2278,6 @@
       28,
       12,
       14
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "230735",
-    "title": "My Personal Weatherman",
-    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
-    "release_date": "2023-08-11",
-    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
-    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
-    "vote_average": 7.913,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5035,7 +4936,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
     "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
-    "vote_average": 7.368,
+    "vote_average": 7.4,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5094,7 +4995,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.786,
+    "vote_average": 8.8,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5124,6 +5025,105 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 1739206,
+    "title": "Untold Mr. T: I Pity the Fool",
+    "poster_path": "/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+    "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
+    "vote_average": 7.7,
+    "release_date": "2026-09-08",
+    "genre_ids": [
+      99
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 578701,
+    "title": "Those Who Wish Me Dead",
+    "poster_path": "/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
+    "overview": "A young boy finds himself pursued by two assassins in the Montana wilderness, with a survival expert determined to protect him, and a forest fire threatening to consume them all.",
+    "vote_average": 6.594,
+    "release_date": "2021-05-05",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 999722,
+    "title": "Old People",
+    "poster_path": "/2JKKheLcrpXXYSUD3mkmdq8I9p3.jpg",
+    "overview": "A woman who's returned home with her two kids to attend her sister's wedding must suddenly defend their lives against older people on a killing spree.",
+    "vote_average": 5.655,
+    "release_date": "2022-10-07",
+    "genre_ids": [
+      27
+    ],
+    "original_language": "de",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 155421,
+    "title": "All the Light We Cannot See",
+    "poster_path": "/5vctOvdEXakZWTJrP8bgPEoCbqS.jpg",
+    "overview": "A blind French girl and a young German soldier's paths collide during WWII.",
+    "vote_average": 7.398,
+    "release_date": "2023-11-02",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 59717,
+    "title": "Comedians in Cars Getting Coffee",
+    "poster_path": "/hpK5MsFa7k7RQdClvRglBo0wAoT.jpg",
+    "overview": "Jerry takes his comedy pals out for coffee in a selection of his classic automobiles. Larry David sums it up best when he says, 'You've finally made a show about nothing.'",
+    "vote_average": 7.09,
+    "release_date": "2012-07-19",
+    "genre_ids": [
+      35,
+      10767
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 313172,
+    "title": "Chumbak",
+    "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+    "overview": "Five quirky families navigate life as neighbors in Chumbak Colony, where chaotic conflicts and hilarious antics turn each day into a new chapter.",
+    "vote_average": 0,
+    "release_date": "2026-09-10",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "original_language": "hi",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "135340",
