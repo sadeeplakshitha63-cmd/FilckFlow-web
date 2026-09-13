@@ -574,7 +574,7 @@
     "release_date": "1996-01-08",
     "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
     "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8.008,
+    "vote_average": 8.01,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -899,7 +899,7 @@
     "release_date": "2022-12-02",
     "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
     "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
-    "vote_average": 8.214,
+    "vote_average": 8.186,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2290,7 +2290,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.075,
+    "vote_average": 8.07,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2453,6 +2453,25 @@
     "is_local": true
   },
   {
+    "id": "31910",
+    "title": "Naruto Shippūden",
+    "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+    "release_date": "2007-02-15",
+    "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+    "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+    "vote_average": 8.529,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "289139",
     "title": "Overdo",
     "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
@@ -2481,25 +2500,6 @@
     "original_language": "zh",
     "genre_ids": [
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "31910",
-    "title": "Naruto Shippūden",
-    "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
-    "release_date": "2007-02-15",
-    "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
-    "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.529,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      10759,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2853,19 +2853,18 @@
     "is_local": true
   },
   {
-    "id": "135340",
+    "id": "10683",
     "title": "Happiness",
-    "overview": "A new type of deadly virus spread throughout the city, and the apartment where has different social classes of people is sealed off. With the fear of the virus, and the conflicts of the different classes, the residents have to spend and survive in the new habitation.",
-    "release_date": "2021-11-05",
-    "poster_path": "/tU1naKQs9Q0r5Uw9dy0PPUre0hq.jpg",
-    "backdrop_path": "/i7l9C11wZ44e7nUqqlBIxbv3GcN.jpg",
-    "vote_average": 8.084,
-    "media_type": "tv",
-    "original_language": "ko",
+    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+    "release_date": "1998-10-11",
+    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
+    "vote_average": 7.434,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      18,
-      9648,
-      10765
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3031,6 +3030,23 @@
     "is_local": true
   },
   {
+    "id": "261128",
+    "title": "Our Generation",
+    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
+    "release_date": "2025-07-14",
+    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
+    "backdrop_path": "/o0Grq4cdBwI5iYgg0JfeUDeAOaV.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "289763",
     "title": "See You at Work Tomorrow!",
     "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
@@ -3042,23 +3058,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "261128",
-    "title": "Our Generation",
-    "overview": "Lin Qile and Jiang Qiaoxi reconnect in high school after a childhood friendship and a lingering misunderstanding. As they navigate youth's ups and downs alongside their classmates, they grow through shared experiences and step into new horizons.",
-    "release_date": "2025-07-14",
-    "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
-    "backdrop_path": "/o0Grq4cdBwI5iYgg0JfeUDeAOaV.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3164,7 +3163,7 @@
     "release_date": "2025-02-15",
     "poster_path": "/l4Fihq74U4kRODxaTzcGs82hYKp.jpg",
     "backdrop_path": "/1PSqUcQaVVLWwkLhuXewg7EVONv.jpg",
-    "vote_average": 7.778,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3737,7 +3736,7 @@
     "release_date": "2024-04-03",
     "poster_path": "/gqVxKunQPQVOZjElkVD0kz19ld7.jpg",
     "backdrop_path": "/5PAupb5qisR4w1GznvbyTINB7jH.jpg",
-    "vote_average": 8.588,
+    "vote_average": 8.514,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4976,7 +4975,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.15,
+    "vote_average": 9.148,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5022,6 +5021,25 @@
       35,
       10751,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "135340",
+    "title": "Happiness",
+    "overview": "A new type of deadly virus spread throughout the city, and the apartment where has different social classes of people is sealed off. With the fear of the virus, and the conflicts of the different classes, the residents have to spend and survive in the new habitation.",
+    "release_date": "2021-11-05",
+    "poster_path": "/tU1naKQs9Q0r5Uw9dy0PPUre0hq.jpg",
+    "backdrop_path": "/i7l9C11wZ44e7nUqqlBIxbv3GcN.jpg",
+    "vote_average": 8.084,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      9648,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -9134,24 +9152,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "10683",
-    "title": "Happiness",
-    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
-    "release_date": "1998-10-11",
-    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
-    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
-    "vote_average": 7.426,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 288671,
