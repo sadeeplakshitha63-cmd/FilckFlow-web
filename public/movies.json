@@ -1,5 +1,54 @@
 [
   {
+    "id": 243202,
+    "title": "Rhythm + Flow Italy",
+    "poster_path": "/wcL1RX12xlFydhSiOI9PgY29Zl3.jpg",
+    "overview": "In this music competition show, Fabri Fibra, Geolier and Rose Villain hit the streets of Rome, Naples and Milan to find the next Italian rap superstar.",
+    "vote_average": 7.237,
+    "release_date": "2024-02-19",
+    "genre_ids": [
+      10764
+    ],
+    "original_language": "it",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 332863,
+    "title": "Stolen Heartbeats",
+    "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+    "overview": "After an attack leaves a woman named Anabel comatose, she and Rafael—a nurse who has the unique ability to hear the dead—must work together to keep her alive while hiding from her enemies.",
+    "vote_average": 10,
+    "release_date": "2026-09-11",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 133784,
+    "title": "Rhythm + Flow France",
+    "poster_path": "/fywhrJNTWC70f4xzUKGqLOS8dkD.jpg",
+    "overview": "French rappers freestyle, battle and write their way to a game-changing 100,000 euro prize in a music competition series judged by Niska, Shay and SCH.",
+    "vote_average": 7.2,
+    "release_date": "2022-06-09",
+    "genre_ids": [
+      10764
+    ],
+    "original_language": "fr",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "229480",
     "title": "No Gain No Love",
     "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
@@ -42,7 +91,7 @@
     "release_date": "2025-05-18",
     "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
     "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 6.912,
+    "vote_average": 6.913,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1242,23 +1291,6 @@
     "is_local": true
   },
   {
-    "id": "295558",
-    "title": "Key to the Phoenix Heart",
-    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
-    "release_date": "2026-07-11",
-    "poster_path": "/hgxhWV6xPdo3bQBX8Gdy0E0tiJq.jpg",
-    "backdrop_path": "/eZTq2kkhZ9AQtQ1H5SD7h1Q0PIc.jpg",
-    "vote_average": 7.929,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "272512",
     "title": "Our Youth",
     "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
@@ -1276,13 +1308,30 @@
     "is_local": true
   },
   {
+    "id": "295558",
+    "title": "Key to the Phoenix Heart",
+    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
+    "release_date": "2026-07-11",
+    "poster_path": "/hgxhWV6xPdo3bQBX8Gdy0E0tiJq.jpg",
+    "backdrop_path": "/eZTq2kkhZ9AQtQ1H5SD7h1Q0PIc.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "230448",
     "title": "Mr. Plankton",
     "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
     "release_date": "2024-11-08",
     "poster_path": "/c31cvdNNiAMvb4XVjAwYLNn3LNO.jpg",
     "backdrop_path": "/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
-    "vote_average": 8.144,
+    "vote_average": 8.158,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1364,6 +1413,24 @@
     "is_local": true
   },
   {
+    "id": "135897",
+    "title": "Our Beloved Summer",
+    "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
+    "release_date": "2021-12-06",
+    "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
+    "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
+    "vote_average": 8.37,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "228689",
     "title": "Genie, Make a Wish",
     "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
@@ -1375,24 +1442,6 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "135897",
-    "title": "Our Beloved Summer",
-    "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
-    "release_date": "2021-12-06",
-    "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
-    "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
-    "vote_average": 8.37,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
       35,
       18
     ],
@@ -2921,20 +2970,19 @@
     "is_local": true
   },
   {
-    "id": "1357633",
-    "title": "Solo Leveling -ReAwakening-",
-    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
-    "release_date": "2024-11-26",
-    "poster_path": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
-    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-    "vote_average": 7.2,
-    "media_type": "movie",
+    "id": "127532",
+    "title": "Solo Leveling",
+    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "release_date": "2024-01-07",
+    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "vote_average": 8.677,
+    "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
-      28,
-      12,
-      14,
-      16
+      16,
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3309,7 +3357,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.372,
+    "vote_average": 8.384,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3447,7 +3495,7 @@
     "title": "Spirit Fingers",
     "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
     "release_date": "2025-10-29",
-    "poster_path": "/aM28UXrgZoNNk4ZBfSs9lzw6HeI.jpg",
+    "poster_path": "/sKme4yZ2Ih9OiiOuAY51Q65iuwk.jpg",
     "backdrop_path": "/6pDBlGPXWhQJ5aIrKVNbIph1y75.jpg",
     "vote_average": 8.5,
     "media_type": "tv",
@@ -4223,7 +4271,7 @@
     "release_date": "2026-08-26",
     "poster_path": "/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
     "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 8.219,
+    "vote_average": 8.265,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4955,7 +5003,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.1,
+    "vote_average": 9.14,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -4975,7 +5023,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.787,
+    "vote_average": 8.788,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5001,6 +5049,26 @@
       35,
       10751,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1357633",
+    "title": "Solo Leveling -ReAwakening-",
+    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+    "release_date": "2024-11-26",
+    "poster_path": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
+    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "vote_average": 7.2,
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -8211,25 +8279,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "127532",
-    "title": "Solo Leveling",
-    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
-    "release_date": "2024-01-07",
-    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
-    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-    "vote_average": 8.666,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 248852,
