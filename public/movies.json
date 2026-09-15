@@ -485,7 +485,7 @@
     "release_date": "2023-12-02",
     "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
     "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.164,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -918,7 +918,7 @@
     "release_date": "2025-07-26",
     "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
     "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
-    "vote_average": 7.789,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1208,23 +1208,6 @@
     "is_local": true
   },
   {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281004",
     "title": "Beyond the Bar",
     "overview": "A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
@@ -1234,6 +1217,23 @@
     "vote_average": 8.089,
     "media_type": "tv",
     "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -2199,7 +2199,7 @@
     "release_date": "2026-04-17",
     "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
     "backdrop_path": "/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
-    "vote_average": 8.771,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2246,24 +2246,6 @@
     "is_local": true
   },
   {
-    "id": "285838",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "release_date": "2026-04-24",
-    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.059,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278146",
     "title": "Dare You to Death",
     "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
@@ -2295,6 +2277,24 @@
     "genre_ids": [
       35,
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "285838",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "release_date": "2026-04-24",
+    "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "vote_average": 8.059,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
       18
     ],
     "video_url": "",
@@ -2457,30 +2457,13 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.529,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
       16,
       10759,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "319037",
-    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
-    "release_date": "2026-06-12",
-    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
-    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2499,6 +2482,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "319037",
+    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+    "release_date": "2026-06-12",
+    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2840,7 +2840,7 @@
     "release_date": "1998-10-11",
     "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
     "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
-    "vote_average": 7.434,
+    "vote_average": 7.433,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -3209,6 +3209,24 @@
     "is_local": true
   },
   {
+    "id": "252774",
+    "title": "The White Olive Tree",
+    "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
+    "release_date": "2025-02-01",
+    "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
+    "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
+    "vote_average": 8.733,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1566920",
     "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
     "overview": "The story follows Maomao and Jinshi as they travel to the hometown of a concubine who died five years ago in the imperial harem, to return her remains to her homeland. There, they encounter pirates, hidden treasures, the secret of the Empress' remains, and a mysterious boy who holds the key to the story.",
@@ -3222,24 +3240,6 @@
       16,
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252774",
-    "title": "The White Olive Tree",
-    "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
-    "release_date": "2025-02-01",
-    "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
-    "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
-    "vote_average": 8.733,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4686,7 +4686,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
-    "vote_average": 8.735,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4956,7 +4956,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.146,
+    "vote_average": 9.144,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
