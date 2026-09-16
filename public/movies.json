@@ -182,7 +182,7 @@
     "release_date": "2022-11-10",
     "poster_path": "/2LSRCKg68ktB5sBtFbOkXwDQTan.jpg",
     "backdrop_path": "/ytMqU90MI12y8YHS4tqtFGYIWMl.jpg",
-    "vote_average": 6.885,
+    "vote_average": 6.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1265,7 +1265,7 @@
     "release_date": "2026-07-11",
     "poster_path": "/hgxhWV6xPdo3bQBX8Gdy0E0tiJq.jpg",
     "backdrop_path": "/eZTq2kkhZ9AQtQ1H5SD7h1Q0PIc.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.929,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2046,6 +2046,24 @@
     "is_local": true
   },
   {
+    "id": "221416",
+    "title": "Kiseki: Dear To Me",
+    "overview": "A top student and an injured gangster form an unlikely bond, but fate, crime, and memory loss tear them apart—until destiny brings them back together.",
+    "release_date": "2023-08-22",
+    "poster_path": "/eZhHNVFaT0YSylVZJVSljmAh1fs.jpg",
+    "backdrop_path": "/qXd2fqz9KdL8BOtzXU4C1LlLU5T.jpg",
+    "vote_average": 8.074,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "270420",
     "title": "No Tail to Tell",
     "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
@@ -2059,24 +2077,6 @@
       10765,
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "221416",
-    "title": "Kiseki: Dear To Me",
-    "overview": "A top student and an injured gangster form an unlikely bond, but fate, crime, and memory loss tear them apart—until destiny brings them back together.",
-    "release_date": "2023-08-22",
-    "poster_path": "/eZhHNVFaT0YSylVZJVSljmAh1fs.jpg",
-    "backdrop_path": "/qXd2fqz9KdL8BOtzXU4C1LlLU5T.jpg",
-    "vote_average": 8.074,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3126,7 +3126,7 @@
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.367,
+    "vote_average": 8.387,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4038,15 +4038,15 @@
     "is_local": true
   },
   {
-    "id": "252650",
-    "title": "Perfect 10 Liners",
-    "overview": "First-year students join the elite ‘Perfect 10 Liners’ mentorship circle, where new bonds, secret crushes, and unexpected love stories unfold.",
-    "release_date": "2024-10-27",
-    "poster_path": "/1ZmjzDN2f7ZxzMluOTO5aPztI9e.jpg",
-    "backdrop_path": "/3iIPUMjUuR0dKhKsC4n9zF7isPu.jpg",
-    "vote_average": 8.645,
+    "id": "281011",
+    "title": "Would You Marry Me?",
+    "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
+    "release_date": "2025-10-10",
+    "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
+    "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
+    "vote_average": 8.2,
     "media_type": "tv",
-    "original_language": "th",
+    "original_language": "ko",
     "genre_ids": [
       35,
       18
@@ -4056,15 +4056,15 @@
     "is_local": true
   },
   {
-    "id": "281011",
-    "title": "Would You Marry Me?",
-    "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
-    "release_date": "2025-10-10",
-    "poster_path": "/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
-    "backdrop_path": "/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
-    "vote_average": 8.227,
+    "id": "252650",
+    "title": "Perfect 10 Liners",
+    "overview": "First-year students join the elite ‘Perfect 10 Liners’ mentorship circle, where new bonds, secret crushes, and unexpected love stories unfold.",
+    "release_date": "2024-10-27",
+    "poster_path": "/1ZmjzDN2f7ZxzMluOTO5aPztI9e.jpg",
+    "backdrop_path": "/3iIPUMjUuR0dKhKsC4n9zF7isPu.jpg",
+    "vote_average": 8.645,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "th",
     "genre_ids": [
       35,
       18
@@ -4805,19 +4805,18 @@
     "is_local": true
   },
   {
-    "id": "37854",
-    "title": "One Piece",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "release_date": "1999-10-20",
-    "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "vote_average": 8.747,
+    "id": "111110",
+    "title": "ONE PIECE",
+    "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+    "release_date": "2023-08-31",
+    "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+    "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+    "vote_average": 8.112,
     "media_type": "tv",
-    "original_language": "ja",
+    "original_language": "en",
     "genre_ids": [
       10759,
-      35,
-      16
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4957,7 +4956,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.14,
+    "vote_average": 9.1,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5003,6 +5002,25 @@
       35,
       10751,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "37854",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "release_date": "1999-10-20",
+    "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "vote_average": 8.747,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      10759,
+      35,
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5086,24 +5104,6 @@
     "original_language": "ja",
     "genre_ids": [
       16,
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "111110",
-    "title": "ONE PIECE",
-    "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
-    "release_date": "2023-08-31",
-    "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
-    "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.112,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
       10759,
       10765
     ],
