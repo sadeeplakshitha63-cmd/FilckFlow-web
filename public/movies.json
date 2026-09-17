@@ -380,7 +380,7 @@
     "release_date": "2016-09-23",
     "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
     "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.892,
+    "vote_average": 7.902,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1223,23 +1223,6 @@
     "is_local": true
   },
   {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "272512",
     "title": "Our Youth",
     "overview": "Jin Minase, a dedicated student, finds his routine disrupted when he repeatedly encounters Hirukawa, a classmate from a rough neighborhood. Their unexpected interactions make Jin question his own life choices.",
@@ -1249,6 +1232,23 @@
     "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ja",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -2288,7 +2288,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-    "vote_average": 8.058,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2837,7 +2837,7 @@
     "release_date": "1998-10-11",
     "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
     "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
-    "vote_average": 7.432,
+    "vote_average": 7.431,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -3816,7 +3816,7 @@
     "release_date": "2022-11-03",
     "poster_path": "/oFFlFjiMQrOns39k9VbWcrfvbLX.jpg",
     "backdrop_path": "/zvyESiSu16hAzE9xBKz6mh4xTch.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.14,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3977,7 +3977,7 @@
     "release_date": "2024-11-22",
     "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
     "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "vote_average": 8.328,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4103,24 +4103,6 @@
     "is_local": true
   },
   {
-    "id": "279136",
-    "title": "Love Between Lines",
-    "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
-    "release_date": "2026-01-09",
-    "poster_path": "/3jlaQYWWZgmLQMIsQ7uZid99Mlo.jpg",
-    "backdrop_path": "/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "241454",
     "title": "Love Next Door",
     "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
@@ -4133,6 +4115,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279136",
+    "title": "Love Between Lines",
+    "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
+    "release_date": "2026-01-09",
+    "poster_path": "/3jlaQYWWZgmLQMIsQ7uZid99Mlo.jpg",
+    "backdrop_path": "/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4270,7 +4270,7 @@
     "release_date": "2026-08-26",
     "poster_path": "/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
     "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4304,7 +4304,7 @@
     "release_date": "2025-05-13",
     "poster_path": "/mXbZ5aH4uhao6Dpd884USvATMfo.jpg",
     "backdrop_path": "/hew9LSQW4wk63aN1Z7cEBTISL9B.jpg",
-    "vote_average": 8.84,
+    "vote_average": 8.781,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
