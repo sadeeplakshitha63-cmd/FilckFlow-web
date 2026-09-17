@@ -1,5 +1,21 @@
 [
   {
+    "id": 295089,
+    "title": "The Doll",
+    "poster_path": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
+    "overview": "When Stanisław falls in love with the aristocratic Izabela, he dedicates his entire life to winning her over.",
+    "vote_average": 10,
+    "release_date": "2026-09-16",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "pl",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "229480",
     "title": "No Gain No Love",
     "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
@@ -479,23 +495,6 @@
     "is_local": true
   },
   {
-    "id": "217861",
-    "title": "Dangerous Romance",
-    "overview": "Sailom, a poor and studious student, has worked several odd jobs along with his elder brother in an effort to keep them afloat. One day, a misunderstanding causes him to hate school bully Kanghan. However, fate plays its hand when Sailom, offered a sum of money too great to refuse, takes on the role of Kanghan's private tutor. Despite their difference, the two develop an irrefutable connection.",
-    "release_date": "2023-08-18",
-    "poster_path": "/h6dbV84GgqOnWsTEJAqzPJ5sYql.jpg",
-    "backdrop_path": "/7e9AuNZ5N0JB5Chdqo9ETSRn05K.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "219651",
     "title": "Welcome to Samdal-ri",
     "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
@@ -508,6 +507,23 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217861",
+    "title": "Dangerous Romance",
+    "overview": "Sailom, a poor and studious student, has worked several odd jobs along with his elder brother in an effort to keep them afloat. One day, a misunderstanding causes him to hate school bully Kanghan. However, fate plays its hand when Sailom, offered a sum of money too great to refuse, takes on the role of Kanghan's private tutor. Despite their difference, the two develop an irrefutable connection.",
+    "release_date": "2023-08-18",
+    "poster_path": "/h6dbV84GgqOnWsTEJAqzPJ5sYql.jpg",
+    "backdrop_path": "/7e9AuNZ5N0JB5Chdqo9ETSRn05K.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -893,6 +909,23 @@
     "is_local": true
   },
   {
+    "id": "284488",
+    "title": "Harmony Secret",
+    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
+    "release_date": "2025-07-26",
+    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
+    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "664413",
     "title": "365 Days",
     "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
@@ -912,18 +945,16 @@
     "is_local": true
   },
   {
-    "id": "284488",
-    "title": "Harmony Secret",
-    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
-    "release_date": "2025-07-26",
-    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
-    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
+    "id": "1519202",
+    "title": "TNA Bound for Glory 2025",
+    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
+    "release_date": "2025-10-12",
+    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
+    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
+    "vote_average": 6.7,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -944,21 +975,6 @@
       35,
       9648
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1519202",
-    "title": "TNA Bound for Glory 2025",
-    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
-    "release_date": "2025-10-12",
-    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
-    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
-    "vote_average": 6.7,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1019,13 +1035,13 @@
     "is_local": true
   },
   {
-    "id": "253357",
-    "title": "See Your Love",
-    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
-    "release_date": "2024-10-23",
-    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
-    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
-    "vote_average": 8.696,
+    "id": "230250",
+    "title": "Love Me, Love My Voice",
+    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
+    "release_date": "2023-11-30",
+    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
+    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1036,13 +1052,13 @@
     "is_local": true
   },
   {
-    "id": "230250",
-    "title": "Love Me, Love My Voice",
-    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
-    "release_date": "2023-11-30",
-    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
-    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
-    "vote_average": 7.8,
+    "id": "253357",
+    "title": "See Your Love",
+    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
+    "release_date": "2024-10-23",
+    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
+    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
+    "vote_average": 8.696,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1122,6 +1138,23 @@
     "is_local": true
   },
   {
+    "id": "251600",
+    "title": "The Eternal Fragrance",
+    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
+    "release_date": "2026-06-27",
+    "poster_path": "/hW9WvgtXk9Bf58bB4TZ1Dy0WquB.jpg",
+    "backdrop_path": "/tlAZ3g7EzHqWj0Yn6SXVAdFfAcE.jpg",
+    "vote_average": 7.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "243028",
     "title": "Love Song in Winter",
     "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
@@ -1134,23 +1167,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "251600",
-    "title": "The Eternal Fragrance",
-    "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
-    "release_date": "2026-06-27",
-    "poster_path": "/hW9WvgtXk9Bf58bB4TZ1Dy0WquB.jpg",
-    "backdrop_path": "/tlAZ3g7EzHqWj0Yn6SXVAdFfAcE.jpg",
-    "vote_average": 7.3,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1174,23 +1190,6 @@
     "is_local": true
   },
   {
-    "id": "83073",
-    "title": "A Hot Night With My Boss in a Capsule Hotel",
-    "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
-    "release_date": "2018-10-08",
-    "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
-    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
-    "vote_average": 4.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "254474",
     "title": "The Princess Royal",
     "overview": "Because of political reasons, princess Li Rong and Pei Wenxuan got married at the age of 18. In the end they drifted further and further afar from each other. After 20 years of a loveless marriage, they were manipulated into turning against each other, leading to their deaths. However, they wake up back at 18, before their marriage, facing the hardest time of their lives. The two of them are given second change together, to save those around them.",
@@ -1202,6 +1201,23 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "83073",
+    "title": "A Hot Night With My Boss in a Capsule Hotel",
+    "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
+    "release_date": "2018-10-08",
+    "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
+    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
+    "vote_average": 4.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1531,7 +1547,7 @@
     "release_date": "2025-05-30",
     "poster_path": "/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
     "backdrop_path": "/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.111,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2246,25 +2262,6 @@
     "is_local": true
   },
   {
-    "id": "281016",
-    "title": "Boyfriend on Demand",
-    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
-    "release_date": "2026-03-06",
-    "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
-    "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.407,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278146",
     "title": "Dare You to Death",
     "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
@@ -2277,6 +2274,25 @@
     "genre_ids": [
       9648,
       80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "281016",
+    "title": "Boyfriend on Demand",
+    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
+    "release_date": "2026-03-06",
+    "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
+    "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
+    "vote_average": 8.407,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      10765,
       18
     ],
     "video_url": "",
@@ -2833,16 +2849,17 @@
     "is_local": true
   },
   {
-    "id": "27984",
-    "title": "2900 Happiness",
-    "overview": "Zip code 2900 equals wealth, power and beauty. They got it all but what is the price.",
-    "release_date": "2007-09-18",
-    "poster_path": "/1Y6QdyqoVkypvDJkS80kLrXNx74.jpg",
-    "backdrop_path": "/tCpIQPxz6nMPHEoJSWMBcJYZNEu.jpg",
-    "vote_average": 4,
-    "media_type": "tv",
-    "original_language": "da",
+    "id": "10683",
+    "title": "Happiness",
+    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+    "release_date": "1998-10-11",
+    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
+    "vote_average": 7.432,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -3087,7 +3104,7 @@
     "release_date": "2025-07-11",
     "poster_path": "/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
     "backdrop_path": "/buA9gM0cEcBmIcQX79o6QpTYUPT.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.529,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3782,7 +3799,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "vote_average": 8.42,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4236,7 +4253,7 @@
     "release_date": "2026-08-26",
     "poster_path": "/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
     "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 8.306,
+    "vote_average": 8.395,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4817,18 +4834,19 @@
     "is_local": true
   },
   {
-    "id": "111110",
-    "title": "ONE PIECE",
-    "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
-    "release_date": "2023-08-31",
-    "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
-    "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.112,
+    "id": "37854",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "release_date": "1999-10-20",
+    "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "vote_average": 8.748,
     "media_type": "tv",
-    "original_language": "en",
+    "original_language": "ja",
     "genre_ids": [
       10759,
-      10765
+      35,
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4988,7 +5006,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.793,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5020,6 +5038,41 @@
     "is_local": true
   },
   {
+    "id": "27984",
+    "title": "2900 Happiness",
+    "overview": "Zip code 2900 equals wealth, power and beauty. They got it all but what is the price.",
+    "release_date": "2007-09-18",
+    "poster_path": "/1Y6QdyqoVkypvDJkS80kLrXNx74.jpg",
+    "backdrop_path": "/tCpIQPxz6nMPHEoJSWMBcJYZNEu.jpg",
+    "vote_average": 4,
+    "media_type": "tv",
+    "original_language": "da",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "111110",
+    "title": "ONE PIECE",
+    "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+    "release_date": "2023-08-31",
+    "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+    "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+    "vote_average": 8.112,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "8082",
     "title": "Meteor Garden",
     "overview": "Shan Cai, whose parents are far from wealthy, attends Ying De University, the private school established exclusively for rich students. Besides being looked down by rich classmates, she has angered the leader of F4, Dao Ming Si.",
@@ -5033,24 +5086,6 @@
       18,
       35,
       10766
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "10683",
-    "title": "Happiness",
-    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
-    "release_date": "1998-10-11",
-    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
-    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
-    "vote_average": 7.432,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5105,25 +5140,6 @@
       28,
       12,
       14
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "37854",
-    "title": "One Piece",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "release_date": "1999-10-20",
-    "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "vote_average": 8.747,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      10759,
-      35,
-      16
     ],
     "video_url": "",
     "subtitle_file": null,
