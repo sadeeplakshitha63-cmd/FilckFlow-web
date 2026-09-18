@@ -1,15 +1,16 @@
 [
   {
-    "id": 320760,
-    "title": "Not a Stranger",
-    "poster_path": "/tgBRNtynz81e0DE4bWo8XwTbCw9.jpg",
-    "overview": "After giving birth, painter Funda put her career on hold to focus on her child. Ready to return to painting, she finally finds the nanny she has been searching for: Nazlı. But the mysterious and increasingly unsettling woman soon begins to disrupt the seemingly peaceful lives of Funda and her husband İlker. What begins as a simple employment arrangement develops into a dangerous psychological game in which desire, secrets and loyalty are put to the test.",
-    "vote_average": 6.5,
+    "id": 299939,
+    "title": "Monster: The Lizzie Borden Story",
+    "poster_path": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+    "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+    "vote_average": 7.857,
     "release_date": "2026-09-17",
     "genre_ids": [
-      18
+      18,
+      80
     ],
-    "original_language": "tr",
+    "original_language": "en",
     "media_type": "tv",
     "is_local": false,
     "video_url": "",
@@ -1440,7 +1441,7 @@
     "release_date": "2024-05-29",
     "poster_path": "/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
     "backdrop_path": "/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.513,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1653,7 +1654,7 @@
     "release_date": "2016-08-29",
     "poster_path": "/sTW7wLyD95JRCyUEdTfxCWQWsvd.jpg",
     "backdrop_path": "/yBmqsAFjJJtdHkptwlCy0WMsfKA.jpg",
-    "vote_average": 8.502,
+    "vote_average": 8.501,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2048,7 +2049,7 @@
     "release_date": "2022-04-28",
     "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
     "backdrop_path": "/9fOsc3Hmvy6G5Hw8tTOGRFGWp73.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.609,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2262,25 +2263,6 @@
     "is_local": true
   },
   {
-    "id": "278146",
-    "title": "Dare You to Death",
-    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
-    "release_date": "2025-12-18",
-    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
-    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 7.767,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281016",
     "title": "Boyfriend on Demand",
     "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
@@ -2293,6 +2275,25 @@
     "genre_ids": [
       35,
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278146",
+    "title": "Dare You to Death",
+    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
+    "release_date": "2025-12-18",
+    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
+    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
+    "vote_average": 7.767,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      80,
       18
     ],
     "video_url": "",
@@ -2527,7 +2528,7 @@
     "release_date": "2023-06-24",
     "poster_path": "/pzemNbETZKXRzjvBwc1hydqbEeK.jpg",
     "backdrop_path": "/w2DBa4lRn97uvZkshoCX8XVvieZ.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.912,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2745,7 +2746,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 8.9,
+    "vote_average": 8.866,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2867,6 +2868,23 @@
     "is_local": true
   },
   {
+    "id": "217735",
+    "title": "Bed Friend",
+    "overview": "After an unexpected hook-up, two rival coworkers try to keep their fling purely physical, but growing feelings threaten their fragile arrangement.",
+    "release_date": "2023-02-17",
+    "poster_path": "/rrLKRmz0gnaKMi7O7qcVlzEHr9H.jpg",
+    "backdrop_path": "/jf2BNiZEHZuCm5jTn6OZ5WMcaFM.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "4545",
     "title": "Blossom",
     "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
@@ -2880,23 +2898,6 @@
       18,
       35,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "217735",
-    "title": "Bed Friend",
-    "overview": "After an unexpected hook-up, two rival coworkers try to keep their fling purely physical, but growing feelings threaten their fragile arrangement.",
-    "release_date": "2023-02-17",
-    "poster_path": "/rrLKRmz0gnaKMi7O7qcVlzEHr9H.jpg",
-    "backdrop_path": "/jf2BNiZEHZuCm5jTn6OZ5WMcaFM.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2943,7 +2944,7 @@
     "release_date": "2024-01-07",
     "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
     "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-    "vote_average": 8.676,
+    "vote_average": 8.677,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3103,7 +3104,7 @@
     "release_date": "2023-08-09",
     "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
     "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.528,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3495,7 +3496,7 @@
     "release_date": "2026-02-20",
     "poster_path": "/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
     "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-    "vote_average": 8,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4983,7 +4984,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.14,
+    "vote_average": 9.143,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5033,6 +5034,22 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 320760,
+    "title": "Not a Stranger",
+    "poster_path": "/tgBRNtynz81e0DE4bWo8XwTbCw9.jpg",
+    "overview": "After giving birth, painter Funda put her career on hold to focus on her child. Ready to return to painting, she finally finds the nanny she has been searching for: Nazlı. But the mysterious and increasingly unsettling woman soon begins to disrupt the seemingly peaceful lives of Funda and her husband İlker. What begins as a simple employment arrangement develops into a dangerous psychological game in which desire, secrets and loyalty are put to the test.",
+    "vote_average": 6.5,
+    "release_date": "2026-09-17",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "tr",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "215356",
