@@ -1,15 +1,17 @@
 [
   {
-    "id": 298008,
-    "title": "Plastic Beauty",
-    "poster_path": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
-    "overview": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
-    "vote_average": 7,
+    "id": 312663,
+    "title": "The Fixers",
+    "poster_path": "/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
+    "overview": "A washed-up gangster reluctantly teams up with an arrogant political heir to become \"fixers\", cleaning up dangerous secrets for both sides of the law.",
+    "vote_average": 8,
     "release_date": "2026-09-17",
     "genre_ids": [
-      18
+      10759,
+      35,
+      80
     ],
-    "original_language": "ja",
+    "original_language": "zh",
     "media_type": "tv",
     "is_local": false,
     "video_url": "",
@@ -570,9 +572,9 @@
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
     "release_date": "1996-01-08",
-    "poster_path": "/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
+    "poster_path": "/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
     "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8.01,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -854,17 +856,19 @@
     "is_local": true
   },
   {
-    "id": "215356",
+    "id": "42188",
     "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.132,
-    "media_type": "tv",
-    "original_language": "th",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.8,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      18
+      18,
+      10749,
+      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1256,23 +1260,6 @@
     "is_local": true
   },
   {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "230448",
     "title": "Mr. Plankton",
     "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
@@ -1284,6 +1271,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1741,7 +1745,7 @@
     "release_date": "2021-10-29",
     "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
     "backdrop_path": "/st764ocddhbsflFdkMblEMxGejS.jpg",
-    "vote_average": 8.395,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2260,25 +2264,6 @@
     "is_local": true
   },
   {
-    "id": "278146",
-    "title": "Dare You to Death",
-    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
-    "release_date": "2025-12-18",
-    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
-    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 7.767,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      9648,
-      80,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281016",
     "title": "Boyfriend on Demand",
     "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
@@ -2291,6 +2276,25 @@
     "genre_ids": [
       35,
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278146",
+    "title": "Dare You to Death",
+    "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
+    "release_date": "2025-12-18",
+    "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
+    "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
+    "vote_average": 7.767,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      80,
       18
     ],
     "video_url": "",
@@ -2471,7 +2475,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.529,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3668,8 +3672,8 @@
     "overview": "An awkward teen joins a group of popular classmates on a school trip, sparking an unexpected romance with the most popular and charming boy in school.",
     "release_date": "2025-10-19",
     "poster_path": "/hlgLNj2vg7XHixFpg2EJRf9JIsZ.jpg",
-    "backdrop_path": "/3YXRu9tLvpAfaNYuNswaBDpSALU.jpg",
-    "vote_average": 8.45,
+    "backdrop_path": "/qCYZVXlOVzhpYERzivDa690OEll.jpg",
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4710,7 +4714,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
-    "vote_average": 8.736,
+    "vote_average": 8.739,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4980,7 +4984,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.144,
+    "vote_average": 9.146,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5032,6 +5036,39 @@
     "is_local": true
   },
   {
+    "id": 298008,
+    "title": "Plastic Beauty",
+    "poster_path": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
+    "overview": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
+    "vote_average": 7,
+    "release_date": "2026-09-17",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "ja",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "215356",
+    "title": "Never Let Me Go",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.132,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "10683",
     "title": "Happiness",
     "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
@@ -5064,25 +5101,6 @@
       12,
       14,
       16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "42188",
-    "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.8,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      18,
-      10749,
-      878
     ],
     "video_url": "",
     "subtitle_file": null,
