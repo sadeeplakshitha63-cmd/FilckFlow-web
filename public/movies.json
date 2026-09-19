@@ -1,13 +1,47 @@
 [
   {
-    "id": 993710,
-    "title": "Back in Action",
-    "poster_path": "/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
-    "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
-    "vote_average": 6.429,
-    "release_date": "2025-01-15",
+    "id": 1685882,
+    "title": "Modha Rathri",
+    "poster_path": "/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+    "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+    "vote_average": 7,
+    "release_date": "2026-08-21",
     "genre_ids": [
-      28,
+      10749,
+      35
+    ],
+    "original_language": "ta",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1441228,
+    "title": "Irumudi",
+    "poster_path": "/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
+    "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+    "vote_average": 6.6,
+    "release_date": "2026-08-20",
+    "genre_ids": [
+      18,
+      10751,
+      28
+    ],
+    "original_language": "te",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1514863,
+    "title": "Best of the Best",
+    "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+    "overview": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance.",
+    "vote_average": 8.7,
+    "release_date": "2026-09-18",
+    "genre_ids": [
       35
     ],
     "original_language": "en",
@@ -23,7 +57,7 @@
     "release_date": "2024-08-26",
     "poster_path": "/ru3ZYJpzbmv2VpGsj1rmO5Hcpky.jpg",
     "backdrop_path": "/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
-    "vote_average": 8.51,
+    "vote_average": 8.515,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -333,6 +367,25 @@
     "is_local": true
   },
   {
+    "id": "278162",
+    "title": "My Magic Prophecy",
+    "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
+    "release_date": "2025-07-27",
+    "poster_path": "/wJXLfURFsU1Ga67QLMQbk8TBmHv.jpg",
+    "backdrop_path": "/b0nB5uwh7yjubFmXKVTxETzaR8K.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "237411",
     "title": "The Sign",
     "overview": "Two men join a high-stakes special ops team to solve supernatural crimes, while a hidden connection from their past lives complicates everything.",
@@ -347,25 +400,6 @@
       18,
       10759,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278162",
-    "title": "My Magic Prophecy",
-    "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
-    "release_date": "2025-07-27",
-    "poster_path": "/wJXLfURFsU1Ga67QLMQbk8TBmHv.jpg",
-    "backdrop_path": "/b0nB5uwh7yjubFmXKVTxETzaR8K.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -591,7 +625,7 @@
     "title": "The Eighth Sense",
     "overview": "A rural freshman and a returning vet face a new kind of challenge: finding meaning in a crowded, fast-moving world.",
     "release_date": "2023-03-29",
-    "poster_path": "/z0ZwBC675QNUnGESRvvAc189IgO.jpg",
+    "poster_path": "/uoHehNNiO8lWpmaKmlx8icDESbm.jpg",
     "backdrop_path": "/dNZCo6UVbig6Les5exI6iiMDHOl.jpg",
     "vote_average": 8.2,
     "media_type": "tv",
@@ -3637,7 +3671,7 @@
     "release_date": "2026-05-11",
     "poster_path": "/nmYgPJiZebWUtL6D72D0Qp9ce0H.jpg",
     "backdrop_path": "/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.558,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5036,6 +5070,23 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 993710,
+    "title": "Back in Action",
+    "poster_path": "/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+    "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+    "vote_average": 6.429,
+    "release_date": "2025-01-15",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 312663,
