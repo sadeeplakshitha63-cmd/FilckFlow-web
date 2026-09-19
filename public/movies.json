@@ -322,7 +322,7 @@
     "release_date": "2025-07-27",
     "poster_path": "/wJXLfURFsU1Ga67QLMQbk8TBmHv.jpg",
     "backdrop_path": "/b0nB5uwh7yjubFmXKVTxETzaR8K.jpg",
-    "vote_average": 8.412,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -838,19 +838,17 @@
     "is_local": true
   },
   {
-    "id": "42188",
+    "id": "215356",
     "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.8,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.132,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
-      18,
-      10749,
-      878
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -929,21 +927,6 @@
     "is_local": true
   },
   {
-    "id": "1519202",
-    "title": "TNA Bound for Glory 2025",
-    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
-    "release_date": "2025-10-12",
-    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
-    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
-    "vote_average": 6.7,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233912",
     "title": "Guardians of the Dafeng",
     "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
@@ -959,6 +942,21 @@
       35,
       9648
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1519202",
+    "title": "TNA Bound for Glory 2025",
+    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
+    "release_date": "2025-10-12",
+    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
+    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
+    "vote_average": 6.7,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1191,23 +1189,6 @@
     "is_local": true
   },
   {
-    "id": "83073",
-    "title": "A Hot Night With My Boss in a Capsule Hotel",
-    "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
-    "release_date": "2018-10-08",
-    "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
-    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
-    "vote_average": 4.8,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281004",
     "title": "Beyond the Bar",
     "overview": "A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
@@ -1219,6 +1200,23 @@
     "original_language": "ko",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "83073",
+    "title": "A Hot Night With My Boss in a Capsule Hotel",
+    "overview": "The anime centers on Minori, an office worker, and her boss Hadano, who are constantly arguing with each other. One night, after a company drinking party, Minori and Hadano are having their usual argument, when Minori realizes that she has missed the last train. They decide to spend the night at a nearby capsule hotel, but an incident forces them to share the same unit.  (Source: ANN)",
+    "release_date": "2018-10-08",
+    "poster_path": "/ogANREOg2iRnI9J1hHX6rE19v0P.jpg",
+    "backdrop_path": "/rzQ27gIX8X000xjLEqx7I4cfpMj.jpg",
+    "vote_average": 4.8,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1781,7 +1779,7 @@
     "release_date": "2025-02-07",
     "poster_path": "/1XRiwCvZPlx8iWGy1BWOCHRgY0a.jpg",
     "backdrop_path": "/h5Z7JutfjTOETDg86YMex28F2se.jpg",
-    "vote_average": 8,
+    "vote_average": 7.667,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1834,7 +1832,7 @@
     "release_date": "2016-12-02",
     "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
     "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "vote_average": 8.616,
+    "vote_average": 8.615,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2327,7 +2325,7 @@
     "release_date": "2019-10-02",
     "poster_path": "/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
     "backdrop_path": "/i6rkuzYRCBYUSYZJItWzBVAQ2j6.jpg",
-    "vote_average": 8.018,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2457,7 +2455,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.528,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2729,7 +2727,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 8.862,
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2762,23 +2760,6 @@
     "is_local": true
   },
   {
-    "id": "221112",
-    "title": "Amidst a Snowstorm of Love",
-    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
-    "release_date": "2024-02-02",
-    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
-    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "79818",
     "title": "Meteor Garden",
     "overview": "An ordinary girl is admitted to the most prestigious school in the country where she encounters F4, an exclusive group comprised of the four wealthiest and handsomest boys in the school - Dao Mingsi, Hua Zelei, Xi Men and Mei Zuo.",
@@ -2791,6 +2772,23 @@
     "genre_ids": [
       18,
       10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "221112",
+    "title": "Amidst a Snowstorm of Love",
+    "overview": "As a professional billiards player, Yin Guo has become quite a notable athlete. After receiving an invitation to play in a tournament in Hel, Yin Guo eagerly accepts. Little does she know that meeting former professional billiards player, Lin Yiyang, in Hel will change her life forever.",
+    "release_date": "2024-02-02",
+    "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
+    "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3340,7 +3338,7 @@
     "release_date": "2026-08-03",
     "poster_path": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
     "backdrop_path": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-    "vote_average": 7.227,
+    "vote_average": 7.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3800,7 +3798,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/dbqNBeLvAWFqpAvdBc0cecaqytT.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.693,
+    "vote_average": 8.695,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4289,7 +4287,7 @@
     "release_date": "2026-08-26",
     "poster_path": "/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
     "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.381,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4329,159 +4327,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "955675",
-    "title": "The Greatest TV Shows of the Noughties",
-    "overview": "Channel 4 has conducted a survey with the leading TV critics and industry figures, and asked the public in a YouGov national poll, to tell us what they think was the greatest television of the last ten years.",
-    "release_date": "2009-12-27",
-    "poster_path": "/oLpzHSjCL618lFNaYMlX1AktEMt.jpg",
-    "backdrop_path": "",
-    "vote_average": 7,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      99
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1397201",
-    "title": "Golden Kamuy -The Abashiri Prison Raid-",
-    "overview": "As each group pursues their mission, a fierce battle unfolds over the tattooed prisoners. Who is friend, and who is foe? The fight leads them all to Abashiri Prison, where Noppera-bo, the man who holds all the answers, is locked away...",
-    "release_date": "2026-03-13",
-    "poster_path": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
-    "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
-    "vote_average": 7.357,
-    "media_type": "movie",
-    "original_language": "ja",
-    "genre_ids": [
-      28,
-      18,
-      36,
-      12
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1728951",
-    "title": "Mukhbir: The Story of a Spy - The Movie",
-    "overview": "After the Sino-Indian war, a highly trained Indian spy enters Pakistan on a mission to gather crucial intelligence and stop Pakistan from launching an attack against India. Will he succeed?",
-    "release_date": "2026-07-09",
-    "poster_path": "/b8ExDio1HExjFVHwSYr5xVcdSEk.jpg",
-    "backdrop_path": "/lVaYF8f7SEXEt7tC8JH1Ld9gQF5.jpg",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "hi",
-    "genre_ids": [
-      18,
-      9648,
-      53
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "980431",
-    "title": "Avatar Aang: The Last Airbender",
-    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-    "release_date": "2026-07-24",
-    "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-    "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.144,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      16,
-      12,
-      14,
-      28
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1311031",
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-    "release_date": "2025-07-18",
-    "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.795,
-    "media_type": "movie",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      28,
-      14
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1653208",
-    "title": "The Great Grand Superhero: Aliens Ka Aagman",
-    "overview": "Follows a grandfather and grandson whose relationship transforms through the child's imagination when they encounter aliens.",
-    "release_date": "2026-05-28",
-    "poster_path": "/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg",
-    "backdrop_path": "/2Lu1jb8kv93ciXYhmUlsj0E2RK1.jpg",
-    "vote_average": 8,
-    "media_type": "movie",
-    "original_language": "hi",
-    "genre_ids": [
-      35,
-      10751,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": 1104845,
-    "title": "Plankton: The Movie",
-    "poster_path": "/8wjbrYbkT09m2MCJnCpe5w3zvTF.jpg",
-    "overview": "Plankton's tangled love story with his sentient computer wife goes sideways when she takes a stand — and decides to destroy the world without him.",
-    "vote_average": 6.667,
-    "release_date": "2025-03-08",
-    "genre_ids": [
-      10751,
-      35,
-      12,
-      16,
-      878
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": "127532",
-    "title": "Solo Leveling",
-    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
-    "release_date": "2024-01-07",
-    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
-    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-    "vote_average": 8.7,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      10759,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4728,9 +4573,9 @@
     "title": "My Husband Is a Mafia Boss",
     "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
     "release_date": "2026-04-11",
-    "poster_path": "/ijwWZukI5z03nMFqeh9hL4zirIl.jpg",
-    "backdrop_path": "/9rR8xpMLJhJvLtae85WCrwIkRZQ.jpg",
-    "vote_average": 6.875,
+    "poster_path": "/2oa7d2o9kQHrpLsSmPAhUpL95g7.jpg",
+    "backdrop_path": "/nT8Pzt0NWpZ0vL22L002ruRs1B5.jpg",
+    "vote_average": 6.9,
     "media_type": "tv",
     "original_language": "tl",
     "genre_ids": [
@@ -4851,7 +4696,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.736,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4868,7 +4713,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.283,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4886,7 +4731,7 @@
     "release_date": "2025-02-25",
     "poster_path": "/okQHEWYmmVDLfxAsT8UBJeTMPIi.jpg",
     "backdrop_path": "/rFnuaqPvuELiAdedkxiS8oDMNTQ.jpg",
-    "vote_average": 8,
+    "vote_average": 7.975,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4903,7 +4748,7 @@
     "release_date": "2021-06-23",
     "poster_path": "/tUZIA55rA44TazA11urdbHRtYJK.jpg",
     "backdrop_path": "/l3QyCntq6m4E7WTCLsq4DC7NLW1.jpg",
-    "vote_average": 7.927,
+    "vote_average": 7.909,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -5059,6 +4904,178 @@
     "is_local": true
   },
   {
+    "id": "955675",
+    "title": "The Greatest TV Shows of the Noughties",
+    "overview": "Channel 4 has conducted a survey with the leading TV critics and industry figures, and asked the public in a YouGov national poll, to tell us what they think was the greatest television of the last ten years.",
+    "release_date": "2009-12-27",
+    "poster_path": "/oLpzHSjCL618lFNaYMlX1AktEMt.jpg",
+    "backdrop_path": "",
+    "vote_average": 7,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      99
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1397201",
+    "title": "Golden Kamuy -The Abashiri Prison Raid-",
+    "overview": "As each group pursues their mission, a fierce battle unfolds over the tattooed prisoners. Who is friend, and who is foe? The fight leads them all to Abashiri Prison, where Noppera-bo, the man who holds all the answers, is locked away...",
+    "release_date": "2026-03-13",
+    "poster_path": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
+    "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
+    "vote_average": 7.357,
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+      28,
+      18,
+      36,
+      12
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1728951",
+    "title": "Mukhbir: The Story of a Spy - The Movie",
+    "overview": "After the Sino-Indian war, a highly trained Indian spy enters Pakistan on a mission to gather crucial intelligence and stop Pakistan from launching an attack against India. Will he succeed?",
+    "release_date": "2026-07-09",
+    "poster_path": "/b8ExDio1HExjFVHwSYr5xVcdSEk.jpg",
+    "backdrop_path": "/lVaYF8f7SEXEt7tC8JH1Ld9gQF5.jpg",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "hi",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "980431",
+    "title": "Avatar Aang: The Last Airbender",
+    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+    "release_date": "2026-07-24",
+    "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+    "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+    "vote_average": 9.144,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      16,
+      12,
+      14,
+      28
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1311031",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+    "release_date": "2025-07-18",
+    "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "vote_average": 8.795,
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      28,
+      14
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1653208",
+    "title": "The Great Grand Superhero: Aliens Ka Aagman",
+    "overview": "Follows a grandfather and grandson whose relationship transforms through the child's imagination when they encounter aliens.",
+    "release_date": "2026-05-28",
+    "poster_path": "/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg",
+    "backdrop_path": "/2Lu1jb8kv93ciXYhmUlsj0E2RK1.jpg",
+    "vote_average": 8,
+    "media_type": "movie",
+    "original_language": "hi",
+    "genre_ids": [
+      35,
+      10751,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "42188",
+    "title": "Never Let Me Go",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.8,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      10749,
+      878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": 1104845,
+    "title": "Plankton: The Movie",
+    "poster_path": "/8wjbrYbkT09m2MCJnCpe5w3zvTF.jpg",
+    "overview": "Plankton's tangled love story with his sentient computer wife goes sideways when she takes a stand — and decides to destroy the world without him.",
+    "vote_average": 6.667,
+    "release_date": "2025-03-08",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16,
+      878
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "127532",
+    "title": "Solo Leveling",
+    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "release_date": "2024-01-07",
+    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 799583,
     "title": "The Ministry of Ungentlemanly Warfare",
     "poster_path": "/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg",
@@ -5092,23 +5109,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "215356",
-    "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.132,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 299939,
