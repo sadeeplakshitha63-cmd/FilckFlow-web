@@ -380,7 +380,7 @@
     "release_date": "2016-09-23",
     "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
     "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.902,
+    "vote_average": 7.911,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -910,6 +910,21 @@
     "is_local": true
   },
   {
+    "id": "1519202",
+    "title": "TNA Bound for Glory 2025",
+    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
+    "release_date": "2025-10-12",
+    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
+    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
+    "vote_average": 6.7,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "664413",
     "title": "365 Days",
     "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
@@ -924,21 +939,6 @@
       18,
       80
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1519202",
-    "title": "TNA Bound for Glory 2025",
-    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
-    "release_date": "2025-10-12",
-    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
-    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
-    "vote_average": 6.7,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2139,24 +2139,6 @@
     "is_local": true
   },
   {
-    "id": "65143",
-    "title": "Descendants of the Sun",
-    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
-    "release_date": "2016-02-24",
-    "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
-    "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "247453",
     "title": "Everyone Loves Me",
     "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
@@ -2169,6 +2151,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "65143",
+    "title": "Descendants of the Sun",
+    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+    "release_date": "2016-02-24",
+    "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+    "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2729,7 +2729,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 8.867,
+    "vote_average": 8.863,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2785,7 +2785,7 @@
     "release_date": "2018-07-09",
     "poster_path": "/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
     "backdrop_path": "/omNNoERrtr7AzjxyUIk3NREa54b.jpg",
-    "vote_average": 8.481,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3266,7 +3266,7 @@
     "release_date": "2025-02-21",
     "poster_path": "/vKf5h2xEtmTSp4GcYXPOUWdocQ7.jpg",
     "backdrop_path": "/vJMoMgjavkgkaUBDGQVVv4OjTjf.jpg",
-    "vote_average": 8.411,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3800,7 +3800,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/dbqNBeLvAWFqpAvdBc0cecaqytT.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.695,
+    "vote_average": 8.698,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3887,7 +3887,7 @@
     "release_date": "2025-10-02",
     "poster_path": "/9yKpGzf83t02GRWYRmyLj2VXy96.jpg",
     "backdrop_path": "/xk1FjT0j5YraC0CQgtq7AGQxT0j.jpg",
-    "vote_average": 8.82,
+    "vote_average": 8.865,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4359,7 +4359,7 @@
     "release_date": "2025-08-23",
     "poster_path": "/exUXEOierAwZ597010TLQka9TFy.jpg",
     "backdrop_path": "/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.651,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
