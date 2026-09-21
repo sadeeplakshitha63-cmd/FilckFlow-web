@@ -104,6 +104,23 @@
     "is_local": true
   },
   {
+    "id": "262493",
+    "title": "Doctor's Mine",
+    "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
+    "release_date": "2025-07-20",
+    "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
+    "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "245292",
     "title": "The Spirealm",
     "overview": "Jiu Shi’s skills are pushed to the edge as he faces life-or-death challenges inside a brutal VR maze.",
@@ -117,23 +134,6 @@
       18,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "262493",
-    "title": "Doctor's Mine",
-    "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
-    "release_date": "2025-07-20",
-    "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
-    "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -336,25 +336,6 @@
     "is_local": true
   },
   {
-    "id": "209502",
-    "title": "A Good Day to be a Dog",
-    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
-    "release_date": "2023-10-11",
-    "poster_path": "/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
-    "backdrop_path": "/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
-    "vote_average": 8.343,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278162",
     "title": "My Magic Prophecy",
     "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
@@ -374,17 +355,19 @@
     "is_local": true
   },
   {
-    "id": "247207",
-    "title": "Ski into Love",
-    "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
-    "release_date": "2025-03-11",
-    "poster_path": "/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
-    "backdrop_path": "/iZLtHdy8supE79NsAXERN5Vju1K.jpg",
-    "vote_average": 7,
+    "id": "209502",
+    "title": "A Good Day to be a Dog",
+    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
+    "release_date": "2023-10-11",
+    "poster_path": "/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
+    "backdrop_path": "/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
+    "vote_average": 8.343,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "ko",
     "genre_ids": [
-      18
+      18,
+      35,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -404,6 +387,23 @@
       10759,
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "247207",
+    "title": "Ski into Love",
+    "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
+    "release_date": "2025-03-11",
+    "poster_path": "/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
+    "backdrop_path": "/iZLtHdy8supE79NsAXERN5Vju1K.jpg",
+    "vote_average": 7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -567,6 +567,25 @@
     "is_local": true
   },
   {
+    "id": "312381",
+    "title": "Project Loki",
+    "overview": "A troubled new student and an aloof young man make an unlikely investigative pair as they try to uncover the truth behind crimes at their school.",
+    "release_date": "2026-02-21",
+    "poster_path": "/AjVecMJdv9GffRVhKP2IRoWtaQL.jpg",
+    "backdrop_path": "/jIx6ieN5NEjytfLA0L0kvBCbQSq.jpg",
+    "vote_average": 9.5,
+    "media_type": "tv",
+    "original_language": "tl",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -581,25 +600,6 @@
       80,
       9648,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "312381",
-    "title": "Project Loki",
-    "overview": "A troubled new student and an aloof young man make an unlikely investigative pair as they try to uncover the truth behind crimes at their school.",
-    "release_date": "2026-02-21",
-    "poster_path": "/AjVecMJdv9GffRVhKP2IRoWtaQL.jpg",
-    "backdrop_path": "/jIx6ieN5NEjytfLA0L0kvBCbQSq.jpg",
-    "vote_average": 9.5,
-    "media_type": "tv",
-    "original_language": "tl",
-    "genre_ids": [
-      80,
-      18,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -927,26 +927,6 @@
     "is_local": true
   },
   {
-    "id": "233912",
-    "title": "Guardians of the Dafeng",
-    "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
-    "release_date": "2024-12-28",
-    "poster_path": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
-    "backdrop_path": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
-    "vote_average": 7.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759,
-      35,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1519202",
     "title": "TNA Bound for Glory 2025",
     "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
@@ -974,6 +954,26 @@
     "genre_ids": [
       10765,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233912",
+    "title": "Guardians of the Dafeng",
+    "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
+    "release_date": "2024-12-28",
+    "poster_path": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
+    "backdrop_path": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
+    "vote_average": 7.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759,
+      35,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1920,23 +1920,6 @@
     "is_local": true
   },
   {
-    "id": "197067",
-    "title": "Extraordinary Attorney Woo",
-    "overview": "With a genius-level IQ, Woo Young-woo learns to embrace her extraordinary self while forming a tight-knit community of friends and allies.",
-    "release_date": "2022-06-29",
-    "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
-    "backdrop_path": "/39owosjolYd3gKufgM9jMdSSk9t.jpg",
-    "vote_average": 8.488,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "226670",
     "title": "Cherry Magic",
     "overview": "Achi, a shy office worker, gains mind-reading powers at 30. He discovers his charming colleague Karan's feelings for him, sparking a whirlwind of emotions.",
@@ -1949,6 +1932,23 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "197067",
+    "title": "Extraordinary Attorney Woo",
+    "overview": "With a genius-level IQ, Woo Young-woo learns to embrace her extraordinary self while forming a tight-knit community of friends and allies.",
+    "release_date": "2022-06-29",
+    "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
+    "backdrop_path": "/39owosjolYd3gKufgM9jMdSSk9t.jpg",
+    "vote_average": 8.488,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2320,25 +2320,6 @@
     "is_local": true
   },
   {
-    "id": "108261",
-    "title": "Mr. Queen",
-    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
-    "release_date": "2020-12-12",
-    "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
-    "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "vote_average": 8.502,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "240901",
     "title": "Safe Skies, Archer",
     "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
@@ -2370,6 +2351,25 @@
       16,
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "108261",
+    "title": "Mr. Queen",
+    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
+    "release_date": "2020-12-12",
+    "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
+    "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
+    "vote_average": 8.502,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2455,7 +2455,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.529,
+    "vote_average": 8.528,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2831,17 +2831,16 @@
     "is_local": true
   },
   {
-    "id": "10683",
-    "title": "Happiness",
-    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
-    "release_date": "1998-10-11",
-    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
-    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
-    "vote_average": 7.434,
-    "media_type": "movie",
-    "original_language": "en",
+    "id": "27984",
+    "title": "2900 Happiness",
+    "overview": "Zip code 2900 equals wealth, power and beauty. They got it all but what is the price.",
+    "release_date": "2007-09-18",
+    "poster_path": "/1Y6QdyqoVkypvDJkS80kLrXNx74.jpg",
+    "backdrop_path": "/tCpIQPxz6nMPHEoJSWMBcJYZNEu.jpg",
+    "vote_average": 4,
+    "media_type": "tv",
+    "original_language": "da",
     "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -3885,7 +3884,7 @@
     "release_date": "2025-10-02",
     "poster_path": "/9yKpGzf83t02GRWYRmyLj2VXy96.jpg",
     "backdrop_path": "/xk1FjT0j5YraC0CQgtq7AGQxT0j.jpg",
-    "vote_average": 8.865,
+    "vote_average": 8.907,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4728,7 +4727,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.283,
+    "vote_average": 8.284,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4836,7 +4835,7 @@
     "release_date": "1999-10-20",
     "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop_path": "/6fRwRD7GdCfg6owzmCT3VgQtowl.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.748,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -5053,6 +5052,24 @@
     "is_local": true
   },
   {
+    "id": "10683",
+    "title": "Happiness",
+    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+    "release_date": "1998-10-11",
+    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
+    "vote_average": 7.434,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "42188",
     "title": "Never Let Me Go",
     "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
@@ -5066,23 +5083,6 @@
       18,
       10749,
       878
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "27984",
-    "title": "2900 Happiness",
-    "overview": "Zip code 2900 equals wealth, power and beauty. They got it all but what is the price.",
-    "release_date": "2007-09-18",
-    "poster_path": "/1Y6QdyqoVkypvDJkS80kLrXNx74.jpg",
-    "backdrop_path": "/tCpIQPxz6nMPHEoJSWMBcJYZNEu.jpg",
-    "vote_average": 4,
-    "media_type": "tv",
-    "original_language": "da",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
