@@ -87,13 +87,13 @@
     "is_local": true
   },
   {
-    "id": "278142",
-    "title": "Burnout Syndrome",
-    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
-    "release_date": "2025-11-26",
-    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
-    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
-    "vote_average": 8,
+    "id": "262493",
+    "title": "Doctor's Mine",
+    "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
+    "release_date": "2025-07-20",
+    "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
+    "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -104,13 +104,13 @@
     "is_local": true
   },
   {
-    "id": "262493",
-    "title": "Doctor's Mine",
-    "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
-    "release_date": "2025-07-20",
-    "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
-    "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
-    "vote_average": 7.5,
+    "id": "278142",
+    "title": "Burnout Syndrome",
+    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
+    "release_date": "2025-11-26",
+    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
+    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -1122,23 +1122,6 @@
     "is_local": true
   },
   {
-    "id": "292144",
-    "title": "Ball Boy Tactics",
-    "overview": "A quiet ex-gymnast and a playful basketball star fall into a slow-burning romance where every glance and touch speaks louder than words.",
-    "release_date": "2025-06-05",
-    "poster_path": "/A7SrIG3PnTCd2PeZawdgxqpxrUY.jpg",
-    "backdrop_path": "/hXiVeUUAWWxebEL7dj8nC6geuJj.jpg",
-    "vote_average": 7.654,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "251600",
     "title": "The Eternal Fragrance",
     "overview": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
@@ -1148,6 +1131,23 @@
     "vote_average": 7.3,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "292144",
+    "title": "Ball Boy Tactics",
+    "overview": "A quiet ex-gymnast and a playful basketball star fall into a slow-burning romance where every glance and touch speaks louder than words.",
+    "release_date": "2025-06-05",
+    "poster_path": "/A7SrIG3PnTCd2PeZawdgxqpxrUY.jpg",
+    "backdrop_path": "/hXiVeUUAWWxebEL7dj8nC6geuJj.jpg",
+    "vote_average": 7.654,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -2157,24 +2157,6 @@
     "is_local": true
   },
   {
-    "id": "65143",
-    "title": "Descendants of the Sun",
-    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
-    "release_date": "2016-02-24",
-    "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
-    "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "vote_average": 8.3,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "314784",
     "title": "Absolute Value of Romance",
     "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
@@ -2187,6 +2169,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "65143",
+    "title": "Descendants of the Sun",
+    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+    "release_date": "2016-02-24",
+    "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+    "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
+    "vote_average": 8.3,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2475,7 +2475,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.529,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2833,16 +2833,17 @@
     "is_local": true
   },
   {
-    "id": "27984",
-    "title": "2900 Happiness",
-    "overview": "Zip code 2900 equals wealth, power and beauty. They got it all but what is the price.",
-    "release_date": "2007-09-18",
-    "poster_path": "/1Y6QdyqoVkypvDJkS80kLrXNx74.jpg",
-    "backdrop_path": "/tCpIQPxz6nMPHEoJSWMBcJYZNEu.jpg",
-    "vote_average": 4,
-    "media_type": "tv",
-    "original_language": "da",
+    "id": "10683",
+    "title": "Happiness",
+    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+    "release_date": "1998-10-11",
+    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
+    "vote_average": 7.436,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -2920,19 +2921,20 @@
     "is_local": true
   },
   {
-    "id": "127532",
-    "title": "Solo Leveling",
-    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
-    "release_date": "2024-01-07",
-    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
-    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-    "vote_average": 8.678,
-    "media_type": "tv",
+    "id": "1357633",
+    "title": "Solo Leveling -ReAwakening-",
+    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+    "release_date": "2024-11-26",
+    "poster_path": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
+    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "vote_average": 7.2,
+    "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
-      16,
-      10759,
-      10765
+      28,
+      12,
+      14,
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3123,7 +3125,7 @@
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.387,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3206,6 +3208,24 @@
     "is_local": true
   },
   {
+    "id": "252774",
+    "title": "The White Olive Tree",
+    "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
+    "release_date": "2025-02-01",
+    "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
+    "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
+    "vote_average": 8.733,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "210781",
     "title": "My Lovely Liar",
     "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
@@ -3220,24 +3240,6 @@
       35,
       18,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252774",
-    "title": "The White Olive Tree",
-    "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
-    "release_date": "2025-02-01",
-    "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
-    "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
-    "vote_average": 8.733,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4821,7 +4823,7 @@
     "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
     "release_date": "1999-10-20",
     "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop_path": "/6fRwRD7GdCfg6owzmCT3VgQtowl.jpg",
+    "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
     "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ja",
@@ -4968,7 +4970,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.148,
+    "vote_average": 9.149,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5026,13 +5028,49 @@
     "release_date": "2026-08-06",
     "poster_path": "/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
     "backdrop_path": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "vote_average": 6.432,
+    "vote_average": 6.452,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
       35,
       27,
       10749
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "27984",
+    "title": "2900 Happiness",
+    "overview": "Zip code 2900 equals wealth, power and beauty. They got it all but what is the price.",
+    "release_date": "2007-09-18",
+    "poster_path": "/1Y6QdyqoVkypvDJkS80kLrXNx74.jpg",
+    "backdrop_path": "/tCpIQPxz6nMPHEoJSWMBcJYZNEu.jpg",
+    "vote_average": 4,
+    "media_type": "tv",
+    "original_language": "da",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "127532",
+    "title": "Solo Leveling",
+    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "release_date": "2024-01-07",
+    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "vote_average": 8.678,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5090,26 +5128,6 @@
     "subtitle_file": null
   },
   {
-    "id": "1357633",
-    "title": "Solo Leveling -ReAwakening-",
-    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
-    "release_date": "2024-11-26",
-    "poster_path": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
-    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-    "vote_average": 7.2,
-    "media_type": "movie",
-    "original_language": "ja",
-    "genre_ids": [
-      28,
-      12,
-      14,
-      16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1771758",
     "title": "Single’s Inferno (Season 5 - 2026)",
     "overview": "",
@@ -5119,24 +5137,6 @@
     "media_type": "movie",
     "original_language": "pt",
     "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "10683",
-    "title": "Happiness",
-    "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
-    "release_date": "1998-10-11",
-    "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
-    "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
-    "vote_average": 7.434,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      35,
-      18
-    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
