@@ -69,23 +69,6 @@
     "is_local": true
   },
   {
-    "id": "262493",
-    "title": "Doctor's Mine",
-    "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
-    "release_date": "2025-07-20",
-    "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
-    "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278142",
     "title": "Burnout Syndrome",
     "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
@@ -116,6 +99,23 @@
       18,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "262493",
+    "title": "Doctor's Mine",
+    "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
+    "release_date": "2025-07-20",
+    "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
+    "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -373,23 +373,6 @@
     "is_local": true
   },
   {
-    "id": "217800",
-    "title": "Last Twilight",
-    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
-    "release_date": "2023-11-10",
-    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
-    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
-    "vote_average": 9.41,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1748271",
     "title": "Stay With Me",
     "overview": "On an intimate third date, Miles struggles to connect with new flame Ben as he’s plagued by ghostly visions from his past. As their passion builds, the hauntings become impossible to ignore.",
@@ -401,6 +384,23 @@
     "original_language": "en",
     "genre_ids": [
       27
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "217800",
+    "title": "Last Twilight",
+    "overview": "A struggling student becomes a caregiver to a fading badminton star, and as his sight slips away, the two forge a bond tested by time and fate.",
+    "release_date": "2023-11-10",
+    "poster_path": "/buyQqbfJ2gNcog86HrTawMyxVPD.jpg",
+    "backdrop_path": "/z50YVuBfMKIf7aoVYsbha7Pwhul.jpg",
+    "vote_average": 9.41,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -574,7 +574,7 @@
     "release_date": "1996-01-08",
     "poster_path": "/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
     "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8,
+    "vote_average": 8.01,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -1436,24 +1436,6 @@
     "is_local": true
   },
   {
-    "id": "282326",
-    "title": "Against the Current",
-    "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
-    "release_date": "2026-09-11",
-    "poster_path": "/euBlF64efQmsl2y54LeNmLQPNob.jpg",
-    "backdrop_path": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281010",
     "title": "Phantom Lawyer",
     "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
@@ -1543,6 +1525,24 @@
     "is_local": true
   },
   {
+    "id": "282326",
+    "title": "Against the Current",
+    "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
+    "release_date": "2026-09-11",
+    "poster_path": "/euBlF64efQmsl2y54LeNmLQPNob.jpg",
+    "backdrop_path": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "46587",
     "title": "Cutie Pie",
     "overview": "",
@@ -1601,7 +1601,7 @@
     "release_date": "2025-10-27",
     "poster_path": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
     "backdrop_path": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.417,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2550,7 +2550,7 @@
     "release_date": "2018-06-06",
     "poster_path": "/w6muIYgrx1XZFombs3N8owfgLwf.jpg",
     "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.316,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2587,7 +2587,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/cm0j2H79J9vY4CXbBD45XsMUXNT.jpg",
     "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 7.826,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "cn",
     "genre_ids": [
@@ -3081,24 +3081,6 @@
     "is_local": true
   },
   {
-    "id": "229915",
-    "title": "Night Has Come",
-    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
-    "release_date": "2023-12-04",
-    "poster_path": "/ah8TT3algh20oiQUWUgxbqX35bn.jpg",
-    "backdrop_path": "/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "126485",
     "title": "Moving",
     "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
@@ -3112,6 +3094,24 @@
       9648,
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "229915",
+    "title": "Night Has Come",
+    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
+    "release_date": "2023-12-04",
+    "poster_path": "/ah8TT3algh20oiQUWUgxbqX35bn.jpg",
+    "backdrop_path": "/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3207,24 +3207,6 @@
     "is_local": true
   },
   {
-    "id": "252774",
-    "title": "The White Olive Tree",
-    "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
-    "release_date": "2025-02-01",
-    "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
-    "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
-    "vote_average": 8.774,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "210781",
     "title": "My Lovely Liar",
     "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
@@ -3239,6 +3221,24 @@
       35,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "252774",
+    "title": "The White Olive Tree",
+    "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
+    "release_date": "2025-02-01",
+    "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
+    "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
+    "vote_average": 8.774,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3587,7 +3587,7 @@
     "release_date": "2017-09-29",
     "poster_path": "/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
     "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
-    "vote_average": 7.606,
+    "vote_average": 7.605,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4698,7 +4698,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.74,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4715,7 +4715,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.284,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4805,7 +4805,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.097,
+    "vote_average": 9.059,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4823,7 +4823,7 @@
     "release_date": "1999-10-20",
     "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "vote_average": 8.749,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4969,7 +4969,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.15,
+    "vote_average": 9.151,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -4989,7 +4989,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.803,
+    "vote_average": 8.8,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5027,7 +5027,7 @@
     "release_date": "2026-08-06",
     "poster_path": "/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
     "backdrop_path": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "vote_average": 6.346,
+    "vote_average": 6.3,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
