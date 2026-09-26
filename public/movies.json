@@ -1,22 +1,5 @@
 [
   {
-    "id": 308963,
-    "title": "Habeas Corpus",
-    "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-    "overview": "A renowned law professor and a team of students attempt to prove the innocence of a convicted man, but the brightest student is secretly connected to his past.",
-    "vote_average": 6.083,
-    "release_date": "2026-09-23",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "original_language": "pt",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "46260",
     "title": "Naruto",
     "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
@@ -87,13 +70,13 @@
     "is_local": true
   },
   {
-    "id": "278142",
-    "title": "Burnout Syndrome",
-    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
-    "release_date": "2025-11-26",
-    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
-    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
-    "vote_average": 8,
+    "id": "262493",
+    "title": "Doctor's Mine",
+    "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
+    "release_date": "2025-07-20",
+    "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
+    "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -104,13 +87,13 @@
     "is_local": true
   },
   {
-    "id": "262493",
-    "title": "Doctor's Mine",
-    "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
-    "release_date": "2025-07-20",
-    "poster_path": "/shhpn6dqYIaqm3t4WmXQAfw6wQr.jpg",
-    "backdrop_path": "/toaiZnP1brIXd04b4kSv60qe5QI.jpg",
-    "vote_average": 7.5,
+    "id": "278142",
+    "title": "Burnout Syndrome",
+    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
+    "release_date": "2025-11-26",
+    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
+    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -606,24 +589,6 @@
     "is_local": true
   },
   {
-    "id": "52273",
-    "title": "Hidden Agenda",
-    "overview": "Former government Jason Price makes people disappear for a living. But when a top lieutenant for a crime syndicate asks Price to help him drop out of sight, things take a grisly, unexpected turn. A mysterious hit man known as The Cleaner has infiltrated Price's tightly-controlled system, leaving a bloody trail behind. With the help of an enigmatic seductress posing as the mobster's chief assistant, Price methodically works through his network of associates to find out what went wrong, and is plunged headlong into a spiraling gauntlet of half-truths and full-blown lies where nobody is who they appear to be, and everyone has a deadly, hidden agenda",
-    "release_date": "2001-05-12",
-    "poster_path": "/pMHcp3SPTfkCJdajkdx91sm7vVk.jpg",
-    "backdrop_path": "/3Q8sK1dRQQ7YtpRJS6GynwE11Ev.jpg",
-    "vote_average": 4.348,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278275",
     "title": "Veil of Shadows",
     "overview": "Lu Wuyi, the youngest nine-tailed fox of the mysterious Formless Moon Sect, sets out on a mission with her friend Wu Wangyan to track down a fox demon on the run, Xiaowei. She infiltrates the Wei Mansion in Luo'an City, where she later crosses paths with Wu Shiguang, who holds a deep grudge, as well as Ji Ling and Li Jie, demon hunters from the Shilin Sect. In the process of uncovering the truth, they navigate between suspicion and cooperation, each driven by their own agendas. In their repeated struggles over the Dragon Deity's Power, their fates are changed time and again. To preserve peace in the world, they make painful sacrifices and ultimately subdue Jiu Ying, the lord of all demons, thus fulfilling an enduring quest of love and redemption.",
@@ -636,6 +601,24 @@
     "genre_ids": [
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "52273",
+    "title": "Hidden Agenda",
+    "overview": "Former government Jason Price makes people disappear for a living. But when a top lieutenant for a crime syndicate asks Price to help him drop out of sight, things take a grisly, unexpected turn. A mysterious hit man known as The Cleaner has infiltrated Price's tightly-controlled system, leaving a bloody trail behind. With the help of an enigmatic seductress posing as the mobster's chief assistant, Price methodically works through his network of associates to find out what went wrong, and is plunged headlong into a spiraling gauntlet of half-truths and full-blown lies where nobody is who they appear to be, and everyone has a deadly, hidden agenda",
+    "release_date": "2001-05-12",
+    "poster_path": "/pMHcp3SPTfkCJdajkdx91sm7vVk.jpg",
+    "backdrop_path": "/3Q8sK1dRQQ7YtpRJS6GynwE11Ev.jpg",
+    "vote_average": 4.348,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      28,
+      53
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -821,23 +804,6 @@
     "is_local": true
   },
   {
-    "id": "226186",
-    "title": "My Journey To You",
-    "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
-    "release_date": "2023-09-02",
-    "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
-    "backdrop_path": "/h58XZvo62zOmwV35N2LRon9JPcd.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "42188",
     "title": "Never Let Me Go",
     "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
@@ -851,6 +817,23 @@
       18,
       10749,
       878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "226186",
+    "title": "My Journey To You",
+    "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
+    "release_date": "2023-09-02",
+    "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+    "backdrop_path": "/h58XZvo62zOmwV35N2LRon9JPcd.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -943,25 +926,6 @@
     "is_local": true
   },
   {
-    "id": "664413",
-    "title": "365 Days",
-    "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
-    "release_date": "2020-02-07",
-    "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
-    "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
-    "vote_average": 6.986,
-    "media_type": "movie",
-    "original_language": "pl",
-    "genre_ids": [
-      10749,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233912",
     "title": "Guardians of the Dafeng",
     "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
@@ -976,6 +940,25 @@
       10759,
       35,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "664413",
+    "title": "365 Days",
+    "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
+    "release_date": "2020-02-07",
+    "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
+    "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
+    "vote_average": 6.986,
+    "media_type": "movie",
+    "original_language": "pl",
+    "genre_ids": [
+      10749,
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2308,7 +2291,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/5BzfcAW5ZI2m7QypeJBbYNjBuR0.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.03,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2780,24 +2763,6 @@
     "is_local": true
   },
   {
-    "id": "79818",
-    "title": "Meteor Garden",
-    "overview": "An ordinary girl is admitted to the most prestigious school in the country where she encounters F4, an exclusive group comprised of the four wealthiest and handsomest boys in the school - Dao Mingsi, Hua Zelei, Xi Men and Mei Zuo.",
-    "release_date": "2018-07-09",
-    "poster_path": "/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
-    "backdrop_path": "/omNNoERrtr7AzjxyUIk3NREa54b.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "45857",
     "title": "REBORN!",
     "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
@@ -2811,6 +2776,24 @@
       16,
       35,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "79818",
+    "title": "Meteor Garden",
+    "overview": "An ordinary girl is admitted to the most prestigious school in the country where she encounters F4, an exclusive group comprised of the four wealthiest and handsomest boys in the school - Dao Mingsi, Hua Zelei, Xi Men and Mei Zuo.",
+    "release_date": "2018-07-09",
+    "poster_path": "/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
+    "backdrop_path": "/omNNoERrtr7AzjxyUIk3NREa54b.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2938,20 +2921,19 @@
     "is_local": true
   },
   {
-    "id": "1357633",
-    "title": "Solo Leveling -ReAwakening-",
-    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
-    "release_date": "2024-11-26",
-    "poster_path": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
-    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-    "vote_average": 7.168,
-    "media_type": "movie",
+    "id": "127532",
+    "title": "Solo Leveling",
+    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "release_date": "2024-01-07",
+    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "vote_average": 8.682,
+    "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
-      28,
-      12,
-      14,
-      16
+      16,
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3099,24 +3081,6 @@
     "is_local": true
   },
   {
-    "id": "229915",
-    "title": "Night Has Come",
-    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
-    "release_date": "2023-12-04",
-    "poster_path": "/ah8TT3algh20oiQUWUgxbqX35bn.jpg",
-    "backdrop_path": "/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "126485",
     "title": "Moving",
     "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
@@ -3130,6 +3094,24 @@
       9648,
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "229915",
+    "title": "Night Has Come",
+    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
+    "release_date": "2023-12-04",
+    "poster_path": "/ah8TT3algh20oiQUWUgxbqX35bn.jpg",
+    "backdrop_path": "/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3325,7 +3307,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.403,
+    "vote_average": 8.413,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3343,7 +3325,7 @@
     "release_date": "2026-08-03",
     "poster_path": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
     "backdrop_path": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-    "vote_average": 7.458,
+    "vote_average": 7.654,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4258,7 +4240,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "vote_average": 8.81,
+    "vote_average": 8.812,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5043,6 +5025,43 @@
     "is_local": true
   },
   {
+    "id": 308963,
+    "title": "Habeas Corpus",
+    "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+    "overview": "A renowned law professor and a team of students attempt to prove the innocence of a convicted man, but the brightest student is secretly connected to his past.",
+    "vote_average": 6.083,
+    "release_date": "2026-09-23",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "original_language": "pt",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "1357633",
+    "title": "Solo Leveling -ReAwakening-",
+    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+    "release_date": "2024-11-26",
+    "poster_path": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
+    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "vote_average": 7.168,
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      16
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 85720,
     "title": "Shadow and Bone",
     "poster_path": "/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg",
@@ -5105,25 +5124,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "127532",
-    "title": "Solo Leveling",
-    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
-    "release_date": "2024-01-07",
-    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
-    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-    "vote_average": 8.684,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      10759,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
