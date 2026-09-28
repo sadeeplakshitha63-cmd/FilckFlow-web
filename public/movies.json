@@ -6,7 +6,7 @@
     "release_date": "2002-10-03",
     "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
     "backdrop_path": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-    "vote_average": 8.362,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -25,7 +25,7 @@
     "release_date": "2025-05-18",
     "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
     "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-    "vote_average": 6.957,
+    "vote_average": 7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -302,23 +302,6 @@
     "is_local": true
   },
   {
-    "id": "283543",
-    "title": "My Safe Zone",
-    "overview": "Alin leaves her best friend Jane to study abroad. Years later, a broken engagement brings her home, where they face feelings long unspoken.",
-    "release_date": "2025-10-24",
-    "poster_path": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
-    "backdrop_path": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
-    "vote_average": 6.643,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278162",
     "title": "My Magic Prophecy",
     "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
@@ -338,13 +321,30 @@
     "is_local": true
   },
   {
+    "id": "283543",
+    "title": "My Safe Zone",
+    "overview": "Alin leaves her best friend Jane to study abroad. Years later, a broken engagement brings her home, where they face feelings long unspoken.",
+    "release_date": "2025-10-24",
+    "poster_path": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
+    "backdrop_path": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
+    "vote_average": 6.6,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
     "release_date": "2023-10-11",
     "poster_path": "/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
     "backdrop_path": "/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
-    "vote_average": 8.343,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -431,7 +431,7 @@
     "release_date": "2016-09-23",
     "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
     "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.92,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -450,7 +450,7 @@
     "release_date": "2025-08-25",
     "poster_path": "/mnod6OPewIavXr9pIBi2sJalhnh.jpg",
     "backdrop_path": "/1CYB1Q9KCOPTkNORHr4yVmMJmAN.jpg",
-    "vote_average": 8.444,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -593,7 +593,7 @@
     "release_date": "2001-05-12",
     "poster_path": "/pMHcp3SPTfkCJdajkdx91sm7vVk.jpg",
     "backdrop_path": "/3Q8sK1dRQQ7YtpRJS6GynwE11Ev.jpg",
-    "vote_average": 4.348,
+    "vote_average": 4.3,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -611,7 +611,7 @@
     "release_date": "1996-01-08",
     "poster_path": "/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
     "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8.013,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -791,7 +791,7 @@
     "release_date": "2019-06-27",
     "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
     "backdrop_path": "/ampkwvfwO7o5YMwYAVPKx1PLDaB.jpg",
-    "vote_average": 8.631,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -821,17 +821,19 @@
     "is_local": true
   },
   {
-    "id": "215356",
+    "id": "42188",
     "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "th",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.8,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      18
+      18,
+      10749,
+      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -861,7 +863,7 @@
     "release_date": "2021-07-26",
     "poster_path": "/oL1FhXHsDs7yFPEnlooY9fGgaNA.jpg",
     "backdrop_path": "/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
-    "vote_average": 8.229,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -879,7 +881,7 @@
     "release_date": "2022-12-02",
     "poster_path": "/zK3cdksy41NaIvXWVVxltBM45aX.jpg",
     "backdrop_path": "/AnjNSXeiyceOpFTc4gFOo2isvqX.jpg",
-    "vote_average": 8.227,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -930,7 +932,7 @@
     "release_date": "2024-12-28",
     "poster_path": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
     "backdrop_path": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
-    "vote_average": 7.455,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1073,7 +1075,7 @@
     "release_date": "2025-07-21",
     "poster_path": "/9m3VFGSZwEJukjzGD340GcXfEzQ.jpg",
     "backdrop_path": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
-    "vote_average": 6.889,
+    "vote_average": 6.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1177,7 +1179,7 @@
     "release_date": "2024-11-05",
     "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
     "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
-    "vote_average": 8.595,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -1224,24 +1226,6 @@
     "is_local": true
   },
   {
-    "id": "68349",
-    "title": "Weightlifting Fairy Kim Bok-joo",
-    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
-    "release_date": "2016-11-16",
-    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
-    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.495,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "280946",
     "title": "Typhoon Family",
     "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
@@ -1252,6 +1236,24 @@
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68349",
+    "title": "Weightlifting Fairy Kim Bok-joo",
+    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
+    "release_date": "2016-11-16",
+    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
+    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
       18
     ],
     "video_url": "",
@@ -1334,7 +1336,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.889,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1370,7 +1372,7 @@
     "release_date": "2021-12-06",
     "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
     "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
-    "vote_average": 8.37,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1441,7 +1443,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/afLKnB1yzh28YbpbB5Z5xragMf.jpg",
     "backdrop_path": "/p98XiePTvNrXegxyKc6n46UJD85.jpg",
-    "vote_average": 7.741,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1689,7 +1691,7 @@
     "release_date": "2016-08-29",
     "poster_path": "/sTW7wLyD95JRCyUEdTfxCWQWsvd.jpg",
     "backdrop_path": "/yBmqsAFjJJtdHkptwlCy0WMsfKA.jpg",
-    "vote_average": 8.506,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1744,7 +1746,7 @@
     "release_date": "2025-08-18",
     "poster_path": "/16o0xknWshrIbFPvWybgnOaz46o.jpg",
     "backdrop_path": "/u4uUe0rnjx2UOegZFiwwKPlxDBX.jpg",
-    "vote_average": 8.077,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1762,7 +1764,7 @@
     "release_date": "2025-02-07",
     "poster_path": "/1XRiwCvZPlx8iWGy1BWOCHRgY0a.jpg",
     "backdrop_path": "/h5Z7JutfjTOETDg86YMex28F2se.jpg",
-    "vote_average": 7.667,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1891,7 +1893,7 @@
     "release_date": "2026-03-28",
     "poster_path": "/ygnrFg8oXpFFVDnb2u0xkWfxjbC.jpg",
     "backdrop_path": "/ksu5B9WGNi6fE2Vqb4RmIG5KzHH.jpg",
-    "vote_average": 8.083,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1944,7 +1946,7 @@
     "release_date": "2022-06-29",
     "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
     "backdrop_path": "/39owosjolYd3gKufgM9jMdSSk9t.jpg",
-    "vote_average": 8.489,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1978,7 +1980,7 @@
     "release_date": "2025-07-05",
     "poster_path": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
     "backdrop_path": "/nZcF5itd412f50krz3WLWDDcB7o.jpg",
-    "vote_average": 7.671,
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1995,7 +1997,7 @@
     "release_date": "2022-04-28",
     "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
     "backdrop_path": "/9fOsc3Hmvy6G5Hw8tTOGRFGWp73.jpg",
-    "vote_average": 8.609,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2015,7 +2017,7 @@
     "release_date": "2019-12-14",
     "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
     "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.53,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2052,7 +2054,7 @@
     "release_date": "2023-08-22",
     "poster_path": "/eZhHNVFaT0YSylVZJVSljmAh1fs.jpg",
     "backdrop_path": "/qXd2fqz9KdL8BOtzXU4C1LlLU5T.jpg",
-    "vote_average": 8.074,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2108,7 +2110,7 @@
     "release_date": "2021-04-23",
     "poster_path": "/qy60bm9admmgpkmcPeW4BvRjjVm.jpg",
     "backdrop_path": "/eoOvPxcMxJDeZsJdM5Ppbprd6OX.jpg",
-    "vote_average": 8.071,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2216,7 +2218,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.418,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2252,7 +2254,7 @@
     "release_date": "2025-12-18",
     "poster_path": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
     "backdrop_path": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
-    "vote_average": 7.767,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2271,7 +2273,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/5BzfcAW5ZI2m7QypeJBbYNjBuR0.jpg",
-    "vote_average": 8.03,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2321,31 +2323,13 @@
     "is_local": true
   },
   {
-    "id": "282326",
-    "title": "Against the Current",
-    "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
-    "release_date": "2026-09-11",
-    "poster_path": "/euBlF64efQmsl2y54LeNmLQPNob.jpg",
-    "backdrop_path": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "108261",
     "title": "Mr. Queen",
     "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
     "release_date": "2020-12-12",
     "poster_path": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
     "backdrop_path": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "vote_average": 8.503,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2396,13 +2380,31 @@
     "is_local": true
   },
   {
+    "id": "282326",
+    "title": "Against the Current",
+    "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
+    "release_date": "2026-09-11",
+    "poster_path": "/euBlF64efQmsl2y54LeNmLQPNob.jpg",
+    "backdrop_path": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "457832",
     "title": "Reset",
     "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
     "release_date": "2017-06-28",
     "poster_path": "/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg",
     "backdrop_path": "/f2fWG89GPSe31ymp6pqJANfjbit.jpg",
-    "vote_average": 6.904,
+    "vote_average": 6.9,
     "media_type": "movie",
     "original_language": "zh",
     "genre_ids": [
@@ -2420,7 +2422,7 @@
     "release_date": "2023-03-31",
     "poster_path": "/vtokuvfqLbfJaSCW6EWhWtrmz2s.jpg",
     "backdrop_path": "/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
-    "vote_average": 8.073,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2456,7 +2458,7 @@
     "release_date": "2026-03-27",
     "poster_path": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
     "backdrop_path": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
-    "vote_average": 8.938,
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2474,7 +2476,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.529,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2493,7 +2495,7 @@
     "release_date": "2024-08-06",
     "poster_path": "/dGBg7KKsNRNzeVeKePrgwfKw1m5.jpg",
     "backdrop_path": "/bKLWC6ppultOZk0qPyYGWRqoQNm.jpg",
-    "vote_average": 7.87,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2512,7 +2514,7 @@
     "release_date": "2023-06-24",
     "poster_path": "/pzemNbETZKXRzjvBwc1hydqbEeK.jpg",
     "backdrop_path": "/w2DBa4lRn97uvZkshoCX8XVvieZ.jpg",
-    "vote_average": 7.912,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2532,7 +2534,7 @@
     "release_date": "2024-06-02",
     "poster_path": "/u4zFeoSUlqp18yPbzppi5oZRlgH.jpg",
     "backdrop_path": "/f0i9Fg9Krg2oXONxDdaf2yAJmJ3.jpg",
-    "vote_average": 8.178,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2605,7 +2607,7 @@
     "release_date": "2022-08-07",
     "poster_path": "/mNgUuTGkOj19Z09zKa76bE6J5Di.jpg",
     "backdrop_path": "/pECcUE53TjkrR2VsAgF7JICzH7k.jpg",
-    "vote_average": 8.235,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2676,7 +2678,7 @@
     "release_date": "2026-04-25",
     "poster_path": "/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
     "backdrop_path": "/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "vote_average": 8.071,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2694,7 +2696,7 @@
     "release_date": "2023-08-12",
     "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
     "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.344,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2761,24 +2763,6 @@
     "is_local": true
   },
   {
-    "id": "79818",
-    "title": "Meteor Garden",
-    "overview": "An ordinary girl is admitted to the most prestigious school in the country where she encounters F4, an exclusive group comprised of the four wealthiest and handsomest boys in the school - Dao Mingsi, Hua Zelei, Xi Men and Mei Zuo.",
-    "release_date": "2018-07-09",
-    "poster_path": "/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
-    "backdrop_path": "/omNNoERrtr7AzjxyUIk3NREa54b.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "262932",
     "title": "Generation to Generation",
     "overview": "In the volatile world of martial arts, the cunning young master Mu Qingyan meets the easygoing heroine Cai Zhao, sparking an intense and complex romance. Together, they confront hidden truths and rivalries within the martial world, navigating twists, betrayals, and strategic battles. Their journey paints a vibrant portrait of loyalty, love, and the fierce spirit of heroism.",
@@ -2792,6 +2776,24 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "79818",
+    "title": "Meteor Garden",
+    "overview": "An ordinary girl is admitted to the most prestigious school in the country where she encounters F4, an exclusive group comprised of the four wealthiest and handsomest boys in the school - Dao Mingsi, Hua Zelei, Xi Men and Mei Zuo.",
+    "release_date": "2018-07-09",
+    "poster_path": "/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
+    "backdrop_path": "/omNNoERrtr7AzjxyUIk3NREa54b.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2821,7 +2823,7 @@
     "release_date": "2025-06-26",
     "poster_path": "/iGPTJ9RS5hnVhH3hs53x8qieBRV.jpg",
     "backdrop_path": "/hznQvZZXABPjYz6aUWoonpLYhmx.jpg",
-    "vote_average": 8.31,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2943,7 +2945,7 @@
     "release_date": "2024-11-26",
     "poster_path": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
     "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-    "vote_average": 7.2,
+    "vote_average": 7.175,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -2963,7 +2965,7 @@
     "release_date": "2025-04-12",
     "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
     "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
-    "vote_average": 8.114,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2980,7 +2982,7 @@
     "release_date": "2004-10-28",
     "poster_path": "/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
     "backdrop_path": "/qlnDrGpDmvKPQEnpge8yY3XTm0F.jpg",
-    "vote_average": 5.706,
+    "vote_average": 5.7,
     "media_type": "tv",
     "original_language": "hi",
     "genre_ids": [
@@ -3049,7 +3051,7 @@
     "release_date": "2025-07-11",
     "poster_path": "/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
     "backdrop_path": "/buA9gM0cEcBmIcQX79o6QpTYUPT.jpg",
-    "vote_average": 7.491,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3068,7 +3070,7 @@
     "release_date": "2026-06-22",
     "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
     "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 8.84,
+    "vote_average": 8.854,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3104,7 +3106,7 @@
     "release_date": "2023-08-09",
     "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
     "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
-    "vote_average": 8.529,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3123,7 +3125,7 @@
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.382,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3212,7 +3214,7 @@
     "release_date": "2023-07-31",
     "poster_path": "/lDxDrALYgBFKyr2xTY9EHZ7GaW6.jpg",
     "backdrop_path": "/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
-    "vote_average": 7.78,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3232,7 +3234,7 @@
     "release_date": "2025-02-01",
     "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
     "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
-    "vote_average": 8.774,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3250,7 +3252,7 @@
     "release_date": "2025-02-21",
     "poster_path": "/vKf5h2xEtmTSp4GcYXPOUWdocQ7.jpg",
     "backdrop_path": "/vJMoMgjavkgkaUBDGQVVv4OjTjf.jpg",
-    "vote_average": 8.439,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3324,7 +3326,7 @@
     "release_date": "2026-08-03",
     "poster_path": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
     "backdrop_path": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-    "vote_average": 7.833,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3376,7 +3378,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/ahCX6yRk5rtk2r1rmJt3C8z5Ijb.jpg",
     "backdrop_path": "/v6G5vmzmuicPxdlceK5IUJnWpx3.jpg",
-    "vote_average": 8.21,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3517,7 +3519,7 @@
     "release_date": "2023-11-07",
     "poster_path": "/idcVj88MODVdBkaKpxNMiXwffLk.jpg",
     "backdrop_path": "/3OLeiLbTdNFovd2zyBn2xgR8UWY.jpg",
-    "vote_average": 7.529,
+    "vote_average": 7.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3534,7 +3536,7 @@
     "release_date": "2022-11-09",
     "poster_path": "/ccej6D8J81DDJWqhP7OG6PA6xcl.jpg",
     "backdrop_path": "/zbzldNycqQy1O9gP5vwJf9HECwk.jpg",
-    "vote_average": 8.25,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3552,7 +3554,7 @@
     "release_date": "2025-07-22",
     "poster_path": "/s4JZauT2tDk0SVJ00HklfUTiE4a.jpg",
     "backdrop_path": "/AchQDIQ9zD6ZBThESDguLM3YxAi.jpg",
-    "vote_average": 7.553,
+    "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3569,7 +3571,7 @@
     "release_date": "2024-07-02",
     "poster_path": "/bpF8NintrWESmnC62pu0bC4tMPJ.jpg",
     "backdrop_path": "/g2IyljMEp9HcFEUKudIsoVkG0JG.jpg",
-    "vote_average": 8.107,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3586,7 +3588,7 @@
     "release_date": "2017-09-29",
     "poster_path": "/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
     "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
-    "vote_average": 7.607,
+    "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -3658,7 +3660,7 @@
     "release_date": "2023-06-17",
     "poster_path": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
     "backdrop_path": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "vote_average": 8.217,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3672,11 +3674,11 @@
   {
     "id": "135157",
     "title": "Alchemy of Souls",
-    "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
+    "overview": "She was named Naksu because wherever she went, a trail of heads followed. She performs the alchemy of souls, magic that can change people's bodies and souls, which is forbidden in Daeho, and ends up being chased. Naksu hurriedly abandons her body and attempts the alchemy of souls on a woman passing by. Jang Wook, the son of the King of Daeho, realizes that Mudeok's soul has been changed and helps her. Jang Wook wants to learn Naksu's martial arts and become a sorcerer, and Naksu, in the body of Mudeok, stays by his side so she can recover her strength.",
     "release_date": "2022-06-18",
     "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
     "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.581,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3731,7 +3733,7 @@
     "release_date": "2024-04-03",
     "poster_path": "/gqVxKunQPQVOZjElkVD0kz19ld7.jpg",
     "backdrop_path": "/5PAupb5qisR4w1GznvbyTINB7jH.jpg",
-    "vote_average": 8.556,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3748,7 +3750,7 @@
     "release_date": "2023-08-11",
     "poster_path": "/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
     "backdrop_path": "/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
-    "vote_average": 7.569,
+    "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3766,7 +3768,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "vote_average": 8.409,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3784,7 +3786,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.691,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3837,7 +3839,7 @@
     "release_date": "2026-07-09",
     "poster_path": "/x7ENbberEtM1sOrTJbfK8RubvB.jpg",
     "backdrop_path": "/q7aDczLPQxb8rDAz5FzPwmFzDFo.jpg",
-    "vote_average": 8.9,
+    "vote_average": 9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3854,7 +3856,7 @@
     "release_date": "2025-03-20",
     "poster_path": "/5cDIWdKQX3V6Gcf75H7PQcFV1an.jpg",
     "backdrop_path": "/iOZ4hgeQqQ4b4Bs0ibppG8ZRPVe.jpg",
-    "vote_average": 8.639,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3871,7 +3873,7 @@
     "release_date": "2025-11-15",
     "poster_path": "/vq13Nvh0mMUAWGVA9TB9JnvoO5M.jpg",
     "backdrop_path": "/cXCqkzOZ3vAgaskIBwDR2zTkH0M.jpg",
-    "vote_average": 9.179,
+    "vote_average": 9.2,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -3907,7 +3909,7 @@
     "release_date": "2025-11-12",
     "poster_path": "/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
     "backdrop_path": "/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "vote_average": 8.179,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3943,7 +3945,7 @@
     "release_date": "2024-09-21",
     "poster_path": "/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
     "backdrop_path": "/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
-    "vote_average": 8.599,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3982,7 +3984,7 @@
     "release_date": "2024-07-18",
     "poster_path": "/y1jlSybgrj8LwQaRurn7VKR2dzW.jpg",
     "backdrop_path": "/gEcZd3yR5DTT4Yw7XGCNwHPPXcZ.jpg",
-    "vote_average": 7.375,
+    "vote_average": 7.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4022,7 +4024,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.386,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4113,7 +4115,7 @@
     "release_date": "2026-01-09",
     "poster_path": "/3jlaQYWWZgmLQMIsQ7uZid99Mlo.jpg",
     "backdrop_path": "/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
-    "vote_average": 8.486,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4239,7 +4241,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "vote_average": 8.813,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4290,7 +4292,7 @@
     "release_date": "2025-02-17",
     "poster_path": "/84ZP2lykuGBwG13wgtLzVKtfBS.jpg",
     "backdrop_path": "/4Xer0oaXautbLRfJQOrlmPSCfN1.jpg",
-    "vote_average": 8.128,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4325,7 +4327,7 @@
     "release_date": "2024-10-09",
     "poster_path": "/drQh6tu7OupGBtE5zqVJB1AAGoa.jpg",
     "backdrop_path": "/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",
-    "vote_average": 8.043,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4343,7 +4345,7 @@
     "release_date": "2025-08-23",
     "poster_path": "/exUXEOierAwZ597010TLQka9TFy.jpg",
     "backdrop_path": "/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
-    "vote_average": 8.646,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4361,7 +4363,7 @@
     "release_date": "2022-04-02",
     "poster_path": "/hdPLe50HbZHsETXQRcIP8gw7cKz.jpg",
     "backdrop_path": "/wTgDY1izbDCbdgsNS1ujLk7lepG.jpg",
-    "vote_average": 8.75,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4434,7 +4436,7 @@
     "release_date": "2024-01-01",
     "poster_path": "/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
     "backdrop_path": "/qHCXeAM13OYvcmjXeOhtvXfc8uo.jpg",
-    "vote_average": 8.499,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4525,7 +4527,7 @@
     "release_date": "2021-12-18",
     "poster_path": "/mRpG6gLdLMGHRUriG4uCLs6WzLQ.jpg",
     "backdrop_path": "/3sUd661CAPLfiOs5gCm7nOQnHMe.jpg",
-    "vote_average": 8.775,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4612,7 +4614,7 @@
     "release_date": "2025-12-22",
     "poster_path": "/cFBlFzOwh4C8wpuR4sYBIitvNiw.jpg",
     "backdrop_path": "/kiEtIq7Up7vpbAYvPTJPKHiJE1t.jpg",
-    "vote_average": 8.433,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4629,7 +4631,7 @@
     "release_date": "2010-07-11",
     "poster_path": "/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
     "backdrop_path": "/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "vote_average": 8.232,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4699,7 +4701,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.285,
+    "vote_average": 8.286,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4717,7 +4719,7 @@
     "release_date": "2025-02-25",
     "poster_path": "/okQHEWYmmVDLfxAsT8UBJeTMPIi.jpg",
     "backdrop_path": "/rFnuaqPvuELiAdedkxiS8oDMNTQ.jpg",
-    "vote_average": 7.975,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4734,7 +4736,7 @@
     "release_date": "2021-06-23",
     "poster_path": "/tUZIA55rA44TazA11urdbHRtYJK.jpg",
     "backdrop_path": "/l3QyCntq6m4E7WTCLsq4DC7NLW1.jpg",
-    "vote_average": 7.909,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4752,7 +4754,7 @@
     "release_date": "2023-09-25",
     "poster_path": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
     "backdrop_path": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
-    "vote_average": 8.807,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4789,7 +4791,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 9.049,
+    "vote_average": 9.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4953,7 +4955,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.145,
+    "vote_average": 9.146,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -4973,7 +4975,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.801,
+    "vote_average": 8.799,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5024,19 +5026,17 @@
     "is_local": true
   },
   {
-    "id": "42188",
+    "id": "215356",
     "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.8,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
-      18,
-      10749,
-      878
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
