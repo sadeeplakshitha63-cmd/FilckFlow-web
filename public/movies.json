@@ -1,23 +1,5 @@
 [
   {
-    "id": 1322562,
-    "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
-    "poster_path": "/nANxmUdcF2cyBNjBMeG1LaXnw0n.jpg",
-    "overview": "When tragedy strikes within the walls of the Ōoku, twisted human passions and festering grudges spawn the Medicine Seller's most fearsome opponent yet.",
-    "vote_average": 8.4,
-    "release_date": "2026-05-29",
-    "genre_ids": [
-      16,
-      14,
-      9648
-    ],
-    "original_language": "ja",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "253946",
     "title": "Bad Guy My Boss",
     "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
@@ -715,13 +697,13 @@
     "is_local": true
   },
   {
-    "id": "305105",
-    "title": "Peach Lover",
-    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
-    "release_date": "2026-01-20",
-    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
-    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
-    "vote_average": 7,
+    "id": "93975",
+    "title": "TharnType",
+    "overview": "Type hated the idea of sharing a room with a gay guy. But now, he's starting to question what he thought he knew.",
+    "release_date": "2019-10-07",
+    "poster_path": "/ofK4Z2zGyLfjKqSTQyQhtdrU43O.jpg",
+    "backdrop_path": "/cpPykwg5yE4vTIHHXiCRFdQDh1l.jpg",
+    "vote_average": 7.7,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -732,13 +714,13 @@
     "is_local": true
   },
   {
-    "id": "93975",
-    "title": "TharnType",
-    "overview": "Type hated the idea of sharing a room with a gay guy. But now, he's starting to question what he thought he knew.",
-    "release_date": "2019-10-07",
-    "poster_path": "/ofK4Z2zGyLfjKqSTQyQhtdrU43O.jpg",
-    "backdrop_path": "/cpPykwg5yE4vTIHHXiCRFdQDh1l.jpg",
-    "vote_average": 7.7,
+    "id": "305105",
+    "title": "Peach Lover",
+    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
+    "release_date": "2026-01-20",
+    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
+    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
+    "vote_average": 7,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -820,17 +802,19 @@
     "is_local": true
   },
   {
-    "id": "215356",
+    "id": "42188",
     "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "th",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.847,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      18
+      18,
+      10749,
+      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -906,26 +890,6 @@
     "is_local": true
   },
   {
-    "id": "233912",
-    "title": "Guardians of the Dafeng",
-    "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
-    "release_date": "2024-12-28",
-    "poster_path": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
-    "backdrop_path": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759,
-      35,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233742",
     "title": "Newtopia",
     "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
@@ -940,6 +904,26 @@
       10759,
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233912",
+    "title": "Guardians of the Dafeng",
+    "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
+    "release_date": "2024-12-28",
+    "poster_path": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
+    "backdrop_path": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759,
+      35,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1335,28 +1319,11 @@
     "release_date": "2021-12-06",
     "poster_path": "/bA15g6OLmhQ2HkURRaCztA2jwqI.jpg",
     "backdrop_path": "/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg",
-    "vote_average": 8.374,
+    "vote_average": 8.36,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "295558",
-    "title": "Key to the Phoenix Heart",
-    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
-    "release_date": "2026-07-11",
-    "poster_path": "/hgxhWV6xPdo3bQBX8Gdy0E0tiJq.jpg",
-    "backdrop_path": "/eZTq2kkhZ9AQtQ1H5SD7h1Q0PIc.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1371,6 +1338,23 @@
     "poster_path": "/3JF71OaoUMDmd84HTdLpUFGL67h.jpg",
     "backdrop_path": "/vE8OPTULzuyvgrM0yoFbn2VYisq.jpg",
     "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "295558",
+    "title": "Key to the Phoenix Heart",
+    "overview": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
+    "release_date": "2026-07-11",
+    "poster_path": "/hgxhWV6xPdo3bQBX8Gdy0E0tiJq.jpg",
+    "backdrop_path": "/eZTq2kkhZ9AQtQ1H5SD7h1Q0PIc.jpg",
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2065,24 +2049,6 @@
     "is_local": true
   },
   {
-    "id": "247453",
-    "title": "Everyone Loves Me",
-    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
-    "release_date": "2024-03-01",
-    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
-    "backdrop_path": "/kVd2xlSYIPbXBVVxvb8f1tjh1aV.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "124003",
     "title": "Perfect World",
     "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
@@ -2113,6 +2079,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "247453",
+    "title": "Everyone Loves Me",
+    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
+    "release_date": "2024-03-01",
+    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
+    "backdrop_path": "/kVd2xlSYIPbXBVVxvb8f1tjh1aV.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2743,24 +2727,6 @@
     "is_local": true
   },
   {
-    "id": "79818",
-    "title": "Meteor Garden",
-    "overview": "An ordinary girl is admitted to the most prestigious school in the country where she encounters F4, an exclusive group comprised of the four wealthiest and handsomest boys in the school - Dao Mingsi, Hua Zelei, Xi Men and Mei Zuo.",
-    "release_date": "2018-07-09",
-    "poster_path": "/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
-    "backdrop_path": "/omNNoERrtr7AzjxyUIk3NREa54b.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "262932",
     "title": "Generation to Generation",
     "overview": "In the volatile world of martial arts, the cunning young master Mu Qingyan meets the easygoing heroine Cai Zhao, sparking an intense and complex romance. Together, they confront hidden truths and rivalries within the martial world, navigating twists, betrayals, and strategic battles. Their journey paints a vibrant portrait of loyalty, love, and the fierce spirit of heroism.",
@@ -2774,6 +2740,24 @@
       18,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "79818",
+    "title": "Meteor Garden",
+    "overview": "An ordinary girl is admitted to the most prestigious school in the country where she encounters F4, an exclusive group comprised of the four wealthiest and handsomest boys in the school - Dao Mingsi, Hua Zelei, Xi Men and Mei Zuo.",
+    "release_date": "2018-07-09",
+    "poster_path": "/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
+    "backdrop_path": "/omNNoERrtr7AzjxyUIk3NREa54b.jpg",
+    "vote_average": 8.483,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4808,7 +4792,7 @@
     "release_date": "1999-10-20",
     "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.75,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4826,7 +4810,7 @@
     "overview": "After her parents' divorce, Jiang Mu reunites with her adopted brother Jin Chao, now a hardened young man living a dangerous life in Thailand. Despite their growing distance, Jiang Mu's unwavering love helps bridge the gap between them, leading to a journey of healing and redemption as they fight to rebuild their bond and face their struggles together.",
     "release_date": "2025-12-12",
     "poster_path": "/x1pblSVT4xtiZMN0sjn0ql5NMuA.jpg",
-    "backdrop_path": "/bbSaCxOIew0PfkG2kie7h1Gf3gf.jpg",
+    "backdrop_path": "/wCBgNbukU0eaTCdJrtX4wMpjfgx.jpg",
     "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "zh",
@@ -4954,7 +4938,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.144,
+    "vote_average": 9.145,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5025,6 +5009,41 @@
     "is_local": true
   },
   {
+    "id": 1322562,
+    "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
+    "poster_path": "/nANxmUdcF2cyBNjBMeG1LaXnw0n.jpg",
+    "overview": "When tragedy strikes within the walls of the Ōoku, twisted human passions and festering grudges spawn the Medicine Seller's most fearsome opponent yet.",
+    "vote_average": 8.4,
+    "release_date": "2026-05-29",
+    "genre_ids": [
+      16,
+      14,
+      9648
+    ],
+    "original_language": "ja",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "215356",
+    "title": "Never Let Me Go",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1031118",
     "title": "A Widow Seduced",
     "overview": "Kellie, a widow with a successful yet demanding company, and longing for a companion, takes to the world of online dating where she meets Dan. He seems too good to be true--is he?",
@@ -5071,25 +5090,6 @@
     "original_language": "zh",
     "genre_ids": [
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "42188",
-    "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.8,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      18,
-      10749,
-      878
     ],
     "video_url": "",
     "subtitle_file": null,
