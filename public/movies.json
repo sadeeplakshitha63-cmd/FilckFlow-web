@@ -1,5 +1,21 @@
 [
   {
+    "id": 258165,
+    "title": "East of Eden",
+    "poster_path": "/VMyZWR0GBHGY9WIwcaj232ALAl.jpg",
+    "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+    "vote_average": 8.3,
+    "release_date": "2026-10-01",
+    "genre_ids": [
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "253946",
     "title": "Bad Guy My Boss",
     "overview": "When his rivals set eyes on his devoted assistant, a powerful CEO must shed his bad-boy facade to prove his love is real.",
@@ -539,7 +555,7 @@
     "release_date": "2026-04-01",
     "poster_path": "/y5d81ViUlIBXxeEKsDAayxvEdAv.jpg",
     "backdrop_path": "/aiB8FUWA2suTybceLsOnfBWk8L6.jpg",
-    "vote_average": 8.263,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -749,23 +765,6 @@
     "is_local": true
   },
   {
-    "id": "284488",
-    "title": "Harmony Secret",
-    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
-    "release_date": "2025-07-26",
-    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
-    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
@@ -779,6 +778,23 @@
       10759,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "284488",
+    "title": "Harmony Secret",
+    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
+    "release_date": "2025-07-26",
+    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
+    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -802,19 +818,17 @@
     "is_local": true
   },
   {
-    "id": "42188",
+    "id": "215356",
     "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.847,
-    "media_type": "movie",
-    "original_language": "en",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
-      18,
-      10749,
-      878
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -890,26 +904,6 @@
     "is_local": true
   },
   {
-    "id": "233912",
-    "title": "Guardians of the Dafeng",
-    "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
-    "release_date": "2024-12-28",
-    "poster_path": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
-    "backdrop_path": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759,
-      35,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233742",
     "title": "Newtopia",
     "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
@@ -924,6 +918,26 @@
       10759,
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "233912",
+    "title": "Guardians of the Dafeng",
+    "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
+    "release_date": "2024-12-28",
+    "poster_path": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
+    "backdrop_path": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759,
+      35,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1033,6 +1047,23 @@
     "is_local": true
   },
   {
+    "id": "292144",
+    "title": "Ball Boy Tactics",
+    "overview": "A quiet ex-gymnast and a playful basketball star fall into a slow-burning romance where every glance and touch speaks louder than words.",
+    "release_date": "2025-06-05",
+    "poster_path": "/A7SrIG3PnTCd2PeZawdgxqpxrUY.jpg",
+    "backdrop_path": "/hXiVeUUAWWxebEL7dj8nC6geuJj.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "284430",
     "title": "Deep Affection Eyes",
     "overview": "Ye Meng, seeking a fresh start after career setbacks, returns to her hometown for a quieter life. There, she meets the mysterious Li Jinyu, whose reserved nature and deeply expressive eyes intrigue her. As their connection deepens, they embark on a journey of mutual healing and unexpected love.",
@@ -1045,23 +1076,6 @@
     "genre_ids": [
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "292144",
-    "title": "Ball Boy Tactics",
-    "overview": "A quiet ex-gymnast and a playful basketball star fall into a slow-burning romance where every glance and touch speaks louder than words.",
-    "release_date": "2025-06-05",
-    "poster_path": "/A7SrIG3PnTCd2PeZawdgxqpxrUY.jpg",
-    "backdrop_path": "/hXiVeUUAWWxebEL7dj8nC6geuJj.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1668,24 +1682,6 @@
     "is_local": true
   },
   {
-    "id": "122009",
-    "title": "Bad Buddy",
-    "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
-    "release_date": "2021-10-29",
-    "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
-    "backdrop_path": "/st764ocddhbsflFdkMblEMxGejS.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "241506",
     "title": "It's Okay to Not Be Okay",
     "overview": "An author with severe antisocial tendencies learns to confront her deep emotional wounds when she meets a stranger who challenges her cold facade.",
@@ -1698,6 +1694,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "122009",
+    "title": "Bad Buddy",
+    "overview": "At university, two young men raised to hate each other find music and love instead, forcing them to question family legacies and choose their own path.",
+    "release_date": "2021-10-29",
+    "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
+    "backdrop_path": "/st764ocddhbsflFdkMblEMxGejS.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1999,7 +2013,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
     "backdrop_path": "/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.913,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2049,24 +2063,6 @@
     "is_local": true
   },
   {
-    "id": "247453",
-    "title": "Everyone Loves Me",
-    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
-    "release_date": "2024-03-01",
-    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
-    "backdrop_path": "/kVd2xlSYIPbXBVVxvb8f1tjh1aV.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "124003",
     "title": "Perfect World",
     "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
@@ -2097,6 +2093,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "247453",
+    "title": "Everyone Loves Me",
+    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
+    "release_date": "2024-03-01",
+    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
+    "backdrop_path": "/kVd2xlSYIPbXBVVxvb8f1tjh1aV.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2939,6 +2953,23 @@
     "is_local": true
   },
   {
+    "id": "252649",
+    "title": "ThamePo: Heart That Skips A Beat",
+    "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
+    "release_date": "2024-12-13",
+    "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
+    "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "282326",
     "title": "Against the Current",
     "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
@@ -2951,23 +2982,6 @@
     "genre_ids": [
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252649",
-    "title": "ThamePo: Heart That Skips A Beat",
-    "overview": "Feelings bloom and lines blur when a young man documenting the final concert of a popular boy band develops a close bond with the lonely lead singer.",
-    "release_date": "2024-12-13",
-    "poster_path": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
-    "backdrop_path": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3266,24 +3280,6 @@
     "is_local": true
   },
   {
-    "id": "333686",
-    "title": "The Apothecary Diaries",
-    "overview": "",
-    "release_date": "",
-    "poster_path": "",
-    "backdrop_path": "/wfoYBAdjPLuWBENK7eIz8WxTui4.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "254476",
     "title": "When Destiny Brings the Demon",
     "overview": "Modern-day office drone Zou Yan accidentally stumbles into the world of cultivation and wakes up as Liao Tingyan, a disciple of the Qinggutian Sect. She's soon selected to serve the reclusive Grandmaster Sima Jiao, a powerful cultivator who's been secretly sealed inside a mountain for 500 years. Twisted by isolation and rage, he's cold, hot-tempered, and bent on revenge. Liao Tingyan doesn't know that \"her\" original identity is a demonic assassin. But to his surprise, she shows no ill will, no ambition, and no desire at all. Her nature fascinates him. Thus begins an unlikely romance between a villainous immortal and a healing-type \"slacker,\" a connection that defies fate and spans lifetimes.",
@@ -3313,6 +3309,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "333686",
+    "title": "The Apothecary Diaries",
+    "overview": "",
+    "release_date": "",
+    "poster_path": "",
+    "backdrop_path": "/wfoYBAdjPLuWBENK7eIz8WxTui4.jpg",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4224,7 +4238,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "vote_average": 8.805,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4684,7 +4698,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.3,
+    "vote_average": 8.287,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4893,26 +4907,6 @@
     "is_local": true
   },
   {
-    "id": "1397201",
-    "title": "Golden Kamuy -The Abashiri Prison Raid-",
-    "overview": "As each group pursues their mission, a fierce battle unfolds over the tattooed prisoners. Who is friend, and who is foe? The fight leads them all to Abashiri Prison, where Noppera-bo, the man who holds all the answers, is locked away...",
-    "release_date": "2026-03-13",
-    "poster_path": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
-    "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
-    "vote_average": 7.4,
-    "media_type": "movie",
-    "original_language": "ja",
-    "genre_ids": [
-      28,
-      18,
-      36,
-      12
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "1728951",
     "title": "Mukhbir: The Story of a Spy - The Movie",
     "overview": "After the Sino-Indian war, a highly trained Indian spy enters Pakistan on a mission to gather crucial intelligence and stop Pakistan from launching an attack against India. Will he succeed?",
@@ -4996,13 +4990,52 @@
     "release_date": "2026-08-06",
     "poster_path": "/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
     "backdrop_path": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "vote_average": 6.319,
+    "vote_average": 6.322,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
       35,
       27,
       10749
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "42188",
+    "title": "Never Let Me Go",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.847,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      10749,
+      878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1397201",
+    "title": "Golden Kamuy -The Abashiri Prison Raid-",
+    "overview": "As each group pursues their mission, a fierce battle unfolds over the tattooed prisoners. Who is friend, and who is foe? The fight leads them all to Abashiri Prison, where Noppera-bo, the man who holds all the answers, is locked away...",
+    "release_date": "2026-03-13",
+    "poster_path": "/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
+    "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
+    "vote_average": 7.4,
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+      28,
+      18,
+      36,
+      12
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5043,23 +5076,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "215356",
-    "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "18632",
