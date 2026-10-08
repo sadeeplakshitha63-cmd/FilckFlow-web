@@ -1,23 +1,5 @@
 [
   {
-    "id": 69373,
-    "title": "Bill Nye Saves the World",
-    "poster_path": "/6PszgaH7rYC9TaBypZTMw2J603N.jpg",
-    "overview": "Bill Nye explores science and its impact on politics, society and pop culture. Each episode tackles a topic from a scientific point of view, dispelling myths, and refuting anti-scientific claims that may be espoused by politicians, religious leaders or titans of industry.",
-    "vote_average": 3.9,
-    "release_date": "2017-04-21",
-    "genre_ids": [
-      10764,
-      10767,
-      99
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "262493",
     "title": "Doctor's Mine",
     "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
@@ -613,7 +595,7 @@
     "release_date": "1996-01-08",
     "poster_path": "/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
     "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8,
+    "vote_average": 8.019,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -1110,7 +1092,7 @@
     "release_date": "2004-08-06",
     "poster_path": "/upJOyrxxSIxlSZC7KEqJfB1vlGl.jpg",
     "backdrop_path": "/pmOXaAK8hteMlCiMZyyDJENHCZI.jpg",
-    "vote_average": 6.7,
+    "vote_average": 6.719,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -3737,7 +3719,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.703,
+    "vote_average": 8.706,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4994,6 +4976,24 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 69373,
+    "title": "Bill Nye Saves the World",
+    "poster_path": "/6PszgaH7rYC9TaBypZTMw2J603N.jpg",
+    "overview": "Bill Nye explores science and its impact on politics, society and pop culture. Each episode tackles a topic from a scientific point of view, dispelling myths, and refuting anti-scientific claims that may be espoused by politicians, religious leaders or titans of industry.",
+    "vote_average": 3.9,
+    "release_date": "2017-04-21",
+    "genre_ids": [
+      10764,
+      10767,
+      99
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": "234147",
