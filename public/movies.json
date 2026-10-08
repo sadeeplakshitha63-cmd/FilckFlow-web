@@ -595,7 +595,7 @@
     "release_date": "1996-01-08",
     "poster_path": "/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
     "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8,
+    "vote_average": 8.019,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -757,30 +757,13 @@
     "release_date": "2010-03-18",
     "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
     "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.847,
+    "vote_average": 6.8,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
       18,
       10749,
       878
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "226186",
-    "title": "My Journey To You",
-    "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
-    "release_date": "2023-09-02",
-    "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
-    "backdrop_path": "/h58XZvo62zOmwV35N2LRon9JPcd.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -798,6 +781,23 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "226186",
+    "title": "My Journey To You",
+    "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
+    "release_date": "2023-09-02",
+    "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+    "backdrop_path": "/h58XZvo62zOmwV35N2LRon9JPcd.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -831,7 +831,7 @@
     "release_date": "2021-07-26",
     "poster_path": "/oL1FhXHsDs7yFPEnlooY9fGgaNA.jpg",
     "backdrop_path": "/vuzbhOIQ1Y2wCB0HmhD2Hq5VxkE.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.229,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1092,7 +1092,7 @@
     "release_date": "2004-08-06",
     "poster_path": "/upJOyrxxSIxlSZC7KEqJfB1vlGl.jpg",
     "backdrop_path": "/pmOXaAK8hteMlCiMZyyDJENHCZI.jpg",
-    "vote_average": 6.719,
+    "vote_average": 6.7,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -1158,24 +1158,6 @@
     "is_local": true
   },
   {
-    "id": "243028",
-    "title": "Love Song in Winter",
-    "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
-    "release_date": "2024-12-20",
-    "poster_path": "/73FWssGQ7eKrWIrPMJ0MBoQ0T45.jpg",
-    "backdrop_path": "/hEI6PtKQFR5ihOE9bwZfDqESW2.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "128883",
     "title": "Hometown Cha-Cha-Cha",
     "overview": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
@@ -1206,6 +1188,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "243028",
+    "title": "Love Song in Winter",
+    "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
+    "release_date": "2024-12-20",
+    "poster_path": "/73FWssGQ7eKrWIrPMJ0MBoQ0T45.jpg",
+    "backdrop_path": "/hEI6PtKQFR5ihOE9bwZfDqESW2.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1606,7 +1606,7 @@
     "release_date": "2020-09-27",
     "poster_path": "/k52mSqO1sXLhuRjNoSMsj1qJ7kD.jpg",
     "backdrop_path": "/kxfuHytN7j4FV6bpbPvw0CbS1eU.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.802,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1930,7 +1930,7 @@
     "release_date": "2022-04-28",
     "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
     "backdrop_path": "/9fOsc3Hmvy6G5Hw8tTOGRFGWp73.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.609,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2036,24 +2036,6 @@
     "is_local": true
   },
   {
-    "id": "124003",
-    "title": "Perfect World",
-    "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
-    "release_date": "2021-04-23",
-    "poster_path": "/qy60bm9admmgpkmcPeW4BvRjjVm.jpg",
-    "backdrop_path": "/eoOvPxcMxJDeZsJdM5Ppbprd6OX.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      16,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "247453",
     "title": "Everyone Loves Me",
     "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
@@ -2066,6 +2048,24 @@
     "genre_ids": [
       35,
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "124003",
+    "title": "Perfect World",
+    "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
+    "release_date": "2021-04-23",
+    "poster_path": "/qy60bm9admmgpkmcPeW4BvRjjVm.jpg",
+    "backdrop_path": "/eoOvPxcMxJDeZsJdM5Ppbprd6OX.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      16,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2206,7 +2206,7 @@
     "release_date": "2026-04-24",
     "poster_path": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "backdrop_path": "/5BzfcAW5ZI2m7QypeJBbYNjBuR0.jpg",
-    "vote_average": 8,
+    "vote_average": 7.995,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2294,6 +2294,24 @@
     "is_local": true
   },
   {
+    "id": "457832",
+    "title": "Reset",
+    "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
+    "release_date": "2017-06-28",
+    "poster_path": "/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg",
+    "backdrop_path": "/f2fWG89GPSe31ymp6pqJANfjbit.jpg",
+    "vote_average": 6.904,
+    "media_type": "movie",
+    "original_language": "zh",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "223911",
     "title": "Renegade Immortal",
     "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
@@ -2307,24 +2325,6 @@
       16,
       18,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "457832",
-    "title": "Reset",
-    "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
-    "release_date": "2017-06-28",
-    "poster_path": "/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg",
-    "backdrop_path": "/f2fWG89GPSe31ymp6pqJANfjbit.jpg",
-    "vote_average": 6.904,
-    "media_type": "movie",
-    "original_language": "zh",
-    "genre_ids": [
-      28,
-      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2391,7 +2391,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.529,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -2448,7 +2448,7 @@
     "release_date": "2023-06-24",
     "poster_path": "/pzemNbETZKXRzjvBwc1hydqbEeK.jpg",
     "backdrop_path": "/w2DBa4lRn97uvZkshoCX8XVvieZ.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.912,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2871,20 +2871,19 @@
     "is_local": true
   },
   {
-    "id": "1357633",
-    "title": "Solo Leveling -ReAwakening-",
-    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
-    "release_date": "2024-11-26",
-    "poster_path": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
-    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-    "vote_average": 7.2,
-    "media_type": "movie",
+    "id": "127532",
+    "title": "Solo Leveling",
+    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "release_date": "2024-01-07",
+    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
-      28,
-      12,
-      14,
-      16
+      16,
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3123,6 +3122,24 @@
     "is_local": true
   },
   {
+    "id": "252774",
+    "title": "The White Olive Tree",
+    "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
+    "release_date": "2025-02-01",
+    "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
+    "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "271309",
     "title": "Buried Hearts",
     "overview": "Seo Dong-ju, who hacked a political slush fund worth two trillion won, risks it all for revenge.",
@@ -3136,24 +3153,6 @@
       80,
       9648,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252774",
-    "title": "The White Olive Tree",
-    "overview": "During an interview mission in the turbulent East Country, Song Ran, a female reporter from Liangcheng Satellite TV, came across a sudden danger. Thankfully, Li Zan, a Chinese explosive engineer who volunteered in the East Country, was able to save her. After multiple interactions, Li Zan discovered that despite appearing weak on the outside, Song Ran was brave, strong, and full of justice and kindness. The same ideals and compatible souls ignited the love between them.\n\nA sudden bombing attack ended their budding relationship, and they fell into a trough of life after returning to China and even losing contact with each other. By chance, they came across each other again, and gradually, their lives got back on track. Together, they planted the seeds of the white olive tree.",
-    "release_date": "2025-02-01",
-    "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
-    "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
-    "vote_average": 8.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3428,6 +3427,23 @@
     "is_local": true
   },
   {
+    "id": "230524",
+    "title": "Perfect Marriage Revenge",
+    "overview": "Waking from a fatal accident to find herself in the past, Han Yi-joo teams up with Seo Do-guk to take revenge on the family who never loved her.",
+    "release_date": "2023-10-28",
+    "poster_path": "/qi8uqg4GcvP1ge7DjkaUsiBnF30.jpg",
+    "backdrop_path": "/9ijZyKSdaRR6zUUe7hhEzNE0Yxm.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "282326",
     "title": "Against the Current",
     "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
@@ -3440,23 +3456,6 @@
     "genre_ids": [
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "230524",
-    "title": "Perfect Marriage Revenge",
-    "overview": "Waking from a fatal accident to find herself in the past, Han Yi-joo teams up with Seo Do-guk to take revenge on the family who never loved her.",
-    "release_date": "2023-10-28",
-    "poster_path": "/qi8uqg4GcvP1ge7DjkaUsiBnF30.jpg",
-    "backdrop_path": "/9ijZyKSdaRR6zUUe7hhEzNE0Yxm.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3521,7 +3520,7 @@
     "release_date": "2017-09-29",
     "poster_path": "/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
     "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
-    "vote_average": 7.605,
+    "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4497,7 +4496,7 @@
     "release_date": "2023-11-24",
     "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
     "backdrop_path": "/eSB0fD6CbNW3LT8Z55V07fmYFpo.jpg",
-    "vote_average": 8.465,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4548,7 +4547,7 @@
     "release_date": "2020-07-08",
     "poster_path": "/bE71f9A3eztjcd5JT3MmHB8MbzA.jpg",
     "backdrop_path": "/9qq8LpOoBLYq8MxiMugn0gf9qJd.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.224,
     "media_type": "tv",
     "original_language": "tr",
     "genre_ids": [
@@ -4965,13 +4964,33 @@
     "release_date": "2026-08-06",
     "poster_path": "/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
     "backdrop_path": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "vote_average": 6.235,
+    "vote_average": 6.2,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
       35,
       27,
       10749
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1357633",
+    "title": "Solo Leveling -ReAwakening-",
+    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+    "release_date": "2024-11-26",
+    "poster_path": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
+    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "vote_average": 7.2,
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5285,25 +5304,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "127532",
-    "title": "Solo Leveling",
-    "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
-    "release_date": "2024-01-07",
-    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
-    "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-    "vote_average": 8.682,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": "253946",
