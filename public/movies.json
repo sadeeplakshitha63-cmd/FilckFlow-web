@@ -1,39 +1,5 @@
 [
   {
-    "id": 290233,
-    "title": "Inside the Circle",
-    "poster_path": "/3JpnP8fYVb9B9FuvdGT4ZkRRYZJ.jpg",
-    "overview": "Four lifelong friends are caught in a web of blackmail when a leaked video threatens to expose the secrets that could destroy their friendship.",
-    "vote_average": 9,
-    "release_date": "2026-10-07",
-    "genre_ids": [
-      9648,
-      80
-    ],
-    "original_language": "es",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 285322,
-    "title": "Below",
-    "poster_path": "/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-    "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-    "vote_average": 7.176,
-    "release_date": "2026-10-08",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "262493",
     "title": "Doctor's Mine",
     "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
@@ -249,6 +215,23 @@
     "is_local": true
   },
   {
+    "id": "278157",
+    "title": "My Romance Scammer",
+    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
+    "release_date": "2026-02-01",
+    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
+    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "278162",
     "title": "My Magic Prophecy",
     "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
@@ -262,23 +245,6 @@
       18,
       10765,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278157",
-    "title": "My Romance Scammer",
-    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
-    "release_date": "2026-02-01",
-    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
-    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -407,23 +373,6 @@
     "is_local": true
   },
   {
-    "id": "64010",
-    "title": "Reply 1988",
-    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-    "release_date": "2015-11-06",
-    "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
-    "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
-    "vote_average": 8.7,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -437,6 +386,23 @@
       10759,
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "64010",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "release_date": "2015-11-06",
+    "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
+    "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -497,23 +463,6 @@
     "is_local": true
   },
   {
-    "id": "223440",
-    "title": "The Eighth Sense",
-    "overview": "A rural freshman and a returning vet face a new kind of challenge: finding meaning in a crowded, fast-moving world.",
-    "release_date": "2023-03-29",
-    "poster_path": "/uoHehNNiO8lWpmaKmlx8icDESbm.jpg",
-    "backdrop_path": "/dNZCo6UVbig6Les5exI6iiMDHOl.jpg",
-    "vote_average": 8.257,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "312381",
     "title": "Project Loki",
     "overview": "A troubled new student and an aloof young man make an unlikely investigative pair as they try to uncover the truth behind crimes at their school.",
@@ -527,6 +476,23 @@
       80,
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "223440",
+    "title": "The Eighth Sense",
+    "overview": "A rural freshman and a returning vet face a new kind of challenge: finding meaning in a crowded, fast-moving world.",
+    "release_date": "2023-03-29",
+    "poster_path": "/uoHehNNiO8lWpmaKmlx8icDESbm.jpg",
+    "backdrop_path": "/dNZCo6UVbig6Les5exI6iiMDHOl.jpg",
+    "vote_average": 8.257,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1126,7 +1092,7 @@
     "release_date": "2004-08-06",
     "poster_path": "/upJOyrxxSIxlSZC7KEqJfB1vlGl.jpg",
     "backdrop_path": "/pmOXaAK8hteMlCiMZyyDJENHCZI.jpg",
-    "vote_average": 6.7,
+    "vote_average": 6.72,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -1192,24 +1158,6 @@
     "is_local": true
   },
   {
-    "id": "68349",
-    "title": "Weightlifting Fairy Kim Bok-joo",
-    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
-    "release_date": "2016-11-16",
-    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
-    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "243028",
     "title": "Love Song in Winter",
     "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
@@ -1235,6 +1183,24 @@
     "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
     "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
     "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68349",
+    "title": "Weightlifting Fairy Kim Bok-joo",
+    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
+    "release_date": "2016-11-16",
+    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
+    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1804,7 +1770,7 @@
     "release_date": "2016-12-02",
     "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
     "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "vote_average": 8.615,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1841,7 +1807,7 @@
     "release_date": "2020-11-28",
     "poster_path": "/tKU34QiJUfVipcuhAs5S3TdCpAF.jpg",
     "backdrop_path": "/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "vote_average": 8.335,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1930,7 +1896,7 @@
     "release_date": "2022-06-29",
     "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
     "backdrop_path": "/39owosjolYd3gKufgM9jMdSSk9t.jpg",
-    "vote_average": 8.484,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2514,6 +2480,24 @@
     "is_local": true
   },
   {
+    "id": "79434",
+    "title": "What's Wrong with Secretary Kim",
+    "overview": "When his secretary unexpectedly quits, an arrogant executive will do anything to bring her back.",
+    "release_date": "2018-06-06",
+    "poster_path": "/w6muIYgrx1XZFombs3N8owfgLwf.jpg",
+    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "vote_average": 8.316,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "307624",
     "title": "Sammy's Children's Day",
     "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
@@ -2527,24 +2511,6 @@
       18,
       80,
       10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "79434",
-    "title": "What's Wrong with Secretary Kim",
-    "overview": "When his secretary unexpectedly quits, an arrogant executive will do anything to bring her back.",
-    "release_date": "2018-06-06",
-    "poster_path": "/w6muIYgrx1XZFombs3N8owfgLwf.jpg",
-    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
-    "vote_average": 8.316,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3238,7 +3204,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.412,
+    "vote_average": 8.422,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3284,17 +3250,16 @@
     "is_local": true
   },
   {
-    "id": "240437",
-    "title": "My Boss",
-    "overview": "Cheng Yao, aspiring to be a lawyer, joins a top law firm and moves into an apartment near work—only to discover her housemate is her new boss, Qian Heng. Initially harsh and suspicious, Qian Heng puts her through rigorous training, believing she got the job through connections. As Cheng Yao proves her talent and determination, she changes his impression, and a reluctant admiration slowly turns into romance.",
-    "release_date": "2024-01-04",
-    "poster_path": "/uqHgWQZ0WAAsJZxzlOctvp5rH2O.jpg",
-    "backdrop_path": "/1uMwBdVOP4w6DxPx3mN3IZyZGO5.jpg",
-    "vote_average": 7.3,
+    "id": "234147",
+    "title": "Yes Sir My Boss",
+    "overview": "Sophit, the successor to the family's business printing company, continues to adhere to the ideology of newspaper media production. Even if he had to pick up a little print, he agreed to keep the printing company alive, and however, the print media still had to be there, and the operators who were waiting for it would be chaotic. Will the managers deal with this problem?",
+    "release_date": "2015-02-20",
+    "poster_path": "/6yvSFNMIL677sSeUBe3J9gLWQL.jpg",
+    "backdrop_path": "/uslpgujtFfxzx9odfqVHS6ldF71.jpg",
+    "vote_average": 0,
     "media_type": "tv",
-    "original_language": "zh",
+    "original_language": "th",
     "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -3851,24 +3816,6 @@
     "is_local": true
   },
   {
-    "id": "272484",
-    "title": "Fated Hearts",
-    "overview": "After losing her memory in battle, skilled archer Fu Yixiao is taken in by a noble family and unexpectedly reunited with her former enemy, Prince Feng Suige—the man she once struck with an arrow. As they face the dangers of Yujing together, trust replaces suspicion and a deep bond begins to form. Caught in a web of past betrayals and political intrigue, the two must confront their shared history while fighting for survival, freedom, and each other.",
-    "release_date": "2025-10-02",
-    "poster_path": "/8F97uO5i7mZ29n447TK2cj24B4L.jpg",
-    "backdrop_path": "/xk1FjT0j5YraC0CQgtq7AGQxT0j.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281013",
     "title": "Dynamite Kiss",
     "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
@@ -3881,6 +3828,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "272484",
+    "title": "Fated Hearts",
+    "overview": "After losing her memory in battle, skilled archer Fu Yixiao is taken in by a noble family and unexpectedly reunited with her former enemy, Prince Feng Suige—the man she once struck with an arrow. As they face the dangers of Yujing together, trust replaces suspicion and a deep bond begins to form. Caught in a web of past betrayals and political intrigue, the two must confront their shared history while fighting for survival, freedom, and each other.",
+    "release_date": "2025-10-02",
+    "poster_path": "/8F97uO5i7mZ29n447TK2cj24B4L.jpg",
+    "backdrop_path": "/xk1FjT0j5YraC0CQgtq7AGQxT0j.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4669,7 +4634,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.706,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4794,7 +4759,7 @@
     "release_date": "1999-10-20",
     "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop_path": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.752,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -5011,6 +4976,58 @@
     "is_local": true
   },
   {
+    "id": 290233,
+    "title": "Inside the Circle",
+    "poster_path": "/3JpnP8fYVb9B9FuvdGT4ZkRRYZJ.jpg",
+    "overview": "Four lifelong friends are caught in a web of blackmail when a leaked video threatens to expose the secrets that could destroy their friendship.",
+    "vote_average": 9,
+    "release_date": "2026-10-07",
+    "genre_ids": [
+      9648,
+      80
+    ],
+    "original_language": "es",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 285322,
+    "title": "Below",
+    "poster_path": "/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+    "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+    "vote_average": 7.176,
+    "release_date": "2026-10-08",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "240437",
+    "title": "My Boss",
+    "overview": "Cheng Yao, aspiring to be a lawyer, joins a top law firm and moves into an apartment near work—only to discover her housemate is her new boss, Qian Heng. Initially harsh and suspicious, Qian Heng puts her through rigorous training, believing she got the job through connections. As Cheng Yao proves her talent and determination, she changes his impression, and a reluctant admiration slowly turns into romance.",
+    "release_date": "2024-01-04",
+    "poster_path": "/uqHgWQZ0WAAsJZxzlOctvp5rH2O.jpg",
+    "backdrop_path": "/1uMwBdVOP4w6DxPx3mN3IZyZGO5.jpg",
+    "vote_average": 7.3,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": 4488,
     "title": "Friday the 13th",
     "poster_path": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
@@ -5063,23 +5080,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "234147",
-    "title": "Yes Sir My Boss",
-    "overview": "Sophit, the successor to the family's business printing company, continues to adhere to the ideology of newspaper media production. Even if he had to pick up a little print, he agreed to keep the printing company alive, and however, the print media still had to be there, and the operators who were waiting for it would be chaotic. Will the managers deal with this problem?",
-    "release_date": "2015-02-20",
-    "poster_path": "/6yvSFNMIL677sSeUBe3J9gLWQL.jpg",
-    "backdrop_path": "/uslpgujtFfxzx9odfqVHS6ldF71.jpg",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 68073,
