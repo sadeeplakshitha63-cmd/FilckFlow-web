@@ -1,22 +1,5 @@
 [
   {
-    "id": 289423,
-    "title": "Take Charge of My Heart",
-    "poster_path": "/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-    "vote_average": 0,
-    "release_date": "2026-10-09",
-    "genre_ids": [
-      10765,
-      35
-    ],
-    "original_language": "ko",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "262493",
     "title": "Doctor's Mine",
     "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
@@ -53,23 +36,6 @@
     "is_local": true
   },
   {
-    "id": "278142",
-    "title": "Burnout Syndrome",
-    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
-    "release_date": "2025-11-26",
-    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
-    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237337",
     "title": "Wandee Goodday",
     "overview": "Because of a broken heart and drunkenness, Dr. Wandee goes from darling to daring, entangling himself with Muay Thai fighter Yoryak Phadetseuk. A one-night stand somehow turns into a fake boyfriends with benefits relationship.",
@@ -81,6 +47,23 @@
     "original_language": "th",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278142",
+    "title": "Burnout Syndrome",
+    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
+    "release_date": "2025-11-26",
+    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
+    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -768,17 +751,19 @@
     "is_local": true
   },
   {
-    "id": "215356",
+    "id": "42188",
     "title": "Never Let Me Go",
-    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
-    "release_date": "2022-12-13",
-    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
-    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "th",
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "release_date": "2010-03-18",
+    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+    "vote_average": 6.8,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      18
+      18,
+      10749,
+      878
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -840,21 +825,6 @@
     "is_local": true
   },
   {
-    "id": "1519202",
-    "title": "TNA Bound for Glory 2025",
-    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
-    "release_date": "2025-10-12",
-    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
-    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
-    "vote_average": 5.25,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "214873",
     "title": "My School President",
     "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
@@ -886,6 +856,21 @@
       35,
       18
     ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1519202",
+    "title": "TNA Bound for Glory 2025",
+    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
+    "release_date": "2025-10-12",
+    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
+    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
+    "vote_average": 5.25,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1263,6 +1248,23 @@
     "is_local": true
   },
   {
+    "id": "130822",
+    "title": "Our Secret",
+    "overview": "Zhou Siyue, a rebellious genius, and Ding Xian, a strong-willed and charming “Cinderella,” start off as unlikely seatmates. But through daily interactions, they slowly come to understand and support each other, forming a bond that stands the test of time.",
+    "release_date": "2021-08-10",
+    "poster_path": "/3JF71OaoUMDmd84HTdLpUFGL67h.jpg",
+    "backdrop_path": "/vE8OPTULzuyvgrM0yoFbn2VYisq.jpg",
+    "vote_average": 7.6,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "135897",
     "title": "Our Beloved Summer",
     "overview": "Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives.",
@@ -1274,23 +1276,6 @@
     "original_language": "ko",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "130822",
-    "title": "Our Secret",
-    "overview": "Zhou Siyue, a rebellious genius, and Ding Xian, a strong-willed and charming “Cinderella,” start off as unlikely seatmates. But through daily interactions, they slowly come to understand and support each other, forming a bond that stands the test of time.",
-    "release_date": "2021-08-10",
-    "poster_path": "/3JF71OaoUMDmd84HTdLpUFGL67h.jpg",
-    "backdrop_path": "/vE8OPTULzuyvgrM0yoFbn2VYisq.jpg",
-    "vote_average": 7.6,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2495,24 +2480,6 @@
     "is_local": true
   },
   {
-    "id": "79434",
-    "title": "What's Wrong with Secretary Kim",
-    "overview": "When his secretary unexpectedly quits, an arrogant executive will do anything to bring her back.",
-    "release_date": "2018-06-06",
-    "poster_path": "/w6muIYgrx1XZFombs3N8owfgLwf.jpg",
-    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
-    "vote_average": 8.316,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "307624",
     "title": "Sammy's Children's Day",
     "overview": "In the lawless 1980s Kowloon Walled City, an aspiring student and a triad enforcer find an unlikely, dangerous love while fighting for their lives.",
@@ -2526,6 +2493,24 @@
       18,
       80,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "79434",
+    "title": "What's Wrong with Secretary Kim",
+    "overview": "When his secretary unexpectedly quits, an arrogant executive will do anything to bring her back.",
+    "release_date": "2018-06-06",
+    "poster_path": "/w6muIYgrx1XZFombs3N8owfgLwf.jpg",
+    "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "vote_average": 8.316,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2892,7 +2877,7 @@
     "release_date": "2024-01-07",
     "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
     "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-    "vote_average": 8.684,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3035,7 +3020,7 @@
     "release_date": "2023-08-09",
     "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
     "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.526,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3425,23 +3410,6 @@
     "is_local": true
   },
   {
-    "id": "230524",
-    "title": "Perfect Marriage Revenge",
-    "overview": "Waking from a fatal accident to find herself in the past, Han Yi-joo teams up with Seo Do-guk to take revenge on the family who never loved her.",
-    "release_date": "2023-10-28",
-    "poster_path": "/qi8uqg4GcvP1ge7DjkaUsiBnF30.jpg",
-    "backdrop_path": "/9ijZyKSdaRR6zUUe7hhEzNE0Yxm.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "207197",
     "title": "Story of Kunning Palace",
     "overview": "A fallen queen, Jiang Xuening who aspired to have the highest power and authority in her life was held hostage by rebels after the king, Shen Jie was poisoned. In this life, she used everyone around her to reach the authority of the queen but in the end, she remained under house arrest and Xie Wei slaughtered the entire city. Later, she received the decree to be buried with the emperor. She got a second chance to change her fate by not entering the palace but when she woke up after rebirth, she was already messing around. Even though she vowed not to enter the palace, a certain turn of events again entangles her with the palace and Xie Wei whom she hated the most.",
@@ -3451,6 +3419,23 @@
     "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230524",
+    "title": "Perfect Marriage Revenge",
+    "overview": "Waking from a fatal accident to find herself in the past, Han Yi-joo teams up with Seo Do-guk to take revenge on the family who never loved her.",
+    "release_date": "2023-10-28",
+    "poster_path": "/qi8uqg4GcvP1ge7DjkaUsiBnF30.jpg",
+    "backdrop_path": "/9ijZyKSdaRR6zUUe7hhEzNE0Yxm.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -3483,7 +3468,7 @@
     "release_date": "2022-11-09",
     "poster_path": "/ccej6D8J81DDJWqhP7OG6PA6xcl.jpg",
     "backdrop_path": "/zbzldNycqQy1O9gP5vwJf9HECwk.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.228,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3535,7 +3520,7 @@
     "release_date": "2017-09-29",
     "poster_path": "/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
     "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
-    "vote_average": 7.604,
+    "vote_average": 7.6,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -3990,7 +3975,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.396,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4170,7 +4155,7 @@
     "release_date": "2023-05-01",
     "poster_path": "/cgS1s0sauvtgnOlICwQkTQ0eUi6.jpg",
     "backdrop_path": "/p21k4XJTqBs6hmgP0NbPQoksNyy.jpg",
-    "vote_average": 9,
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "tl",
     "genre_ids": [
@@ -4402,7 +4387,7 @@
     "release_date": "2024-01-01",
     "poster_path": "/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
     "backdrop_path": "/bd1uYBQnd9HRex77LTiMughdKKK.jpg",
-    "vote_average": 8.49,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4597,7 +4582,7 @@
     "release_date": "2010-07-11",
     "poster_path": "/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
     "backdrop_path": "/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.199,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4685,7 +4670,7 @@
     "release_date": "2025-02-25",
     "poster_path": "/okQHEWYmmVDLfxAsT8UBJeTMPIi.jpg",
     "backdrop_path": "/rFnuaqPvuELiAdedkxiS8oDMNTQ.jpg",
-    "vote_average": 8,
+    "vote_average": 8.008,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4775,7 +4760,7 @@
     "release_date": "1999-10-20",
     "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop_path": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.752,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4941,7 +4926,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.797,
+    "vote_average": 8.8,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -4992,19 +4977,34 @@
     "is_local": true
   },
   {
-    "id": "42188",
-    "title": "Never Let Me Go",
-    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
-    "release_date": "2010-03-18",
-    "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
-    "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.8,
-    "media_type": "movie",
-    "original_language": "en",
+    "id": 289423,
+    "title": "Take Charge of My Heart",
+    "poster_path": "/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+    "vote_average": 0,
+    "release_date": "2026-10-09",
     "genre_ids": [
-      18,
-      10749,
-      878
+      10765,
+      35
+    ],
+    "original_language": "ko",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "215356",
+    "title": "Never Let Me Go",
+    "overview": "Bound by duty and shadowed by violence, a young heir and his bodyguard find love—knowing danger may steal their chance at a future together.",
+    "release_date": "2022-12-13",
+    "poster_path": "/cQzDBhdk0aRiExg5XrdbolfMl4m.jpg",
+    "backdrop_path": "/dxSszawWrCMhdpCtGectBnGd0Ex.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
