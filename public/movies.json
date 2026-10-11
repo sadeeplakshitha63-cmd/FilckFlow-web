@@ -177,20 +177,19 @@
     "is_local": true
   },
   {
-    "id": "237411",
-    "title": "The Sign",
-    "overview": "Two men join a high-stakes special ops team to solve supernatural crimes, while a hidden connection from their past lives complicates everything.",
-    "release_date": "2023-11-25",
-    "poster_path": "/bqAjpdhw3vMNgyMwOJ0C29q9Vb5.jpg",
-    "backdrop_path": "/zvrmkaqCWwIGX6zBgGIGZHG3AaH.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "th",
+    "id": "11082",
+    "title": "The Seventh Sign",
+    "overview": "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he's heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
+    "release_date": "1988-04-01",
+    "poster_path": "/vAgVzkPmfe2pcgzkpoz8cZ9i9wm.jpg",
+    "backdrop_path": "/9f7JNJc7bvUgGN96RkHZYUSuk4a.jpg",
+    "vote_average": 6,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      9648,
+      27,
       18,
-      10759,
-      10765
+      53
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1658,7 +1657,7 @@
     "release_date": "2021-10-29",
     "poster_path": "/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg",
     "backdrop_path": "/st764ocddhbsflFdkMblEMxGejS.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.395,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2057,7 +2056,7 @@
     "release_date": "2021-04-23",
     "poster_path": "/qy60bm9admmgpkmcPeW4BvRjjVm.jpg",
     "backdrop_path": "/eoOvPxcMxJDeZsJdM5Ppbprd6OX.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.867,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2642,7 +2641,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.818,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4238,7 +4237,7 @@
     "release_date": "2025-02-17",
     "poster_path": "/84ZP2lykuGBwG13wgtLzVKtfBS.jpg",
     "backdrop_path": "/4Xer0oaXautbLRfJQOrlmPSCfN1.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.147,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4964,13 +4963,33 @@
     "release_date": "2026-08-06",
     "poster_path": "/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
     "backdrop_path": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "vote_average": 6.2,
+    "vote_average": 6.194,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
       35,
       27,
       10749
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237411",
+    "title": "The Sign",
+    "overview": "Two men join a high-stakes special ops team to solve supernatural crimes, while a hidden connection from their past lives complicates everything.",
+    "release_date": "2023-11-25",
+    "poster_path": "/bqAjpdhw3vMNgyMwOJ0C29q9Vb5.jpg",
+    "backdrop_path": "/zvrmkaqCWwIGX6zBgGIGZHG3AaH.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      18,
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
