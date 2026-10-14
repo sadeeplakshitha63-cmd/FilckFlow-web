@@ -1,22 +1,5 @@
 [
   {
-    "id": 283371,
-    "title": "The Trap",
-    "poster_path": "/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
-    "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
-    "vote_average": 7,
-    "release_date": "2026-10-13",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "original_language": "de",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "262493",
     "title": "Doctor's Mine",
     "overview": "Three pairs of students navigate fake love, unexpected intimacy, and long-held feelings as they search for connection across campus boundaries.",
@@ -72,23 +55,6 @@
     "is_local": true
   },
   {
-    "id": "278142",
-    "title": "Burnout Syndrome",
-    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
-    "release_date": "2025-11-26",
-    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
-    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237337",
     "title": "Wandee Goodday",
     "overview": "Because of a broken heart and drunkenness, Dr. Wandee goes from darling to daring, entangling himself with Muay Thai fighter Yoryak Phadetseuk. A one-night stand somehow turns into a fake boyfriends with benefits relationship.",
@@ -100,6 +66,23 @@
     "original_language": "th",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278142",
+    "title": "Burnout Syndrome",
+    "overview": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
+    "release_date": "2025-11-26",
+    "poster_path": "/lDTR1noFGGJGsyJedfh1DD0BiuY.jpg",
+    "backdrop_path": "/25w9j2tvI6xAfQOOYWa7YLLxuZs.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -196,20 +179,19 @@
     "is_local": true
   },
   {
-    "id": "237411",
-    "title": "The Sign",
-    "overview": "Two men join a high-stakes special ops team to solve supernatural crimes, while a hidden connection from their past lives complicates everything.",
-    "release_date": "2023-11-25",
-    "poster_path": "/bqAjpdhw3vMNgyMwOJ0C29q9Vb5.jpg",
-    "backdrop_path": "/zvrmkaqCWwIGX6zBgGIGZHG3AaH.jpg",
-    "vote_average": 8.6,
-    "media_type": "tv",
-    "original_language": "th",
+    "id": "11082",
+    "title": "The Seventh Sign",
+    "overview": "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he's heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
+    "release_date": "1988-04-01",
+    "poster_path": "/vAgVzkPmfe2pcgzkpoz8cZ9i9wm.jpg",
+    "backdrop_path": "/9f7JNJc7bvUgGN96RkHZYUSuk4a.jpg",
+    "vote_average": 6,
+    "media_type": "movie",
+    "original_language": "en",
     "genre_ids": [
-      9648,
+      27,
       18,
-      10759,
-      10765
+      53
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1334,6 +1316,23 @@
     "is_local": true
   },
   {
+    "id": "289116",
+    "title": "Genius Girlfriend",
+    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+    "release_date": "2026-08-02",
+    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
+    "vote_average": 7.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "243084",
     "title": "Love Game in Eastern Fantasy",
     "overview": "Pulled into the pages of a fantasy novel, a woman is shocked to find herself stuck in the role of a villain. Now, she must battle to rewrite her destiny.",
@@ -1363,23 +1362,6 @@
     "original_language": "ja",
     "genre_ids": [
       16
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "289116",
-    "title": "Genius Girlfriend",
-    "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-    "release_date": "2026-08-02",
-    "poster_path": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-    "backdrop_path": "/ZiVWUV475nFPZSGO8BbIWxEVGq.jpg",
-    "vote_average": 7.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1929,7 +1911,7 @@
     "release_date": "2022-06-29",
     "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
     "backdrop_path": "/39owosjolYd3gKufgM9jMdSSk9t.jpg",
-    "vote_average": 8.486,
+    "vote_average": 8.487,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2927,7 +2909,7 @@
     "release_date": "2024-01-07",
     "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
     "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-    "vote_average": 8.683,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4163,17 +4145,18 @@
     "is_local": true
   },
   {
-    "id": "213608",
+    "id": "297424",
     "title": "Our Universe",
-    "overview": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
-    "release_date": "2022-11-22",
-    "poster_path": "/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
-    "backdrop_path": "/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
-    "vote_average": 7.8,
+    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+    "release_date": "2026-02-04",
+    "poster_path": "/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
+    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+    "vote_average": 8.2,
     "media_type": "tv",
-    "original_language": "en",
+    "original_language": "ko",
     "genre_ids": [
-      99
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4383,7 +4366,7 @@
     "release_date": "2025-08-06",
     "poster_path": "/r1EMXYnqFDk9tzkkoxFwFjxCEvC.jpg",
     "backdrop_path": "/mwiG510fVcOrzWUSDSV7B5tRMrb.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.134,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4583,7 +4566,7 @@
     "release_date": "2020-07-08",
     "poster_path": "/bE71f9A3eztjcd5JT3MmHB8MbzA.jpg",
     "backdrop_path": "/9qq8LpOoBLYq8MxiMugn0gf9qJd.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.225,
     "media_type": "tv",
     "original_language": "tr",
     "genre_ids": [
@@ -4706,7 +4689,7 @@
     "release_date": "2025-02-25",
     "poster_path": "/okQHEWYmmVDLfxAsT8UBJeTMPIi.jpg",
     "backdrop_path": "/rFnuaqPvuELiAdedkxiS8oDMNTQ.jpg",
-    "vote_average": 8.008,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4942,7 +4925,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.091,
+    "vote_average": 9.089,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -4962,7 +4945,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.801,
+    "vote_average": 8.8,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -5013,19 +4996,54 @@
     "is_local": true
   },
   {
-    "id": "11082",
-    "title": "The Seventh Sign",
-    "overview": "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he's heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
-    "release_date": "1988-04-01",
-    "poster_path": "/vAgVzkPmfe2pcgzkpoz8cZ9i9wm.jpg",
-    "backdrop_path": "/9f7JNJc7bvUgGN96RkHZYUSuk4a.jpg",
-    "vote_average": 6,
-    "media_type": "movie",
+    "id": 283371,
+    "title": "The Trap",
+    "poster_path": "/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
+    "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
+    "vote_average": 7,
+    "release_date": "2026-10-13",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "original_language": "de",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "237411",
+    "title": "The Sign",
+    "overview": "Two men join a high-stakes special ops team to solve supernatural crimes, while a hidden connection from their past lives complicates everything.",
+    "release_date": "2023-11-25",
+    "poster_path": "/bqAjpdhw3vMNgyMwOJ0C29q9Vb5.jpg",
+    "backdrop_path": "/zvrmkaqCWwIGX6zBgGIGZHG3AaH.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      9648,
+      18,
+      10759,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "213608",
+    "title": "Our Universe",
+    "overview": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
+    "release_date": "2022-11-22",
+    "poster_path": "/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
+    "backdrop_path": "/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
-      27,
-      18,
-      53
+      99
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5064,24 +5082,6 @@
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
-  },
-  {
-    "id": "297424",
-    "title": "Our Universe",
-    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
-    "release_date": "2026-02-04",
-    "poster_path": "/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
-    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
   },
   {
     "id": 560057,
