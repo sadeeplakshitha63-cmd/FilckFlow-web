@@ -1,39 +1,5 @@
 [
   {
-    "id": 1620080,
-    "title": "Less of a Stranger",
-    "poster_path": "/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
-    "overview": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him.",
-    "vote_average": 8.333,
-    "release_date": "2026-09-21",
-    "genre_ids": [
-      18,
-      10402
-    ],
-    "original_language": "pl",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 337806,
-    "title": "Least Eligible Bachelor",
-    "poster_path": "/92JTzrsDpqPlXCv6O1u3DIxDAso.jpg",
-    "overview": "A bachelor struggling to find a bride because of his looks moves to Hyderabad for a fresh start, only to discover that his potential match is his colleague at work.",
-    "vote_average": 7.5,
-    "release_date": "2026-10-09",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "original_language": "te",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
     "id": "46260",
     "title": "Naruto",
     "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
@@ -1018,6 +984,21 @@
     "is_local": true
   },
   {
+    "id": "301810",
+    "title": "Tempest (2025)",
+    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
+    "release_date": "2025-09-10",
+    "poster_path": "/o9jmLOQ9K5H9W0hiSmMNzzLqnVJ.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "239386",
     "title": "Kiseki Miracle Season",
     "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
@@ -1031,21 +1012,6 @@
       18,
       35
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "301810",
-    "title": "Tempest (2025)",
-    "overview": "Former diplomat Munju and special agent Sanho uncover the hidden truth behind a major incident.",
-    "release_date": "2025-09-10",
-    "poster_path": "/o9jmLOQ9K5H9W0hiSmMNzzLqnVJ.jpg",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -2103,24 +2069,6 @@
     "is_local": true
   },
   {
-    "id": "237327",
-    "title": "My Golden Blood",
-    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
-    "release_date": "2025-03-12",
-    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
-    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
-    "vote_average": 8.9,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "124003",
     "title": "Perfect World",
     "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
@@ -2133,6 +2081,24 @@
     "genre_ids": [
       16,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "237327",
+    "title": "My Golden Blood",
+    "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
+    "release_date": "2025-03-12",
+    "poster_path": "/620RwvVH5ZAN0k4TsuARAyySQ0y.jpg",
+    "backdrop_path": "/udHJQa6qqfkoufp0u5sddJTkt1M.jpg",
+    "vote_average": 8.9,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2694,7 +2660,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 8.811,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2943,7 +2909,7 @@
     "release_date": "2024-01-07",
     "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
     "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-    "vote_average": 8.682,
+    "vote_average": 8.683,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3069,7 +3035,7 @@
     "release_date": "2023-08-09",
     "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
     "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
-    "vote_average": 8.516,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3623,7 +3589,7 @@
     "release_date": "2023-06-17",
     "poster_path": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
     "backdrop_path": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "vote_average": 8.211,
+    "vote_average": 8.214,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3748,7 +3714,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
     "backdrop_path": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.396,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4041,7 +4007,7 @@
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.396,
+    "vote_average": 8.399,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4096,7 +4062,7 @@
     "release_date": "2024-08-17",
     "poster_path": "/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
     "backdrop_path": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.912,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4179,18 +4145,17 @@
     "is_local": true
   },
   {
-    "id": "297424",
+    "id": "213608",
     "title": "Our Universe",
-    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
-    "release_date": "2026-02-04",
-    "poster_path": "/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
-    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "vote_average": 8.2,
+    "overview": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
+    "release_date": "2022-11-22",
+    "poster_path": "/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
+    "backdrop_path": "/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
+    "vote_average": 7.8,
     "media_type": "tv",
-    "original_language": "ko",
+    "original_language": "en",
     "genre_ids": [
-      35,
-      18
+      99
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4600,7 +4565,7 @@
     "release_date": "2020-07-08",
     "poster_path": "/bE71f9A3eztjcd5JT3MmHB8MbzA.jpg",
     "backdrop_path": "/9qq8LpOoBLYq8MxiMugn0gf9qJd.jpg",
-    "vote_average": 8.224,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "tr",
     "genre_ids": [
@@ -4688,7 +4653,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
-    "vote_average": 8.711,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4705,7 +4670,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.285,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -5017,13 +4982,65 @@
     "release_date": "2026-08-06",
     "poster_path": "/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
     "backdrop_path": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "vote_average": 6.16,
+    "vote_average": 6.152,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
       35,
       27,
       10749
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": 1620080,
+    "title": "Less of a Stranger",
+    "poster_path": "/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+    "overview": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him.",
+    "vote_average": 8.333,
+    "release_date": "2026-09-21",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "original_language": "pl",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 337806,
+    "title": "Least Eligible Bachelor",
+    "poster_path": "/92JTzrsDpqPlXCv6O1u3DIxDAso.jpg",
+    "overview": "A bachelor struggling to find a bride because of his looks moves to Hyderabad for a fresh start, only to discover that his potential match is his colleague at work.",
+    "vote_average": 7.5,
+    "release_date": "2026-10-09",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "original_language": "te",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "297424",
+    "title": "Our Universe",
+    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+    "release_date": "2026-02-04",
+    "poster_path": "/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
+    "backdrop_path": "/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -5099,23 +5116,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "213608",
-    "title": "Our Universe",
-    "overview": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
-    "release_date": "2022-11-22",
-    "poster_path": "/h2vjL6bUmoTu3vLVrkgoNjTgIhN.jpg",
-    "backdrop_path": "/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      99
     ],
     "video_url": "",
     "subtitle_file": null,
