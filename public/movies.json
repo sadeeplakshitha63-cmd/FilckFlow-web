@@ -1,16 +1,16 @@
 [
   {
-    "id": 313699,
-    "title": "Balaraw: Blood Island",
-    "poster_path": "/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
-    "overview": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.",
-    "vote_average": 7.2,
-    "release_date": "2026-10-29",
+    "id": 243555,
+    "title": "Akka",
+    "poster_path": "/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg",
+    "overview": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
+    "vote_average": 0,
+    "release_date": "2026-10-30",
     "genre_ids": [
-      9648,
-      18
+      18,
+      80
     ],
-    "original_language": "tl",
+    "original_language": "ta",
     "media_type": "tv",
     "is_local": false,
     "video_url": "",
@@ -381,7 +381,7 @@
     "release_date": "2016-09-23",
     "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
     "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.935,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -456,7 +456,7 @@
     "release_date": "2015-11-06",
     "poster_path": "/655MownSWwplhvVlXERRJ4OSOG2.jpg",
     "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.741,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -898,6 +898,23 @@
     "is_local": true
   },
   {
+    "id": "230250",
+    "title": "Love Me, Love My Voice",
+    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
+    "release_date": "2023-11-30",
+    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
+    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "829560",
     "title": "The Next 365 Days",
     "overview": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
@@ -909,23 +926,6 @@
     "original_language": "pl",
     "genre_ids": [
       10749,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "230250",
-    "title": "Love Me, Love My Voice",
-    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
-    "release_date": "2023-11-30",
-    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
-    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -962,25 +962,6 @@
     "genre_ids": [
       18,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "293610",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "release_date": "2026-10-09",
-    "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdrop_path": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "vote_average": 9.344,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1085,6 +1066,25 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "release_date": "2026-10-09",
+    "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop_path": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "vote_average": 9.344,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1239,7 +1239,7 @@
     "release_date": "2021-08-28",
     "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
     "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.203,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1792,7 +1792,7 @@
     "release_date": "2025-05-24",
     "poster_path": "/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
     "backdrop_path": "/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.417,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1972,7 +1972,7 @@
     "release_date": "2019-12-14",
     "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
     "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.539,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2112,23 +2112,6 @@
     "is_local": true
   },
   {
-    "id": "230735",
-    "title": "My Personal Weatherman",
-    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
-    "release_date": "2023-08-11",
-    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
-    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
-    "vote_average": 7.9,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278146",
     "title": "Dare You to Death",
     "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
@@ -2141,6 +2124,23 @@
     "genre_ids": [
       9648,
       80,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230735",
+    "title": "My Personal Weatherman",
+    "overview": "To the world, he's an amiable, fresh-faced weather forecaster. But secretly, he lives with an erotic manga artist — who must obey his every word.",
+    "release_date": "2023-08-11",
+    "poster_path": "/km6bva8NnyVEUP9rpsEZGPU0FZ1.jpg",
+    "backdrop_path": "/hwiYhInnkDz6z1aDJZnxpLOh9LV.jpg",
+    "vote_average": 7.9,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2786,23 +2786,6 @@
     "is_local": true
   },
   {
-    "id": "300146",
-    "title": "Where the Mask Ends",
-    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-    "release_date": "2026-10-16",
-    "poster_path": "/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-    "backdrop_path": "/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "4545",
     "title": "Blossom",
     "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
@@ -2877,13 +2860,30 @@
     "is_local": true
   },
   {
+    "id": "300146",
+    "title": "Where the Mask Ends",
+    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+    "release_date": "2026-10-16",
+    "poster_path": "/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+    "backdrop_path": "/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "235355",
     "title": "Resident Playbook",
     "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
     "release_date": "2025-04-12",
     "poster_path": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
     "backdrop_path": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
-    "vote_average": 8.1,
+    "vote_average": 8.134,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3039,6 +3039,25 @@
     "is_local": true
   },
   {
+    "id": "126485",
+    "title": "Moving",
+    "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
+    "release_date": "2023-08-09",
+    "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
+    "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
+    "vote_average": 8.516,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "287011",
     "title": "Sold Out on You",
     "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
@@ -3051,25 +3070,6 @@
     "genre_ids": [
       35,
       18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "126485",
-    "title": "Moving",
-    "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
-    "release_date": "2023-08-09",
-    "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
-    "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
-    "vote_average": 8.514,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3171,7 +3171,7 @@
     "release_date": "2023-07-31",
     "poster_path": "/lDxDrALYgBFKyr2xTY9EHZ7GaW6.jpg",
     "backdrop_path": "/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
-    "vote_average": 7.865,
+    "vote_average": 7.856,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3396,23 +3396,6 @@
     "is_local": true
   },
   {
-    "id": "230524",
-    "title": "Perfect Marriage Revenge",
-    "overview": "Waking from a fatal accident to find herself in the past, Han Yi-joo teams up with Seo Do-guk to take revenge on the family who never loved her.",
-    "release_date": "2023-10-28",
-    "poster_path": "/qi8uqg4GcvP1ge7DjkaUsiBnF30.jpg",
-    "backdrop_path": "/9ijZyKSdaRR6zUUe7hhEzNE0Yxm.jpg",
-    "vote_average": 8.053,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "207197",
     "title": "Story of Kunning Palace",
     "overview": "A fallen queen, Jiang Xuening who aspired to have the highest power and authority in her life was held hostage by rebels after the king, Shen Jie was poisoned. In this life, she used everyone around her to reach the authority of the queen but in the end, she remained under house arrest and Xie Wei slaughtered the entire city. Later, she received the decree to be buried with the emperor. She got a second chance to change her fate by not entering the palace but when she woke up after rebirth, she was already messing around. Even though she vowed not to enter the palace, a certain turn of events again entangles her with the palace and Xie Wei whom she hated the most.",
@@ -3422,6 +3405,23 @@
     "vote_average": 7.684,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "230524",
+    "title": "Perfect Marriage Revenge",
+    "overview": "Waking from a fatal accident to find herself in the past, Han Yi-joo teams up with Seo Do-guk to take revenge on the family who never loved her.",
+    "release_date": "2023-10-28",
+    "poster_path": "/qi8uqg4GcvP1ge7DjkaUsiBnF30.jpg",
+    "backdrop_path": "/9ijZyKSdaRR6zUUe7hhEzNE0Yxm.jpg",
+    "vote_average": 8.053,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18
     ],
@@ -3597,7 +3597,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
     "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.594,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3722,7 +3722,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.701,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3901,7 +3901,7 @@
     "release_date": "2024-11-22",
     "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
     "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "vote_average": 8.274,
+    "vote_average": 8.273,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4763,19 +4763,18 @@
     "is_local": true
   },
   {
-    "id": "37854",
-    "title": "One Piece",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "release_date": "1999-10-20",
-    "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "vote_average": 8.754,
+    "id": "111110",
+    "title": "ONE PIECE",
+    "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+    "release_date": "2023-08-31",
+    "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+    "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+    "vote_average": 8.103,
     "media_type": "tv",
-    "original_language": "ja",
+    "original_language": "en",
     "genre_ids": [
       10759,
-      35,
-      16
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4973,7 +4972,7 @@
     "release_date": "2026-08-06",
     "poster_path": "/jcGvB76v8p1sqYXXkBetWASV0uM.jpg",
     "backdrop_path": "/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
-    "vote_average": 6.103,
+    "vote_average": 6.108,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -4986,18 +4985,36 @@
     "is_local": true
   },
   {
-    "id": "111110",
-    "title": "ONE PIECE",
-    "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
-    "release_date": "2023-08-31",
-    "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
-    "backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "vote_average": 8.106,
+    "id": 313699,
+    "title": "Balaraw: Blood Island",
+    "poster_path": "/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
+    "overview": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.",
+    "vote_average": 7.2,
+    "release_date": "2026-10-29",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "original_language": "tl",
     "media_type": "tv",
-    "original_language": "en",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "37854",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "release_date": "1999-10-20",
+    "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "vote_average": 8.754,
+    "media_type": "tv",
+    "original_language": "ja",
     "genre_ids": [
       10759,
-      10765
+      35,
+      16
     ],
     "video_url": "",
     "subtitle_file": null,
