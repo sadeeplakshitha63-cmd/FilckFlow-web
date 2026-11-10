@@ -1,22 +1,59 @@
 [
   {
-    "id": "1311031",
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-    "release_date": "2025-07-18",
-    "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.802,
+    "id": 282035,
+    "title": "The Mummy",
+    "poster_path": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+    "overview": "Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
+    "vote_average": 5.52,
+    "release_date": "2017-06-06",
+    "genre_ids": [
+      14,
+      53,
+      28,
+      12,
+      27
+    ],
+    "original_language": "en",
     "media_type": "movie",
-    "original_language": "ja",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1381221,
+    "title": "Misty Green",
+    "poster_path": "/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+    "overview": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
+    "vote_average": 6.8,
+    "release_date": "2026-10-09",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 89092,
+    "title": "Barbie: Dreamhouse Adventures",
+    "poster_path": "/6MraV12DdZjQEgQztjTQ2s9t5CK.jpg",
+    "overview": "Barbie, her sisters, friends and neighbour Ken share vlogs filmed in her Dreamhouse.",
+    "vote_average": 7.7,
+    "release_date": "2018-05-03",
     "genre_ids": [
       16,
-      28,
-      14
+      10751,
+      10762,
+      35
     ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
     "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
+    "subtitle_file": null
   },
   {
     "id": "290342",
@@ -161,6 +198,23 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "270431",
+    "title": "When I Meet the Moon",
+    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
+    "release_date": "2026-11-05",
+    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
+    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1115,7 +1169,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.941,
+    "vote_average": 7.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1257,7 +1311,7 @@
     "release_date": "2021-08-28",
     "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
     "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
-    "vote_average": 8.205,
+    "vote_average": 8.204,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2243,24 +2297,6 @@
     "is_local": true
   },
   {
-    "id": "279246",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "release_date": "2026-11-03",
-    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "vote_average": 7.919,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "108261",
     "title": "Mr. Queen",
     "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
@@ -2293,6 +2329,24 @@
       18,
       10765,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279246",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "release_date": "2026-11-03",
+    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "vote_average": 8.045,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2428,6 +2482,23 @@
     "is_local": true
   },
   {
+    "id": "1603843",
+    "title": "New Year's Eve Concert 2022 With the Berlin Philharmonic Orchestra",
+    "overview": "Under the baton of Kirill Petrenko, the Berlin Philharmonic Orchestra's traditional New Year's Eve concert brings you an enchanting programme led by star tenor Jonas Kaufmann. A delightful medley of Verdi, Prokofiev, Nino Rota, Tchaikovsky and more.",
+    "release_date": "2022-12-31",
+    "poster_path": "/lynxTugE8YUHTqbQP5aQhQb7rf8.jpg",
+    "backdrop_path": "",
+    "vote_average": 0,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [
+      10402
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "31910",
     "title": "Naruto Shippūden",
     "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
@@ -2441,23 +2512,6 @@
       16,
       10759,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1603843",
-    "title": "New Year's Eve Concert 2022 With the Berlin Philharmonic Orchestra",
-    "overview": "Under the baton of Kirill Petrenko, the Berlin Philharmonic Orchestra's traditional New Year's Eve concert brings you an enchanting programme led by star tenor Jonas Kaufmann. A delightful medley of Verdi, Prokofiev, Nino Rota, Tchaikovsky and more.",
-    "release_date": "2022-12-31",
-    "poster_path": "/lynxTugE8YUHTqbQP5aQhQb7rf8.jpg",
-    "backdrop_path": "",
-    "vote_average": 0,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [
-      10402
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2615,7 +2669,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 8.752,
+    "vote_average": 8.743,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2700,23 +2754,6 @@
     "is_local": true
   },
   {
-    "id": "319037",
-    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
-    "release_date": "2026-06-12",
-    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
-    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "217735",
     "title": "Bed Friend",
     "overview": "After an unexpected hook-up, two rival coworkers try to keep their fling purely physical, but growing feelings threaten their fragile arrangement.",
@@ -2726,6 +2763,23 @@
     "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "319037",
+    "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+    "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+    "release_date": "2026-06-12",
+    "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+    "backdrop_path": "/nP7hng2CDtqjEOG7yr1m4ssQlZ0.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -2876,25 +2930,6 @@
     "is_local": true
   },
   {
-    "id": "293610",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "release_date": "2026-10-09",
-    "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdrop_path": "/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
-    "vote_average": 9.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "232402",
     "title": "S Line",
     "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
@@ -2925,6 +2960,25 @@
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "release_date": "2026-10-09",
+    "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop_path": "/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
+    "vote_average": 9.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3582,7 +3636,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
     "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.595,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3613,6 +3667,23 @@
     "is_local": true
   },
   {
+    "id": "317056",
+    "title": "Double Helix",
+    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
+    "release_date": "2026-05-08",
+    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
+    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "282326",
     "title": "Against the Current",
     "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
@@ -3625,23 +3696,6 @@
     "genre_ids": [
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "317056",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "release_date": "2026-05-08",
-    "poster_path": "/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdrop_path": "/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3671,7 +3725,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/iaFykXvbKC24mbXWdhOZZk9rnO0.jpg",
     "backdrop_path": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "vote_average": 8.39,
+    "vote_average": 8.399,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3724,7 +3778,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.696,
+    "vote_average": 8.681,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4178,7 +4232,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "vote_average": 8.801,
+    "vote_average": 8.803,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4501,7 +4555,7 @@
     "release_date": "2023-11-24",
     "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
     "backdrop_path": "/eSB0fD6CbNW3LT8Z55V07fmYFpo.jpg",
-    "vote_average": 8.467,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4645,7 +4699,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
-    "vote_average": 8.697,
+    "vote_average": 8.685,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4733,7 +4787,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg",
     "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-    "vote_average": 8.149,
+    "vote_average": 8.148,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4770,7 +4824,7 @@
     "release_date": "1999-10-20",
     "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "vote_average": 8.757,
+    "vote_average": 8.756,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4924,6 +4978,25 @@
       12,
       14,
       28
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "1311031",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+    "release_date": "2025-07-18",
+    "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "vote_average": 8.799,
+    "media_type": "movie",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      28,
+      14
     ],
     "video_url": "",
     "subtitle_file": null,
