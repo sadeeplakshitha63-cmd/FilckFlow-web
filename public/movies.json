@@ -1,56 +1,17 @@
 [
   {
-    "id": 282035,
-    "title": "The Mummy",
-    "poster_path": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
-    "overview": "Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
-    "vote_average": 5.52,
-    "release_date": "2017-06-06",
+    "id": 1616419,
+    "title": "The Good Lawyer",
+    "poster_path": "/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
+    "overview": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
+    "vote_average": 7.1,
+    "release_date": "2026-09-11",
     "genre_ids": [
-      14,
       53,
-      28,
-      12,
-      27
+      18
     ],
-    "original_language": "en",
+    "original_language": "fr",
     "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 1381221,
-    "title": "Misty Green",
-    "poster_path": "/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
-    "overview": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
-    "vote_average": 6.8,
-    "release_date": "2026-10-09",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "original_language": "en",
-    "media_type": "movie",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": 89092,
-    "title": "Barbie: Dreamhouse Adventures",
-    "poster_path": "/6MraV12DdZjQEgQztjTQ2s9t5CK.jpg",
-    "overview": "Barbie, her sisters, friends and neighbour Ken share vlogs filmed in her Dreamhouse.",
-    "vote_average": 7.7,
-    "release_date": "2018-05-03",
-    "genre_ids": [
-      16,
-      10751,
-      10762,
-      35
-    ],
-    "original_language": "en",
-    "media_type": "tv",
     "is_local": false,
     "video_url": "",
     "subtitle_file": null
@@ -204,23 +165,6 @@
     "is_local": true
   },
   {
-    "id": "270431",
-    "title": "When I Meet the Moon",
-    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
-    "release_date": "2026-11-05",
-    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
-    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "247207",
     "title": "Ski into Love",
     "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
@@ -336,6 +280,23 @@
     "vote_average": 9.436,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "270431",
+    "title": "When I Meet the Moon",
+    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
+    "release_date": "2026-11-05",
+    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
+    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -1865,7 +1826,7 @@
     "release_date": "2020-11-28",
     "poster_path": "/tKU34QiJUfVipcuhAs5S3TdCpAF.jpg",
     "backdrop_path": "/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "vote_average": 8.348,
+    "vote_average": 8.346,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2335,24 +2296,6 @@
     "is_local": true
   },
   {
-    "id": "279246",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "release_date": "2026-11-03",
-    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "vote_average": 8.045,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223911",
     "title": "Renegade Immortal",
     "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
@@ -2381,6 +2324,24 @@
     "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279246",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "release_date": "2026-11-03",
+    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "vote_average": 8.346,
+    "media_type": "tv",
+    "original_language": "ko",
     "genre_ids": [
       18,
       10765
@@ -2972,7 +2933,7 @@
     "release_date": "2026-10-09",
     "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
     "backdrop_path": "/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
-    "vote_average": 9.1,
+    "vote_average": 9.111,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2991,7 +2952,7 @@
     "release_date": "2024-11-26",
     "poster_path": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
     "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-    "vote_average": 7.173,
+    "vote_average": 7.176,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -3636,7 +3597,7 @@
     "release_date": "2022-06-18",
     "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
     "backdrop_path": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "vote_average": 8.595,
+    "vote_average": 8.586,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4716,7 +4677,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.286,
+    "vote_average": 8.287,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4769,7 +4730,7 @@
     "release_date": "2023-09-25",
     "poster_path": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
     "backdrop_path": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
-    "vote_average": 8.806,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4824,7 +4785,7 @@
     "release_date": "1999-10-20",
     "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "vote_average": 8.756,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4970,7 +4931,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 9.004,
+    "vote_average": 9.001,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -5039,6 +5000,62 @@
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
+  },
+  {
+    "id": 282035,
+    "title": "The Mummy",
+    "poster_path": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+    "overview": "Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
+    "vote_average": 5.52,
+    "release_date": "2017-06-06",
+    "genre_ids": [
+      14,
+      53,
+      28,
+      12,
+      27
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 1381221,
+    "title": "Misty Green",
+    "poster_path": "/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+    "overview": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
+    "vote_average": 6.8,
+    "release_date": "2026-10-09",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "movie",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": 89092,
+    "title": "Barbie: Dreamhouse Adventures",
+    "poster_path": "/6MraV12DdZjQEgQztjTQ2s9t5CK.jpg",
+    "overview": "Barbie, her sisters, friends and neighbour Ken share vlogs filmed in her Dreamhouse.",
+    "vote_average": 7.7,
+    "release_date": "2018-05-03",
+    "genre_ids": [
+      16,
+      10751,
+      10762,
+      35
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
   },
   {
     "id": 1743695,
