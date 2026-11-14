@@ -110,25 +110,6 @@
     "is_local": true
   },
   {
-    "id": "46260",
-    "title": "Naruto",
-    "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-    "release_date": "2002-10-03",
-    "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
-    "backdrop_path": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-    "vote_average": 8.361,
-    "media_type": "tv",
-    "original_language": "ja",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278162",
     "title": "My Magic Prophecy",
     "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
@@ -142,6 +123,25 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "46260",
+    "title": "Naruto",
+    "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+    "release_date": "2002-10-03",
+    "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+    "backdrop_path": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+    "vote_average": 8.361,
+    "media_type": "tv",
+    "original_language": "ja",
+    "genre_ids": [
+      16,
+      10759,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -167,23 +167,6 @@
     "is_local": true
   },
   {
-    "id": "247207",
-    "title": "Ski into Love",
-    "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
-    "release_date": "2025-03-11",
-    "poster_path": "/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
-    "backdrop_path": "/iZLtHdy8supE79NsAXERN5Vju1K.jpg",
-    "vote_average": 7.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "278157",
     "title": "My Romance Scammer",
     "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
@@ -193,6 +176,23 @@
     "vote_average": 7.556,
     "media_type": "tv",
     "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "247207",
+    "title": "Ski into Love",
+    "overview": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
+    "release_date": "2025-03-11",
+    "poster_path": "/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
+    "backdrop_path": "/iZLtHdy8supE79NsAXERN5Vju1K.jpg",
+    "vote_average": 7.2,
+    "media_type": "tv",
+    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -378,6 +378,24 @@
     "is_local": true
   },
   {
+    "id": "219651",
+    "title": "Welcome to Samdal-ri",
+    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
+    "release_date": "2023-12-02",
+    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
+    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "215001",
     "title": "Destined with You",
     "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
@@ -390,24 +408,6 @@
     "genre_ids": [
       18,
       10765,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "219651",
-    "title": "Welcome to Samdal-ri",
-    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
-    "release_date": "2023-12-02",
-    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
-    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
       35
     ],
     "video_url": "",
@@ -771,6 +771,23 @@
     "is_local": true
   },
   {
+    "id": "226186",
+    "title": "My Journey to You",
+    "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
+    "release_date": "2023-09-02",
+    "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+    "backdrop_path": "/rXoQ8r3N5UisLpmctEgFgOS5GGt.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "214873",
     "title": "My School President",
     "overview": "The president of a high school council plans to cancel an after-school music club. But will his crush on the club’s leader stop him in his tracks?",
@@ -782,23 +799,6 @@
     "original_language": "th",
     "genre_ids": [
       35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "226186",
-    "title": "My Journey to You",
-    "overview": "Yun Wei Shan, a spy longing for freedom, infiltrates the palace to complete a mission. Within the eerie and mysterious palace, she encounters love and friendship, embarks on a journey of self-discovery, and finds the determination to move forward. Together with the rebellious nobleman Gong Ziyu, they grow and mature through their shared experiences.",
-    "release_date": "2023-09-02",
-    "poster_path": "/mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
-    "backdrop_path": "/rXoQ8r3N5UisLpmctEgFgOS5GGt.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -863,13 +863,13 @@
     "is_local": true
   },
   {
-    "id": "230250",
-    "title": "Love Me, Love My Voice",
-    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
-    "release_date": "2023-11-30",
-    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
-    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
-    "vote_average": 7.8,
+    "id": "253357",
+    "title": "See Your Love",
+    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
+    "release_date": "2024-10-23",
+    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
+    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
+    "vote_average": 8.72,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -880,13 +880,13 @@
     "is_local": true
   },
   {
-    "id": "253357",
-    "title": "See Your Love",
-    "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
-    "release_date": "2024-10-23",
-    "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
-    "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
-    "vote_average": 8.72,
+    "id": "230250",
+    "title": "Love Me, Love My Voice",
+    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
+    "release_date": "2023-11-30",
+    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
+    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1197,6 +1197,23 @@
     "is_local": true
   },
   {
+    "id": "282620",
+    "title": "Rainkissed Fate",
+    "overview": "Heiress Bu Yan disappears after a fateful night with boxer He Yuchen. Six years later, she returns with twin children and reunites with He Yuchen, whose career has been derailed by scandal. To save her son, they enter a contract marriage, but their bond deepens as they work together to uncover dark secrets from their past.",
+    "release_date": "2025-02-15",
+    "poster_path": "/1EDAmzlo6CPLuKJ3oH7iyoCNxPT.jpg",
+    "backdrop_path": "/qetjna23Y9xPTEHst3nQhigHlCH.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "224030",
     "title": "High School Return of a Gangster",
     "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
@@ -1208,23 +1225,6 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "282620",
-    "title": "Rainkissed Fate",
-    "overview": "Heiress Bu Yan disappears after a fateful night with boxer He Yuchen. Six years later, she returns with twin children and reunites with He Yuchen, whose career has been derailed by scandal. To save her son, they enter a contract marriage, but their bond deepens as they work together to uncover dark secrets from their past.",
-    "release_date": "2025-02-15",
-    "poster_path": "/1EDAmzlo6CPLuKJ3oH7iyoCNxPT.jpg",
-    "backdrop_path": "/qetjna23Y9xPTEHst3nQhigHlCH.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -1713,6 +1713,24 @@
     "is_local": true
   },
   {
+    "id": "252318",
+    "title": "Melody of Golden Age",
+    "overview": "It tells the story of a pair of mortal enemies who accidentally became a couple but fell in love with each other in a series of bizarre cases and finally chose to fight side by side.",
+    "release_date": "2024-08-26",
+    "poster_path": "/864xVZaoWOWmfVSInVuPXgAwIV5.jpg",
+    "backdrop_path": "/5MKItvWyYYEjbbZdj9sYtchyI8l.jpg",
+    "vote_average": 8.417,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "67915",
     "title": "Guardian: The Lonely and Great God",
     "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
@@ -1726,24 +1744,6 @@
       18,
       10765,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "252318",
-    "title": "Melody of Golden Age",
-    "overview": "It tells the story of a pair of mortal enemies who accidentally became a couple but fell in love with each other in a series of bizarre cases and finally chose to fight side by side.",
-    "release_date": "2024-08-26",
-    "poster_path": "/864xVZaoWOWmfVSInVuPXgAwIV5.jpg",
-    "backdrop_path": "/5MKItvWyYYEjbbZdj9sYtchyI8l.jpg",
-    "vote_average": 8.417,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1949,6 +1949,24 @@
     "is_local": true
   },
   {
+    "id": "247453",
+    "title": "Everyone Loves Me",
+    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
+    "release_date": "2024-03-01",
+    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
+    "backdrop_path": "/kVd2xlSYIPbXBVVxvb8f1tjh1aV.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "107329",
     "title": "Go Ahead",
     "overview": "Three school students develop a sibling-like bond. But could the pressures of adulthood deepen – or shatter – their relationships?",
@@ -1962,24 +1980,6 @@
       18,
       10751,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "247453",
-    "title": "Everyone Loves Me",
-    "overview": "On the day Yue Qianling resigned, she coincidentally crossed paths with her secret crush, Gu Xun, who had just joined as the head of the 9th Business Unit. She didn't hesitate to return to the company to boldly pursue Gu Xun, but he remained indifferent. He even harshly rejected her confession in front of the entire school. Little did she know, Gu Xun had long fallen for his fearless online friend \"Sticky Dough Twist\". Who would have expected that his online friend turned out to be Yue Qianling herself? Upon discovering the truth, Gu Xun had no choice but to embark on a humorous and heartwarming \"reverse pursuit\" journey.",
-    "release_date": "2024-03-01",
-    "poster_path": "/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
-    "backdrop_path": "/kVd2xlSYIPbXBVVxvb8f1tjh1aV.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      35,
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2114,23 +2114,6 @@
     "is_local": true
   },
   {
-    "id": "270431",
-    "title": "When I Meet the Moon",
-    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
-    "release_date": "2026-11-05",
-    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
-    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-    "vote_average": 9.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "285838",
     "title": "If Wishes Could Kill",
     "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
@@ -2235,6 +2218,23 @@
     "original_language": "tl",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "270431",
+    "title": "When I Meet the Moon",
+    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
+    "release_date": "2026-11-05",
+    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
+    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
+    "vote_average": 9.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -2560,7 +2560,7 @@
     "release_date": "2023-08-12",
     "poster_path": "/9RgM3uOPOmQ9ipzyom25WLC3hpk.jpg",
     "backdrop_path": "/iu5MMNbA5HHG36tejnmzqZGgJ7Q.jpg",
-    "vote_average": 8.385,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -2785,6 +2785,24 @@
     "is_local": true
   },
   {
+    "id": "240445",
+    "title": "Coroner's Diary",
+    "overview": "Shen Wan, the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi to solve unsolved cases and find the real culprit in order to vindicate her father.",
+    "release_date": "2025-07-13",
+    "poster_path": "/unalYN9lT9h9b5UgTxGo1CoS7fj.jpg",
+    "backdrop_path": "/trAzKgcmDMkNBFXSr9ucZcfzxgm.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "285278",
     "title": "Idol I",
     "overview": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
@@ -2799,24 +2817,6 @@
       18,
       80,
       35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "240445",
-    "title": "Coroner's Diary",
-    "overview": "Shen Wan, the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi to solve unsolved cases and find the real culprit in order to vindicate her father.",
-    "release_date": "2025-07-13",
-    "poster_path": "/unalYN9lT9h9b5UgTxGo1CoS7fj.jpg",
-    "backdrop_path": "/trAzKgcmDMkNBFXSr9ucZcfzxgm.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      9648
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2893,6 +2893,24 @@
     "is_local": true
   },
   {
+    "id": "238680",
+    "title": "Moonlight Mystique",
+    "overview": "Bai Shuo, the youngest daughter of the General's Mansion, aspires to cultivate immortality in order to repay a favor. On her journey to seek immortality, she accidentally rescues the great demon god Fan Yue. As the saying goes, healthy fights strengthen relationships, and they go from mutual manipulation to mutual affection as they fall in love with each other, navigating a love affair intertwined with sweetness and cruelty. Even though they face countless difficulties, their love is strong enough to overcome all limitations, allowing them to truly embrace each other.",
+    "release_date": "2025-01-07",
+    "poster_path": "/4tqNdo1e3dwxPUGGidcuT9IMfJ1.jpg",
+    "backdrop_path": "/a6t5tRwdNh9MlYub0fr2HetALeh.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "127532",
     "title": "Solo Leveling",
     "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
@@ -2905,24 +2923,6 @@
     "genre_ids": [
       16,
       10759,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "238680",
-    "title": "Moonlight Mystique",
-    "overview": "Bai Shuo, the youngest daughter of the General's Mansion, aspires to cultivate immortality in order to repay a favor. On her journey to seek immortality, she accidentally rescues the great demon god Fan Yue. As the saying goes, healthy fights strengthen relationships, and they go from mutual manipulation to mutual affection as they fall in love with each other, navigating a love affair intertwined with sweetness and cruelty. Even though they face countless difficulties, their love is strong enough to overcome all limitations, allowing them to truly embrace each other.",
-    "release_date": "2025-01-07",
-    "poster_path": "/4tqNdo1e3dwxPUGGidcuT9IMfJ1.jpg",
-    "backdrop_path": "/a6t5tRwdNh9MlYub0fr2HetALeh.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
       10765
     ],
     "video_url": "",
@@ -3219,6 +3219,24 @@
     "is_local": true
   },
   {
+    "id": "204236",
+    "title": "Love Mechanics",
+    "overview": "Vee has a girlfriend. Mark has feelings. One moment changes everything, and now they must face what love really means.",
+    "release_date": "2022-06-18",
+    "poster_path": "/ahCX6yRk5rtk2r1rmJt3C8z5Ijb.jpg",
+    "backdrop_path": "/v6G5vmzmuicPxdlceK5IUJnWpx3.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "293610",
     "title": "Doctor X: Mafia in White",
     "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
@@ -3232,24 +3250,6 @@
       9648,
       18,
       80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "204236",
-    "title": "Love Mechanics",
-    "overview": "Vee has a girlfriend. Mark has feelings. One moment changes everything, and now they must face what love really means.",
-    "release_date": "2022-06-18",
-    "poster_path": "/ahCX6yRk5rtk2r1rmJt3C8z5Ijb.jpg",
-    "backdrop_path": "/v6G5vmzmuicPxdlceK5IUJnWpx3.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      10766
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3539,24 +3539,6 @@
     "is_local": true
   },
   {
-    "id": "279246",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "release_date": "2026-11-03",
-    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "vote_average": 8.314,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "231306",
     "title": "Exclusive Fairytale",
     "overview": "Ling Chao and Xiao Tu have been childhood rivals and inseparable friends since kindergarten. Despite his brilliance and perfectionism, Ling Chao always lived in the shadow of Xiao Tu in his mother’s eyes. As they grow up together, their playful rivalry turns into something more.",
@@ -3658,6 +3640,24 @@
     "original_language": "th",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279246",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "release_date": "2026-11-03",
+    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "vote_average": 8.377,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4915,7 +4915,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 8.996,
+    "vote_average": 8.995,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -4935,7 +4935,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.799,
+    "vote_average": 8.798,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
