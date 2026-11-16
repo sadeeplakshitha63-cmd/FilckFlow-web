@@ -6,7 +6,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.798,
+    "vote_average": 8.8,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -148,6 +148,23 @@
     "is_local": true
   },
   {
+    "id": "278157",
+    "title": "My Romance Scammer",
+    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
+    "release_date": "2026-02-01",
+    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
+    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
+    "vote_average": 7.556,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "1429",
     "title": "Attack on Titan",
     "overview": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
@@ -190,30 +207,13 @@
     "release_date": "2002-10-03",
     "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
     "backdrop_path": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-    "vote_average": 8.362,
+    "vote_average": 8.361,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
       16,
       10759,
       10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "278157",
-    "title": "My Romance Scammer",
-    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
-    "release_date": "2026-02-01",
-    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
-    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
-    "vote_average": 7.556,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -397,24 +397,6 @@
     "is_local": true
   },
   {
-    "id": "219651",
-    "title": "Welcome to Samdal-ri",
-    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
-    "release_date": "2023-12-02",
-    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
-    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215001",
     "title": "Destined with You",
     "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
@@ -427,6 +409,24 @@
     "genre_ids": [
       18,
       10765,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "219651",
+    "title": "Welcome to Samdal-ri",
+    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
+    "release_date": "2023-12-02",
+    "poster_path": "/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
+    "backdrop_path": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
+    "vote_average": 8.168,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
       35
     ],
     "video_url": "",
@@ -1115,7 +1115,7 @@
     "release_date": "2025-10-03",
     "poster_path": "/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
     "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "vote_average": 7.942,
+    "vote_average": 7.895,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1215,24 +1215,6 @@
     "is_local": true
   },
   {
-    "id": "224030",
-    "title": "High School Return of a Gangster",
-    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
-    "release_date": "2024-05-29",
-    "poster_path": "/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
-    "backdrop_path": "/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "243028",
     "title": "Love Song in Winter",
     "overview": "Since the anesthesiologist Lu Yan “runs into” her dead college friend Deng Man during a night shift, strange things around her occur successively. As the investigation proceeds, the detective Jiang Chengyi, Lu Yan’s ex-boyfriend from many years ago, is embroiled in it, and the long-hidden truth of eight years is gradually revealed.",
@@ -1245,6 +1227,24 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "224030",
+    "title": "High School Return of a Gangster",
+    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
+    "release_date": "2024-05-29",
+    "poster_path": "/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
+    "backdrop_path": "/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1482,23 +1482,6 @@
     "is_local": true
   },
   {
-    "id": "232441",
-    "title": "You Are Desire",
-    "overview": "After her parents' divorce, Lin Yujing moves to a new city and becomes seatmates with Shen Juan, a withdrawn student repeating a year. As they grow closer, her presence begins to change his life. Just as things start to improve, she’s forced to return to her hometown. A year later, they reunite at university, where Lin Yujing helps Shen Juan confront his past and heal, while also discovering her own path in life.",
-    "release_date": "2023-08-12",
-    "poster_path": "/rZitZNGABZ221cXzxhcRK7IgAvn.jpg",
-    "backdrop_path": "/lHQLSn49qq8QsPZcH4i0YFWvSlK.jpg",
-    "vote_average": 7.7,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "290054",
     "title": "The Seven Relics of ill Omen",
     "overview": "Adapted from the novel The Seven Relics of ill Omen by Weiyu. In ancient times, a mysterious substance descended upon Fengzi Ridge. Capable of parasitic invasion, it twists the human heart and lures its host into evil. Now, these relics of ill omen have reemerged, unleashing a series of bizarre and gruesome murders. Five ordinary yet passionate young people—Mu Dai, Luo Ren, Thirteen-Thousand, Yan Hongsha, and Cao Yanhua—are successively drawn into this crisis through their own fateful encounters. They form the \"Phoenix Squad\" and embark on a perilous quest to subdue these ill omens. Amid life-and-death trials, Luo Ren and Mu Dai heal each other's wounds and forge a genuine bond. Through a long and arduous journey fraught with danger, the five overcome relentless challenges, their friendship tempered and deepened in the fires of adversity.",
@@ -1511,6 +1494,23 @@
     "genre_ids": [
       10759,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "232441",
+    "title": "You Are Desire",
+    "overview": "After her parents' divorce, Lin Yujing moves to a new city and becomes seatmates with Shen Juan, a withdrawn student repeating a year. As they grow closer, her presence begins to change his life. Just as things start to improve, she’s forced to return to her hometown. A year later, they reunite at university, where Lin Yujing helps Shen Juan confront his past and heal, while also discovering her own path in life.",
+    "release_date": "2023-08-12",
+    "poster_path": "/rZitZNGABZ221cXzxhcRK7IgAvn.jpg",
+    "backdrop_path": "/lHQLSn49qq8QsPZcH4i0YFWvSlK.jpg",
+    "vote_average": 7.7,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1986,25 +1986,6 @@
     "is_local": true
   },
   {
-    "id": "107329",
-    "title": "Go Ahead",
-    "overview": "Three school students develop a sibling-like bond. But could the pressures of adulthood deepen – or shatter – their relationships?",
-    "release_date": "2020-08-10",
-    "poster_path": "/i5Gq1jYAx8aHDbKWKMuLiAJF6FF.jpg",
-    "backdrop_path": "/4jLKnw4No3OoFDZw34E6E3bX1NZ.jpg",
-    "vote_average": 8.4,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18,
-      10751,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "237327",
     "title": "My Golden Blood",
     "overview": "Mark is a vampire who hasn't found the meaning of life in centuries until he meets Tong, who gives him a reason to live. However, Tong's rare and powerful blood is irresistible to vampires, and Mark not only has to protect Tong from other vampires, he also has to fight his inner desire, struggling between love and instinct.",
@@ -2041,6 +2022,25 @@
     "is_local": true
   },
   {
+    "id": "107329",
+    "title": "Go Ahead",
+    "overview": "Three school students develop a sibling-like bond. But could the pressures of adulthood deepen – or shatter – their relationships?",
+    "release_date": "2020-08-10",
+    "poster_path": "/i5Gq1jYAx8aHDbKWKMuLiAJF6FF.jpg",
+    "backdrop_path": "/4jLKnw4No3OoFDZw34E6E3bX1NZ.jpg",
+    "vote_average": 8.4,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18,
+      10751,
+      35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "124003",
     "title": "Perfect World",
     "overview": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions. His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans. His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.",
@@ -2065,7 +2065,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.435,
+    "vote_average": 8.39,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2636,7 +2636,7 @@
     "release_date": "2024-02-02",
     "poster_path": "/1v5ABzgSMlVJG2acb6S6JAkEM2S.jpg",
     "backdrop_path": "/2EiNPJuZMTY7Bm9setnS1GqhGAl.jpg",
-    "vote_average": 8.273,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2793,7 +2793,7 @@
     "release_date": "2025-12-22",
     "poster_path": "/ii3CB9QwIEwClqt7MgRoe188BbO.jpg",
     "backdrop_path": "/ilTl0g138RAgM1TEeCaPKl1FxSh.jpg",
-    "vote_average": 7.797,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2834,23 +2834,6 @@
     "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "270431",
-    "title": "When I Meet the Moon",
-    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
-    "release_date": "2026-11-05",
-    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
-    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-    "vote_average": 9,
-    "media_type": "tv",
-    "original_language": "zh",
     "genre_ids": [
       18
     ],
@@ -2949,13 +2932,30 @@
     "is_local": true
   },
   {
+    "id": "270431",
+    "title": "When I Meet the Moon",
+    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
+    "release_date": "2026-11-05",
+    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
+    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
+    "vote_average": 9,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "289763",
     "title": "See You at Work Tomorrow!",
     "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
     "release_date": "2026-06-22",
     "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
     "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 8.801,
+    "vote_average": 8.713,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3113,23 +3113,6 @@
     "is_local": true
   },
   {
-    "id": "261600",
-    "title": "Always Home",
-    "overview": "Chen Huan’er, along with her friends Jing Xichi and Song Cong, navigates the journey from high school to adulthood. Together, they experience love, loss, family struggles, and personal growth. As life takes them in unexpected directions, their enduring friendship remains a constant through every challenge.",
-    "release_date": "2025-02-15",
-    "poster_path": "/l4Fihq74U4kRODxaTzcGs82hYKp.jpg",
-    "backdrop_path": "/1PSqUcQaVVLWwkLhuXewg7EVONv.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "210781",
     "title": "My Lovely Liar",
     "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
@@ -3144,6 +3127,23 @@
       35,
       18,
       10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "261600",
+    "title": "Always Home",
+    "overview": "Chen Huan’er, along with her friends Jing Xichi and Song Cong, navigates the journey from high school to adulthood. Together, they experience love, loss, family struggles, and personal growth. As life takes them in unexpected directions, their enduring friendship remains a constant through every challenge.",
+    "release_date": "2025-02-15",
+    "poster_path": "/l4Fihq74U4kRODxaTzcGs82hYKp.jpg",
+    "backdrop_path": "/1PSqUcQaVVLWwkLhuXewg7EVONv.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3447,25 +3447,6 @@
     "is_local": true
   },
   {
-    "id": "293610",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "release_date": "2026-10-09",
-    "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdrop_path": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "vote_average": 8.708,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "74204",
     "title": "Big Mouth",
     "overview": "Teenage friends find their lives upended by the wonders and horrors of puberty in this edgy comedy from real-life pals Nick Kroll and Andrew Goldberg.",
@@ -3484,13 +3465,32 @@
     "is_local": true
   },
   {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "release_date": "2026-10-09",
+    "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop_path": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "vote_average": 8.595,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18,
+      80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "220542",
     "title": "The Apothecary Diaries",
     "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
     "release_date": "2023-10-22",
     "poster_path": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.665,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3671,7 +3671,7 @@
     "release_date": "2026-01-16",
     "poster_path": "/iaFykXvbKC24mbXWdhOZZk9rnO0.jpg",
     "backdrop_path": "/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "vote_average": 8.408,
+    "vote_average": 8.376,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3701,24 +3701,6 @@
     "is_local": true
   },
   {
-    "id": "279246",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "release_date": "2026-11-03",
-    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "vote_average": 8.595,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "200709",
     "title": "Weak Hero",
     "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
@@ -3737,13 +3719,31 @@
     "is_local": true
   },
   {
+    "id": "279246",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "release_date": "2026-11-03",
+    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "vote_average": 8.595,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "300146",
     "title": "Where the Mask Ends",
     "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman, and becomes the bride of a wounded war hero who seems sure to die.  But when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
     "release_date": "2026-10-16",
     "poster_path": "/lneFeeibBiJu7NpPlD3XUUb1pgI.jpg",
     "backdrop_path": "/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
-    "vote_average": 7.38,
+    "vote_average": 7.442,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4102,23 +4102,6 @@
     "is_local": true
   },
   {
-    "id": "256920",
-    "title": "Love's Ambition",
-    "overview": "Renowned anchor Xu Yan and urban elite Shen Haoming appear to be the perfect couple but struggle to fit into each other’s social circles due to their differing backgrounds. When conflict arises, Xu Yan leaves, prompting Shen Haoming to realize his deep love for her and attempt to win her back. On their journey, they face challenges, shed their facades, and rediscover their true selves.",
-    "release_date": "2025-09-26",
-    "poster_path": "/iH8J36LMEYdvOlYvbBcYCK0ckpp.jpg",
-    "backdrop_path": "/vNqDJzm7AR95NpLzDn85dEL84vv.jpg",
-    "vote_average": 8.2,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "312172",
     "title": "Hell University",
     "overview": "After discovering Hell University, a group of friends is forced into a lawless school where murder is allowed every night. As fear threatens to break them apart, Zein fights to keep her friends alive while uncovering a system designed to make no one leave.",
@@ -4131,6 +4114,23 @@
     "genre_ids": [
       18,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "256920",
+    "title": "Love's Ambition",
+    "overview": "Renowned anchor Xu Yan and urban elite Shen Haoming appear to be the perfect couple but struggle to fit into each other’s social circles due to their differing backgrounds. When conflict arises, Xu Yan leaves, prompting Shen Haoming to realize his deep love for her and attempt to win her back. On their journey, they face challenges, shed their facades, and rediscover their true selves.",
+    "release_date": "2025-09-26",
+    "poster_path": "/iH8J36LMEYdvOlYvbBcYCK0ckpp.jpg",
+    "backdrop_path": "/vNqDJzm7AR95NpLzDn85dEL84vv.jpg",
+    "vote_average": 8.2,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4197,7 +4197,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "vote_average": 8.79,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4514,24 +4514,6 @@
     "is_local": true
   },
   {
-    "id": "218539",
-    "title": "My Demon",
-    "overview": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities — and his heart.",
-    "release_date": "2023-11-24",
-    "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
-    "backdrop_path": "/eSB0fD6CbNW3LT8Z55V07fmYFpo.jpg",
-    "vote_average": 8.464,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "316278",
     "title": "My Husband Is a Mafia Boss",
     "overview": "Join the sweet and naïve Aemie as she navigates married life with mafia boss husband Zeke, and the dangerous world she’s about to enter.",
@@ -4544,6 +4526,24 @@
     "genre_ids": [
       35,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "218539",
+    "title": "My Demon",
+    "overview": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities — and his heart.",
+    "release_date": "2023-11-24",
+    "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
+    "backdrop_path": "/eSB0fD6CbNW3LT8Z55V07fmYFpo.jpg",
+    "vote_average": 8.5,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4771,7 +4771,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.959,
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4935,7 +4935,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 8.991,
+    "vote_average": 9,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
