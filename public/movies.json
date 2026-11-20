@@ -1,5 +1,22 @@
 [
   {
+    "id": 308007,
+    "title": "The Altruists",
+    "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+    "vote_average": 6.444,
+    "release_date": "2026-11-19",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
     "id": "290342",
     "title": "The Love Never Sets",
     "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
@@ -169,7 +186,7 @@
     "release_date": "2023-07-07",
     "poster_path": "/4Ve2QV9uZnimo8xwq6cGyZ4Pz42.jpg",
     "backdrop_path": "/nRt1zqXHJdKAJzhEKwp9GoSMvZ3.jpg",
-    "vote_average": 8.6,
+    "vote_average": 8.613,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -223,7 +240,7 @@
     "release_date": "2013-04-07",
     "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
     "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-    "vote_average": 8.692,
+    "vote_average": 8.693,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -359,25 +376,6 @@
     "is_local": true
   },
   {
-    "id": "215001",
-    "title": "Destined with You",
-    "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
-    "release_date": "2023-08-23",
-    "poster_path": "/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
-    "backdrop_path": "/jJMfTkvU2exHwCFoBHsIqwaHImh.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765,
-      35
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "67391",
     "title": "The K2",
     "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
@@ -391,6 +389,25 @@
       10759,
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "215001",
+    "title": "Destined with You",
+    "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
+    "release_date": "2023-08-23",
+    "poster_path": "/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
+    "backdrop_path": "/jJMfTkvU2exHwCFoBHsIqwaHImh.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -540,25 +557,6 @@
     "is_local": true
   },
   {
-    "id": "61833",
-    "title": "Expedition Unknown",
-    "overview": "The adventures of Josh Gates as he investigates unsolved iconic stories across the globe.",
-    "release_date": "2015-01-08",
-    "poster_path": "/4OiM6apNckkqo04I7TO5VmQl65R.jpg",
-    "backdrop_path": "/7pWfwtREzL47QvYbZxerGKwIUE9.jpg",
-    "vote_average": 8.1,
-    "media_type": "tv",
-    "original_language": "en",
-    "genre_ids": [
-      99,
-      10764,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "255095",
     "title": "Eat Run Love",
     "overview": "Campus golden boy Gan Yang falls for the hardworking Ding Zhitong, who has no time for love until his warmth wins her over. Despite their different backgrounds, their romance flourishes—until Gan Yang secretly shoulders his family’s financial downfall and breaks up with her. Heartbroken and feeling betrayed, Ding Zhitong’s life takes a drastic turn, leaving her with deep resentment. Six years later, their paths cross again in the business world, where she must secure investment from his company. With love and resentment intertwined, can they overcome the past and find their way back to each other?",
@@ -593,6 +591,25 @@
     "is_local": true
   },
   {
+    "id": "61833",
+    "title": "Expedition Unknown",
+    "overview": "The adventures of Josh Gates as he investigates unsolved iconic stories across the globe.",
+    "release_date": "2015-01-08",
+    "poster_path": "/4OiM6apNckkqo04I7TO5VmQl65R.jpg",
+    "backdrop_path": "/7pWfwtREzL47QvYbZxerGKwIUE9.jpg",
+    "vote_average": 8.1,
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      99,
+      10764,
+      10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "30983",
     "title": "Detective Conan",
     "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
@@ -613,13 +630,13 @@
     "is_local": true
   },
   {
-    "id": "93975",
-    "title": "TharnType",
-    "overview": "Type hated the idea of sharing a room with a gay guy. But now, he's starting to question what he thought he knew.",
-    "release_date": "2019-10-07",
-    "poster_path": "/ofK4Z2zGyLfjKqSTQyQhtdrU43O.jpg",
-    "backdrop_path": "/cpPykwg5yE4vTIHHXiCRFdQDh1l.jpg",
-    "vote_average": 7.638,
+    "id": "284488",
+    "title": "Harmony Secret",
+    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
+    "release_date": "2025-07-26",
+    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
+    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -630,13 +647,13 @@
     "is_local": true
   },
   {
-    "id": "284488",
-    "title": "Harmony Secret",
-    "overview": "Two business heiresses—Aiwarin and Maevika—from a hotel empire and from a department store dynasty, respectively, compete for a national Duty-Free bid. From the moment they meet, an undeniable attraction sparks.",
-    "release_date": "2025-07-26",
-    "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
-    "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
-    "vote_average": 7.8,
+    "id": "93975",
+    "title": "TharnType",
+    "overview": "Type hated the idea of sharing a room with a gay guy. But now, he's starting to question what he thought he knew.",
+    "release_date": "2019-10-07",
+    "poster_path": "/ofK4Z2zGyLfjKqSTQyQhtdrU43O.jpg",
+    "backdrop_path": "/cpPykwg5yE4vTIHHXiCRFdQDh1l.jpg",
+    "vote_average": 7.638,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -720,6 +737,21 @@
     "is_local": true
   },
   {
+    "id": "1519202",
+    "title": "TNA Bound for Glory 2025",
+    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
+    "release_date": "2025-10-12",
+    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
+    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
+    "vote_average": 5.2,
+    "media_type": "movie",
+    "original_language": "en",
+    "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "257010",
     "title": "The Princess's Gambit",
     "overview": "In a world divided into three kingdoms, Princess Jiang Taohua of Zhao escapes Empress Lv's control through a marriage alliance in Wei, a kingdom fraught with political intrigue. An unexpected encounter with Chancellor Shen Zaiye draws her into his world, where their complex relationship unfolds as they navigate personal ambitions and the turbulence of court politics.",
@@ -732,21 +764,6 @@
     "genre_ids": [
       18
     ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "1519202",
-    "title": "TNA Bound for Glory 2025",
-    "overview": "TNA Bound for Glory 2025 was a professional wrestling pay-per-view event produced by Total Nonstop Action Wrestling (TNA) that took place on October 12, 2025, at the Tsongas Center in Lowell, Massachusetts, and was headlined by Trick Williams (c) vs. Mike Santana for the TNA World Championship.",
-    "release_date": "2025-10-12",
-    "poster_path": "/nly9Pr09FFWPeTnFISLbAEEZUtg.jpg",
-    "backdrop_path": "/oVSApb7TCcffbVLSiOyB6j6Y0WL.jpg",
-    "vote_average": 5.2,
-    "media_type": "movie",
-    "original_language": "en",
-    "genre_ids": [],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -1079,7 +1096,7 @@
     "release_date": "2024-11-05",
     "poster_path": "/wgjVCLLzDmH3Y5leC8mStrblhrG.jpg",
     "backdrop_path": "/oWTWIOAH0sof449XFIwa3lgyFpS.jpg",
-    "vote_average": 8.622,
+    "vote_average": 8.658,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -1937,7 +1954,7 @@
     "release_date": "2026-04-17",
     "poster_path": "/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
     "backdrop_path": "/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "vote_average": 8.824,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2101,7 +2118,7 @@
     "release_date": "2017-02-24",
     "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
     "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
-    "vote_average": 8.14,
+    "vote_average": 8.145,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2379,7 +2396,7 @@
     "release_date": "2026-03-13",
     "poster_path": "/87poJu88dlaReAe67HD6TUec1Cr.jpg",
     "backdrop_path": "/16pflahAoYrX0fEYR44qab9OX65.jpg",
-    "vote_average": 7.833,
+    "vote_average": 7.88,
     "media_type": "tv",
     "original_language": "cn",
     "genre_ids": [
@@ -2865,7 +2882,7 @@
     "release_date": "2025-07-14",
     "poster_path": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
     "backdrop_path": "/o0Grq4cdBwI5iYgg0JfeUDeAOaV.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.423,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2975,7 +2992,7 @@
     "release_date": "2026-04-22",
     "poster_path": "/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "backdrop_path": "/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "vote_average": 8.451,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3452,7 +3469,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.669,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3544,7 +3561,7 @@
     "release_date": "2026-10-09",
     "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
     "backdrop_path": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.674,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3937,24 +3954,6 @@
     "is_local": true
   },
   {
-    "id": "279246",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "release_date": "2026-11-03",
-    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "vote_average": 8.797,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "281011",
     "title": "Would You Marry Me?",
     "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
@@ -3973,13 +3972,31 @@
     "is_local": true
   },
   {
+    "id": "279246",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "release_date": "2026-11-03",
+    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "vote_average": 8.811,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "215720",
     "title": "Queen of Tears",
     "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
     "release_date": "2024-03-09",
     "poster_path": "/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
     "backdrop_path": "/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "vote_average": 8.404,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4732,7 +4749,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg",
     "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
-    "vote_average": 8.162,
+    "vote_average": 8.17,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4806,7 +4823,7 @@
     "release_date": "2025-02-18",
     "poster_path": "/ywkwBd65CMvC33DDVFOQqr4mrVQ.jpg",
     "backdrop_path": "/lO2CqipALTHkRblLIRDKgtMgwxX.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.473,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4973,7 +4990,7 @@
     "release_date": "2026-08-06",
     "poster_path": "/jcGvB76v8p1sqYXXkBetWASV0uM.jpg",
     "backdrop_path": "/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
-    "vote_average": 6.1,
+    "vote_average": 6.109,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
