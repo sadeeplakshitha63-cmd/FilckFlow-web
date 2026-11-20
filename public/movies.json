@@ -1,39 +1,5 @@
 [
   {
-    "id": 308007,
-    "title": "The Altruists",
-    "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
-    "vote_average": 6.444,
-    "release_date": "2026-11-19",
-    "genre_ids": [
-      80,
-      18
-    ],
-    "original_language": "en",
-    "media_type": "tv",
-    "is_local": false,
-    "video_url": "",
-    "subtitle_file": null
-  },
-  {
-    "id": "290342",
-    "title": "The Love Never Sets",
-    "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
-    "release_date": "2025-10-14",
-    "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
-    "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
-    "vote_average": 6.909,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "233100",
     "title": "Love Scout",
     "overview": "Yoo Eun-ho, a single dad armed with perfection, becomes the secretary of Kang Ji-yun, the CEO of a popular headhunter company, who doesn't do anything except work.",
@@ -127,30 +93,13 @@
     "is_local": true
   },
   {
-    "id": "278157",
-    "title": "My Romance Scammer",
-    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
-    "release_date": "2026-02-01",
-    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
-    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
-    "vote_average": 7.5,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "209502",
     "title": "A Good Day to be a Dog",
     "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
     "release_date": "2023-10-11",
     "poster_path": "/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
     "backdrop_path": "/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
-    "vote_average": 8.393,
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -172,6 +121,23 @@
     "vote_average": 7.2,
     "media_type": "tv",
     "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "278157",
+    "title": "My Romance Scammer",
+    "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
+    "release_date": "2026-02-01",
+    "poster_path": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
+    "backdrop_path": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
+    "vote_average": 7.5,
+    "media_type": "tv",
+    "original_language": "th",
     "genre_ids": [
       18
     ],
@@ -221,7 +187,7 @@
     "release_date": "2002-10-03",
     "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
     "backdrop_path": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.36,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -376,25 +342,6 @@
     "is_local": true
   },
   {
-    "id": "67391",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "release_date": "2016-09-23",
-    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
-    "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "vote_average": 7.912,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10759,
-      18,
-      80
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215001",
     "title": "Destined with You",
     "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
@@ -408,6 +355,25 @@
       18,
       10765,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "67391",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "release_date": "2016-09-23",
+    "poster_path": "/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdrop_path": "/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
+    "vote_average": 7.912,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10759,
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -616,7 +582,7 @@
     "release_date": "1996-01-08",
     "poster_path": "/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
     "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "vote_average": 8.014,
+    "vote_average": 8.017,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -688,7 +654,7 @@
     "release_date": "2025-02-07",
     "poster_path": "/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
     "backdrop_path": "/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
-    "vote_average": 7.987,
+    "vote_average": 8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -775,7 +741,7 @@
     "release_date": "2010-03-18",
     "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
     "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
-    "vote_average": 6.844,
+    "vote_average": 6.8,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -861,23 +827,6 @@
     "is_local": true
   },
   {
-    "id": "230250",
-    "title": "Love Me, Love My Voice",
-    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
-    "release_date": "2023-11-30",
-    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
-    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
-    "vote_average": 7.8,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "253357",
     "title": "See Your Love",
     "overview": "On the run from danger and responsibility, Zi-xiang finds safety—and romance—with Shao-peng, while chaos brews around them.",
@@ -895,13 +844,30 @@
     "is_local": true
   },
   {
+    "id": "230250",
+    "title": "Love Me, Love My Voice",
+    "overview": "The story revolves around Gu Sheng, a music-loving senior college student who perseveres in pursuing her dreams while silently maintaining another hidden identity as a low-profile figure in the traditional music circle known as \"Sheng Sheng Man\". She yearns for an opportunity to collaborate with her crush, a renowned figure in the voice-acting community called \"Qiang Qing Ci\". By a stroke of serendipity, she crosses paths with Mo Qingcheng, who is actually \"Qiang Qing Ci\", during an event. With the help of Gu's best friend, their distance gradually closes. Subsequently, Mo Qingcheng uses delectable cuisine and his captivating voice, slowly initiating a plan to win her heart. By the time Gu Sheng realizes it, she has already fallen into the sweet trap set by Mo Qingcheng.",
+    "release_date": "2023-11-30",
+    "poster_path": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
+    "backdrop_path": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
+    "vote_average": 7.8,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "90761",
     "title": "The Untamed",
     "overview": "In a magical world of inter-clan rivalry, two soulmates face treacherous schemes and uncover a dark mystery linked to a tragic event in the past.",
     "release_date": "2019-06-27",
     "poster_path": "/8TZbpPpLQVS2i7P7yUVhrFlFsmW.jpg",
     "backdrop_path": "/ampkwvfwO7o5YMwYAVPKx1PLDaB.jpg",
-    "vote_average": 8.655,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1380,7 +1346,7 @@
     "release_date": "2025-05-30",
     "poster_path": "/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
     "backdrop_path": "/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
-    "vote_average": 8.118,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1683,7 +1649,7 @@
     "release_date": "2024-01-27",
     "poster_path": "/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
     "backdrop_path": "/8bF9oiu4L5jOmuob5lBxcCwaea2.jpg",
-    "vote_average": 8.071,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1843,7 +1809,7 @@
     "release_date": "2020-11-28",
     "poster_path": "/tKU34QiJUfVipcuhAs5S3TdCpAF.jpg",
     "backdrop_path": "/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "vote_average": 8.349,
+    "vote_average": 8.334,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -1936,7 +1902,7 @@
     "release_date": "2019-12-14",
     "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
     "backdrop_path": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "vote_average": 8.5,
+    "vote_average": 8.531,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2063,7 +2029,7 @@
     "release_date": "2026-03-06",
     "poster_path": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
     "backdrop_path": "/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "vote_average": 8.435,
+    "vote_average": 8.429,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2118,7 +2084,7 @@
     "release_date": "2017-02-24",
     "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
     "backdrop_path": "/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
-    "vote_average": 8.145,
+    "vote_average": 8.1,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2596,7 +2562,7 @@
     "release_date": "2026-05-15",
     "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "vote_average": 8.742,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2772,7 +2738,7 @@
     "release_date": "1990-07-05",
     "poster_path": "/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg",
     "backdrop_path": "/eDnrGNNMD8IyitmRojrRomY9vtW.jpg",
-    "vote_average": 6.199,
+    "vote_average": 6.189,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -2930,24 +2896,6 @@
     "is_local": true
   },
   {
-    "id": "289763",
-    "title": "See You at Work Tomorrow!",
-    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
-    "release_date": "2026-06-22",
-    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
-    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 8.801,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "126485",
     "title": "Moving",
     "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
@@ -2961,6 +2909,24 @@
       9648,
       18,
       10759
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "289763",
+    "title": "See You at Work Tomorrow!",
+    "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+    "release_date": "2026-06-22",
+    "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+    "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+    "vote_average": 8.801,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3010,7 +2976,7 @@
     "release_date": "2023-12-04",
     "poster_path": "/ah8TT3algh20oiQUWUgxbqX35bn.jpg",
     "backdrop_path": "/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
-    "vote_average": 7.85,
+    "vote_average": 7.8,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3254,23 +3220,6 @@
     "is_local": true
   },
   {
-    "id": "270431",
-    "title": "When I Meet the Moon",
-    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
-    "release_date": "2026-11-05",
-    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
-    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-    "vote_average": 8.5,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "223896",
     "title": "Spirit Fingers",
     "overview": "About an ordinary high school sophomore, Song Woo-yeon, who joins a drawing club called Spirit Fingers and paints the story of finding her own color, personality, and dream.",
@@ -3282,6 +3231,23 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "270431",
+    "title": "When I Meet the Moon",
+    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
+    "release_date": "2026-11-05",
+    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
+    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
+    "vote_average": 8.273,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
       18
     ],
     "video_url": "",
@@ -3451,7 +3417,7 @@
     "release_date": "2017-09-29",
     "poster_path": "/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
     "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
-    "vote_average": 7.585,
+    "vote_average": 7.583,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -3469,7 +3435,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.669,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3525,7 +3491,7 @@
     "release_date": "2023-06-17",
     "poster_path": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
     "backdrop_path": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "vote_average": 8.22,
+    "vote_average": 8.2,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3549,25 +3515,6 @@
     "genre_ids": [
       18,
       10751
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "293610",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "release_date": "2026-10-09",
-    "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdrop_path": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "vote_average": 8.674,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      9648,
-      18,
-      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3605,6 +3552,25 @@
       10765,
       10759,
       9648
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "293610",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "release_date": "2026-10-09",
+    "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop_path": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "vote_average": 8.6,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      9648,
+      18,
+      80
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3881,7 +3847,7 @@
     "release_date": "2024-11-22",
     "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
     "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "vote_average": 8.271,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3900,7 +3866,7 @@
     "release_date": "2024-09-21",
     "poster_path": "/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
     "backdrop_path": "/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
-    "vote_average": 8.577,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3972,24 +3938,6 @@
     "is_local": true
   },
   {
-    "id": "279246",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "release_date": "2026-11-03",
-    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "vote_average": 8.811,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "215720",
     "title": "Queen of Tears",
     "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
@@ -4002,6 +3950,24 @@
     "genre_ids": [
       18,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279246",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "release_date": "2026-11-03",
+    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "vote_average": 8.8,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4300,7 +4266,7 @@
     "release_date": "2025-08-23",
     "poster_path": "/exUXEOierAwZ597010TLQka9TFy.jpg",
     "backdrop_path": "/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
-    "vote_average": 8.605,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4391,7 +4357,7 @@
     "release_date": "2023-07-05",
     "poster_path": "/fCSMFp7vul2YjgPD7mSiIaldMsR.jpg",
     "backdrop_path": "/oQBv5KUDuceheaYL8nMmF7Dg3K8.jpg",
-    "vote_average": 8,
+    "vote_average": 7.919,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4499,7 +4465,7 @@
     "release_date": "2023-06-13",
     "poster_path": "/rKYfqAH0GeXaEet5NdTTs16cjvw.jpg",
     "backdrop_path": "/3nWfjIBUyYUCABI7Fsl1AhNhDAr.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.833,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4641,7 +4607,7 @@
     "release_date": "2024-04-08",
     "poster_path": "/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
     "backdrop_path": "/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-    "vote_average": 8.595,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4678,7 +4644,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.288,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4786,7 +4752,7 @@
     "release_date": "1999-10-20",
     "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "vote_average": 8.755,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4932,7 +4898,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 8.988,
+    "vote_average": 8.985,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -4997,6 +4963,40 @@
       35,
       27,
       10749
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": 308007,
+    "title": "The Altruists",
+    "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+    "vote_average": 6.444,
+    "release_date": "2026-11-19",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "original_language": "en",
+    "media_type": "tv",
+    "is_local": false,
+    "video_url": "",
+    "subtitle_file": null
+  },
+  {
+    "id": "290342",
+    "title": "The Love Never Sets",
+    "overview": "After surviving trauma and leaving school, Ice returns to confront his past—only to be cast in an intimate film with the boy he never forgave.",
+    "release_date": "2025-10-14",
+    "poster_path": "/6VhRK8tPqqKmGEJ2l3SUtZJ2RHc.jpg",
+    "backdrop_path": "/mjpcyWcCAJC3O0g5le8LPNO0uu2.jpg",
+    "vote_average": 6.909,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
