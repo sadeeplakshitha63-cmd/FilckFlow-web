@@ -777,7 +777,7 @@
     "release_date": "2021-07-26",
     "poster_path": "/oL1FhXHsDs7yFPEnlooY9fGgaNA.jpg",
     "backdrop_path": "/vuzbhOIQ1Y2wCB0HmhD2Hq5VxkE.jpg",
-    "vote_average": 8.236,
+    "vote_average": 8.26,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1143,24 +1143,6 @@
     "is_local": true
   },
   {
-    "id": "224030",
-    "title": "High School Return of a Gangster",
-    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
-    "release_date": "2024-05-29",
-    "poster_path": "/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
-    "backdrop_path": "/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
-    "vote_average": 8.512,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "68349",
     "title": "Weightlifting Fairy Kim Bok-joo",
     "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
@@ -1172,6 +1154,24 @@
     "original_language": "ko",
     "genre_ids": [
       35,
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "224030",
+    "title": "High School Return of a Gangster",
+    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
+    "release_date": "2024-05-29",
+    "poster_path": "/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
+    "backdrop_path": "/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
+    "vote_average": 8.512,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      10765,
       18
     ],
     "video_url": "",
@@ -1721,7 +1721,7 @@
     "release_date": "2026-03-28",
     "poster_path": "/ygnrFg8oXpFFVDnb2u0xkWfxjbC.jpg",
     "backdrop_path": "/ksu5B9WGNi6fE2Vqb4RmIG5KzHH.jpg",
-    "vote_average": 7.9,
+    "vote_average": 8.067,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -2593,6 +2593,23 @@
     "is_local": true
   },
   {
+    "id": "253193",
+    "title": "A Dream Within a Dream",
+    "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
+    "release_date": "2025-06-26",
+    "poster_path": "/iGPTJ9RS5hnVhH3hs53x8qieBRV.jpg",
+    "backdrop_path": "/9yc7Vv85J8Bqp9rZhJ7W966oi8L.jpg",
+    "vote_average": 7.848,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
     "id": "262932",
     "title": "Generation to Generation",
     "overview": "In the volatile world of martial arts, the cunning young master Mu Qingyan meets the easygoing heroine Cai Zhao, sparking an intense and complex romance. Together, they confront hidden truths and rivalries within the martial world, navigating twists, betrayals, and strategic battles. Their journey paints a vibrant portrait of loyalty, love, and the fierce spirit of heroism.",
@@ -2606,23 +2623,6 @@
       18,
       10759,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "253193",
-    "title": "A Dream Within a Dream",
-    "overview": "When Song Xiaoyu is unexpectedly pulled into a scripted world as a tragic heroine fated to be discarded by the villainous male lead, she tries to escape, only to be trapped in an endless loop of fatal outcomes each time she strays from the plot. No matter how hard she resists, the story keeps pushing her toward Nan Heng, the cold and calculating lead. As she navigates this paper-thin world where every character is bound by fate, Song Xiaoyu must fight not just for her survival, but for control over her own story.",
-    "release_date": "2025-06-26",
-    "poster_path": "/iGPTJ9RS5hnVhH3hs53x8qieBRV.jpg",
-    "backdrop_path": "/9yc7Vv85J8Bqp9rZhJ7W966oi8L.jpg",
-    "vote_average": 7.848,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -3030,7 +3030,7 @@
     "release_date": "2025-02-01",
     "poster_path": "/sLJ7z9IT0nLXJbuszYbZ4uy8AOO.jpg",
     "backdrop_path": "/hb3azgm5IrLHb7vr9YHs5GqN1Vl.jpg",
-    "vote_average": 8.833,
+    "vote_average": 8.8,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -3104,7 +3104,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.417,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4000,7 +4000,7 @@
     "release_date": "2026-11-03",
     "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "vote_average": 8.683,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4142,7 +4142,7 @@
     "release_date": "2025-03-07",
     "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.806,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4609,7 +4609,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.685,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4880,7 +4880,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 8.979,
+    "vote_average": 8.98,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -4938,7 +4938,7 @@
     "release_date": "2026-08-06",
     "poster_path": "/jcGvB76v8p1sqYXXkBetWASV0uM.jpg",
     "backdrop_path": "/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
-    "vote_average": 6.093,
+    "vote_average": 6.096,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
