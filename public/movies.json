@@ -148,8 +148,8 @@
     "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
     "release_date": "2002-10-03",
     "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
-    "backdrop_path": "/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-    "vote_average": 8.36,
+    "backdrop_path": "/mpsYIytXhDXjI9yYC1Fp1S3PxsS.jpg",
+    "vote_average": 8.4,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -1700,7 +1700,7 @@
     "release_date": "2016-12-02",
     "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
     "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "vote_average": 8.618,
+    "vote_average": 8.6,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2096,24 +2096,6 @@
     "is_local": true
   },
   {
-    "id": "65143",
-    "title": "Descendants of the Sun",
-    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
-    "release_date": "2016-02-24",
-    "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
-    "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "vote_average": 8.315,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10759
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "457832",
     "title": "Reset",
     "overview": "In 2025, a scientist on the verge of making a major discovery related to time travel is suddenly put in peril when a rival kidnaps her young son and demands a hefty ransom: her entire research.",
@@ -2126,6 +2108,24 @@
     "genre_ids": [
       28,
       878
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "65143",
+    "title": "Descendants of the Sun",
+    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+    "release_date": "2016-02-24",
+    "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+    "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
+    "vote_average": 8.315,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10759
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -2902,7 +2902,7 @@
     "release_date": "2026-06-22",
     "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
     "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-    "vote_average": 8.794,
+    "vote_average": 8.786,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3084,7 +3084,7 @@
     "release_date": "2025-11-05",
     "poster_path": "/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
     "backdrop_path": "/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.437,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3362,7 +3362,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.664,
+    "vote_average": 8.665,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3578,7 +3578,7 @@
     "release_date": "2026-10-09",
     "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
     "backdrop_path": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "vote_average": 8.519,
+    "vote_average": 8.525,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -3633,7 +3633,7 @@
     "release_date": "2022-11-18",
     "poster_path": "/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg",
     "backdrop_path": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.68,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4051,7 +4051,7 @@
     "release_date": "2025-02-10",
     "poster_path": "/qBQl7x6qSqeuYdgq7rkctm1L4gW.jpg",
     "backdrop_path": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
-    "vote_average": 8.72,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4074,24 +4074,6 @@
     "original_language": "en",
     "genre_ids": [
       99
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "279246",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "release_date": "2026-11-03",
-    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "vote_average": 8.672,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      18,
-      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4163,6 +4145,24 @@
     "original_language": "tl",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "279246",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "release_date": "2026-11-03",
+    "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "vote_average": 8.7,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      18,
+      10765
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4302,7 +4302,7 @@
     "release_date": "2025-08-06",
     "poster_path": "/r1EMXYnqFDk9tzkkoxFwFjxCEvC.jpg",
     "backdrop_path": "/mwiG510fVcOrzWUSDSV7B5tRMrb.jpg",
-    "vote_average": 8.256,
+    "vote_average": 8.217,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4696,7 +4696,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.9,
+    "vote_average": 8.927,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4915,7 +4915,7 @@
     "title": "The Hunger Games: Sunrise on the Reaping",
     "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "release_date": "2026-11-18",
-    "poster_path": "/bfj5ImMlV9BvISWfLu7sHbdDXS.jpg",
+    "poster_path": "/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
     "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "vote_average": 7.8,
     "media_type": "movie",
