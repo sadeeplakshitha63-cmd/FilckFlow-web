@@ -220,7 +220,7 @@
     "release_date": "2013-04-07",
     "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
     "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.69,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -564,7 +564,7 @@
     "release_date": "2025-07-26",
     "poster_path": "/jstn8gZWCd5jcxosC2lnZ5nebcu.jpg",
     "backdrop_path": "/oi7QPnDzNlITQethm9VagdSYC9R.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.909,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -648,23 +648,6 @@
     "is_local": true
   },
   {
-    "id": "305105",
-    "title": "Peach Lover",
-    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
-    "release_date": "2026-01-20",
-    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
-    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
-    "vote_average": 7.042,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "257010",
     "title": "The Princess's Gambit",
     "overview": "In a world divided into three kingdoms, Princess Jiang Taohua of Zhao escapes Empress Lv's control through a marriage alliance in Wei, a kingdom fraught with political intrigue. An unexpected encounter with Chancellor Shen Zaiye draws her into his world, where their complex relationship unfolds as they navigate personal ambitions and the turbulence of court politics.",
@@ -692,6 +675,23 @@
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "305105",
+    "title": "Peach Lover",
+    "overview": "A dedicated fan wins the chance to co-star with his favorite adult content creator, only for their work to turn into a real relationship.",
+    "release_date": "2026-01-20",
+    "poster_path": "/9Oz2MUYYp0iTRlpTKgQCovA7cGp.jpg",
+    "backdrop_path": "/qF8p3X7uIDjrzteXzyDBvKajEJ0.jpg",
+    "vote_average": 7.042,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18
+    ],
     "video_url": "",
     "subtitle_file": null,
     "is_local": true
@@ -812,11 +812,29 @@
     "release_date": "2024-10-23",
     "poster_path": "/6MeNDoSU3NNSn3mwsflaRG2Z7cW.jpg",
     "backdrop_path": "/nqsLn20V85UnFChnCUb5Ehz0UnT.jpg",
-    "vote_average": 8.72,
+    "vote_average": 8.7,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
       18
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "239386",
+    "title": "Kiseki Miracle Season",
+    "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
+    "release_date": "2024-03-18",
+    "poster_path": "/wc9ulWm12VD2cPZTfJfzyr3Diyr.jpg",
+    "backdrop_path": "/dXyM1wIp5UCpTRBpbanl6OaRkxu.jpg",
+    "vote_average": 8,
+    "media_type": "tv",
+    "original_language": "th",
+    "genre_ids": [
+      18,
+      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -836,24 +854,6 @@
       10759,
       18,
       9648
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "239386",
-    "title": "Kiseki Miracle Season",
-    "overview": "When four boys meet on a Tokyo trip, their lives quietly intertwine—leading to love, growth, and a winter that might bring them back together.",
-    "release_date": "2024-03-18",
-    "poster_path": "/wc9ulWm12VD2cPZTfJfzyr3Diyr.jpg",
-    "backdrop_path": "/dXyM1wIp5UCpTRBpbanl6OaRkxu.jpg",
-    "vote_average": 8,
-    "media_type": "tv",
-    "original_language": "th",
-    "genre_ids": [
-      18,
-      35
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1112,7 +1112,7 @@
     "release_date": "2024-11-01",
     "poster_path": "/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
     "backdrop_path": "/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.263,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -1134,24 +1134,6 @@
     "original_language": "ko",
     "genre_ids": [
       10765,
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
-    "id": "68349",
-    "title": "Weightlifting Fairy Kim Bok-joo",
-    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
-    "release_date": "2016-11-16",
-    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
-    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
-    "vote_average": 8.501,
-    "media_type": "tv",
-    "original_language": "ko",
-    "genre_ids": [
-      35,
       18
     ],
     "video_url": "",
@@ -1191,6 +1173,24 @@
       10765,
       9648,
       35
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "68349",
+    "title": "Weightlifting Fairy Kim Bok-joo",
+    "overview": "A competitive swimmer crosses paths with his childhood friend, a rising weight lifting star, and realizes that she has a secret crush on his cousin.",
+    "release_date": "2016-11-16",
+    "poster_path": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
+    "backdrop_path": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
+    "vote_average": 8.501,
+    "media_type": "tv",
+    "original_language": "ko",
+    "genre_ids": [
+      35,
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -1847,7 +1847,7 @@
     "release_date": "2022-06-29",
     "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
     "backdrop_path": "/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
-    "vote_average": 8.49,
+    "vote_average": 8.491,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2120,7 +2120,7 @@
     "release_date": "2016-02-24",
     "poster_path": "/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
     "backdrop_path": "/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "vote_average": 8.315,
+    "vote_average": 8.317,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -2416,7 +2416,7 @@
     "release_date": "2007-02-15",
     "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
     "backdrop_path": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-    "vote_average": 8.528,
+    "vote_average": 8.5,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3362,7 +3362,7 @@
     "release_date": "2023-10-22",
     "poster_path": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
     "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "vote_average": 8.665,
+    "vote_average": 8.667,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -3381,7 +3381,7 @@
     "release_date": "2017-09-29",
     "poster_path": "/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
     "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
-    "vote_average": 7.584,
+    "vote_average": 7.583,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -3412,23 +3412,6 @@
     "is_local": true
   },
   {
-    "id": "270431",
-    "title": "When I Meet the Moon",
-    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
-    "release_date": "2026-11-05",
-    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
-    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-    "vote_average": 8.273,
-    "media_type": "tv",
-    "original_language": "zh",
-    "genre_ids": [
-      18
-    ],
-    "video_url": "",
-    "subtitle_file": null,
-    "is_local": true
-  },
-  {
     "id": "293391",
     "title": "To My Shore",
     "overview": "After a car accident, a ruthless Thai heir and a reserved company executive become trapped in a dangerous game of desire that spirals into obsession.",
@@ -3441,6 +3424,23 @@
     "genre_ids": [
       18,
       80
+    ],
+    "video_url": "",
+    "subtitle_file": null,
+    "is_local": true
+  },
+  {
+    "id": "270431",
+    "title": "When I Meet the Moon",
+    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
+    "release_date": "2026-11-05",
+    "poster_path": "/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
+    "backdrop_path": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
+    "vote_average": 8.273,
+    "media_type": "tv",
+    "original_language": "zh",
+    "genre_ids": [
+      18
     ],
     "video_url": "",
     "subtitle_file": null,
@@ -4051,7 +4051,7 @@
     "release_date": "2025-02-10",
     "poster_path": "/qBQl7x6qSqeuYdgq7rkctm1L4gW.jpg",
     "backdrop_path": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.709,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4157,7 +4157,7 @@
     "release_date": "2025-05-13",
     "poster_path": "/mXbZ5aH4uhao6Dpd884USvATMfo.jpg",
     "backdrop_path": "/hew9LSQW4wk63aN1Z7cEBTISL9B.jpg",
-    "vote_average": 8.822,
+    "vote_average": 8.842,
     "media_type": "tv",
     "original_language": "zh",
     "genre_ids": [
@@ -4210,7 +4210,7 @@
     "release_date": "2026-11-03",
     "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.702,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4246,7 +4246,7 @@
     "release_date": "2022-04-02",
     "poster_path": "/hdPLe50HbZHsETXQRcIP8gw7cKz.jpg",
     "backdrop_path": "/wTgDY1izbDCbdgsNS1ujLk7lepG.jpg",
-    "vote_average": 8.76,
+    "vote_average": 8.766,
     "media_type": "tv",
     "original_language": "th",
     "genre_ids": [
@@ -4589,7 +4589,7 @@
     "release_date": "2025-11-28",
     "poster_path": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop_path": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.691,
     "media_type": "tv",
     "original_language": "en",
     "genre_ids": [
@@ -4606,7 +4606,7 @@
     "release_date": "2020-12-09",
     "poster_path": "/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
     "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "vote_average": 8.287,
+    "vote_average": 8.3,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4696,7 +4696,7 @@
     "release_date": "2026-04-10",
     "poster_path": "/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
     "backdrop_path": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "vote_average": 8.927,
+    "vote_average": 8.9,
     "media_type": "tv",
     "original_language": "ko",
     "genre_ids": [
@@ -4714,7 +4714,7 @@
     "release_date": "1999-10-20",
     "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.756,
     "media_type": "tv",
     "original_language": "ja",
     "genre_ids": [
@@ -4840,7 +4840,7 @@
     "release_date": "2026-07-24",
     "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "vote_average": 8.971,
+    "vote_average": 9,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -4860,7 +4860,7 @@
     "release_date": "2025-07-18",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.799,
     "media_type": "movie",
     "original_language": "ja",
     "genre_ids": [
@@ -4917,7 +4917,7 @@
     "release_date": "2026-11-18",
     "poster_path": "/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
     "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "vote_average": 7.786,
+    "vote_average": 7.802,
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
